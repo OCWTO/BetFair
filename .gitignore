@@ -1,0 +1,12 @@
+*.class
+
+#Mobile tooks for Java (J2ME)
+.mtj.tmp/
+
+#Package Files#
+#*.jar      jar kept for now since library .jars being tracked for now
+*.war
+*.ear
+
+#Virtual machine crash logs
+hs_err_pid*

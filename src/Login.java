@@ -183,7 +183,7 @@ public class Login
         params.put("filter", filter);
         params.put("locale", Locale.getDefault().toString());
         
-        String result = makeRequest("listEventTypes", params, appKey, ssoId);
+        String result = makeRequest(ApingOperation.LISTEVENTTYPES.getOperationName(), params, appKey, ssoId);
         System.out.println("\nResponse: "+result);
 
         EventTypeResultContainer container = JsonConverter.convertFromJson(result, EventTypeResultContainer.class);
