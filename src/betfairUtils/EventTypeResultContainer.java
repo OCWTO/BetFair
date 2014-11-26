@@ -1,3 +1,4 @@
+package betfairUtils;
 import java.util.List;
 
 public class EventTypeResultContainer extends Container{

@@ -1,3 +1,4 @@
+package model;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
@@ -12,6 +13,14 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
+import betfairUtils.ApingOperation;
+import betfairUtils.EventTypeResult;
+import betfairUtils.EventTypeResultContainer;
+import betfairUtils.HttpUtil;
+import betfairUtils.JsonConverter;
+import betfairUtils.JsonrpcRequest;
+import betfairUtils.LoginResponse;
+import betfairUtils.MarketFilter;
 
 import com.google.gson.Gson;
 
@@ -30,34 +39,46 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-public class Login
+public class Core
 {
-	private static final String username = "0ocwto0";				//prompt?
-	private static final String password = "@Cracker93";			//prompt?
+	//private static final String username = "0ocwto0";				//prompt?
+	//private static final String password = "@Cracker93";			//prompt?
 	private static final String filePassword = "cracker";			//prompt?
 	private static final String liveKey = "ztgZ1aJPu2lvvW6a";		//hard code req
 	private static final String delayedKey = "scQ6H11vdb6C4s7t";	//hard code req
 	private static int	port	= 443;	//??? whatever
-	
+	private String dirPrefix;
 	//Special method for login (ssl connection and encrypted password sent)
 	//So special method for a request too
 	
 	//Then separate methods for calls and dealing with filters
 	
 	//Look at enums
-	public void makeLoginRequest()
+	
+	public Core()
 	{
-		
+		dirPrefix = System.getProperty("user.dir");
 	}
+	
 	
 	private String makeRequest()
 	{
+		//make request string
+		//make request object
+		//populate request object
+		//make string the json of the object
+		//call 
+		//HttpUtil requester = new HttpUtil();
+        //return requester.sendPostRequestJsonRpc(requestString, operation, appKey, ssoToken);
 		return null;
 	}
 	
 
-	public void doStuff() throws Exception
+	public void login(String username, String password) throws Exception
 	{
+		//will call the 2nd makerequest method
+		//like listeventtypes does
+		
 		//Client important since it will do requests for us?
 		DefaultHttpClient httpClient = new DefaultHttpClient();
 		Gson gson = new Gson();
@@ -66,7 +87,9 @@ public class Login
 		{
 			//SSL stuff
 			SSLContext ctx = SSLContext.getInstance("TLS");
-			KeyManager[] keyManagers = getKeyManagers("pkcs12",new FileInputStream(new File("C:\\Users\\Craig\\Desktop\\eclipse_workspace\\Project\\certs\\client-2048.p12")), filePassword);
+			//KeyManager[] keyManagers = getKeyManagers("pkcs12",new FileInputStream(new File(dirPrefix + "\\certs\\client-2048.p12")), filePassword);
+			KeyManager[] keyManagers = getKeyManagers("pkcs12",new FileInputStream(new File(dirPrefix + "/certs/client-2048.p12")), filePassword);
+			
 			ctx.init(keyManagers, null, new SecureRandom());
 			SSLSocketFactory factory = new SSLSocketFactory(ctx,new StrictHostnameVerifier());
 			ClientConnectionManager manager = httpClient.getConnectionManager();
@@ -156,11 +179,6 @@ public class Login
 			httpClient.getConnectionManager().shutdown();
 		}
 	}
-	public static void main(String[] args) throws Exception
-	{
-		Login t = new Login();
-		t.doStuff();
-	}
 	
 	protected String makeRequest(String operation, Map<String, Object> params, String appKey, String ssoToken) {
         String requestString;
@@ -194,7 +212,7 @@ public class Login
     }
 	
 
-	private static KeyManager[] getKeyManagers(String keyStoreType,
+	private KeyManager[] getKeyManagers(String keyStoreType,
 			InputStream keyStoreFile, String keyStorePassword) throws Exception
 	{
 		KeyStore keyStore = KeyStore.getInstance(keyStoreType);

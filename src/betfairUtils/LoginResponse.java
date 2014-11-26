@@ -1,3 +1,4 @@
+package betfairUtils;
 
 public class LoginResponse
 {

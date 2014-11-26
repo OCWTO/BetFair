@@ -1,3 +1,4 @@
+package betfairUtils;
 public enum ApingOperation {
 	LISTEVENTTYPES("listEventTypes"), 
 	LISTCOMPETITIONS("listCompetitions"),
