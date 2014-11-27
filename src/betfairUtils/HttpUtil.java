@@ -68,4 +68,19 @@ public class HttpUtil {
 
     }
 
+	public String sendSecurePostRequestJsonRpc(String param,
+			String appKey) 
+	{
+		String apiNgURL = "https://identitysso.betfair.com/api/certlogin";
+
+        return sendPostRequest(param, appKey, apiNgURL, new JsonResponseHandler());
+	}
+
+	private String sendPostRequest(String param, String appKey,
+			String apiNgURL, JsonResponseHandler jsonResponseHandler) 
+	{
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
