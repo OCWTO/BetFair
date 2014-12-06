@@ -1,0 +1,209 @@
+Login attempt reply:
+STATUS: SUCCESS
+TOKEN: wmrkQKAPULbQBzoGvF+2G6nVnYlC66oQIKNLfSkDnuo=
+{
+   "jsonrpc": "2.0", 
+   "result": [
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-08T01:30:00.000Z", 
+            "id": "27312225", 
+            "countryCode": "US", 
+            "name": "New England @ San Diego"
+         }, 
+         "marketCount": 46
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T21:25:00.000Z", 
+            "id": "27312224", 
+            "countryCode": "US", 
+            "name": "San Francisco @ Oakland"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-12-07T03:00:00.000Z", 
+            "id": "27318040", 
+            "countryCode": "US", 
+            "name": "Fresno State @ Boise State"
+         }, 
+         "marketCount": 1
+      }, 
+      {
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-12-07T01:00:00.000Z", 
+            "id": "27318037", 
+            "countryCode": "US", 
+            "name": "Florida State v Georgia Tech"
+         }, 
+         "marketCount": 2
+      }, 
+      {
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-12-07T00:45:00.000Z", 
+            "id": "27318036", 
+            "countryCode": "US", 
+            "name": "Kansas State @ Baylor"
+         }, 
+         "marketCount": 1
+      }, 
+      {
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-12-07T01:17:00.000Z", 
+            "id": "27318038", 
+            "countryCode": "US", 
+            "name": "Wisconsin v Ohio State"
+         }, 
+         "marketCount": 2
+      }, 
+      {
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-12-06T21:00:00.000Z", 
+            "id": "27318035", 
+            "countryCode": "US", 
+            "name": "Alabama v Missouri"
+         }, 
+         "marketCount": 3
+      }, 
+      {
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-12-06T20:30:00.000Z", 
+            "id": "27318034", 
+            "countryCode": "US", 
+            "name": "Oklahoma State @ Oklahoma"
+         }, 
+         "marketCount": 3
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312214", 
+            "countryCode": "US", 
+            "name": "New York Jets @ Minnesota"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312212", 
+            "countryCode": "US", 
+            "name": "New York Giants @ Tennessee"
+         }, 
+         "marketCount": 12
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312213", 
+            "countryCode": "US", 
+            "name": "Carolina @ New Orleans"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312208", 
+            "countryCode": "US", 
+            "name": "Pittsburgh @ Cincinnati"
+         }, 
+         "marketCount": 12
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312209", 
+            "countryCode": "US", 
+            "name": "St Louis @ Washington"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T21:05:00.000Z", 
+            "id": "27312222", 
+            "countryCode": "US", 
+            "name": "Kansas City @ Arizona"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T21:25:00.000Z", 
+            "id": "27312223", 
+            "countryCode": "US", 
+            "name": "Seattle @ Philadelphia"
+         }, 
+         "marketCount": 40
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312220", 
+            "countryCode": "US", 
+            "name": "Houston @ Jacksonville"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T21:05:00.000Z", 
+            "id": "27312221", 
+            "countryCode": "US", 
+            "name": "Buffalo @ Denver"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312218", 
+            "countryCode": "US", 
+            "name": "Tampa Bay @ Detroit"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312216", 
+            "countryCode": "US", 
+            "name": "Baltimore @ Miami"
+         }, 
+         "marketCount": 13
+      }, 
+      {
+         "event": {
+            "timezone": "US/Eastern", 
+            "openDate": "2014-12-07T18:00:00.000Z", 
+            "id": "27312217", 
+            "countryCode": "US", 
+            "name": "Indianapolis @ Cleveland"
+         }, 
+         "marketCount": 45
+      }
+   ], 
+   "id": 1
+}

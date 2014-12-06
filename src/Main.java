@@ -9,6 +9,7 @@ public class Main
 		try
 		{
 			betFair.login(args[0], args[1]);
+			betFair.getMarketCatalogue();
 		} catch (Exception e)
 		{
 			e.printStackTrace();
