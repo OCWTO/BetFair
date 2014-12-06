@@ -2,14 +2,14 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/commons-logging-1.1.3.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/fluent-hc-4.3.6.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/gson-2.3.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/gson-2.3-javadoc.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/httpclient-4.3.6.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/httpclient-cache-4.3.6.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/httpcore-4.3.3.jar"/>
-	<classpathentry kind="lib" path="/home/craig/Documents/workspace/eclipse/BetFair/libs/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/fluent-hc-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/gson-2.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/httpclient-cache-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/workspace/eclipse_workspace/BetFair/libs/httpmime-4.3.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

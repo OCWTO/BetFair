@@ -1,0 +1,134 @@
+Login attempt reply:
+STATUS: SUCCESS
+TOKEN: PZKgErYBdPLZA0wQwigaLkU089nx8dmNeb6yqTZStwg=
+--------------------------------
+{
+   "jsonrpc": "2.0", 
+   "result": [
+      {
+         "marketStartTime": "2014-11-29T20:30:00.000Z", 
+         "eventType": {
+            "id": "6423", 
+            "name": "American Football"
+         }, 
+         "competition": {
+            "id": "5448874", 
+            "name": "NCAAF 2014/15"
+         }, 
+         "marketId": "1.116507032", 
+         "totalMatched": 18839.01, 
+         "marketName": "Moneyline", 
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-11-29T20:30:00.000Z", 
+            "id": "27312857", 
+            "countryCode": "US", 
+            "name": "Florida @ Florida State"
+         }, 
+         "runners": [
+            {
+               "handicap": 0.0, 
+               "runnerName": "Florida", 
+               "selectionId": 484733, 
+               "sortPriority": 1, 
+               "metadata": {
+                  "runnerId": "484733"
+               }
+            }, 
+            {
+               "handicap": 0.0, 
+               "runnerName": "Florida State", 
+               "selectionId": 484734, 
+               "sortPriority": 2, 
+               "metadata": {
+                  "runnerId": "484734"
+               }
+            }
+         ]
+      }, 
+      {
+         "marketStartTime": "2014-11-29T20:30:00.000Z", 
+         "eventType": {
+            "id": "6423", 
+            "name": "American Football"
+         }, 
+         "competition": {
+            "id": "5448874", 
+            "name": "NCAAF 2014/15"
+         }, 
+         "marketId": "1.116507033", 
+         "totalMatched": 1957.0, 
+         "marketName": "Florida +7.5pts", 
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-11-29T20:30:00.000Z", 
+            "id": "27312857", 
+            "countryCode": "US", 
+            "name": "Florida @ Florida State"
+         }, 
+         "runners": [
+            {
+               "handicap": 0.0, 
+               "runnerName": "Florida +7.5pts", 
+               "selectionId": 9030193, 
+               "sortPriority": 1, 
+               "metadata": {
+                  "runnerId": "9030193"
+               }
+            }, 
+            {
+               "handicap": 0.0, 
+               "runnerName": "Florida State -7.5pts", 
+               "selectionId": 3478128, 
+               "sortPriority": 2, 
+               "metadata": {
+                  "runnerId": "3478128"
+               }
+            }
+         ]
+      }, 
+      {
+         "marketStartTime": "2014-11-29T20:30:00.000Z", 
+         "eventType": {
+            "id": "6423", 
+            "name": "American Football"
+         }, 
+         "competition": {
+            "id": "5448874", 
+            "name": "NCAAF 2014/15"
+         }, 
+         "marketId": "1.116507034", 
+         "totalMatched": 1080.52, 
+         "marketName": "Under/Over 51.5pts", 
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-11-29T20:30:00.000Z", 
+            "id": "27312857", 
+            "countryCode": "US", 
+            "name": "Florida @ Florida State"
+         }, 
+         "runners": [
+            {
+               "handicap": 0.0, 
+               "runnerName": "Under 51.5pts", 
+               "selectionId": 253969, 
+               "sortPriority": 1, 
+               "metadata": {
+                  "runnerId": "253969"
+               }
+            }, 
+            {
+               "handicap": 0.0, 
+               "runnerName": "Over 51.5pts", 
+               "selectionId": 253970, 
+               "sortPriority": 2, 
+               "metadata": {
+                  "runnerId": "253970"
+               }
+            }
+         ]
+      }
+   ], 
+   "id": 1
+}
+--------------------------------

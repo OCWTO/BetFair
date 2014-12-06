@@ -1,0 +1,132 @@
+Login attempt reply:
+STATUS: SUCCESS
+TOKEN: /GMLI1GiP6LsbJfIgyTh33WIQJiES7AOVpZTfWAZBPU=
+{
+   "jsonrpc": "2.0", 
+   "result": [
+      {
+         "marketStartTime": "2014-11-29T17:00:00.000Z", 
+         "eventType": {
+            "id": "6423", 
+            "name": "American Football"
+         }, 
+         "competition": {
+            "id": "5448874", 
+            "name": "NCAAF 2014/15"
+         }, 
+         "marketId": "1.116507054", 
+         "totalMatched": 819.09, 
+         "marketName": "Georgia Tech +12.5pts", 
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-11-29T17:00:00.000Z", 
+            "id": "27312864", 
+            "countryCode": "US", 
+            "name": "Georgia Tech @ Georgia"
+         }, 
+         "runners": [
+            {
+               "handicap": 0.0, 
+               "runnerName": "Georgia Tech +12.5pts", 
+               "selectionId": 6853524, 
+               "sortPriority": 1, 
+               "metadata": {
+                  "runnerId": "6853524"
+               }
+            }, 
+            {
+               "handicap": 0.0, 
+               "runnerName": "Georgia -12.5pts", 
+               "selectionId": 5941612, 
+               "sortPriority": 2, 
+               "metadata": {
+                  "runnerId": "5941612"
+               }
+            }
+         ]
+      }, 
+      {
+         "marketStartTime": "2014-11-29T17:00:00.000Z", 
+         "eventType": {
+            "id": "6423", 
+            "name": "American Football"
+         }, 
+         "competition": {
+            "id": "5448874", 
+            "name": "NCAAF 2014/15"
+         }, 
+         "marketId": "1.116507055", 
+         "totalMatched": 1403.79, 
+         "marketName": "Under/Over 65.5pts", 
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-11-29T17:00:00.000Z", 
+            "id": "27312864", 
+            "countryCode": "US", 
+            "name": "Georgia Tech @ Georgia"
+         }, 
+         "runners": [
+            {
+               "handicap": 0.0, 
+               "runnerName": "Under 65.5pts", 
+               "selectionId": 284552, 
+               "sortPriority": 1, 
+               "metadata": {
+                  "runnerId": "284552"
+               }
+            }, 
+            {
+               "handicap": 0.0, 
+               "runnerName": "Over 65.5pts", 
+               "selectionId": 284551, 
+               "sortPriority": 2, 
+               "metadata": {
+                  "runnerId": "284551"
+               }
+            }
+         ]
+      }, 
+      {
+         "marketStartTime": "2014-11-29T17:00:00.000Z", 
+         "eventType": {
+            "id": "6423", 
+            "name": "American Football"
+         }, 
+         "competition": {
+            "id": "5448874", 
+            "name": "NCAAF 2014/15"
+         }, 
+         "marketId": "1.116507053", 
+         "totalMatched": 7449.17, 
+         "marketName": "Moneyline", 
+         "event": {
+            "timezone": "America/Indiana/Indianapolis", 
+            "openDate": "2014-11-29T17:00:00.000Z", 
+            "id": "27312864", 
+            "countryCode": "US", 
+            "name": "Georgia Tech @ Georgia"
+         }, 
+         "runners": [
+            {
+               "handicap": 0.0, 
+               "runnerName": "Georgia Tech", 
+               "selectionId": 588240, 
+               "sortPriority": 1, 
+               "metadata": {
+                  "runnerId": "588240"
+               }
+            }, 
+            {
+               "handicap": 0.0, 
+               "runnerName": "Georgia", 
+               "selectionId": 484730, 
+               "sortPriority": 2, 
+               "metadata": {
+                  "runnerId": "484730"
+               }
+            }
+         ]
+      }
+   ], 
+   "id": 1
+}
