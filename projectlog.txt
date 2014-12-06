@@ -1,0 +1,13 @@
+
+
+6/1/14:
+	Worked on the Python and Java files. I've looked more into the documentation and I know the methods I need to call to the API
+	for exactly what I want. Event list to get all games and then marketbook for an event list id that interests me. I'm starting
+	to think about the UI so I know that there's some code thats' unnecessary right now but will be needed in the end for users to 
+	pick events they want to monitor. I've found an error on the betfair api pages which caused my python code to get prices for bets
+	to not work for almost a week now. It gave the wrong URL to post to which is incredibly annoying... I implemented some Java to get
+	event information but it wasn't the correct method, it listed markets like Manchester to win but it wasn't for a particular game. It
+	listed all markets like that for all games in my time period but didn't mention the actual game like Manchester Vs Liverpool. It would
+	list manchester and liverpool markets and then other game markets without mentioning anything. Huge message today but I did spend quite
+	some time today and I've forgotten about my log for a while now. Plan is to fix java code tomorrow and look into prices. I've got some 
+	questions regarding the price results and the poster day to ask Richard on Monday.
