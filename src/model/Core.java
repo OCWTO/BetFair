@@ -46,6 +46,7 @@ import betfairUtils.MarketFilter;
 import betfairUtils.MarketProjection;
 import betfairUtils.MarketSort;
 import betfairUtils.OrderProjection;
+import betfairUtils.PriceData;
 import betfairUtils.PriceProjection;
 import betfairUtils.TimeRange;
 
@@ -188,6 +189,31 @@ public class Core
 		HttpUtil requester = new HttpUtil();
 		return requester.sendPostRequestJsonRpc(requestString, operation,
 				appKey, sessionToken);
+	}
+
+	public void listMarketBook()
+	{
+		System.out
+				.println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
+		String marketIdChosen = marketCatalogueResult.get(0).getMarketId();
+
+		PriceProjection priceProjection = new PriceProjection();
+		Set<PriceData> priceData = new HashSet<PriceData>();
+		priceData.add(PriceData.EX_BEST_OFFERS);
+		priceProjection.setPriceData(priceData);
+
+		// In this case we don't need these objects so they are declared null
+		OrderProjection orderProjection = null;
+		MatchProjection matchProjection = null;
+		String currencyCode = null;
+
+		List<String> marketIds = new ArrayList<String>();
+		marketIds.add(marketIdChosen);
+
+		List<MarketBook> marketBookReturn = jsonOperations.listMarketBook(
+				marketIds, priceProjection, orderProjection, matchProjection,
+				currencyCode, applicationKey, sessionToken);
+
 	}
 
 	public List<MarketBook> listMarketBook(List<String> marketIds,
