@@ -191,28 +191,93 @@ public class Core
 				appKey, sessionToken);
 	}
 
-	public void listMarketBook()
+	public void getMarketBook() throws Exception
 	{
-		System.out
-				.println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
-		String marketIdChosen = marketCatalogueResult.get(0).getMarketId();
+		// 1.116584263
 
-		PriceProjection priceProjection = new PriceProjection();
-		Set<PriceData> priceData = new HashSet<PriceData>();
-		priceData.add(PriceData.EX_BEST_OFFERS);
-		priceProjection.setPriceData(priceData);
+		ApingOperation jsonOperations;
+		Set<String> eventCode = new HashSet<String>();
+		eventCode.add(Integer.toString(6423));
 
-		// In this case we don't need these objects so they are declared null
-		OrderProjection orderProjection = null;
-		MatchProjection matchProjection = null;
-		String currencyCode = null;
+		TimeRange time = new TimeRange();
+		time.setFrom(new Date());
+		Date t = new Date();
+		t.setDate(31);
+		time.setTo(t);
+		// time.setTo((Date) (new Date().setDate(10)));
+		Set<String> countries = new HashSet<String>();
+		// countries.add("GB");
+
+		Set<String> typesCode = new HashSet<String>();
+		// typesCode.add("WIN");
+
+		MarketFilter marketFilter = new MarketFilter();
+		// marketFilter.setEventTypeIds(eventCode);
+		String temp = "1.116584263";
+		// marketFilter.setEventIds(temp);
+		// marketFilter.setMarketIds(temp);
+		// marketFilter.set
+		// marketFilter.set
+		// marketFilter.setMarketStartTime(time);
+		// marketFilter.setMarketCountries(countries);
+		// marketFilter.setMarketTypeCodes(typesCode);
+		// "COMPETITION","EVENT","EVENT_TYPE","RUNNER_DESCRIPTION","RUNNER_METADATA","MARKET_START_TIME"]},"id":
+		// 1}'
 
 		List<String> marketIds = new ArrayList<String>();
-		marketIds.add(marketIdChosen);
+		marketIds.add(temp);
 
-		List<MarketBook> marketBookReturn = jsonOperations.listMarketBook(
-				marketIds, priceProjection, orderProjection, matchProjection,
-				currencyCode, applicationKey, sessionToken);
+		PriceProjection priceProjection = new PriceProjection();
+		List<PriceProjection> projs = new ArrayList<PriceProjection>();
+
+		Set<PriceData> priceData = new HashSet<PriceData>();
+		priceData.add(PriceData.EX_BEST_OFFERS);
+
+		priceProjection.setPriceData(priceData);
+		// priceProjection.s
+		// Set<MarketProjection> marketProjection = new
+		// HashSet<MarketProjection>();
+		// List<MarketProjection> projs = new ArrayList<MarketProjection>();
+		// projs.add(MarketProjection.COMPETITION);
+		// // MarketProjection.
+		// projs.add(MarketProjection.EVENT);
+		// projs.add(MarketProjection.EVENT_TYPE);
+		// projs.add(MarketProjection.RUNNER_DESCRIPTION);
+		// projs.add(MarketProjection.RUNNER_METADATA);
+		// projs.add(MarketProjection.MARKET_START_TIME);
+		// marketProjection.add(MarketProjection.RUNNER_DESCRIPTION,
+		// MarketProjection.COMPETITION);
+		// marketProjection.addAll(projs);
+		// String maxResults = "1";
+
+		// jsonOperations
+		// .listMarketBook(marketIds, priceProjection,
+		// orderProjection, matchProjection, currencyCode,
+		// applicationKey, sessionToken);
+
+		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds,
+				priceProjection, null, null, null, liveKey, sessionToken);
+
+		// System.out
+		// .println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
+		// String marketIdChosen = marketCatalogueResult.get(0).getMarketId();
+		//
+		// PriceProjection priceProjection = new PriceProjection();
+		// Set<PriceData> priceData = new HashSet<PriceData>();
+		// priceData.add(PriceData.EX_BEST_OFFERS);
+		// priceProjection.setPriceData(priceData);
+		//
+		// // In this case we don't need these objects so they are declared null
+		// OrderProjection orderProjection = null;
+		// MatchProjection matchProjection = null;
+		// String currencyCode = null;
+		//
+		// List<String> marketIds = new ArrayList<String>();
+		// marketIds.add(marketIdChosen);
+		//
+		// List<MarketBook> marketBookReturn = jsonOperations.listMarketBook(
+		// marketIds, priceProjection, orderProjection, matchProjection,
+		// currencyCode, applicationKey, sessionToken);
 
 	}
 
@@ -247,7 +312,7 @@ public class Core
 
 	}
 
-	public void getMarketCatalogue() throws Exception
+	public void getEvents() throws Exception
 	{
 		ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
@@ -276,12 +341,98 @@ public class Core
 
 		String maxResults = "1";
 
-		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(
-				marketFilter, marketProjection, MarketSort.FIRST_TO_START,
-				maxResults, liveKey, sessionToken);
+		List<MarketCatalogue> marketCatalogueResult = listEvents(marketFilter,
+				marketProjection, MarketSort.FIRST_TO_START, maxResults,
+				liveKey, sessionToken);
 	}
 
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
+			Set<MarketProjection> marketProjection, MarketSort sort,
+			String maxResult, String maxResults, String appKey, String ssoId)
+			throws Exception
+	{
+		Map<String, Object> params = new HashMap<String, Object>();
+		params.put(LOCALE, Locale.getDefault().toString());
+		params.put(FILTER, filter);
+		params.put(MAX_RESULT, maxResults);
+		params.put(SORT, sort);
+		// params.put(MAX_RESULT, maxResult);
+		params.put(MARKET_PROJECTION, marketProjection);
+		// String result = getInstance().makeRequest(
+		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
+		// appKey, ssoId);
+		String result = makeRequest(
+				ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey,
+				sessionToken);
+		// if (ApiNGDemo.isDebug())
+		System.out.println("\nResponse: " + result);
+
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
+				result, ListMarketCatalogueContainer.class);
+
+		if (container.getError() != null)
+			System.out.println("EXPCEITON");
+		// throw container.getError().getData().getAPINGException();
+
+		return container.getResult();
+		//
+		// jsonrpc_req = '{"jsonrpc": "2.0","method":
+		// "SportsAPING/v1.0/listMarketCatalogue","params": {"filter":
+		// {"eventIds": ["27312440"]},"maxResults": "200","marketProjection":
+		// ["COMPETITION","EVENT","EVENT_TYPE","RUNNER_DESCRIPTION","RUNNER_METADATA","MARKET_START_TIME"]},"id":
+		// 1}'
+	}
+
+	public void getMarketCatalogue() throws Exception
+	{
+		ApingOperation jsonOperations;
+		Set<String> eventCode = new HashSet<String>();
+		eventCode.add(Integer.toString(6423));
+
+		TimeRange time = new TimeRange();
+		time.setFrom(new Date());
+		Date t = new Date();
+		t.setDate(31);
+		time.setTo(t);
+		// time.setTo((Date) (new Date().setDate(10)));
+		Set<String> countries = new HashSet<String>();
+		// countries.add("GB");
+
+		Set<String> typesCode = new HashSet<String>();
+		// typesCode.add("WIN");
+
+		MarketFilter marketFilter = new MarketFilter();
+		// marketFilter.setEventTypeIds(eventCode);
+		Set<String> temp = new HashSet<String>();
+		temp.add("27317326");
+		marketFilter.setEventIds(temp);
+		// marketFilter.set
+		// marketFilter.set
+		// marketFilter.setMarketStartTime(time);
+		// marketFilter.setMarketCountries(countries);
+		// marketFilter.setMarketTypeCodes(typesCode);
+		// "COMPETITION","EVENT","EVENT_TYPE","RUNNER_DESCRIPTION","RUNNER_METADATA","MARKET_START_TIME"]},"id":
+		// 1}'
+		Set<MarketProjection> marketProjection = new HashSet<MarketProjection>();
+		List<MarketProjection> projs = new ArrayList<MarketProjection>();
+		projs.add(MarketProjection.COMPETITION);
+		// MarketProjection.
+		projs.add(MarketProjection.EVENT);
+		projs.add(MarketProjection.EVENT_TYPE);
+		projs.add(MarketProjection.RUNNER_DESCRIPTION);
+		projs.add(MarketProjection.RUNNER_METADATA);
+		projs.add(MarketProjection.MARKET_START_TIME);
+		// marketProjection.add(MarketProjection.RUNNER_DESCRIPTION,
+		// MarketProjection.COMPETITION);
+		marketProjection.addAll(projs);
+		String maxResults = "1";
+
+		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(
+				marketFilter, marketProjection, MarketSort.FIRST_TO_START,
+				maxResults, "200", liveKey, sessionToken);
+	}
+
+	public List<MarketCatalogue> listEvents(MarketFilter filter,
 			Set<MarketProjection> marketProjection, MarketSort sort,
 			String maxResult, String appKey, String ssoId) throws Exception
 	{
@@ -294,9 +445,8 @@ public class Core
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(
-				ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey,
-				sessionToken);
+		String result = makeRequest(ApingOperation.LISTEVENTS.toString(),
+				params, appKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
 		System.out.println("\nResponse: " + result);
 

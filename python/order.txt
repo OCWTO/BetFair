@@ -1,0 +1,8 @@
+Firstly get event types 
+ Then call get listEvents with your event type to see all games in the filter
+ 	Then with an event id from listEvents you call listmarketcatalogue with the id for the game to see options
+
+
+	Other option is to call listmarketcatalogue for an event which gives you all possible markets options. So for my code output example it was 1 result limit so it returned all markets for full time/half time new england vs san diego so i got tie/new england tie/tie etc.
+
+	Either way with a market selection like tie/tie or picked option->market you call listmarketbook with the id like tie/tie to get back and lay prices
