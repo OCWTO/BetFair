@@ -1,0 +1,42 @@
+SUCCESS
+ABv2Zc3ObXxGhXeYH8L7Qq6drY0WD+a3wcJ380WGtu0=
+session token is ABv2Zc3ObXxGhXeYH8L7Qq6drY0WD+a3wcJ380WGtu0=
+Calling listEventTypes to get event Type ID
+{u'jsonrpc': u'2.0', u'result': [{u'eventType': {u'id': u'468328', u'name': u'Handball'}, u'marketCount': 64}, {u'eventType': {u'id': u'1', u'name': u'Soccer'}, u'marketCount': 7354}, {u'eventType': {u'id': u'2', u'name': u'Tennis'}, u'marketCount': 28}, {u'eventType': {u'id': u'3', u'name': u'Golf'}, u'marketCount': 16}, {u'eventType': {u'id': u'4', u'name': u'Cricket'}, u'marketCount': 113}, {u'eventType': {u'id': u'5', u'name': u'Rugby Union'}, u'marketCount': 127}, {u'eventType': {u'id': u'6', u'name': u'Boxing'}, u'marketCount': 13}, {u'eventType': {u'id': u'7', u'name': u'Horse Racing'}, u'marketCount': 154}, {u'eventType': {u'id': u'8', u'name': u'Motor Sport'}, u'marketCount': 3}, {u'eventType': {u'id': u'7524', u'name': u'Ice Hockey'}, u'marketCount': 751}, {u'eventType': {u'id': u'10', u'name': u'Special Bets'}, u'marketCount': 46}, {u'eventType': {u'id': u'451485', u'name': u'Winter Sports'}, u'marketCount': 7}, {u'eventType': {u'id': u'11', u'name': u'Cycling'}, u'marketCount': 2}, {u'eventType': {u'id': u'7523', u'name': u'Hockey'}, u'marketCount': 4}, {u'eventType': {u'id': u'7522', u'name': u'Basketball'}, u'marketCount': 614}, {u'eventType': {u'id': u'1477', u'name': u'Rugby League'}, u'marketCount': 2}, {u'eventType': {u'id': u'4339', u'name': u'Greyhound Racing'}, u'marketCount': 265}, {u'eventType': {u'id': u'627555', u'name': u'Badminton'}, u'marketCount': 1}, {u'eventType': {u'id': u'6231', u'name': u'Financial Bets'}, u'marketCount': 1}, {u'eventType': {u'id': u'2378961', u'name': u'Politics'}, u'marketCount': 82}, {u'eventType': {u'id': u'998917', u'name': u'Volleyball'}, u'marketCount': 34}, {u'eventType': {u'id': u'26420387', u'name': u'Mixed Martial Arts'}, u'marketCount': 6}, {u'eventType': {u'id': u'3503', u'name': u'Darts'}, u'marketCount': 209}, {u'eventType': {u'id': u'2152880', u'name': u'Gaelic Games'}, u'marketCount': 13}, {u'eventType': {u'id': u'6422', u'name': u'Snooker'}, u'marketCount': 2}, {u'eventType': {u'id': u'2593174', u'name': u'Table Tennis'}, u'marketCount': 1}, {u'eventType': {u'id': u'6423', u'name': u'American Football'}, u'marketCount': 269}, {u'eventType': {u'id': u'7511', u'name': u'Baseball'}, u'marketCount': 1}], u'id': 1}
+Eventype Id for Horse Racing is :6423
+Calling listMarketCatalouge Operation to get MarketID and selectionId
+{"jsonrpc": "2.0", "method": "SportsAPING/v1.0/listMarketCatalogue", "params": {"filter":{"eventTypeIds":["6423"],"marketCountries":[""],"marketTypeCodes":[""],"marketStartTime":{"from":"2014-12-08T01:16:52Z"}},"sort":"FIRST_TO_START","maxResults":"1","marketProjection":["RUNNER_METADATA"]}, "id": 1}
+{"jsonrpc":"2.0","result":[{"marketId":"1.116498268","marketName":"Half Time / Full Time","totalMatched":6021.52,"runners":[{"selectionId":921313,"runnerName":"New England/New England","handicap":0.0,"sortPriority":1,"metadata":{"runnerId":"921313"}},{"selectionId":9022485,"runnerName":"New England/San Diego","handicap":0.0,"sortPriority":2,"metadata":{"runnerId":"9022485"}},{"selectionId":977305,"runnerName":"New England/Tie","handicap":0.0,"sortPriority":3,"metadata":{"runnerId":"977305"}},{"selectionId":977306,"runnerName":"Tie/New England","handicap":0.0,"sortPriority":4,"metadata":{"runnerId":"977306"}},{"selectionId":311649,"runnerName":"Tie/Tie","handicap":0.0,"sortPriority":5,"metadata":{"runnerId":"311649"}},{"selectionId":9022506,"runnerName":"Tie/San Diego","handicap":0.0,"sortPriority":6,"metadata":{"runnerId":"9022506"}},{"selectionId":9022505,"runnerName":"San Diego/Tie","handicap":0.0,"sortPriority":7,"metadata":{"runnerId":"9022505"}},{"selectionId":9022503,"runnerName":"San Diego/New England","handicap":0.0,"sortPriority":8,"metadata":{"runnerId":"9022503"}},{"selectionId":9022504,"runnerName":"San Diego/San Diego","handicap":0.0,"sortPriority":9,"metadata":{"runnerId":"9022504"}}]}],"id":1}
+Calling listMarketBook to read prices for the Market with ID :1.116498268
+{"jsonrpc": "2.0", "method": "SportsAPING/v1.0/listMarketBook", "params": {"marketIds":["1.116498268"],"priceProjection":{"priceData":["EX_BEST_OFFERS"]}}, "id": 1}
+Please find Best three available prices for the runners
+Selection id is 921313
+Available to back price :[{u'price': 2.06, u'size': 138.1}, {u'price': 2.04, u'size': 182.72}, {u'price': 2.02, u'size': 417.37}]
+Available to lay price :[{u'price': 2.1, u'size': 151.33}, {u'price': 2.24, u'size': 11.73}, {u'price': 3.0, u'size': 3.99}]
+Selection id is 9022485
+Available to back price :[{u'price': 13.5, u'size': 23.3}, {u'price': 12.5, u'size': 13.15}, {u'price': 12.0, u'size': 91.02}]
+Available to lay price :[{u'price': 16.0, u'size': 69.45}, {u'price': 17.0, u'size': 2.99}]
+Selection id is 977305
+Available to back price :[{u'price': 42.0, u'size': 16.34}, {u'price': 40.0, u'size': 2.5}, {u'price': 36.0, u'size': 16.0}]
+Available to lay price :[{u'price': 46.0, u'size': 10.24}, {u'price': 50.0, u'size': 17.76}, {u'price': 55.0, u'size': 7.69}]
+Selection id is 977306
+Available to back price :[{u'price': 17.0, u'size': 98.89}, {u'price': 16.0, u'size': 51.27}, {u'price': 14.5, u'size': 30.84}]
+Available to lay price :[{u'price': 19.0, u'size': 10.0}, {u'price': 21.0, u'size': 7.76}, {u'price': 25.0, u'size': 24.43}]
+Selection id is 311649
+Available to back price :[{u'price': 90.0, u'size': 2.0}, {u'price': 85.0, u'size': 3.7}, {u'price': 80.0, u'size': 11.28}]
+Available to lay price :[{u'price': 100.0, u'size': 15.85}, {u'price': 140.0, u'size': 2.99}, {u'price': 160.0, u'size': 2.0}]
+Selection id is 9022506
+Available to back price :[{u'price': 32.0, u'size': 4.3}, {u'price': 30.0, u'size': 19.61}, {u'price': 25.0, u'size': 42.22}]
+Available to lay price :[{u'price': 60.0, u'size': 2.53}, {u'price': 120.0, u'size': 2.0}]
+Selection id is 9022505
+Available to back price :[{u'price': 42.0, u'size': 16.34}, {u'price': 40.0, u'size': 2.5}, {u'price': 36.0, u'size': 16.0}]
+Available to lay price :[{u'price': 48.0, u'size': 7.85}, {u'price': 55.0, u'size': 7.98}, {u'price': 60.0, u'size': 15.0}]
+Selection id is 9022503
+Available to back price :[{u'price': 8.2, u'size': 2.0}, {u'price': 8.0, u'size': 41.16}, {u'price': 7.8, u'size': 30.38}]
+Available to lay price :[{u'price': 8.6, u'size': 185.53}, {u'price': 10.0, u'size': 8.46}, {u'price': 10.5, u'size': 30.0}]
+Selection id is 9022504
+Available to back price :[{u'price': 4.6, u'size': 37.58}, {u'price': 4.5, u'size': 59.03}, {u'price': 4.4, u'size': 125.22}]
+Available to lay price :[{u'price': 5.2, u'size': 175.21}, {u'price': 5.4, u'size': 40.0}, {u'price': 6.0, u'size': 2.0}]
+Calling placeOrder for marketId :1.116498268 with selection id :921313
+Place order status is FAILURE
+Reason for Place order failure is INVALID_BET_SIZE

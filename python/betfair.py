@@ -104,13 +104,13 @@ def getSelectionId(marketCatalogueResult):
 def getMarketBookBestOffers(marketId):
     print 'Calling listMarketBook to read prices for the Market with ID :' + marketId
     market_book_req = '{"jsonrpc": "2.0", "method": "SportsAPING/v1.0/listMarketBook", "params": {"marketIds":["' + marketId + '"],"priceProjection":{"priceData":["EX_BEST_OFFERS"]}}, "id": 1}'
-    """
+ 
     print  market_book_req
-    """
+
     market_book_response = callAping(market_book_req)
-    """
+
     print market_book_response
-    """
+
     market_book_loads = json.loads(market_book_response)
     try:
         market_book_result = market_book_loads['result']
