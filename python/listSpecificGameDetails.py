@@ -43,7 +43,7 @@ print "--------------------------------"
 if success == True:
 	newurl="https://api.betfair.com/exchange/betting/json-rpc/v1"
 	newheader = { 'X-Application' : liveKey, 'X-Authentication' : sessionToken ,'content-type' : 'application/json' }
-	newjsonrpc_req= '{"jsonrpc": "2.0","method": "SportsAPING/v1.0/listMarketBook","params": { "marketIds" : ["1.116501479"], "priceProjection":{"priceData":["EX_BEST_OFFERS"]}}, "id": 1}'
+	newjsonrpc_req= '{"jsonrpc": "2.0","method": "SportsAPING/v1.0/listMarketBook","params": { "marketIds" : ["1.116564775"], "priceProjection":{"priceData":["EX_BEST_OFFERS"]}}, "id": 1}'
 	newresponse = requests.post(newurl, data=newjsonrpc_req, headers=newheader)
 	print json.dumps(json.loads(newresponse.text), indent=3)
 else:

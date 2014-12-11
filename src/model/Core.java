@@ -213,7 +213,7 @@ public class Core
 
 		MarketFilter marketFilter = new MarketFilter();
 		// marketFilter.setEventTypeIds(eventCode);
-		String temp = "1.116584263";
+		String temp = "1.116498268";
 		// marketFilter.setEventIds(temp);
 		// marketFilter.setMarketIds(temp);
 		// marketFilter.set
@@ -257,7 +257,7 @@ public class Core
 
 		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds,
 				priceProjection, null, null, null, liveKey, sessionToken);
-
+		// System.out.println(marketCatalogueResult.get(0).g);
 		// System.out
 		// .println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
 		// String marketIdChosen = marketCatalogueResult.get(0).getMarketId();
@@ -287,7 +287,7 @@ public class Core
 			String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
-		params.put(LOCALE, Locale.getDefault().toString());
+		// params.put(LOCALE, Locale.getDefault().toString());
 		params.put(MARKET_IDS, marketIds);
 		params.put(PRICE_PROJECTION, priceProjection);
 		params.put(ORDER_PROJECTION, orderProjection);

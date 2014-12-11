@@ -1,6 +1,6 @@
 
 
-6/1/14:
+6/12/14:
 	Worked on the Python and Java files. I've looked more into the documentation and I know the methods I need to call to the API
 	for exactly what I want. Event list to get all games and then marketbook for an event list id that interests me. I'm starting
 	to think about the UI so I know that there's some code thats' unnecessary right now but will be needed in the end for users to 
@@ -11,3 +11,17 @@
 	list manchester and liverpool markets and then other game markets without mentioning anything. Huge message today but I did spend quite
 	some time today and I've forgotten about my log for a while now. Plan is to fix java code tomorrow and look into prices. I've got some 
 	questions regarding the price results and the poster day to ask Richard on Monday.
+	
+7/12/14:
+	Started looking at the odds result and I'm unsure of what exactly they mean. I've fixed the java code so that
+	it does all that the python code does and gets the same results. Everything is currently hard coded in which
+	will need to change but for now I can easily access the market data I want. I'm just getting the java code up
+	to speed for being able to collect data by the end of the week and be ready for the project poster day.
+
+8/12/14:
+	Started and completed the required submissions for poster day. I had some issues actually calculating the probability of events
+	occured but from conversations with Richard I've fixed my misunderstanding and am totally aware of what the program will be doing
+	at run time, in terms of extracting probability.
+
+9/12/14:
+	Re-worded the documents a little and submitted them.
