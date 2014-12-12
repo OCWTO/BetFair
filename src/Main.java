@@ -8,16 +8,25 @@ public class Main
 
 		try
 		{
-			betFair.login(args[0], args[1]);
+			betFair.login(args[0], args[1], args[2]);
+			
 			System.out.println("------");
-			betFair.getEvents();
+			
+			//EventType, DateTo
+			//betFair.getEvents("1", "13");
+			
 			System.out.println("------");
-			betFair.getMarketCatalogue();
+			
+			//EventType, MarketId, DateTo
+			//betFair.getMarketCatalogue("1","27319782",31);
+			
 			System.out.println("------");
-			betFair.getMarketBook();
-			// betfair.getmarketbook
-			// going to hard code for now
-		} catch (Exception e)
+			
+			//Selected market book
+			betFair.getMarketBook("1.116616456");
+			//System.out.println("success");
+		} 
+		catch (Exception e)
 		{
 			e.printStackTrace();
 		}

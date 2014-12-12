@@ -54,9 +54,6 @@ import com.google.gson.Gson;
 
 public class Core
 {
-	// private static final String username = "0ocwto0"; //prompt?
-	// private static final String password = "@Cracker93"; //prompt?
-	private static final String filePassword = "cracker"; // prompt?
 	private static final String liveKey = "ztgZ1aJPu2lvvW6a"; // hard code req
 	private static final String delayedKey = "scQ6H11vdb6C4s7t"; // hard code
 																	// req
@@ -88,7 +85,7 @@ public class Core
 		dirPrefix = System.getProperty("user.dir");
 	}
 
-	public void login(String username, String password) throws Exception
+	public void login(String username, String password, String filePassword) throws Exception
 	{
 		// Client important since it will do requests for us?
 		DefaultHttpClient httpClient = new DefaultHttpClient();
@@ -146,7 +143,6 @@ public class Core
 						+ responseObject.loginStatus);
 				sessionToken = responseObject.sessionToken;
 
-				// TODO Fix this
 				List<EventTypeResult> r = listEventTypes(new MarketFilter(),
 						liveKey, responseObject.sessionToken);
 			}
@@ -155,21 +151,6 @@ public class Core
 			httpClient.getConnectionManager().shutdown();
 		}
 	}
-
-	// private void printMarketCatalogue(MarketCatalogue mk)
-	// {
-	// System.out.println("Market Name: " + mk.getMarketName() + "; Id: "
-	// + mk.getMarketId() + "\n");
-	// List<RunnerCatalog> runners = mk.getRunners();
-	// if (runners != null)
-	// {
-	// for (RunnerCatalog rCat : runners)
-	// {
-	// System.out.println("Runner Name: " + rCat.getRunnerName()
-	// + "; Selection Id: " + rCat.getSelectionId() + "\n");
-	// }
-	// }
-	// }
 
 	protected String makeRequest(String operation, Map<String, Object> params,
 			String appKey, String ssoToken)
@@ -191,7 +172,7 @@ public class Core
 				appKey, sessionToken);
 	}
 
-	public void getMarketBook() throws Exception
+	public void getMarketBook(String marketId) throws Exception
 	{
 		// 1.116584263
 
@@ -213,7 +194,7 @@ public class Core
 
 		MarketFilter marketFilter = new MarketFilter();
 		// marketFilter.setEventTypeIds(eventCode);
-		String temp = "1.116498268";
+		//String temp = "1.116498268";
 		// marketFilter.setEventIds(temp);
 		// marketFilter.setMarketIds(temp);
 		// marketFilter.set
@@ -225,7 +206,7 @@ public class Core
 		// 1}'
 
 		List<String> marketIds = new ArrayList<String>();
-		marketIds.add(temp);
+		marketIds.add(marketId);
 
 		PriceProjection priceProjection = new PriceProjection();
 		List<PriceProjection> projs = new ArrayList<PriceProjection>();
@@ -312,16 +293,16 @@ public class Core
 
 	}
 
-	public void getEvents() throws Exception
+	public void getEvents(String eventType, String dateTo) throws Exception
 	{
 		ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
-		eventCode.add(Integer.toString(6423));
+		eventCode.add(eventType);
 
 		TimeRange time = new TimeRange();
 		time.setFrom(new Date());
 		Date t = new Date();
-		t.setDate(31);
+		t.setDate(Integer.parseInt(dateTo));
 		time.setTo(t);
 		// time.setTo((Date) (new Date().setDate(10)));
 		Set<String> countries = new HashSet<String>();
@@ -383,16 +364,16 @@ public class Core
 		// 1}'
 	}
 
-	public void getMarketCatalogue() throws Exception
+	public void getMarketCatalogue(String eventId, String marketId, int toDate) throws Exception
 	{
 		ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
-		eventCode.add(Integer.toString(6423));
+		eventCode.add(eventId);
 
 		TimeRange time = new TimeRange();
 		time.setFrom(new Date());
 		Date t = new Date();
-		t.setDate(31);
+		t.setDate(toDate);
 		time.setTo(t);
 		// time.setTo((Date) (new Date().setDate(10)));
 		Set<String> countries = new HashSet<String>();
@@ -404,10 +385,8 @@ public class Core
 		MarketFilter marketFilter = new MarketFilter();
 		// marketFilter.setEventTypeIds(eventCode);
 		Set<String> temp = new HashSet<String>();
-		temp.add("27317326");
+		temp.add(marketId);
 		marketFilter.setEventIds(temp);
-		// marketFilter.set
-		// marketFilter.set
 		// marketFilter.setMarketStartTime(time);
 		// marketFilter.setMarketCountries(countries);
 		// marketFilter.setMarketTypeCodes(typesCode);
