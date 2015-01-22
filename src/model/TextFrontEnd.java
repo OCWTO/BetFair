@@ -1,56 +1,78 @@
 package model;
 
+import java.util.List;
 import java.util.Scanner;
 
 public class TextFrontEnd
 {
 	Scanner userInput;
+	SimpleBetfair betFair;
 
 	public TextFrontEnd()
 	{
+		betFair = new SimpleBetfair();
 		userInput = new Scanner(System.in);
 		prompt();
 	}
 
 	private void prompt()
 	{
+		// prompt for login
+		// print sport options
+		// prompt for sport
+		// print game options?
+		// prompt for game
 
-		boolean sportSelected = false;
-
-		// If a sport is selected
-		if (sportPrompt(sportSelected))
+		if (loginPrompt())
 		{
-			System.out.println("next stage");
+			if (sportPrompt())
+			{
+				System.out.println("next stage");
+			}
 		}
-
 		// System.out.println("Options: \n\t1. Get Sports list\n2. ");
 	}
 
-	// TODO make it work with strings so it doesnt break...
-	private boolean sportPrompt(boolean selected)
+	// TODO provide exits
+	private boolean loginPrompt()
 	{
-		while (!selected)
+		while (true)
 		{
-			System.out
-					.println("Options: \n\t1. Get Sports list\n\t2. Get games for selected sport");
+			System.out.println("Please enter login details in form of : 'USERNAME-PASSWORD-FILEPASSWORD'");
+			String inputLine = userInput.nextLine();
+			String[] details = inputLine.split("-");
+
+			if (details.length == 3)
+			{
+				String response = betFair.login(details[0], details[1], details[2]);
+				if (response.equalsIgnoreCase("success"))
+					return true;
+			}
+		}
+	}
+
+	private boolean sportPrompt()
+	{
+		while (true)
+		{
+			System.out.println("Options: \n\t1. Get Sports list\n\t2. Get games for selected sport");
 
 			int input = userInput.nextInt();
 
 			switch (input)
 			{
 				case 1:
-					System.out.println("sport list call");
-					// Call get sport list
+					List<String> results = betFair.getSportSupportedSportList();
+					for (String resultItem : results)
+						System.out.println(resultItem);
 					break;
 				case 2:
 					System.out.println("We know the selected sport so proceed");
-					selected = true;
-					return selected;
+					// so we print out our games
 				default:
 					break;
 			}
 		}
-		return true;
 	}
 
 }

@@ -25,3 +25,15 @@
 
 9/12/14:
 	Re-worded the documents a little and submitted them.
+
+16/1/15:
+	Just finished all other coursework submissions for the year so I'm working on the project again. Last time (something like 28th December
+	that I forgot to log) I started on a textual front-end just so I can get some flexible interaction. I'm going to get the front end working
+	so commands can be performed with user input. I'll do some tests and set it up so I can finally start collecting game results. I'm planning
+	to collect by the 17th since if I want American football to work I need to do it by then. Not many games left before the NFL season ends.
+	Fixed some classes used for GSON, removed a lot of parameters that the original betfair examples had that I dont need. I dont need half these
+	filters. Currently deciding how I want game recording to work. Probably will have multiple timertask threads or something like that since I can do up to 10 or so requests a second.
+
+18/1/15:
+	Decided that I'm going to keep the code from the BetFair repository mostly as if, I'll just clean a few things up. I'm then going to create a class which exclusively has access to it. With the new class I'll simplify method calls and return results from the API in a nicer way, making it a lot easier when it comes to a GUI to display what I want. Going to create a "debug mode" for the app which will print out all
+	request and result strings in case something goes bad, since that's what I was doing before. Currently I'm in the middle of replacing depreceated apache 4.2 code with 4.3. I'm still in the middle of writing the front end for collecting results and implementing debug mode. I'm planning on finishing by 21st. I'll then spend the week collecting results and designing/creating my GUI and creating some test cases. Currently the program crashes super hard on things like bad logins.

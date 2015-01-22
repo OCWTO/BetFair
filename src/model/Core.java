@@ -2,6 +2,7 @@ package model;
 
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.security.KeyStore;
 import java.security.SecureRandom;
@@ -72,6 +73,7 @@ public class Core
 	protected final String PRICE_PROJECTION = "priceProjection";
 	protected final String MATCH_PROJECTION = "matchProjection";
 	protected final String ORDER_PROJECTION = "orderProjection";
+	private boolean debug = false;
 
 	// Special method for login (ssl connection and encrypted password sent)
 	// So special method for a request too
@@ -80,13 +82,15 @@ public class Core
 
 	// Look at enums
 
+	// TODO implement debug mode
 	public Core()
 	{
 		dirPrefix = System.getProperty("user.dir");
 	}
 
-	public void login(String username, String password, String filePassword) throws Exception
+	public LoginResponse login(String username, String password, String filePassword)
 	{
+		LoginResponse responseObject = new LoginResponse();
 		// Client important since it will do requests for us?
 		DefaultHttpClient httpClient = new DefaultHttpClient();
 		Gson gson = new Gson();
@@ -98,20 +102,15 @@ public class Core
 			// KeyManager[] keyManagers = getKeyManagers("pkcs12",new
 			// FileInputStream(new File(dirPrefix +
 			// "\\certs\\client-2048.p12")), filePassword);
-			KeyManager[] keyManagers = getKeyManagers("pkcs12",
-					new FileInputStream(new File(dirPrefix
-							+ "/certs/client-2048.p12")), filePassword);
+			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(dirPrefix + "/certs/client-2048.p12")), filePassword);
 
 			ctx.init(keyManagers, null, new SecureRandom());
-			SSLSocketFactory factory = new SSLSocketFactory(ctx,
-					new StrictHostnameVerifier());
+			SSLSocketFactory factory = new SSLSocketFactory(ctx, new StrictHostnameVerifier());
 			ClientConnectionManager manager = httpClient.getConnectionManager();
-			manager.getSchemeRegistry().register(
-					new Scheme("https", port, factory));
+			manager.getSchemeRegistry().register(new Scheme("https", port, factory));
 
 			// Making a post object
-			HttpPost httpPost = new HttpPost(
-					"https://identitysso.betfair.com/api/certlogin");
+			HttpPost httpPost = new HttpPost("https://identitysso.betfair.com/api/certlogin");
 
 			// Name value pair used for parameters?
 			List<NameValuePair> nvps = new ArrayList<NameValuePair>();
@@ -123,37 +122,46 @@ public class Core
 
 			// Header
 			httpPost.setHeader("X-Application", "appkey");
-			System.out.println("Executing request: "
-					+ httpPost.getRequestLine());
+			// System.out.println("Executing request: "
+			// + httpPost.getRequestLine());
 
 			// Execute
 			HttpResponse response = httpClient.execute(httpPost);
 			HttpEntity entity = response.getEntity();
 
-			System.out.println();
-			System.out.println(response.getStatusLine());
+			// System.out.println();
+			// System.out.println(response.getStatusLine());
 
 			if (entity != null)
 			{
-				LoginResponse responseObject = gson.fromJson(
-						EntityUtils.toString(entity), LoginResponse.class);
-				System.out.println(responseObject);
-				System.out.println("Response:\nsession token: "
-						+ responseObject.sessionToken + " status: "
-						+ responseObject.loginStatus);
-				sessionToken = responseObject.sessionToken;
+				responseObject = gson.fromJson(EntityUtils.toString(entity), LoginResponse.class);
+				// System.out.println(responseObject);
+				if (debug)
+					System.out.println("Response:" + responseObject.toString());
 
-				List<EventTypeResult> r = listEventTypes(new MarketFilter(),
-						liveKey, responseObject.sessionToken);
+				sessionToken = responseObject.getSessionToken();
+
+				// List<EventTypeResult> r = listEventTypes(new MarketFilter(),
+				// liveKey, responseObject.getSessionToken());
+
+				// return responseObject;
 			}
+		} catch (FileNotFoundException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (Exception e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		} finally
 		{
 			httpClient.getConnectionManager().shutdown();
+			return responseObject;
 		}
 	}
 
-	protected String makeRequest(String operation, Map<String, Object> params,
-			String appKey, String ssoToken)
+	protected String makeRequest(String operation, Map<String, Object> params, String appKey, String ssoToken)
 	{
 		String requestString;
 		// Handling the JSON-RPC request
@@ -168,8 +176,7 @@ public class Core
 		// We need to pass the "sendPostRequest" method a string in util format:
 		// requestString
 		HttpUtil requester = new HttpUtil();
-		return requester.sendPostRequestJsonRpc(requestString, operation,
-				appKey, sessionToken);
+		return requester.sendPostRequestJsonRpc(requestString, operation, appKey, sessionToken);
 	}
 
 	public void getMarketBook(String marketId) throws Exception
@@ -194,7 +201,7 @@ public class Core
 
 		MarketFilter marketFilter = new MarketFilter();
 		// marketFilter.setEventTypeIds(eventCode);
-		//String temp = "1.116498268";
+		// String temp = "1.116498268";
 		// marketFilter.setEventIds(temp);
 		// marketFilter.setMarketIds(temp);
 		// marketFilter.set
@@ -236,8 +243,7 @@ public class Core
 		// orderProjection, matchProjection, currencyCode,
 		// applicationKey, sessionToken);
 
-		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds,
-				priceProjection, null, null, null, liveKey, sessionToken);
+		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds, priceProjection, null, null, null, liveKey, sessionToken);
 		// System.out.println(marketCatalogueResult.get(0).g);
 		// System.out
 		// .println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
@@ -262,10 +268,8 @@ public class Core
 
 	}
 
-	public List<MarketBook> listMarketBook(List<String> marketIds,
-			PriceProjection priceProjection, OrderProjection orderProjection,
-			MarketProjection matchProjection, String currencyCode,
-			String appKey, String ssoId) throws Exception
+	public List<MarketBook> listMarketBook(List<String> marketIds, PriceProjection priceProjection, OrderProjection orderProjection,
+			MarketProjection matchProjection, String currencyCode, String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
@@ -274,16 +278,14 @@ public class Core
 		params.put(ORDER_PROJECTION, orderProjection);
 		params.put(MATCH_PROJECTION, matchProjection);
 		params.put("currencyCode", currencyCode);
-		String result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(),
-				params, appKey, sessionToken);
+		String result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, appKey, sessionToken);
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETBOOK.getOperationName(), params,
 		// appKey, ssoId);
 		// if (ApiNGDemo.isDebug())
 		System.out.println("\nResponse: " + result);
 
-		ListMarketBooksContainer container = JsonConverter.convertFromJson(
-				result, ListMarketBooksContainer.class);
+		ListMarketBooksContainer container = JsonConverter.convertFromJson(result, ListMarketBooksContainer.class);
 
 		if (container.getError() != null)
 			System.out.println("CONTAINER ERROR");
@@ -322,15 +324,12 @@ public class Core
 
 		String maxResults = "1";
 
-		List<MarketCatalogue> marketCatalogueResult = listEvents(marketFilter,
-				marketProjection, MarketSort.FIRST_TO_START, maxResults,
-				liveKey, sessionToken);
+		List<MarketCatalogue> marketCatalogueResult = listEvents(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults, liveKey,
+				sessionToken);
 	}
 
-	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
-			Set<MarketProjection> marketProjection, MarketSort sort,
-			String maxResult, String maxResults, String appKey, String ssoId)
-			throws Exception
+	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
+			String maxResults, String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		params.put(LOCALE, Locale.getDefault().toString());
@@ -342,14 +341,11 @@ public class Core
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(
-				ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey,
-				sessionToken);
+		String result = makeRequest(ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
 		System.out.println("\nResponse: " + result);
 
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
-				result, ListMarketCatalogueContainer.class);
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(result, ListMarketCatalogueContainer.class);
 
 		if (container.getError() != null)
 			System.out.println("EXPCEITON");
@@ -406,14 +402,12 @@ public class Core
 		marketProjection.addAll(projs);
 		String maxResults = "1";
 
-		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(
-				marketFilter, marketProjection, MarketSort.FIRST_TO_START,
-				maxResults, "200", liveKey, sessionToken);
+		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults,
+				"200", liveKey, sessionToken);
 	}
 
-	public List<MarketCatalogue> listEvents(MarketFilter filter,
-			Set<MarketProjection> marketProjection, MarketSort sort,
-			String maxResult, String appKey, String ssoId) throws Exception
+	public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
+			String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		params.put(LOCALE, Locale.getDefault().toString());
@@ -424,13 +418,11 @@ public class Core
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(ApingOperation.LISTEVENTS.toString(),
-				params, appKey, sessionToken);
+		String result = makeRequest(ApingOperation.LISTEVENTS.toString(), params, appKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
 		System.out.println("\nResponse: " + result);
 
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
-				result, ListMarketCatalogueContainer.class);
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(result, ListMarketCatalogueContainer.class);
 
 		if (container.getError() != null)
 			System.out.println("EXPCEITON");
@@ -440,34 +432,33 @@ public class Core
 
 	}
 
-	public List<EventTypeResult> listEventTypes(MarketFilter filter,
-			String appKey, String ssoId)
+	public List<EventTypeResult> listEventTypes(MarketFilter filter)
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		params.put("filter", filter);
 		params.put("locale", Locale.getDefault().toString());
 
-		String result = makeRequest(
-				ApingOperation.LISTEVENTTYPES.getOperationName(), params,
-				appKey, ssoId);
+		String result = makeRequest(ApingOperation.LISTEVENTTYPES.getOperationName(), params, liveKey, sessionToken);
 		System.out.println("\nResponse: " + result);
 
-		EventTypeResultContainer container = JsonConverter.convertFromJson(
-				result, EventTypeResultContainer.class);
+		EventTypeResultContainer container = JsonConverter.convertFromJson(result, EventTypeResultContainer.class);
 		if (container.getError() != null)
 			System.out.println("err");
 
 		return container.getResult();
 	}
 
-	private KeyManager[] getKeyManagers(String keyStoreType,
-			InputStream keyStoreFile, String keyStorePassword) throws Exception
+	private KeyManager[] getKeyManagers(String keyStoreType, InputStream keyStoreFile, String keyStorePassword) throws Exception
 	{
 		KeyStore keyStore = KeyStore.getInstance(keyStoreType);
 		keyStore.load(keyStoreFile, keyStorePassword.toCharArray());
-		KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory
-				.getDefaultAlgorithm());
+		KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory.getDefaultAlgorithm());
 		kmf.init(keyStore, keyStorePassword.toCharArray());
 		return kmf.getKeyManagers();
+	}
+
+	public void setDebug(Boolean state)
+	{
+		debug = state;
 	}
 }

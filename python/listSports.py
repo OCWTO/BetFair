@@ -8,10 +8,10 @@ liveKey = "ztgZ1aJPu2lvvW6a"
 delayedKey = "scQ6H11vdb6C4s7t"
 
 
-payload = 'username=0ocwto0&password=@Cracker93'
+payload = 'username=0ocwto0&password=2014Project'
 headers = {'X-Application': delayedKey, 'Content-Type': 'application/x-www-form-urlencoded'}
  
-resp = requests.post('https://identitysso.betfair.com/api/certlogin', data=payload, cert=("C:\Users\Craig\Desktop\eclipse_workspace\Project\certs\client-2048.crt", "C:\Users\Craig\Desktop\eclipse_workspace\Project\certs\client-2048.key"), headers=headers)
+resp = requests.post('https://identitysso.betfair.com/api/certlogin', data=payload, cert=("C:\Users\Craig\workspace\eclipse_workspace\BetFair\certs\client-2048.crt", "C:\Users\Craig\workspace\eclipse_workspace\BetFair\certs\client-2048.key"), headers=headers)
  
 if resp.status_code == 200:
   resp_json = resp.json()
