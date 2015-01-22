@@ -6,11 +6,11 @@ import java.util.Scanner;
 public class TextFrontEnd
 {
 	Scanner userInput;
-	SimpleBetfair betFair;
+	SimpleBetFairCore betFair;
 
 	public TextFrontEnd()
 	{
-		betFair = new SimpleBetfair();
+		betFair = new SimpleBetFairCore();
 		userInput = new Scanner(System.in);
 		prompt();
 	}
@@ -55,7 +55,7 @@ public class TextFrontEnd
 	{
 		while (true)
 		{
-			System.out.println("Options: \n\t1. Get Sports list\n\t2. Get games for selected sport");
+			System.out.println("Options: \n\t\"1\". Get Sports list\n\t\"select 'NUMBER'\". Select the sport with the given id");
 
 			int input = userInput.nextInt();
 

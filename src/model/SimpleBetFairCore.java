@@ -8,13 +8,13 @@ import betfairUtils.EventTypeResultComparator;
 import betfairUtils.LoginResponse;
 import betfairUtils.MarketFilter;
 
-public class SimpleBetfair
+public class SimpleBetFairCore
 {
-	private Core betFair;// = new Core();
+	private BetFairCore betFair;// = new Core();
 
-	public SimpleBetfair()
+	public SimpleBetFairCore()
 	{
-		betFair = new Core();
+		betFair = new BetFairCore();
 	}
 
 	// maps to core.login

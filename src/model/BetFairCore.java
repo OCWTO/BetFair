@@ -7,6 +7,7 @@ import java.io.InputStream;
 import java.security.KeyStore;
 import java.security.SecureRandom;
 import java.util.ArrayList;
+import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -53,28 +54,31 @@ import betfairUtils.TimeRange;
 
 import com.google.gson.Gson;
 
-public class Core
+public class BetFairCore
 {
-	private static final String liveKey = "ztgZ1aJPu2lvvW6a"; // hard code req
-	private static final String delayedKey = "scQ6H11vdb6C4s7t"; // hard code
-																	// req
-	private static int port = 443; // ??? whatever
-	private String dirPrefix;
+	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a";	//Live app key for fast calls
+	private static final String delayedAppKey = "scQ6H11vdb6C4s7t";	//Delayed app key for slower calls
+	private static final int httpsPort = 443;
+	
 	private String sessionToken;
-	protected final String FILTER = "filter";
-	protected final String LOCALE = "locale";
+	
+	private String directoryPrefix;
+	
+	private boolean debug = false;
+	
+	protected final String FILTER = "filter";		//Pretty much the same as MARKET_IDS but it's not a parameter in certain calls
+	//protected final String LOCALE = "locale";
 	protected final String SORT = "sort";
 	protected final String MAX_RESULT = "maxResults";
 	protected final String MARKET_IDS = "marketIds";
-	protected final String MARKET_ID = "marketId";
-	protected final String INSTRUCTIONS = "instructions";
-	protected final String CUSTOMER_REF = "customerRef";
 	protected final String MARKET_PROJECTION = "marketProjection";
 	protected final String PRICE_PROJECTION = "priceProjection";
-	protected final String MATCH_PROJECTION = "matchProjection";
-	protected final String ORDER_PROJECTION = "orderProjection";
-	private boolean debug = false;
-
+	//protected final String MATCH_PROJECTION = "matchProjection";		??		Look at NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
+	
+	
+//https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/Betting+Enums#BettingEnums-MatchProjection
+	
+	
 	// Special method for login (ssl connection and encrypted password sent)
 	// So special method for a request too
 
@@ -82,10 +86,11 @@ public class Core
 
 	// Look at enums
 
+	
 	// TODO implement debug mode
-	public Core()
+	public BetFairCore()
 	{
-		dirPrefix = System.getProperty("user.dir");
+		directoryPrefix = System.getProperty("user.dir");
 	}
 
 	public LoginResponse login(String username, String password, String filePassword)
@@ -102,12 +107,12 @@ public class Core
 			// KeyManager[] keyManagers = getKeyManagers("pkcs12",new
 			// FileInputStream(new File(dirPrefix +
 			// "\\certs\\client-2048.p12")), filePassword);
-			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(dirPrefix + "/certs/client-2048.p12")), filePassword);
+			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")), filePassword);
 
 			ctx.init(keyManagers, null, new SecureRandom());
 			SSLSocketFactory factory = new SSLSocketFactory(ctx, new StrictHostnameVerifier());
 			ClientConnectionManager manager = httpClient.getConnectionManager();
-			manager.getSchemeRegistry().register(new Scheme("https", port, factory));
+			manager.getSchemeRegistry().register(new Scheme("https", httpsPort, factory));
 
 			// Making a post object
 			HttpPost httpPost = new HttpPost("https://identitysso.betfair.com/api/certlogin");
@@ -243,7 +248,7 @@ public class Core
 		// orderProjection, matchProjection, currencyCode,
 		// applicationKey, sessionToken);
 
-		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds, priceProjection, null, null, null, liveKey, sessionToken);
+		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds, priceProjection, null, null, null, liveAppKey, sessionToken);
 		// System.out.println(marketCatalogueResult.get(0).g);
 		// System.out
 		// .println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
@@ -274,9 +279,10 @@ public class Core
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
 		params.put(MARKET_IDS, marketIds);
+		System.out.println(marketIds);
 		params.put(PRICE_PROJECTION, priceProjection);
-		params.put(ORDER_PROJECTION, orderProjection);
-		params.put(MATCH_PROJECTION, matchProjection);
+		//params.put(ORDER_PROJECTION, orderProjection);
+		//params.put(MATCH_PROJECTION, matchProjection);
 		params.put("currencyCode", currencyCode);
 		String result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, appKey, sessionToken);
 		// String result = getInstance().makeRequest(
@@ -295,27 +301,33 @@ public class Core
 
 	}
 
-	public void getEvents(String eventType, String dateTo) throws Exception
+	//TODO: currently only looks 1 day ahead, might want to modify this to look further
+	/**
+	 * 
+	 * @param sportID - String representing the games BetFair ID.
+	 * @throws Exception
+	 */
+	public List<MarketCatalogue> getGames(String sportID) throws Exception
 	{
-		ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
-		eventCode.add(eventType);
+		eventCode.add(sportID);
 
-		TimeRange time = new TimeRange();
-		time.setFrom(new Date());
-		Date t = new Date();
-		t.setDate(Integer.parseInt(dateTo));
-		time.setTo(t);
-		// time.setTo((Date) (new Date().setDate(10)));
+		TimeRange timeRange = new TimeRange();
+		Date fromDate = new Date(); //Todays date
+		Date toDate = new Date(fromDate.getTime() + (24*60*60*1000)); //24 hours from todays date, set in ms from 1970.	
+		timeRange.setFrom(fromDate);
+		timeRange.setTo(toDate);
+		
+	
 		Set<String> countries = new HashSet<String>();
-		// countries.add("GB");
+		countries.add("ES");
 
 		Set<String> typesCode = new HashSet<String>();
-		// typesCode.add("WIN");
+		//typesCode.add("WIN");
 
 		MarketFilter marketFilter = new MarketFilter();
 		marketFilter.setEventTypeIds(eventCode);
-		marketFilter.setMarketStartTime(time);
+		marketFilter.setMarketStartTime(timeRange);
 		marketFilter.setMarketCountries(countries);
 		marketFilter.setMarketTypeCodes(typesCode);
 
@@ -324,15 +336,14 @@ public class Core
 
 		String maxResults = "1";
 
-		List<MarketCatalogue> marketCatalogueResult = listEvents(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults, liveKey,
-				sessionToken);
+		return listEvents(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults, liveAppKey,sessionToken);
 	}
 
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
 			String maxResults, String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
-		params.put(LOCALE, Locale.getDefault().toString());
+		//params.put(LOCALE, Locale.getDefault().toString());
 		params.put(FILTER, filter);
 		params.put(MAX_RESULT, maxResults);
 		params.put(SORT, sort);
@@ -403,14 +414,14 @@ public class Core
 		String maxResults = "1";
 
 		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults,
-				"200", liveKey, sessionToken);
+				"200", liveAppKey, sessionToken);
 	}
 
 	public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
 			String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
-		params.put(LOCALE, Locale.getDefault().toString());
+		//params.put(LOCALE, Locale.getDefault().toString());
 		params.put(FILTER, filter);
 		params.put(SORT, sort);
 		params.put(MAX_RESULT, maxResult);
@@ -438,7 +449,7 @@ public class Core
 		params.put("filter", filter);
 		params.put("locale", Locale.getDefault().toString());
 
-		String result = makeRequest(ApingOperation.LISTEVENTTYPES.getOperationName(), params, liveKey, sessionToken);
+		String result = makeRequest(ApingOperation.LISTEVENTTYPES.getOperationName(), params, liveAppKey, sessionToken);
 		System.out.println("\nResponse: " + result);
 
 		EventTypeResultContainer container = JsonConverter.convertFromJson(result, EventTypeResultContainer.class);
