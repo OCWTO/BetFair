@@ -33,14 +33,15 @@ public class SimpleBetFairCore
 	{
 		List<EventTypeResult> sportList = betFair.listEventTypes(new MarketFilter());
 		sportList.sort(new EventTypeResultComparator());
-
+		//sportList.sort(comparing(EventTypeResult :: getName));
+		
 		// sportList.get(0).getEventType().
 		List<String> readableOutput = new ArrayList<String>();
 
 		// maybe use stringbuilder here?
-		for (EventTypeResult result : sportList)
+		for(int i = 0; i < sportList.size(); i++)
 		{
-			readableOutput.add(new String("Sport: " + result.getEventType().getName() + ". ID: " + result.getEventType().getId()));
+			readableOutput.add(new String(i + " " + sportList.get(i).getEventType().getName() + ". ID: " + sportList.get(i).getEventType().getId()));
 		}
 
 		return readableOutput;

@@ -1,5 +1,6 @@
 package model;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -7,6 +8,7 @@ public class TextFrontEnd
 {
 	Scanner userInput;
 	SimpleBetFairCore betFair;
+	String selectedSport;
 
 	public TextFrontEnd()
 	{
@@ -53,24 +55,29 @@ public class TextFrontEnd
 
 	private boolean sportPrompt()
 	{
+		List<String> results = new ArrayList<String>();
+		
 		while (true)
 		{
-			System.out.println("Options: \n\t\"1\". Get Sports list\n\t\"select 'NUMBER'\". Select the sport with the given id");
+			System.out.println("Options: \n\t\"LIST\". Get Sports list\n\t\"SELECT 'NUMBER'\". Select the sport with the given id");
 
-			int input = userInput.nextInt();
-
-			switch (input)
+			//int input = userInput.nextInt();
+			String input = userInput.nextLine();
+			
+			String[] tokens = input.split(" ");
+			
+			if(tokens[0].equalsIgnoreCase("LIST"))
 			{
-				case 1:
-					List<String> results = betFair.getSportSupportedSportList();
-					for (String resultItem : results)
-						System.out.println(resultItem);
-					break;
-				case 2:
-					System.out.println("We know the selected sport so proceed");
-					// so we print out our games
-				default:
-					break;
+				if(results.isEmpty())
+					results = betFair.getSportSupportedSportList();
+				for(String resultItem: results)
+					System.out.println(resultItem);
+			}
+			else if(tokens[0].equalsIgnoreCase("SELECT"))
+			{
+				int index = Integer.parseInt(tokens[tokens.length-1]);
+				//selected number (1 to 29)
+				selectedSport = results.get(index-1);
 			}
 		}
 	}
