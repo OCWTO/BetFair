@@ -74,7 +74,7 @@ public class BetFairCore
 	protected final String MARKET_PROJECTION = "marketProjection";
 	protected final String PRICE_PROJECTION = "priceProjection";
 	//protected final String MATCH_PROJECTION = "matchProjection";		??		Look at NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
-	
+	HttpUtil requester = new HttpUtil();
 	
 //https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/Betting+Enums#BettingEnums-MatchProjection
 	
@@ -88,8 +88,10 @@ public class BetFairCore
 
 	
 	// TODO implement debug mode
-	public BetFairCore()
+	public BetFairCore(boolean debug)
 	{
+		this.debug = debug;
+		
 		directoryPrefix = System.getProperty("user.dir");
 	}
 
@@ -129,7 +131,8 @@ public class BetFairCore
 			httpPost.setHeader("X-Application", "appkey");
 			// System.out.println("Executing request: "
 			// + httpPost.getRequestLine());
-
+			if(debug)
+				System.out.println("Request: " + httpPost.getRequestLine());
 			// Execute
 			HttpResponse response = httpClient.execute(httpPost);
 			HttpEntity entity = response.getEntity();
@@ -176,12 +179,18 @@ public class BetFairCore
 		request.setParams(params);
 
 		requestString = JsonConverter.convertToJson(request);
-		System.out.println("\nRequest: " + requestString);
+		
+		if(debug)
+			System.out.println("\nRequest: " + requestString);
 
 		// We need to pass the "sendPostRequest" method a string in util format:
 		// requestString
-		HttpUtil requester = new HttpUtil();
-		return requester.sendPostRequestJsonRpc(requestString, operation, appKey, sessionToken);
+		
+		
+		String response = requester.sendPostRequestJsonRpc(requestString, operation, appKey, sessionToken);
+		if(debug)
+			System.out.println("\nRespones: " + response);
+		return response;
 	}
 
 	public void getMarketBook(String marketId) throws Exception
@@ -279,7 +288,7 @@ public class BetFairCore
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
 		params.put(MARKET_IDS, marketIds);
-		System.out.println(marketIds);
+		//System.out.println(marketIds);
 		params.put(PRICE_PROJECTION, priceProjection);
 		//params.put(ORDER_PROJECTION, orderProjection);
 		//params.put(MATCH_PROJECTION, matchProjection);
@@ -289,7 +298,7 @@ public class BetFairCore
 		// ApiNgOperation.LISTMARKETBOOK.getOperationName(), params,
 		// appKey, ssoId);
 		// if (ApiNGDemo.isDebug())
-		System.out.println("\nResponse: " + result);
+		//System.out.println("\nResponse: " + result);
 
 		ListMarketBooksContainer container = JsonConverter.convertFromJson(result, ListMarketBooksContainer.class);
 
@@ -355,7 +364,7 @@ public class BetFairCore
 		// appKey, ssoId);
 		String result = makeRequest(ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
-		System.out.println("\nResponse: " + result);
+		//System.out.println("\nResponse: " + result);
 
 		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(result, ListMarketCatalogueContainer.class);
 
@@ -432,7 +441,7 @@ public class BetFairCore
 		// appKey, ssoId);
 		String result = makeRequest(ApingOperation.LISTEVENTS.toString(), params, liveAppKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
-		System.out.println("\nResponse: " + result);
+		//System.out.println("\nResponse: " + result);
 
 		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(result, ListMarketCatalogueContainer.class);
 
@@ -451,7 +460,7 @@ public class BetFairCore
 		params.put("locale", Locale.getDefault().toString());
 
 		String result = makeRequest(ApingOperation.LISTEVENTTYPES.getOperationName(), params, liveAppKey, sessionToken);
-		System.out.println("\nResponse: " + result);
+		//System.out.println("\nResponse: " + result);
 
 		EventTypeResultContainer container = JsonConverter.convertFromJson(result, EventTypeResultContainer.class);
 		if (container.getError() != null)

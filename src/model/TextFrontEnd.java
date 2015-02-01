@@ -10,9 +10,9 @@ public class TextFrontEnd
 	SimpleBetFairCore betFair;
 	String selectedID;
 	
-	public TextFrontEnd()
+	public TextFrontEnd(boolean debug)
 	{
-		betFair = new SimpleBetFairCore();
+		betFair = new SimpleBetFairCore(debug);
 		userInput = new Scanner(System.in);
 		prompt();
 	}

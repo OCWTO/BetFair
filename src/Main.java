@@ -37,7 +37,7 @@ public class Main
 
 	public static void main(String[] args)
 	{
-		TextFrontEnd ui = new TextFrontEnd();
+		TextFrontEnd ui = new TextFrontEnd(true);
 		//LoginView2 view = new LoginView2();
 		//Application view = new LoginView();
 		//view.launch(args);

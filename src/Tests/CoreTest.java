@@ -11,7 +11,7 @@ public class CoreTest
 	@Test
 	public void testLoginStabilityOnBadDetails()
 	{
-		BetFairCore betFair = new BetFairCore();
+		BetFairCore betFair = new BetFairCore(true);
 		betFair.login("a", "b", "c");
 	}
 }

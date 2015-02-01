@@ -13,9 +13,9 @@ public class SimpleBetFairCore
 {
 	private BetFairCore betFair;// = new Core();
 
-	public SimpleBetFairCore()
+	public SimpleBetFairCore(boolean debug)
 	{
-		betFair = new BetFairCore();
+		betFair = new BetFairCore(debug);
 	}
 
 	// maps to core.login
