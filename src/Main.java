@@ -1,5 +1,7 @@
-import model.BetFairCore;
 import model.TextFrontEnd;
+import javafx.application.Application;
+import views.LoginView;
+import views.LoginView2;
 
 public class Main
 {
@@ -36,5 +38,9 @@ public class Main
 	public static void main(String[] args)
 	{
 		TextFrontEnd ui = new TextFrontEnd();
+		//LoginView2 view = new LoginView2();
+		//Application view = new LoginView();
+		//view.launch(args);
+		//view.launch(args);
 	}
 }

@@ -42,3 +42,7 @@
 	Not started properly working on it yet. I'm delaying collecting data right now because I've had internet going on and off most of the week so far. I've added a package for JUnit testing and I'll start on the report soon. I need to remove ssl certificate file passwords so I can
 	remove my hard coding of unnecessary passwords and then I can start making the code not crash and burn when given bad passwords (since the exception won't be there in the near future). I'll finish on the Text front end today hopefully, get a few basic tests done, rename some classes and evaluate some of my older code and the betfair stuff to see if anything needs refactoring or can be removed. I also forgot to push my git changes for a while so something like 5-10 commits just got pushed on the one day off my laptop. Also need to finish replacing
 	depreceated apache stuff although that's not too high on my priorities. I've started refactoring method names, I'm not 100% sure if I should really be doing it though but it's moving it from BetFair names to their logical names to another person looking at this code e.g. from getEvents to getGames.
+
+1/2/15:
+	Started working on the project again. I'm currently deciding between javafx or swing. Whilst deciding
+	I'm back to working on the textual front-end that I plan on replacing soon. Plan for this week is to get the GUI partially done and have collected lots of game data.

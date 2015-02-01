@@ -8,8 +8,8 @@ public class TextFrontEnd
 {
 	Scanner userInput;
 	SimpleBetFairCore betFair;
-	String selectedSport;
-
+	String selectedID;
+	
 	public TextFrontEnd()
 	{
 		betFair = new SimpleBetFairCore();
@@ -29,10 +29,27 @@ public class TextFrontEnd
 		{
 			if (sportPrompt())
 			{
+				if(gamePrompt())
+				{
+					
+				}
 				System.out.println("next stage");
 			}
 		}
 		// System.out.println("Options: \n\t1. Get Sports list\n2. ");
+	}
+
+	private boolean gamePrompt()
+	{
+		System.out.println("Pick a game you want to record\n\tSELECT 'ID'");
+		List<String> gameList = betFair.getGameListForSport(selectedID);
+		
+		
+		while(true)
+		{
+			
+		}
+		
 	}
 
 	// TODO provide exits
@@ -69,7 +86,7 @@ public class TextFrontEnd
 			if(tokens[0].equalsIgnoreCase("LIST"))
 			{
 				if(results.isEmpty())
-					results = betFair.getSportSupportedSportList();
+					results = betFair.getSupportedSportList();
 				for(String resultItem: results)
 					System.out.println(resultItem);
 			}
@@ -77,9 +94,10 @@ public class TextFrontEnd
 			{
 				int index = Integer.parseInt(tokens[tokens.length-1]);
 				//selected number (1 to 29)
-				selectedSport = results.get(index-1);
+				String[] selectedTokens = results.get(index).split(" ");
+				selectedID = selectedTokens[selectedTokens.length-1];
+				return true;
 			}
 		}
 	}
-
 }

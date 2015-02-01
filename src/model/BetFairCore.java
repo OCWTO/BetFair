@@ -188,7 +188,7 @@ public class BetFairCore
 	{
 		// 1.116584263
 
-		ApingOperation jsonOperations;
+		//ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
 		eventCode.add(Integer.toString(6423));
 
@@ -307,7 +307,7 @@ public class BetFairCore
 	 * @param sportID - String representing the games BetFair ID.
 	 * @throws Exception
 	 */
-	public List<MarketCatalogue> getGames(String sportID) throws Exception
+	public List<MarketCatalogue> getGames(String sportID)
 	{
 		Set<String> eventCode = new HashSet<String>();
 		eventCode.add(sportID);
@@ -320,7 +320,7 @@ public class BetFairCore
 		
 	
 		Set<String> countries = new HashSet<String>();
-		countries.add("ES");
+		//countries.add("ES");
 
 		Set<String> typesCode = new HashSet<String>();
 		//typesCode.add("WIN");
@@ -328,15 +328,16 @@ public class BetFairCore
 		MarketFilter marketFilter = new MarketFilter();
 		marketFilter.setEventTypeIds(eventCode);
 		marketFilter.setMarketStartTime(timeRange);
-		marketFilter.setMarketCountries(countries);
-		marketFilter.setMarketTypeCodes(typesCode);
+		//marketFilter.setMarketCountries(countries);
+		//marketFilter.setMarketTypeCodes(typesCode);
 
 		Set<MarketProjection> marketProjection = new HashSet<MarketProjection>();
 		marketProjection.add(MarketProjection.RUNNER_DESCRIPTION);
 
-		String maxResults = "1";
+		//String maxResults = "10";
 
-		return listEvents(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults, liveAppKey,sessionToken);
+		//return listEvents(marketFilter, null, MarketSort.FIRST_TO_START, maxResults);
+		return listEvents(marketFilter, null, MarketSort.FIRST_TO_START);
 	}
 
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
@@ -373,7 +374,7 @@ public class BetFairCore
 
 	public void getMarketCatalogue(String eventId, String marketId, int toDate) throws Exception
 	{
-		ApingOperation jsonOperations;
+		//ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
 		eventCode.add(eventId);
 
@@ -417,19 +418,19 @@ public class BetFairCore
 				"200", liveAppKey, sessionToken);
 	}
 
-	public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
-			String appKey, String ssoId) throws Exception
+	//public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult)
+	public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort)
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		//params.put(LOCALE, Locale.getDefault().toString());
 		params.put(FILTER, filter);
 		params.put(SORT, sort);
-		params.put(MAX_RESULT, maxResult);
-		params.put(MARKET_PROJECTION, marketProjection);
+		//params.put(MAX_RESULT, maxResult);
+		//params.put(MARKET_PROJECTION, marketProjection);
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(ApingOperation.LISTEVENTS.toString(), params, appKey, sessionToken);
+		String result = makeRequest(ApingOperation.LISTEVENTS.toString(), params, liveAppKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
 		System.out.println("\nResponse: " + result);
 

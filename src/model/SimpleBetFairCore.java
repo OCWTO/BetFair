@@ -6,6 +6,7 @@ import java.util.List;
 import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.LoginResponse;
+import betfairUtils.MarketCatalogue;
 import betfairUtils.MarketFilter;
 
 public class SimpleBetFairCore
@@ -29,7 +30,7 @@ public class SimpleBetFairCore
 	}
 
 	// maps to core.geteventlist
-	public List<String> getSportSupportedSportList()
+	public List<String> getSupportedSportList()
 	{
 		List<EventTypeResult> sportList = betFair.listEventTypes(new MarketFilter());
 		sportList.sort(new EventTypeResultComparator());
@@ -47,6 +48,12 @@ public class SimpleBetFairCore
 		return readableOutput;
 	}
 
+	public List<String> getGameListForSport(String id)
+	{
+		List<MarketCatalogue> gameList = betFair.getGames(id);
+		
+		return null;
+	}
 	// sportlist
 
 	// sportgamelist
