@@ -45,4 +45,4 @@
 
 1/2/15:
 	Started working on the project again. I'm currently deciding between javafx or swing. Whilst deciding
-	I'm back to working on the textual front-end that I plan on replacing soon. Plan for this week is to get the GUI partially done and have collected lots of game data.
+	I'm back to working on the textual front-end that I plan on replacing soon. Plan for this week is to get the GUI partially done and have collected lots of game data. Ended up replacing most depreceated apache code. What's left is the SSL stuff I don't fully understand.

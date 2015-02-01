@@ -74,7 +74,7 @@ public class BetFairCore
 	protected final String MARKET_PROJECTION = "marketProjection";
 	protected final String PRICE_PROJECTION = "priceProjection";
 	//protected final String MATCH_PROJECTION = "matchProjection";		??		Look at NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
-	HttpUtil requester = new HttpUtil();
+	private HttpUtil requester;
 	
 //https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/Betting+Enums#BettingEnums-MatchProjection
 	
@@ -91,7 +91,7 @@ public class BetFairCore
 	public BetFairCore(boolean debug)
 	{
 		this.debug = debug;
-		
+		requester = new HttpUtil();
 		directoryPrefix = System.getProperty("user.dir");
 	}
 
@@ -105,14 +105,25 @@ public class BetFairCore
 		try
 		{
 			// SSL stuff
-			SSLContext ctx = SSLContext.getInstance("TLS");
+//			SSLContext sslContext = SSLContext.getInstance("TLS");
 			// KeyManager[] keyManagers = getKeyManagers("pkcs12",new
 			// FileInputStream(new File(dirPrefix +
 			// "\\certs\\client-2048.p12")), filePassword);
 			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")), filePassword);
 
-			ctx.init(keyManagers, null, new SecureRandom());
-			SSLSocketFactory factory = new SSLSocketFactory(ctx, new StrictHostnameVerifier());
+			SSLContext sslContext = SSLContext.getInstance("TLS");
+			
+			
+			sslContext.init(keyManagers, null, new SecureRandom());
+//			
+//			SSLContext sslContext = SSLContexts.custom()
+//			        .useTLS()
+//			        .loadTrustMaterial(myTrustStore)
+//			        .build();
+//			SSLConnectionSocketFactory sslsf = new SSLConnectionSocketFactory(sslContext);
+//			
+			
+			SSLSocketFactory factory = new SSLSocketFactory(sslContext, new StrictHostnameVerifier());
 			ClientConnectionManager manager = httpClient.getConnectionManager();
 			manager.getSchemeRegistry().register(new Scheme("https", httpsPort, factory));
 
