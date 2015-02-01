@@ -27,6 +27,7 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.conn.ClientConnectionManager;
 import org.apache.http.conn.scheme.Scheme;
+import org.apache.http.conn.ssl.SSLContexts;
 import org.apache.http.conn.ssl.SSLSocketFactory;
 import org.apache.http.conn.ssl.StrictHostnameVerifier;
 import org.apache.http.impl.client.DefaultHttpClient;
@@ -112,6 +113,22 @@ public class BetFairCore
 			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")), filePassword);
 
 			SSLContext sslContext = SSLContext.getInstance("TLS");
+			
+			
+			
+			//SSLContext test = SSLContexts.custom().
+			
+			//KeyStore myTrustStore = <...>
+//			SSLContext ss2 = SSLContexts.custom()
+//			        .useTLS()
+//			        .loadTrustMaterial(keyManger)
+//			        .build();
+//			SSLConnectionSocketFactory sslsf = new SSLConnectionSocketFactory(ss2);
+			
+			
+			//SSLContext sslC = SSLContexts.custom().useTLS().
+			
+			
 			
 			
 			sslContext.init(keyManagers, null, new SecureRandom());
