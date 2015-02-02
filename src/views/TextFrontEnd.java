@@ -1,8 +1,10 @@
-package model;
+package views;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+import model.SimpleBetFairCore;
 
 public class TextFrontEnd
 {

@@ -111,7 +111,9 @@ public class BetFairCore
 			// FileInputStream(new File(dirPrefix +
 			// "\\certs\\client-2048.p12")), filePassword);
 			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")), filePassword);
-
+			
+			
+			//KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File("C:/MinGW/msys/1.0/var/ssl/client-2048.p12")), filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
 			
 			

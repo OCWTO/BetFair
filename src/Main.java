@@ -1,7 +1,7 @@
-import model.TextFrontEnd;
 import javafx.application.Application;
 import views.LoginView;
 import views.LoginView2;
+import views.TextFrontEnd;
 
 public class Main
 {
