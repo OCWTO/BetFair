@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import Exceptions.CryptoException;
 import model.SimpleBetFairCore;
 
 public class TextFrontEnd
@@ -43,13 +44,13 @@ public class TextFrontEnd
 
 	private boolean gamePrompt()
 	{
-		System.out.println("Pick a game you want to record\n\tSELECT 'ID'");
-		List<String> gameList = betFair.getGameListForSport(selectedID);
-		
+		List<String> gameList = betFair.getGameListForSport(selectedID);	
 		
 		while(true)
 		{
-			
+			System.out.println("Pick a game you want to record\n\tSELECT 'ID'");
+			String response = userInput.nextLine();
+			//String id
 		}
 		
 	}
@@ -65,9 +66,17 @@ public class TextFrontEnd
 
 			if (details.length == 3)
 			{
-				String response = betFair.login(details[0], details[1], details[2]);
-				if (response.equalsIgnoreCase("success"))
-					return true;
+				String response;
+				try
+				{
+					response = betFair.login(details[0], details[1], details[2]);
+					if (response.equalsIgnoreCase("success"))
+						return true;
+				}
+				catch (CryptoException e)
+				{
+					e.printStackTrace();
+				}
 			}
 		}
 	}

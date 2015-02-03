@@ -1,3 +1,8 @@
+import java.util.List;
+
+import Exceptions.CryptoException;
+import model.BetFairCore;
+import model.SimpleBetFairCore;
 import javafx.application.Application;
 import views.LoginView;
 import views.LoginView2;
@@ -37,7 +42,26 @@ public class Main
 
 	public static void main(String[] args)
 	{
-		TextFrontEnd ui = new TextFrontEnd(true);
+		//TextFrontEnd ui = new TextFrontEnd(true);
+		
+		
+		SimpleBetFairCore core = new SimpleBetFairCore(true);
+		try
+		{
+			core.login("0ocwto0", "2014Project", "project");
+		}
+		catch (CryptoException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		List<String> ls = core.getGameListForSport("1");
+		
+		for(int i = 0; i < ls.size();i++)
+		{
+			System.out.println(ls.get(i));
+		}
+		
 		//LoginView2 view = new LoginView2();
 		//Application view = new LoginView();
 		//view.launch(args);

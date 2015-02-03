@@ -16,6 +16,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
+import javax.crypto.BadPaddingException;
 import javax.net.ssl.KeyManager;
 import javax.net.ssl.KeyManagerFactory;
 import javax.net.ssl.SSLContext;
@@ -34,6 +35,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
+import Exceptions.CryptoException;
 import betfairUtils.ApingOperation;
 import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultContainer;
@@ -57,29 +59,37 @@ import com.google.gson.Gson;
 
 public class BetFairCore
 {
-	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a";	//Live app key for fast calls
-	private static final String delayedAppKey = "scQ6H11vdb6C4s7t";	//Delayed app key for slower calls
+	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a"; // Live app key
+																	// for fast
+																	// calls
+	private static final String delayedAppKey = "scQ6H11vdb6C4s7t"; // Delayed
+																	// app key
+																	// for
+																	// slower
+																	// calls
 	private static final int httpsPort = 443;
-	
+
 	private String sessionToken;
-	
+
 	private String directoryPrefix;
-	
+
 	private boolean debug = false;
-	
-	protected final String FILTER = "filter";		//Pretty much the same as MARKET_IDS but it's not a parameter in certain calls
-	//protected final String LOCALE = "locale";
+
+	protected final String FILTER = "filter"; // Pretty much the same as
+												// MARKET_IDS but it's not a
+												// parameter in certain calls
+	// protected final String LOCALE = "locale";
 	protected final String SORT = "sort";
 	protected final String MAX_RESULT = "maxResults";
 	protected final String MARKET_IDS = "marketIds";
 	protected final String MARKET_PROJECTION = "marketProjection";
 	protected final String PRICE_PROJECTION = "priceProjection";
-	//protected final String MATCH_PROJECTION = "matchProjection";		??		Look at NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
+	// protected final String MATCH_PROJECTION = "matchProjection"; ?? Look at
+	// NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
 	private HttpUtil requester;
-	
-//https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/Betting+Enums#BettingEnums-MatchProjection
-	
-	
+
+	// https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/Betting+Enums#BettingEnums-MatchProjection
+
 	// Special method for login (ssl connection and encrypted password sent)
 	// So special method for a request too
 
@@ -87,7 +97,6 @@ public class BetFairCore
 
 	// Look at enums
 
-	
 	// TODO implement debug mode
 	public BetFairCore(boolean debug)
 	{
@@ -96,7 +105,9 @@ public class BetFairCore
 		directoryPrefix = System.getProperty("user.dir");
 	}
 
-	public LoginResponse login(String username, String password, String filePassword)
+	// File not found will be avoided using the ui to locate the key thingy
+	public LoginResponse login(String username, String password,
+			String filePassword) throws CryptoException
 	{
 		LoginResponse responseObject = new LoginResponse();
 		// Client important since it will do requests for us?
@@ -106,48 +117,51 @@ public class BetFairCore
 		try
 		{
 			// SSL stuff
-//			SSLContext sslContext = SSLContext.getInstance("TLS");
+			// SSLContext sslContext = SSLContext.getInstance("TLS");
 			// KeyManager[] keyManagers = getKeyManagers("pkcs12",new
 			// FileInputStream(new File(dirPrefix +
 			// "\\certs\\client-2048.p12")), filePassword);
-			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")), filePassword);
-			
-			
-			//KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File("C:/MinGW/msys/1.0/var/ssl/client-2048.p12")), filePassword);
+			KeyManager[] keyManagers = getKeyManagers("pkcs12",
+					new FileInputStream(new File(directoryPrefix
+							+ "/certs/client-2048.p12")), filePassword);
+
+			// KeyManager[] keyManagers = getKeyManagers("pkcs12", new
+			// FileInputStream(new
+			// File("C:/MinGW/msys/1.0/var/ssl/client-2048.p12")),
+			// filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
-			
-			
-			
-			//SSLContext test = SSLContexts.custom().
-			
-			//KeyStore myTrustStore = <...>
-//			SSLContext ss2 = SSLContexts.custom()
-//			        .useTLS()
-//			        .loadTrustMaterial(keyManger)
-//			        .build();
-//			SSLConnectionSocketFactory sslsf = new SSLConnectionSocketFactory(ss2);
-			
-			
-			//SSLContext sslC = SSLContexts.custom().useTLS().
-			
-			
-			
-			
+
+			// SSLContext test = SSLContexts.custom().
+
+			// KeyStore myTrustStore = <...>
+			// SSLContext ss2 = SSLContexts.custom()
+			// .useTLS()
+			// .loadTrustMaterial(keyManger)
+			// .build();
+			// SSLConnectionSocketFactory sslsf = new
+			// SSLConnectionSocketFactory(ss2);
+
+			// SSLContext sslC = SSLContexts.custom().useTLS().
+
 			sslContext.init(keyManagers, null, new SecureRandom());
-//			
-//			SSLContext sslContext = SSLContexts.custom()
-//			        .useTLS()
-//			        .loadTrustMaterial(myTrustStore)
-//			        .build();
-//			SSLConnectionSocketFactory sslsf = new SSLConnectionSocketFactory(sslContext);
-//			
-			
-			SSLSocketFactory factory = new SSLSocketFactory(sslContext, new StrictHostnameVerifier());
+			//
+			// SSLContext sslContext = SSLContexts.custom()
+			// .useTLS()
+			// .loadTrustMaterial(myTrustStore)
+			// .build();
+			// SSLConnectionSocketFactory sslsf = new
+			// SSLConnectionSocketFactory(sslContext);
+			//
+
+			SSLSocketFactory factory = new SSLSocketFactory(sslContext,
+					new StrictHostnameVerifier());
 			ClientConnectionManager manager = httpClient.getConnectionManager();
-			manager.getSchemeRegistry().register(new Scheme("https", httpsPort, factory));
+			manager.getSchemeRegistry().register(
+					new Scheme("https", httpsPort, factory));
 
 			// Making a post object
-			HttpPost httpPost = new HttpPost("https://identitysso.betfair.com/api/certlogin");
+			HttpPost httpPost = new HttpPost(
+					"https://identitysso.betfair.com/api/certlogin");
 
 			// Name value pair used for parameters?
 			List<NameValuePair> nvps = new ArrayList<NameValuePair>();
@@ -161,7 +175,7 @@ public class BetFairCore
 			httpPost.setHeader("X-Application", "appkey");
 			// System.out.println("Executing request: "
 			// + httpPost.getRequestLine());
-			if(debug)
+			if (debug)
 				System.out.println("Request: " + httpPost.getRequestLine());
 			// Execute
 			HttpResponse response = httpClient.execute(httpPost);
@@ -170,9 +184,11 @@ public class BetFairCore
 			// System.out.println();
 			// System.out.println(response.getStatusLine());
 
+			//bad password exception here
 			if (entity != null)
 			{
-				responseObject = gson.fromJson(EntityUtils.toString(entity), LoginResponse.class);
+				responseObject = gson.fromJson(EntityUtils.toString(entity),
+						LoginResponse.class);
 				// System.out.println(responseObject);
 				if (debug)
 					System.out.println("Response:" + responseObject.toString());
@@ -182,24 +198,33 @@ public class BetFairCore
 				// List<EventTypeResult> r = listEventTypes(new MarketFilter(),
 				// liveKey, responseObject.getSessionToken());
 
-				// return responseObject;
+				//return responseObject;
 			}
-		} catch (FileNotFoundException e)
-		{
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (Exception e)
-		{
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} finally
-		{
-			httpClient.getConnectionManager().shutdown();
-			return responseObject;
 		}
+		catch (Throwable e)
+		{
+			if(e.getCause().getClass().toString().contains("BadPaddingException"))
+			{
+				System.out.println("throwing");
+				throw new CryptoException("Issue with given file/password" + e.getMessage());
+			}
+			System.out.println("NO");
+			//TODO figure out what else can happen here
+			e.printStackTrace();
+		}
+//		finally
+//		{
+//			System.out.println("THIS?");
+//			//httpClient.getConnectionManager().shutdown();
+//			//return responseObject;
+//		}
+		return responseObject;
 	}
 
-	protected String makeRequest(String operation, Map<String, Object> params, String appKey, String ssoToken)
+	
+	//TODO******* check if logged in before any calls
+	protected String makeRequest(String operation, Map<String, Object> params,
+			String appKey, String ssoToken)
 	{
 		String requestString;
 		// Handling the JSON-RPC request
@@ -209,17 +234,17 @@ public class BetFairCore
 		request.setParams(params);
 
 		requestString = JsonConverter.convertToJson(request);
-		
-		if(debug)
+
+		if (debug)
 			System.out.println("\nRequest: " + requestString);
 
 		// We need to pass the "sendPostRequest" method a string in util format:
 		// requestString
-		
-		
-		String response = requester.sendPostRequestJsonRpc(requestString, operation, appKey, sessionToken);
-		if(debug)
-			System.out.println("\nRespones: " + response);
+
+		String response = requester.sendPostRequestJsonRpc(requestString,
+				operation, appKey, sessionToken);
+		if (debug)
+			System.out.println("\nResponse: " + response);
 		return response;
 	}
 
@@ -227,7 +252,7 @@ public class BetFairCore
 	{
 		// 1.116584263
 
-		//ApingOperation jsonOperations;
+		// ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
 		eventCode.add(Integer.toString(6423));
 
@@ -287,7 +312,8 @@ public class BetFairCore
 		// orderProjection, matchProjection, currencyCode,
 		// applicationKey, sessionToken);
 
-		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds, priceProjection, null, null, null, liveAppKey, sessionToken);
+		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds,
+				priceProjection, null, null, null, liveAppKey, sessionToken);
 		// System.out.println(marketCatalogueResult.get(0).g);
 		// System.out
 		// .println("6.(listMarketBook) Get volatile info for Market including best 3 exchange prices available...\n");
@@ -312,25 +338,29 @@ public class BetFairCore
 
 	}
 
-	public List<MarketBook> listMarketBook(List<String> marketIds, PriceProjection priceProjection, OrderProjection orderProjection,
-			MarketProjection matchProjection, String currencyCode, String appKey, String ssoId) throws Exception
+	public List<MarketBook> listMarketBook(List<String> marketIds,
+			PriceProjection priceProjection, OrderProjection orderProjection,
+			MarketProjection matchProjection, String currencyCode,
+			String appKey, String ssoId) throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
 		params.put(MARKET_IDS, marketIds);
-		//System.out.println(marketIds);
+		// System.out.println(marketIds);
 		params.put(PRICE_PROJECTION, priceProjection);
-		//params.put(ORDER_PROJECTION, orderProjection);
-		//params.put(MATCH_PROJECTION, matchProjection);
+		// params.put(ORDER_PROJECTION, orderProjection);
+		// params.put(MATCH_PROJECTION, matchProjection);
 		params.put("currencyCode", currencyCode);
-		String result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, appKey, sessionToken);
+		String result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(),
+				params, appKey, sessionToken);
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETBOOK.getOperationName(), params,
 		// appKey, ssoId);
 		// if (ApiNGDemo.isDebug())
-		//System.out.println("\nResponse: " + result);
+		// System.out.println("\nResponse: " + result);
 
-		ListMarketBooksContainer container = JsonConverter.convertFromJson(result, ListMarketBooksContainer.class);
+		ListMarketBooksContainer container = JsonConverter.convertFromJson(
+				result, ListMarketBooksContainer.class);
 
 		if (container.getError() != null)
 			System.out.println("CONTAINER ERROR");
@@ -340,10 +370,12 @@ public class BetFairCore
 
 	}
 
-	//TODO: currently only looks 1 day ahead, might want to modify this to look further
+	// TODO: currently only looks 1 day ahead, might want to modify this to look
+	// further
 	/**
 	 * 
-	 * @param sportID - String representing the games BetFair ID.
+	 * @param sportID
+	 *            - String representing the games BetFair ID.
 	 * @throws Exception
 	 */
 	public List<MarketCatalogue> getGames(String sportID)
@@ -352,38 +384,49 @@ public class BetFairCore
 		eventCode.add(sportID);
 
 		TimeRange timeRange = new TimeRange();
-		Date fromDate = new Date(); //Todays date
-		Date toDate = new Date(fromDate.getTime() + (24*60*60*1000)); //24 hours from todays date, set in ms from 1970.	
+		Date fromDate = new Date(); // Todays date
+		Date toDate = new Date(fromDate.getTime() + (24 * 60 * 60 * 1000)); // 24
+																			// hours
+																			// from
+																			// todays
+																			// date,
+																			// set
+																			// in
+																			// ms
+																			// from
+																			// 1970.
 		timeRange.setFrom(fromDate);
 		timeRange.setTo(toDate);
-		
-	
+
 		Set<String> countries = new HashSet<String>();
-		//countries.add("ES");
+		// countries.add("ES");
 
 		Set<String> typesCode = new HashSet<String>();
-		//typesCode.add("WIN");
+		// typesCode.add("WIN");
 
 		MarketFilter marketFilter = new MarketFilter();
 		marketFilter.setEventTypeIds(eventCode);
 		marketFilter.setMarketStartTime(timeRange);
-		//marketFilter.setMarketCountries(countries);
-		//marketFilter.setMarketTypeCodes(typesCode);
+		// marketFilter.setMarketCountries(countries);
+		// marketFilter.setMarketTypeCodes(typesCode);
 
 		Set<MarketProjection> marketProjection = new HashSet<MarketProjection>();
 		marketProjection.add(MarketProjection.RUNNER_DESCRIPTION);
 
-		//String maxResults = "10";
+		// String maxResults = "10";
 
-		//return listEvents(marketFilter, null, MarketSort.FIRST_TO_START, maxResults);
+		// return listEvents(marketFilter, null, MarketSort.FIRST_TO_START,
+		// maxResults);
 		return listEvents(marketFilter, null, MarketSort.FIRST_TO_START);
 	}
 
-	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult,
-			String maxResults, String appKey, String ssoId) throws Exception
+	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
+			Set<MarketProjection> marketProjection, MarketSort sort,
+			String maxResult, String maxResults, String appKey, String ssoId)
+			throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
-		//params.put(LOCALE, Locale.getDefault().toString());
+		// params.put(LOCALE, Locale.getDefault().toString());
 		params.put(FILTER, filter);
 		params.put(MAX_RESULT, maxResults);
 		params.put(SORT, sort);
@@ -392,11 +435,14 @@ public class BetFairCore
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey, sessionToken);
+		String result = makeRequest(
+				ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey,
+				sessionToken);
 		// if (ApiNGDemo.isDebug())
-		//System.out.println("\nResponse: " + result);
+		// System.out.println("\nResponse: " + result);
 
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(result, ListMarketCatalogueContainer.class);
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
+				result, ListMarketCatalogueContainer.class);
 
 		if (container.getError() != null)
 			System.out.println("EXPCEITON");
@@ -411,9 +457,10 @@ public class BetFairCore
 		// 1}'
 	}
 
-	public void getMarketCatalogue(String eventId, String marketId, int toDate) throws Exception
+	public void getMarketCatalogue(String eventId, String marketId, int toDate)
+			throws Exception
 	{
-		//ApingOperation jsonOperations;
+		// ApingOperation jsonOperations;
 		Set<String> eventCode = new HashSet<String>();
 		eventCode.add(eventId);
 
@@ -453,27 +500,33 @@ public class BetFairCore
 		marketProjection.addAll(projs);
 		String maxResults = "1";
 
-		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults,
-				"200", liveAppKey, sessionToken);
+		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(
+				marketFilter, marketProjection, MarketSort.FIRST_TO_START,
+				maxResults, "200", liveAppKey, sessionToken);
 	}
 
-	//public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResult)
-	public List<MarketCatalogue> listEvents(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort)
+	// public List<MarketCatalogue> listEvents(MarketFilter filter,
+	// Set<MarketProjection> marketProjection, MarketSort sort, String
+	// maxResult)
+	public List<MarketCatalogue> listEvents(MarketFilter filter,
+			Set<MarketProjection> marketProjection, MarketSort sort)
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
-		//params.put(LOCALE, Locale.getDefault().toString());
+		// params.put(LOCALE, Locale.getDefault().toString());
 		params.put(FILTER, filter);
 		params.put(SORT, sort);
-		//params.put(MAX_RESULT, maxResult);
-		//params.put(MARKET_PROJECTION, marketProjection);
+		// params.put(MAX_RESULT, maxResult);
+		// params.put(MARKET_PROJECTION, marketProjection);
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(ApingOperation.LISTEVENTS.toString(), params, liveAppKey, sessionToken);
+		String result = makeRequest(ApingOperation.LISTEVENTS.toString(),
+				params, liveAppKey, sessionToken);
 		// if (ApiNGDemo.isDebug())
-		//System.out.println("\nResponse: " + result);
+		// System.out.println("\nResponse: " + result);
 
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(result, ListMarketCatalogueContainer.class);
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
+				result, ListMarketCatalogueContainer.class);
 
 		if (container.getError() != null)
 			System.out.println("EXPCEITON");
@@ -489,21 +542,26 @@ public class BetFairCore
 		params.put("filter", filter);
 		params.put("locale", Locale.getDefault().toString());
 
-		String result = makeRequest(ApingOperation.LISTEVENTTYPES.getOperationName(), params, liveAppKey, sessionToken);
-		//System.out.println("\nResponse: " + result);
+		String result = makeRequest(
+				ApingOperation.LISTEVENTTYPES.getOperationName(), params,
+				liveAppKey, sessionToken);
+		// System.out.println("\nResponse: " + result);
 
-		EventTypeResultContainer container = JsonConverter.convertFromJson(result, EventTypeResultContainer.class);
+		EventTypeResultContainer container = JsonConverter.convertFromJson(
+				result, EventTypeResultContainer.class);
 		if (container.getError() != null)
 			System.out.println("err");
 
 		return container.getResult();
 	}
 
-	private KeyManager[] getKeyManagers(String keyStoreType, InputStream keyStoreFile, String keyStorePassword) throws Exception
+	private KeyManager[] getKeyManagers(String keyStoreType,
+			InputStream keyStoreFile, String keyStorePassword) throws Exception
 	{
 		KeyStore keyStore = KeyStore.getInstance(keyStoreType);
 		keyStore.load(keyStoreFile, keyStorePassword.toCharArray());
-		KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory.getDefaultAlgorithm());
+		KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory
+				.getDefaultAlgorithm());
 		kmf.init(keyStore, keyStorePassword.toCharArray());
 		return kmf.getKeyManagers();
 	}

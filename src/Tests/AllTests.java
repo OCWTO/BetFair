@@ -7,7 +7,7 @@ import org.junit.runners.Suite.SuiteClasses;
 //main creates all of the lower test classes and calls runall
 
 @RunWith(Suite.class)
-@SuiteClasses({CoreTest.class})
+@SuiteClasses({BetFairCoreTest.class})
 public class AllTests
 {
 

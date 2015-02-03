@@ -49,3 +49,6 @@
 
 2/2/15:
 	Fixed my p12 certificate and did some work on tests. Currently thinking about how I'll deal with exceptions which ties into my test strategy.
+
+3/2/15:
+	Fixed the tests, had issues with thrown exceptions not being recognised properly in the test. I added functionality to grab the list of all games in the next x days. Next up will be requesting game results and then I'll write a little class that will be used to managed Runnables which will be scheduled to start fetching data when a game starts until it's end. I still need to look into fields to see what signifys a start end, market opens before games? do markets shut at half time? etc.
