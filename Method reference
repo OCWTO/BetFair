@@ -1,0 +1,11 @@
+method reference
+
+getmarketcatalogue
+
+1.117098800	marketid
+Both teams to Score?	marketname
+{id=59,name=Bundesliga 1}	competition
+null	description
+{id=27355705,name=FC Koln v Stuttgart,countryCode=DE,timezone=Europe/London,venue=null,openDate=Wed Feb 04 19:00:00 GMT 2015,}	event
+{id=1,name=Soccer}	event type
+[{selectionId=30246,runnerName=Yes,handicap=0.0,}, {selectionId=110503,runnerName=No,handicap=0.0,}]	runners

@@ -9,8 +9,10 @@ import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.LoginResponse;
 import betfairUtils.MarketCatalogue;
+import betfairUtils.MarketCatalogueComparator;
 import betfairUtils.MarketFilter;
 
+//In this class I take the betfair outputs and format them into readable strings
 public class SimpleBetFairCore
 {
 	private BetFairCore betFair;// = new Core();
@@ -57,6 +59,8 @@ public class SimpleBetFairCore
 	public List<String> getGameListForSport(String id)
 	{
 		List<MarketCatalogue> gameList = betFair.getGames(id);
+		//game);
+		gameList.sort(new MarketCatalogueComparator());
 		List<String> formattedGameList = new ArrayList<String>();
 		
 		//TODO look at stringbuilder
@@ -70,9 +74,36 @@ public class SimpleBetFairCore
 		//return null;
 		return formattedGameList;
 	}
+	
+	public List<String> getMarketsForGame(String gameId)
+	{
+		List<MarketCatalogue> marketList = betFair.getMarketCatalogue(gameId);
+		List<String> formattedMarketList = new ArrayList<String>();
+		for(int i = 0; i < marketList.size(); i++)
+		{
+			formattedMarketList.add(i + "," + marketList.get(i).getMarketName() + "," + marketList.get(i).getMarketId());
+		}
+//		
+//		System.out.println(marketList.get(0));
+//		System.out.println(marketList.size());
+//		
+//		System.out.println(marketList.get(0).getMarketId());
+//		System.out.println(marketList.get(0).getMarketName());
+//		System.out.println(marketList.get(0).getCompetition());
+//		System.out.println(marketList.get(0).getDescription());
+//		System.out.println(marketList.get(0).getEvent());
+//		System.out.println(marketList.get(0).getEventType());
+//		System.out.println(marketList.get(0).getRunners());
+		return formattedMarketList;
+	}
 	// sportlist
 
 	// sportgamelist
 
 	// ...
+	
+	public BetFairCore getBetFair()
+	{
+		return this.betFair;
+	}
 }

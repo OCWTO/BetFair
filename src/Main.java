@@ -45,22 +45,31 @@ public class Main
 		//TextFrontEnd ui = new TextFrontEnd(true);
 		
 		
-		SimpleBetFairCore core = new SimpleBetFairCore(true);
+		BetFairCore core = new BetFairCore(true);
 		try
 		{
 			core.login("0ocwto0", "2014Project", "project");
+			try
+			{
+				core.getMarketBook("1.117170997");
+			}
+			catch (Exception e)
+			{
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 		catch (CryptoException e)
 		{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		List<String> ls = core.getGameListForSport("1");
-		
-		for(int i = 0; i < ls.size();i++)
-		{
-			System.out.println(ls.get(i));
-		}
+//		List<String> ls = core.getGameListForSport("1");
+//		
+//		for(int i = 0; i < ls.size();i++)
+//		{
+//			System.out.println(ls.get(i));
+//		}
 		
 		//LoginView2 view = new LoginView2();
 		//Application view = new LoginView();

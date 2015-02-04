@@ -248,7 +248,8 @@ public class BetFairCore
 		return response;
 	}
 
-	public void getMarketBook(String marketId) throws Exception
+	//TODO allow multiple
+	public List<MarketBook> getMarketBook(String marketId) throws Exception
 	{
 		// 1.116584263
 
@@ -312,7 +313,7 @@ public class BetFairCore
 		// orderProjection, matchProjection, currencyCode,
 		// applicationKey, sessionToken);
 
-		List<MarketBook> marketCatalogueResult = listMarketBook(marketIds,
+		return listMarketBook(marketIds,
 				priceProjection, null, null, null, liveAppKey, sessionToken);
 		// System.out.println(marketCatalogueResult.get(0).g);
 		// System.out
@@ -384,17 +385,8 @@ public class BetFairCore
 		eventCode.add(sportID);
 
 		TimeRange timeRange = new TimeRange();
-		Date fromDate = new Date(); // Todays date
-		Date toDate = new Date(fromDate.getTime() + (24 * 60 * 60 * 1000)); // 24
-																			// hours
-																			// from
-																			// todays
-																			// date,
-																			// set
-																			// in
-																			// ms
-																			// from
-																			// 1970.
+		Date fromDate = new Date(new Date().getTime() - (90 * 60 * 1000)); //90 Mins in the past so you can get in play games
+		Date toDate = new Date(new Date().getTime() + (24 * 60 * 60 * 1000)); //24 hours from now
 		timeRange.setFrom(fromDate);
 		timeRange.setTo(toDate);
 
@@ -423,7 +415,6 @@ public class BetFairCore
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
 			Set<MarketProjection> marketProjection, MarketSort sort,
 			String maxResult, String maxResults, String appKey, String ssoId)
-			throws Exception
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
@@ -457,18 +448,19 @@ public class BetFairCore
 		// 1}'
 	}
 
-	public void getMarketCatalogue(String eventId, String marketId, int toDate)
-			throws Exception
+	
+	//TODO allow multiple marketid sent
+	public List<MarketCatalogue> getMarketCatalogue(String marketId)
 	{
 		// ApingOperation jsonOperations;
-		Set<String> eventCode = new HashSet<String>();
-		eventCode.add(eventId);
+		//Set<String> eventCode = new HashSet<String>();
+		//eventCode.add(eventId);
 
-		TimeRange time = new TimeRange();
-		time.setFrom(new Date());
+		//TimeRange time = new TimeRange();
+		//time.setFrom(new Date());
 		Date t = new Date();
-		t.setDate(toDate);
-		time.setTo(t);
+		//t.setDate(toDate);
+		//time.setTo(t);
 		// time.setTo((Date) (new Date().setDate(10)));
 		Set<String> countries = new HashSet<String>();
 		// countries.add("GB");
@@ -503,6 +495,7 @@ public class BetFairCore
 		List<MarketCatalogue> marketCatalogueResult = listMarketCatalogue(
 				marketFilter, marketProjection, MarketSort.FIRST_TO_START,
 				maxResults, "200", liveAppKey, sessionToken);
+		return marketCatalogueResult;
 	}
 
 	// public List<MarketCatalogue> listEvents(MarketFilter filter,
