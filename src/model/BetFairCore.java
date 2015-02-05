@@ -1,5 +1,5 @@
 package model;
-
+//TODO remove old code and replace depreciated
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

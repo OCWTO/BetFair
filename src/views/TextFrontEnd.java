@@ -12,17 +12,22 @@ public class TextFrontEnd
 {
 	Scanner userInput;
 	SimpleBetFairCore betFair;
-	GameRecorderManager recorder;
+	//GameRecorderManager recorder;
+	//List<String> tasks
 //	String selectedID;
 //	String gameID;
 //	String sportID;
 //	String gameId;
 //	List<String> markets = new ArrayList<String>();
+	List<String> markets;
+	GameRecorderManager recorder;
 	
 	public TextFrontEnd(boolean debug)
 	{
 		betFair = new SimpleBetFairCore(debug);
-		recorder = new GameRecorderManager(betFair.getBetFair());
+		markets = new ArrayList<String>();
+		Runnable recorder = new GameRecorderManager(betFair.getBetFair(), markets);
+		new Thread(recorder).start();
 		userInput = new Scanner(System.in);
 		prompt();
 	}
@@ -36,14 +41,22 @@ public class TextFrontEnd
 		// prompt for game
 		String sportId;
 		String gameId;
-		List<String> markets = new ArrayList<String>();
 		
 		
+		//LOG IN
 		if (loginPrompt())
 		{
+			//loop around here i think
+			//make list of markets to query
+				//this can probably be a field again. each item in here goes to a new thread
+			
 			sportId = sportPrompt();			//Get the sport they want
 			gameId = gamePrompt(sportId);		//Get the game in the sport they want
 			markets = marketPrompt(gameId);		//Get the markets in the game they want
+			
+			//once we know what we want, make a new recorder
+			
+			
 			recorder.assignTask(markets);
 		}
 	}

@@ -61,3 +61,6 @@
 
 	I think this should be really simple though, I just want to share a list of tasks between my ui and the thread controller, which then distributes and checks on threads progress, probably via another shared list																					
 	(On actual program, could work the same way with the manager running and instead of saving stuff to a file, it adds it to some form of collection it works on)
+
+4/2/15:
+	Decided that I'll get a quick program written that can take results for me, so that i have something done before I meet with Richard on Friday and I hope to finish this multi threaded thing by the weekend. So far sketched it out in pseduo code in comments. 
