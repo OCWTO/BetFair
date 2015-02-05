@@ -11,6 +11,7 @@ public class GameRecorderManager implements Runnable
 	private List<String> taskList;
 	//have thread pool
 	
+	//input is betfair, 
 	public GameRecorderManager(BetFairCore betFair, List<String> taskList)
 	{
 		threadPool = Executors.newFixedThreadPool(10);

@@ -249,7 +249,7 @@ public class BetFairCore
 	}
 
 	//TODO allow multiple
-	public List<MarketBook> getMarketBook(String marketId) throws Exception
+	public List<MarketBook> getMarketBook(String marketId)
 	{
 		// 1.116584263
 
@@ -342,7 +342,7 @@ public class BetFairCore
 	public List<MarketBook> listMarketBook(List<String> marketIds,
 			PriceProjection priceProjection, OrderProjection orderProjection,
 			MarketProjection matchProjection, String currencyCode,
-			String appKey, String ssoId) throws Exception
+			String appKey, String ssoId)
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
