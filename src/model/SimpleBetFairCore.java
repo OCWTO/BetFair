@@ -83,25 +83,10 @@ public class SimpleBetFairCore
 		{
 			formattedMarketList.add(i + "," + marketList.get(i).getMarketName() + "," + marketList.get(i).getMarketId());
 		}
-//		
-//		System.out.println(marketList.get(0));
-//		System.out.println(marketList.size());
-//		
-//		System.out.println(marketList.get(0).getMarketId());
-//		System.out.println(marketList.get(0).getMarketName());
-//		System.out.println(marketList.get(0).getCompetition());
-//		System.out.println(marketList.get(0).getDescription());
-//		System.out.println(marketList.get(0).getEvent());
-//		System.out.println(marketList.get(0).getEventType());
-//		System.out.println(marketList.get(0).getRunners());
+
 		return formattedMarketList;
 	}
-	// sportlist
 
-	// sportgamelist
-
-	// ...
-	
 	public BetFairCore getBetFair()
 	{
 		return this.betFair;

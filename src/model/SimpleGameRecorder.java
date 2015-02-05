@@ -18,7 +18,7 @@ public class SimpleGameRecorder extends TimerTask
 {
 	// TODO consider utilizing the timer class to set up timertasks at given
 	// times
-
+	//TODO use different date representation or use it as well for more readable output
 	// take in betfair, gameid and marketid
 	private BetFairCore betFair;
 	private List<String> collectedData;
@@ -27,11 +27,11 @@ public class SimpleGameRecorder extends TimerTask
 	private String gameId;
 	private String marketId;
 	private String marketName;
-	private Map<Long, String> runnerIds;
-	private Date startDate;
-	private List<MarketBook> tempData;
-	private int counter;
-	private List<Runner> runners;
+	private Map<Long, String> runnerIds;	//NEEDED
+	private Date startDate;		//SORTA NEEDED
+	private List<MarketBook> tempData;	//NEEDED
+	private int counter;	//NEEDED
+	private List<Runner> runners;	//NEEDED
 	private String gameName;
 
 	public SimpleGameRecorder(BetFairCore betFair, String gameId,
