@@ -64,3 +64,6 @@
 
 4/2/15:
 	Decided that I'll get a quick program written that can take results for me, so that i have something done before I meet with Richard on Friday and I hope to finish this multi threaded thing by the weekend. So far sketched it out in pseduo code in comments. 
+
+5/2/15:
+	Finished my simple game data collector. As far as I can tell it works but I won't fully know until about 120 mins from now when the game it's recording ends. For my simple version I'm only observing a single market so I can't tell when half time ends etc, only when game ends (which is when the match odds market ends) once the game ends the data is saved to a file. Right now I'm polling every 5 seconds so a game will be approx 36000 lines of output in its txt... Around about 1k iterations in it crashed since I was accidently calling back bet sizes instead of lays. Tomorrow I plan to talk to Richard about sampling times, need for multithreading for collecting results, how big a sample size I need to start drawing general conclusions, how to analyze all this data.
