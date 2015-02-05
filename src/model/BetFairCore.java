@@ -257,11 +257,11 @@ public class BetFairCore
 		Set<String> eventCode = new HashSet<String>();
 		eventCode.add(Integer.toString(6423));
 
-		TimeRange time = new TimeRange();
-		time.setFrom(new Date());
-		Date t = new Date();
-		t.setDate(31);
-		time.setTo(t);
+		//TimeRange time = new TimeRange();
+		//time.setFrom(new Date());
+		//Date t = new Date();
+		//t.setDate(31);
+		//time.setTo(t);
 		// time.setTo((Date) (new Date().setDate(10)));
 		Set<String> countries = new HashSet<String>();
 		// countries.add("GB");
@@ -450,7 +450,7 @@ public class BetFairCore
 
 	
 	//TODO allow multiple marketid sent
-	public List<MarketCatalogue> getMarketCatalogue(String marketId)
+	public List<MarketCatalogue> getMarketCatalogue(String gameId)
 	{
 		// ApingOperation jsonOperations;
 		//Set<String> eventCode = new HashSet<String>();
@@ -471,7 +471,7 @@ public class BetFairCore
 		MarketFilter marketFilter = new MarketFilter();
 		// marketFilter.setEventTypeIds(eventCode);
 		Set<String> temp = new HashSet<String>();
-		temp.add(marketId);
+		temp.add(gameId);
 		marketFilter.setEventIds(temp);
 		// marketFilter.setMarketStartTime(time);
 		// marketFilter.setMarketCountries(countries);
