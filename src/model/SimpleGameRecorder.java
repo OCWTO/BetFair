@@ -3,12 +3,14 @@ package model;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
+
 import betfairUtils.MarketBook;
 import betfairUtils.MarketCatalogue;
 import betfairUtils.Runner;
@@ -16,40 +18,35 @@ import betfairUtils.RunnerCatalog;
 
 public class SimpleGameRecorder extends TimerTask
 {
-	// TODO consider utilizing the timer class to set up timertasks at given
-	// times
-	//TODO use different date representation or use it as well for more readable output
-	// take in betfair, gameid and marketid
 	private BetFairCore betFair;
 	private List<String> collectedData;
-	// take in betfair
-
-	private String gameId;
-	private String marketId;
-	private String marketName;
-	private Map<Long, String> runnerIds;	//NEEDED
-	private Date startDate;		//SORTA NEEDED
-	private List<MarketBook> tempData;	//NEEDED
-	private int counter;	//NEEDED
-	private List<Runner> runners;	//NEEDED
+	private List<String> formattedCollectedData;
+	private List<MarketBook> tempData;
+	private List<Runner> runners;
+	private Map<Long, String> runnerIds;
 	private String gameName;
+	private String marketId;
+	private long startTimeMS;
+	private int counter;
+	private String selectedRunner;
 
 	public SimpleGameRecorder(BetFairCore betFair, String gameId,
 			String marketId)
 	{
 		this.betFair = betFair;
-		this.gameId = gameId;
 		this.marketId = marketId;
 		counter = 1;
 		collectedData = new ArrayList<String>();
+		formattedCollectedData = new ArrayList<String>();
 		runnerIds = new HashMap<Long, String>();
 		tempData = new ArrayList<MarketBook>();
 		runners = new ArrayList<Runner>();
-		getInitValues();
+		getInitValues(gameId);
 	}
 
-	private void getInitValues()
+	private void getInitValues(String gameId)
 	{
+		String marketName = null;
 		// get market catalogue, get runner names and map to runner id, put in
 		// initial value saying market, starttime, runners
 		List<MarketCatalogue> catalogue = betFair.getMarketCatalogue(gameId);
@@ -60,13 +57,25 @@ public class SimpleGameRecorder extends TimerTask
 			{
 				// store the market name
 				marketName = catalogue.get(i).getMarketName();
-				startDate = catalogue.get(0).getEvent().getOpenDate();
+				startTimeMS = catalogue.get(0).getEvent().getOpenDate()
+						.getTime();
 				// get our mapping from runner id to runner name
 				List<RunnerCatalog> runnerCata = catalogue.get(i).getRunners();
 				for (int j = 0; j < runnerCata.size(); j++)
 				{
 					runnerIds.put(runnerCata.get(j).getSelectionId(),
 							runnerCata.get(j).getRunnerName());
+
+					// if it's not the draw market and we haven't selected a
+					// runner yet
+					if (!runnerCata.get(j).getRunnerName()
+							.equalsIgnoreCase("the draw")
+							&& selectedRunner == null)
+					{
+						selectedRunner = runnerCata.get(j).getRunnerName();
+						formattedCollectedData.add("Selected runner: "
+								+ selectedRunner + ".\n");
+					}
 				}
 				break;
 			}
@@ -76,15 +85,98 @@ public class SimpleGameRecorder extends TimerTask
 				+ catalogue.get(0).getEvent().getOpenDate() + ". Game ID: "
 				+ gameId + ". Market NAME: " + marketName + ". Market ID: "
 				+ marketId + ".\n");
+		formattedCollectedData.add(collectedData.get(0));
 	}
 
-	public Date getStartDate()
+	public long getStartDelay()
 	{
-		return this.startDate;
+		// if started
+		if ((startTimeMS - System.currentTimeMillis()) < 0)
+		{
+			System.out.println("STARTING NOW!");
+			return 0;
+		}
+		System.out.println("WAITING FOR "
+				+ (startTimeMS - System.currentTimeMillis()) + "MS");
+		return startTimeMS - System.currentTimeMillis();
 	}
 
 	@Override
 	public void run()
+	{
+		collectSingleRunnerProbabilityData();
+	}
+
+	// Generates 2 collections, detailed info and stripped TODO refactor this to
+	// be readable...
+	private void collectSingleRunnerProbabilityData()
+	{
+		collectAllRunnersAllData();
+		double workingBack = Integer.MIN_VALUE;
+		double workingLay = Integer.MAX_VALUE;
+
+		tempData = betFair.getMarketBook(marketId);
+		runners = tempData.get(0).getRunners();
+
+		if (!tempData.get(0).getStatus().equals("CLOSED"))
+		{
+			// add timestamp, next up is probability data, highest back+lowest
+			// lay/2
+			formattedCollectedData.add(System.currentTimeMillis() + ",");
+			for (Runner individual : runners)
+			{
+				// if we get to our tracked runner
+				if (runnerIds.get(individual.getSelectionId())
+						.equalsIgnoreCase(selectedRunner))
+				{
+					// get best back, get best lay, get average
+					if (individual.getEx().getAvailableToBack().size() > 0
+							&& individual.getEx().getAvailableToLay().size() > 0)
+					{
+						// all is good! gogo
+						for (int i = 0; i < individual.getEx()
+								.getAvailableToBack().size(); i++)
+						{
+							// get values
+							if (individual.getEx().getAvailableToBack().get(i)
+									.getPrice() > workingBack)
+								workingBack = individual.getEx()
+										.getAvailableToBack().get(i).getPrice();
+						}
+						for (int i = 0; i < individual.getEx()
+								.getAvailableToLay().size(); i++)
+						{
+							if (individual.getEx().getAvailableToLay().get(i)
+									.getPrice() < workingLay)
+								workingLay = individual.getEx()
+										.getAvailableToLay().get(i).getPrice();
+						}
+						formattedCollectedData.add((workingBack + workingLay)
+								/ 2 + "\n");
+					}
+					else
+					{
+						formattedCollectedData.add("\n");
+					}
+				}
+			}
+			System.out.println("Simple Iteration: " + (counter - 1)
+					+ " complete.");
+			System.out
+					.println("Added: "
+							+ formattedCollectedData.get(formattedCollectedData
+									.size() - 1));
+		}
+		else
+		{
+			this.cancel();
+			writeToFile(".csv");
+			System.out.println("Finished, total number of iterations: "
+					+ (counter - 1));
+		}
+	}
+
+	private void collectAllRunnersAllData()
 	{
 		tempData = betFair.getMarketBook(marketId);
 		runners = tempData.get(0).getRunners();
@@ -92,7 +184,8 @@ public class SimpleGameRecorder extends TimerTask
 		if (!tempData.get(0).getStatus().equals("CLOSED"))
 		{
 			collectedData.add("ENTRY: " + counter + "\n");
-			collectedData.add("\tTIME: " + System.currentTimeMillis() + "\n");
+			collectedData.add("\tTIME: " + LocalDateTime.now().toString()
+					+ "\n");
 
 			for (Runner individual : runners)
 			{
@@ -107,7 +200,7 @@ public class SimpleGameRecorder extends TimerTask
 									.getPrice()
 							+ ",SIZE:"
 							+ individual.getEx().getAvailableToBack().get(i)
-									.getSize() + "\n");
+									.getSize() + ")\n");
 				}
 				for (int i = 0; i < individual.getEx().getAvailableToLay()
 						.size(); i++)
@@ -117,7 +210,7 @@ public class SimpleGameRecorder extends TimerTask
 									.getPrice()
 							+ ",SIZE:"
 							+ individual.getEx().getAvailableToLay().get(i)
-									.getSize() + "\n");
+									.getSize() + ")\n");
 				}
 			}
 			System.out.println("Iteration: " + counter + " complete.");
@@ -126,22 +219,34 @@ public class SimpleGameRecorder extends TimerTask
 		else
 		{
 			this.cancel();
-			writeToFile();
-			System.out.println("DONE");
+			writeToFile(".txt");
+			System.out.println("Finished, total number of iterations: "
+					+ counter);
 		}
 	}
 
-	private void writeToFile()
+	private void writeToFile(String type)
 	{
 		BufferedWriter outputWriter;
 		try
 		{
-			outputWriter = new BufferedWriter(new FileWriter("./logs/"
-					+ gameName + ".txt"));
-			for (int i = 0; i < collectedData.size(); i++)
+			outputWriter = new BufferedWriter(new FileWriter("./logs/gamelogs/"
+					+ gameName + type));
+			if (type.equalsIgnoreCase(".txt"))
 			{
+				for (int i = 0; i < collectedData.size(); i++)
+				{
 
-				outputWriter.write(collectedData.get(i));
+					outputWriter.write(collectedData.get(i));
+				}
+			}
+			else
+			{
+				for (int i = 0; i < formattedCollectedData.size(); i++)
+				{
+
+					outputWriter.write(formattedCollectedData.get(i));
+				}
 			}
 			outputWriter.flush();
 			outputWriter.close();
