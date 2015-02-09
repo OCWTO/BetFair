@@ -13,9 +13,11 @@ import betfairUtils.MarketCatalogueComparator;
 import betfairUtils.MarketFilter;
 
 //In this class I take the betfair outputs and format them into readable strings
+//TODO add support for sorting events into separate lists (UK, USA, etc) handy for gui
+//TODO add support for sorting markets into their groupings e.g. match odds, goal line, etc.
 public class SimpleBetFairCore
 {
-	private BetFairCore betFair;// = new Core();
+	private BetFairCore betFair;
 
 	public SimpleBetFairCore(boolean debug)
 	{
@@ -23,6 +25,13 @@ public class SimpleBetFairCore
 	}
 
 	// maps to core.login
+	/**
+	 * @param username BetFair account username
+	 * @param password BetFair account password
+	 * @param certPassword The local p12 certificate files password
+	 * @return The attempted log ins status, either SUCCESS or Login failure with a reason.
+	 * @throws CryptoException if the p12 certificate file cannot be accessed with the given password.
+	 */
 	public String login(String username, String password, String certPassword)
 			throws CryptoException
 	{
@@ -34,18 +43,15 @@ public class SimpleBetFairCore
 		return result.getLoginStatus();
 	}
 
-	// maps to core.geteventlist
+	//Maps to core.listEvents
 	public List<String> getSupportedSportList()
 	{
 		List<EventTypeResult> sportList = betFair
 				.listEventTypes(new MarketFilter());
 		sportList.sort(new EventTypeResultComparator());
-		// sportList.sort(comparing(EventTypeResult :: getName));
 
-		// sportList.get(0).getEventType().
 		List<String> readableOutput = new ArrayList<String>();
 
-		// maybe use stringbuilder here?
 		for (int i = 0; i < sportList.size(); i++)
 		{
 			readableOutput.add(new String(i + " "
@@ -56,6 +62,7 @@ public class SimpleBetFairCore
 		return readableOutput;
 	}
 
+	//Maps to 
 	public List<String> getGameListForSport(String id)
 	{
 		List<MarketCatalogue> gameList = betFair.getGames(id);
@@ -63,7 +70,6 @@ public class SimpleBetFairCore
 		gameList.sort(new MarketCatalogueComparator());
 		List<String> formattedGameList = new ArrayList<String>();
 		
-		//TODO look at stringbuilder
 		Event actualEvent;
 		
 		for(int i=0;i<gameList.size();i++)

@@ -205,11 +205,8 @@ public class BetFairCore
 		{
 			if(e.getCause().getClass().toString().contains("BadPaddingException"))
 			{
-				System.out.println("throwing");
-				throw new CryptoException("Issue with given file/password" + e.getMessage());
+				throw new CryptoException("Issue with given file/password. " + e.getMessage());
 			}
-			System.out.println("NO");
-			//TODO figure out what else can happen here
 			e.printStackTrace();
 		}
 //		finally
@@ -462,10 +459,10 @@ public class BetFairCore
 		//t.setDate(toDate);
 		//time.setTo(t);
 		// time.setTo((Date) (new Date().setDate(10)));
-		Set<String> countries = new HashSet<String>();
+		//Set<String> countries = new HashSet<String>();
 		// countries.add("GB");
 
-		Set<String> typesCode = new HashSet<String>();
+		//Set<String> typesCode = new HashSet<String>();
 		// typesCode.add("WIN");
 
 		MarketFilter marketFilter = new MarketFilter();

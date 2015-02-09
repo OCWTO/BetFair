@@ -5,7 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -13,6 +12,7 @@ import java.util.TimerTask;
 
 import betfairUtils.MarketBook;
 import betfairUtils.MarketCatalogue;
+import betfairUtils.PriceSize;
 import betfairUtils.Runner;
 import betfairUtils.RunnerCatalog;
 
@@ -29,19 +29,28 @@ public class SimpleGameRecorder extends TimerTask
 	private long startTimeMS;
 	private int counter;
 	private String selectedRunner;
-
+	private StringBuilder builder;
+	
+	private final int simplePrintMode = 1;
+	private final int simpleRecordMode = 2;
+	private final int recordAllMode = 3;
+	private int mode;
+	
 	public SimpleGameRecorder(BetFairCore betFair, String gameId,
-			String marketId)
+			String marketId, int mode)
 	{
 		this.betFair = betFair;
 		this.marketId = marketId;
+		this.mode = mode;
 		counter = 1;
 		collectedData = new ArrayList<String>();
 		formattedCollectedData = new ArrayList<String>();
 		runnerIds = new HashMap<Long, String>();
 		tempData = new ArrayList<MarketBook>();
 		runners = new ArrayList<Runner>();
+		builder = new StringBuilder();
 		getInitValues(gameId);
+		
 	}
 
 	private void getInitValues(String gameId)
@@ -66,13 +75,13 @@ public class SimpleGameRecorder extends TimerTask
 					runnerIds.put(runnerCata.get(j).getSelectionId(),
 							runnerCata.get(j).getRunnerName());
 
-					// if it's not the draw market and we haven't selected a
-					// runner yet
+					//Select a runner, anything but the draw
 					if (!runnerCata.get(j).getRunnerName()
 							.equalsIgnoreCase("the draw")
 							&& selectedRunner == null)
 					{
 						selectedRunner = runnerCata.get(j).getRunnerName();
+						System.out.println("Selected runner: " + selectedRunner);
 						formattedCollectedData.add("Selected runner: "
 								+ selectedRunner + ".\n");
 					}
@@ -104,7 +113,69 @@ public class SimpleGameRecorder extends TimerTask
 	@Override
 	public void run()
 	{
-		collectSingleRunnerProbabilityData();
+		if(mode==simplePrintMode)
+		{
+			printSingleRunnerProbabilityData();
+		}
+		else if(mode==simpleRecordMode)
+		{
+			collectSingleRunnerProbabilityData();
+		}
+		else if(mode==recordAllMode)
+		{
+			collectAllRunnersAllData();
+		}
+	}
+	
+	private void printSingleRunnerProbabilityData()
+	{
+		double workingBack = Integer.MIN_VALUE;
+		double workingLay = Integer.MAX_VALUE;
+		
+		if (!betFair.getMarketBook(marketId).get(0).getStatus().equals("CLOSED"))
+		{
+			//Time stamp
+			builder.append(System.currentTimeMillis() + ",");
+			
+			//Iterate through the runners
+			for (Runner individual : runners)
+			{
+				// if we get to our tracked runner
+				if (runnerIds.get(individual.getSelectionId()).equalsIgnoreCase(selectedRunner))
+				{
+					// if there's still backs and lays available
+					if (individual.getEx().getAvailableToBack().size() > 0 && individual.getEx().getAvailableToLay().size() > 0)
+					{
+						//for each individual back option
+						for(PriceSize backOption: individual.getEx().getAvailableToBack())
+						{
+							//find the biggest back value
+							if(backOption.getPrice() > workingBack)
+							{
+								workingBack = backOption.getPrice();
+							}
+						}
+						//for each individual lay option
+						for(PriceSize layOption: individual.getEx().getAvailableToLay())
+						{
+							//find the smallest lay value
+							if(layOption.getPrice() < workingLay)
+							{
+								workingLay = layOption.getPrice();
+							}
+						}
+						builder.append((workingBack + workingLay)
+								/ 2);
+					}
+					else
+					{
+						builder.append((" "));
+					}
+					System.out.println(builder.toString());
+					builder.setLength(0);
+				}
+			}
+		}
 	}
 
 	// Generates 2 collections, detailed info and stripped TODO refactor this to

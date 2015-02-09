@@ -73,3 +73,6 @@
 
 8/2/15:
 	Forgot to change one variable in the code and my save didn't store the parsed data, 2 games collected and nothing was stored. Fixing the program and collecting premier league data tomorrow.
+
+9/2/15:
+	No big games on today so I'm just refactoring my code, planning UI design and doing some draft chapters.

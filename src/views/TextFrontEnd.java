@@ -1,169 +1,177 @@
 package views;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 import Exceptions.CryptoException;
-import model.GameRecorderManager;
 import model.SimpleBetFairCore;
+import model.SimpleGameRecorder;
 
 public class TextFrontEnd
 {
-	Scanner userInput;
-	SimpleBetFairCore betFair;
-	//GameRecorderManager recorder;
-	//List<String> tasks
-//	String selectedID;
-//	String gameID;
-//	String sportID;
-//	String gameId;
-//	List<String> markets = new ArrayList<String>();
-	List<String> markets;
-	GameRecorderManager recorder;
+	private Scanner userInput;
+	private SimpleBetFairCore betFair;
+	private SimpleGameRecorder recorder;
 	
 	public TextFrontEnd(boolean debug)
 	{
 		betFair = new SimpleBetFairCore(debug);
-		markets = new ArrayList<String>();
-		Runnable recorder = new GameRecorderManager(betFair.getBetFair(), markets);
-		new Thread(recorder).start();
 		userInput = new Scanner(System.in);
+	}
+	
+	public void start()
+	{
 		prompt();
 	}
 
 	private void prompt()
 	{
-		// prompt for login
-		// print sport options
-		// prompt for sport
-		// print game options?
-		// prompt for game
 		String sportId;
 		String gameId;
+		String marketId;
+		int recordMode;
 		
-		
-		//LOG IN
+		//Prompt for login details
 		if (loginPrompt())
 		{
-			//loop around here i think
-			//make list of markets to query
-				//this can probably be a field again. each item in here goes to a new thread
+			//If successful login then prompt for selected sport
+			sportId = sportPrompt();			
 			
-			sportId = sportPrompt();			//Get the sport they want
-			gameId = gamePrompt(sportId);		//Get the game in the sport they want
-			markets = marketPrompt(gameId);		//Get the markets in the game they want
+			//If sport successfully selected then prompt for game
+			gameId = gamePrompt(sportId);		
 			
-			//once we know what we want, make a new recorder
+			//If game successfully selected then prompt for market.
+			marketId = marketPrompt(gameId);		
 			
+			recordMode = recorderPrompt();
+			//now we call
+			recorder = new SimpleGameRecorder(betFair.getBetFair(), gameId, marketId,1);
 			
-			recorder.assignTask(markets);
 		}
 	}
 
-	//TODO fix later
-	private List<String> marketPrompt(String gameId)
+
+	private int recorderPrompt()
 	{
-		List<String> markets = betFair.getMarketsForGame(gameId);
-		List<String> marketIds = new ArrayList<String>();
-		List<String> trackedMarkets = new ArrayList<String>();
-		String[] temp;
-		System.out.println(markets.size());
-		for(int i = 0; i < markets.size(); i++)
+		System.out.println("What recorder mode do you want?\n\t1. Simple Print\n\t2. Simple Record\n\t3. Record all");
+		
+		return userInput.nextInt();
+	}
+
+	private String marketPrompt(String gameId)
+	{
+		String inputLine;
+		String[] inputTokens;
+		List<String> gameMarkets = betFair.getMarketsForGame(gameId);
+		String[] selectedMarketRow;
+		
+		System.out.println("MARKETS");
+		for(int i = 0; i < gameMarkets.size(); i++)
 		{
-			System.out.println(markets.get(i));
-			temp = markets.get(i).split(",");
-			marketIds.add(temp[temp.length-1]);
+			System.out.println("NO: " + gameMarkets.get(i));
+
 		}
 		while(true)
 		{
-			System.out.println("Pick a market you want to record\n\tSELECT 'ID'");
-			String response = userInput.nextLine();
+			System.out.println("Pick a market you want to record\n\tSELECT 'NUMBER'");
+			inputLine = userInput.nextLine();
+			inputTokens = inputLine.split(" ");
+			selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
 			
-			String[] temp2 = response.split(" ");
-			trackedMarkets.add(marketIds.get(Integer.parseInt(temp2[temp2.length-1])));
-			return trackedMarkets;
+			return selectedMarketRow[selectedMarketRow.length-1];
 		}
 	}
 
 	private String gamePrompt(String sportId)
 	{
+		String inputLine;
+		String[] inputTokens;		
 		List<String> gameList = betFair.getGameListForSport(sportId);	
-		List<String> parsedGameCode = new ArrayList<String>();
-		String[] temp;
+		String[] selectedGameTokens;
 		
+		System.out.println("GAME LIST");
 		for(int i = 0; i < gameList.size(); i++)
 		{
-			temp = gameList.get(i).split(",");		//finding codes
-			parsedGameCode.add(temp[temp.length-1]);
-			System.out.println(gameList.get(i));	//instead of another for i'm just printing data too
+			System.out.println("NO: " + gameList.get(i));	//instead of another for i'm just printing data too
 		}
 
 		while(true)
 		{
-			System.out.println("Pick a game you want to record\n\tSELECT 'ID'");
-			String response = userInput.nextLine();
+			System.out.println("Pick a game you want to record\n\tSELECT 'NUMBER'");
+			inputLine = userInput.nextLine();
+			inputTokens = inputLine.split(" ");
+			selectedGameTokens = gameList.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
 
-			//TODO sanity checks (check valid val etc...
-			String[] temp2 = response.split(" ");
-			//System.out.println(parsedGameCode.get(Integer.parseInt(temp2[temp2.length-1])));
-			return parsedGameCode.get(Integer.parseInt(temp2[temp2.length-1]));
-			//return true;
+			return selectedGameTokens[selectedGameTokens.length-1];
 		}
 	}
 
-	// TODO provide exits
 	private boolean loginPrompt()
 	{
+		String inputLine;
+		String[] inputTokens;
+		
 		while (true)
 		{
 			System.out.println("Please enter login details in form of : 'USERNAME-PASSWORD-FILEPASSWORD'");
-			String inputLine = userInput.nextLine();
-			String[] details = inputLine.split("-");
+			inputLine = userInput.nextLine();
+			inputTokens = inputLine.split("-");
 
-			if (details.length == 3)
+			if (inputTokens.length == 3)
 			{
 				String response;
 				try
 				{
-					response = betFair.login(details[0], details[1], details[2]);
+					response = betFair.login(inputTokens[0], inputTokens[1], inputTokens[2]);
 					if (response.equalsIgnoreCase("success"))
+					{
+						System.out.println("Successful login!");
 						return true;
+					}
+					else
+					{
+						System.err.println(response);
+					}
 				}
 				catch (CryptoException e)
 				{
-					e.printStackTrace();
+					System.out.println("Unsuccessful login");
+					System.err.println("Issue with the file password. Please try again.");
 				}
+			}
+			else
+			{
+				System.err.println("Invalid format. Try again.");
 			}
 		}
 	}
-
+	
 	private String sportPrompt()
 	{
-		List<String> results = new ArrayList<String>();
+		String inputLine;
+		String[] inputTokens;
+		List<String> results = betFair.getSupportedSportList();
+		
+		System.out.println("SPORT LIST\nNUM\tNAME\t\tID");
+		for(String resultItem: results)
+			System.out.println(resultItem);
 		
 		while (true)
 		{
-			System.out.println("Options: \n\t\"LIST\". Get Sports list\n\t\"SELECT 'NUMBER'\". Select the sport with the given id");
-
-			//int input = userInput.nextInt();
-			String input = userInput.nextLine();
+			System.out.println("Options: \n\t\"SELECT 'NUMBER'\". Select the sport with the given number");
 			
-			String[] tokens = input.split(" ");
+			inputLine = userInput.nextLine();
+			inputTokens = inputLine.split(" ");
 			
-			if(tokens[0].equalsIgnoreCase("LIST"))
+			if(inputTokens[0].equalsIgnoreCase("SELECT"))
 			{
-				if(results.isEmpty())
-					results = betFair.getSupportedSportList();
-				for(String resultItem: results)
-					System.out.println(resultItem);
-			}
-			else if(tokens[0].equalsIgnoreCase("SELECT"))
-			{
-				int index = Integer.parseInt(tokens[tokens.length-1]);
-				//selected number (1 to 29)
-				String[] selectedTokens = results.get(index).split(" ");
+				//get the number token, get the sport in that index, split it and get the last number (the betfair id)
+				String[] selectedTokens = (results.get(Integer.parseInt(inputTokens[inputTokens.length-1]))).split(" ");
 				return selectedTokens[selectedTokens.length-1];
+			}
+			else
+			{
+				System.err.println("No valid keyword entered. Try again.");
 			}
 		}
 	}
