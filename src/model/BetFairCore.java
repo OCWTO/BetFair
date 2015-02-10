@@ -97,12 +97,13 @@ public class BetFairCore
 
 	// Look at enums
 
+	//TODO refactor all this into a better format
 	// TODO implement debug mode
 	public BetFairCore(boolean debug)
 	{
 		this.debug = debug;
-		requester = new HttpUtil();
 		directoryPrefix = System.getProperty("user.dir");
+		requester = new HttpUtil();
 	}
 
 	// File not found will be avoided using the ui to locate the key thingy
@@ -437,12 +438,6 @@ public class BetFairCore
 		// throw container.getError().getData().getAPINGException();
 
 		return container.getResult();
-		//
-		// jsonrpc_req = '{"jsonrpc": "2.0","method":
-		// "SportsAPING/v1.0/listMarketCatalogue","params": {"filter":
-		// {"eventIds": ["27312440"]},"maxResults": "200","marketProjection":
-		// ["COMPETITION","EVENT","EVENT_TYPE","RUNNER_DESCRIPTION","RUNNER_METADATA","MARKET_START_TIME"]},"id":
-		// 1}'
 	}
 
 	

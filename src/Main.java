@@ -12,6 +12,9 @@ import Exceptions.CryptoException;
 
 public class Main
 {
+	//TODO design gui
+	//TODO add multi threaded support
+	//TODO modify recorder to record all markets
 	public static void main2(String[] args)
 	{
 		BetFairCore core = new BetFairCore(false);
@@ -31,11 +34,12 @@ public class Main
 		
 	}
 
-
-		public static void main(String[] args)
-		{
-			TextFrontEnd textUi = new TextFrontEnd(false);
-			textUi.start();
+	//TODO check that theres a v in the name, to filter out league wide markets I don't care about.
+	//print out names are in home vs away, not too relevant but maybe display it in gui
+	public static void main(String[] args)
+	{
+		TextFrontEnd textUi = new TextFrontEnd(false);
+		textUi.start();
 //		BetFairCore core = new BetFairCore(true);
 //		try
 //		{
@@ -44,8 +48,8 @@ public class Main
 //			{
 //				//core.listEventTypes(new MarketFilter());
 //				core.getGames("1");
-//				core.getMarketCatalogue("27357665");
-//				List<MarketBook> x = core.getMarketBook("1.117137832");
+//				//core.getMarketCatalogue("27357665");
+//				//List<MarketBook> x = core.getMarketBook("1.117137832");
 //			}
 //			catch (Exception e)
 //			{

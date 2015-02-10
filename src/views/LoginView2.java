@@ -12,6 +12,11 @@ import java.awt.Color;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
+/**
+ * 
+ * @author Craig
+ *
+ */
 public class LoginView2
 {
 	private JFrame guiFrame;
@@ -19,22 +24,15 @@ public class LoginView2
 	private final int xSize = 250;
 	private final int ySize = 450;
 	private final String frameTitle = "BetFair Login";
-	private JTextField textField;
-	
+
+	/**
+	 * 
+	 */
 	public LoginView2()
 	{
 		guiFrame = new JFrame(frameTitle);
-		
-		
 		mainFrame = guiFrame.getContentPane();
-		guiFrame.getContentPane().setLayout(new BoxLayout(guiFrame.getContentPane(), BoxLayout.X_AXIS));
-		
-		JLabel lblNewLabel = new JLabel("New label");
-		guiFrame.getContentPane().add(lblNewLabel);
-		
-		textField = new JTextField();
-		guiFrame.getContentPane().add(textField);
-		textField.setColumns(10);
+		mainFrame.setLayout(new BoxLayout(guiFrame.getContentPane(), BoxLayout.Y_AXIS));
 		setupPanels();
 		addMenus();
 		centreFrame();
@@ -42,6 +40,9 @@ public class LoginView2
 		guiFrame.setVisible(true);	
 	}
 	
+	/**
+	 * 
+	 */
 	private void setupPanels()
 	{
 		//3 panels stacked vertically
@@ -50,30 +51,50 @@ public class LoginView2
 		//3rd for checkboxes
 	}
 	
+	/**
+	 * 
+	 */
 	private void setupLogoFrame()
 	{
-		
+		//Make one later?
 	}
 	
+	/**
+	 * 
+	 */
 	private void setupDetailsFrame()
 	{
 		//username + password fields + labels + file password stuff
 	}
 	
+	/**
+	 * 
+	 */
 	private void setupOptionsFrame()
 	{
 		//checkboxes and login
 	}
 	
+	/**
+	 * 
+	 */
 	private void addMenus()
 	{
-		
+		//File->exit, File->About, Help->?? user guide?
 	}
 	
+	/**
+	 * 
+	 */
 	private void centreFrame()
 	{
 		Dimension screenDims = Toolkit.getDefaultToolkit().getScreenSize();
 		guiFrame.setBounds((int) screenDims.getWidth() / 2 - (xSize / 2),
 						(int) screenDims.getHeight() / 2 - (ySize / 2), xSize, ySize);
+	}
+	
+	public static void main(String[] args)
+	{
+		LoginView2 gui = new LoginView2();
 	}
 }
