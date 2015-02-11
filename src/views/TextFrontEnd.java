@@ -2,11 +2,13 @@ package views;
 
 import java.util.List;
 import java.util.Scanner;
+import java.util.Timer;
 
 import Exceptions.CryptoException;
 import model.SimpleBetFairCore;
 import model.SimpleGameRecorder;
 
+//TODO say the option chose, e.g game 11 picked, say picked "gamename"
 public class TextFrontEnd
 {
 	private Scanner userInput;
@@ -45,8 +47,10 @@ public class TextFrontEnd
 			
 			recordMode = recorderPrompt();
 			//now we call
-			recorder = new SimpleGameRecorder(betFair.getBetFair(), gameId, marketId,1);
-			
+			recorder = new SimpleGameRecorder(betFair.getBetFair(), gameId, marketId,recordMode);
+			Timer timer = new Timer();
+			timer.schedule(recorder, recorder.getStartDelay(),30000);
+			//TODO let recordmode be an enum
 		}
 	}
 

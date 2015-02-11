@@ -3,7 +3,7 @@ package betfairUtils;
 import java.util.Comparator;
 
 //Sorts them by the dates that the markets open
-public class MarketCatalogueComparator implements Comparator<MarketCatalogue>
+public class MarketCatalogueEventOpenDateComparator implements Comparator<MarketCatalogue>
 {
 	@Override
 	public int compare(MarketCatalogue a, MarketCatalogue b)

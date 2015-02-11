@@ -97,6 +97,7 @@ public class SimpleGameRecorder extends TimerTask
 		formattedCollectedData.add(collectedData.get(0));
 	}
 
+	//might want to reduce value by the delay since it only starts at time start+delay
 	public long getStartDelay()
 	{
 		// if started
@@ -131,6 +132,8 @@ public class SimpleGameRecorder extends TimerTask
 	{
 		double workingBack = Integer.MIN_VALUE;
 		double workingLay = Integer.MAX_VALUE;
+		tempData = betFair.getMarketBook(marketId);
+		runners = tempData.get(0).getRunners();
 		
 		if (!betFair.getMarketBook(marketId).get(0).getStatus().equals("CLOSED"))
 		{
@@ -145,7 +148,7 @@ public class SimpleGameRecorder extends TimerTask
 				{
 					// if there's still backs and lays available
 					if (individual.getEx().getAvailableToBack().size() > 0 && individual.getEx().getAvailableToLay().size() > 0)
-					{
+					{;
 						//for each individual back option
 						for(PriceSize backOption: individual.getEx().getAvailableToBack())
 						{
@@ -175,6 +178,11 @@ public class SimpleGameRecorder extends TimerTask
 					builder.setLength(0);
 				}
 			}
+		}
+		else
+		{
+			this.cancel();
+			System.out.println("Game finished.");
 		}
 	}
 

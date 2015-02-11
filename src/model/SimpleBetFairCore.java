@@ -9,7 +9,8 @@ import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.LoginResponse;
 import betfairUtils.MarketCatalogue;
-import betfairUtils.MarketCatalogueComparator;
+import betfairUtils.MarketCatalogueEventOpenDateComparator;
+import betfairUtils.MarketCatalogueEventNameComparator;
 import betfairUtils.MarketFilter;
 
 //In this class I take the betfair outputs and format them into readable strings
@@ -67,7 +68,7 @@ public class SimpleBetFairCore
 	{
 		List<MarketCatalogue> gameList = betFair.getGames(id);
 		//game);
-		gameList.sort(new MarketCatalogueComparator());
+		gameList.sort(new MarketCatalogueEventOpenDateComparator());
 		List<String> formattedGameList = new ArrayList<String>();
 		
 		Event actualEvent;
@@ -84,6 +85,9 @@ public class SimpleBetFairCore
 	public List<String> getMarketsForGame(String gameId)
 	{
 		List<MarketCatalogue> marketList = betFair.getMarketCatalogue(gameId);
+		System.out.println(marketList.get(0));
+		System.out.println(marketList.get(0).getMarketName());
+		marketList.sort(new MarketCatalogueEventNameComparator());
 		List<String> formattedMarketList = new ArrayList<String>();
 		for(int i = 0; i < marketList.size(); i++)
 		{
