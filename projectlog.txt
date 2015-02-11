@@ -76,3 +76,6 @@
 
 9/2/15:
 	No big games on today so I'm just refactoring my code, planning UI design and doing some draft chapters.
+
+11/2/15:
+	Didn't do much, collected 1 games data since all the big games started at the same time and I haven't added multi threading yet or multiple market tracking. I almost finished the code to store all of a markets runner data in csv so I can generate a graph later. Tomorrows plan is look into tracking multiple markets (data limit or multi threading) and get more data. Also I need to finish draft chapters off.

@@ -16,6 +16,9 @@ import betfairUtils.PriceSize;
 import betfairUtils.Runner;
 import betfairUtils.RunnerCatalog;
 
+//is there a way to dynamically do this?
+//runners always in same order
+//so for each initial runner add a new list to the list of lsits
 public class SimpleGameRecorder extends TimerTask
 {
 	private BetFairCore betFair;
@@ -36,6 +39,8 @@ public class SimpleGameRecorder extends TimerTask
 	private final int recordAllMode = 3;
 	private int mode;
 	
+	private List<List<String>> runnerDataList;
+	
 	public SimpleGameRecorder(BetFairCore betFair, String gameId,
 			String marketId, int mode)
 	{
@@ -50,6 +55,7 @@ public class SimpleGameRecorder extends TimerTask
 		runners = new ArrayList<Runner>();
 		builder = new StringBuilder();
 		getInitValues(gameId);
+		runnerDataList = new ArrayList<List<String>>();
 		
 	}
 
@@ -128,6 +134,64 @@ public class SimpleGameRecorder extends TimerTask
 		}
 	}
 	
+	//TODO modify initilize method so it gets relevant first entry values for the arrays
+	//Each runner needs an initial array entry with details on who they are
+	//Runners come in a certain order always so when I init make an array for each runner and add it to the array of arrays
+	private void generateAllRunnerProbabilityData()
+	{
+		double workingBack;
+		double workingLay;
+		tempData = betFair.getMarketBook(marketId);
+		runners = tempData.get(0).getRunners();
+		
+		if (!betFair.getMarketBook(marketId).get(0).getStatus().equals("CLOSED"))
+		{
+			//for each runner, we use for here since we reference list of lists and need an index
+			for(int i = 0; i < runners.size(); i++)
+			{
+				//set to default values
+				workingBack = Integer.MIN_VALUE;
+				workingLay = Integer.MAX_VALUE;
+				
+				//theres values we can use
+				if(runners.get(i).getEx().getAvailableToBack().size() > 0 && runners.get(i).getEx().getAvailableToLay().size() > 0)
+				{
+					//for each individual back option
+					for(PriceSize backOption: runners.get(i).getEx().getAvailableToBack())
+					{
+						//find the biggest back value
+						if(backOption.getPrice() > workingBack)
+						{
+							workingBack = backOption.getPrice();
+						}
+					}
+					//for each individual lay option
+					for(PriceSize layOption: runners.get(i).getEx().getAvailableToLay())
+					{
+						//find the smallest lay value
+						if(layOption.getPrice() < workingLay)
+						{
+							workingLay = layOption.getPrice();
+						}
+					}
+					builder.append((workingBack + workingLay)
+							/ 2);
+				}
+				else
+				{
+					builder.append(" ");
+				}
+				runnerDataList.get(i).add(builder.toString());
+				builder.setLength(0);
+			}
+		}
+		else
+		{
+			this.cancel();
+			System.out.println("Game finished.");
+		}
+	}
+	
 	private void printSingleRunnerProbabilityData()
 	{
 		double workingBack = Integer.MIN_VALUE;
@@ -148,7 +212,7 @@ public class SimpleGameRecorder extends TimerTask
 				{
 					// if there's still backs and lays available
 					if (individual.getEx().getAvailableToBack().size() > 0 && individual.getEx().getAvailableToLay().size() > 0)
-					{;
+					{
 						//for each individual back option
 						for(PriceSize backOption: individual.getEx().getAvailableToBack())
 						{

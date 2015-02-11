@@ -46,9 +46,9 @@ public class Main
 //			core.login("0ocwto0", "2014Project", "project");
 //			try
 //			{
-//				//core.listEventTypes(new MarketFilter());
-//				core.getGames("1");
-//				//core.getMarketCatalogue("27357665");
+//				//core.getGames("1");
+//				//core.getMarketCatalogue("27359034");
+//				//core.getMarketCatalogue("27359028");
 //				//List<MarketBook> x = core.getMarketBook("1.117137832");
 //			}
 //			catch (Exception e)
