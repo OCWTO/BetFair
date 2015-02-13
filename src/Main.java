@@ -30,6 +30,8 @@ public class Main
 		SimpleGameRecorder x = new SimpleGameRecorder(core,"27357665","1.117137832",1);
 		Timer time = new Timer();
 		time.schedule(x, x.getStartDelay(),5000);
+		//time.s
+		//x.
 		//time.sc
 		
 	}
