@@ -4,10 +4,11 @@ BetFair
 BetFair University project
 
 TODO
-  Remove hard coding of usename + password in python files
-  Put python files into functions instead of monolithic code sections
-  
-  Implement geteventlist in java
-  Copy python requests into java
-  Modularise the java code
-  Remove un-needed betfair helper code
+  Implement GUI
+  Modify recorder to track all markets
+  Refactor betfaircore 
+  Write more test cases
+  Design program model
+  Look at image creation for model
+  Collect more game data
+  Research markov chains
