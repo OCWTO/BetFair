@@ -1,13 +1,11 @@
 package model;
-//TODO remove old code and replace depreciated
+
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.security.KeyStore;
 import java.security.SecureRandom;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -16,7 +14,6 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
-import javax.crypto.BadPaddingException;
 import javax.net.ssl.KeyManager;
 import javax.net.ssl.KeyManagerFactory;
 import javax.net.ssl.SSLContext;
@@ -36,6 +33,7 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
 import Exceptions.CryptoException;
+import Exceptions.NotLoggedInException;
 import betfairUtils.ApingOperation;
 import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultContainer;
@@ -59,18 +57,24 @@ import com.google.gson.Gson;
 
 public class BetFairCore
 {
-	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a"; // Live app key
-																	// for fast
-																	// calls
-	private static final String delayedAppKey = "scQ6H11vdb6C4s7t"; // Delayed
-																	// app key
-																	// for
-																	// slower
-																	// calls
+	/*
+	 * BetFair application keys. liveKey for fast response and delayedKey for slower.
+	 * These are required for most requests.
+	 */
+	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a"; 
+	private static final String delayedAppKey = "scQ6H11vdb6C4s7t";
+	
 	private static final int httpsPort = 443;
 
+	/*
+	 * sessionToken is generated from the login method. Every BetFair call
+	 * after requires it as a HTTP Post parameter.
+	 */
 	private String sessionToken;
 
+	/*
+	 * USed to locate the ceritificate files.
+	 */
 	private String directoryPrefix;
 
 	private boolean debug = false;
@@ -78,6 +82,7 @@ public class BetFairCore
 	protected final String FILTER = "filter"; // Pretty much the same as
 												// MARKET_IDS but it's not a
 												// parameter in certain calls
+	
 	// protected final String LOCALE = "locale";
 	protected final String SORT = "sort";
 	protected final String MAX_RESULT = "maxResults";
@@ -86,7 +91,7 @@ public class BetFairCore
 	protected final String PRICE_PROJECTION = "priceProjection";
 	// protected final String MATCH_PROJECTION = "matchProjection"; ?? Look at
 	// NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
-	private HttpUtil requester;
+	private HttpUtil httpRequester;
 
 	// https://api.developer.betfair.com/services/webapps/docs/display/1smk3cen4v3lu3yomq5qye0ni/Betting+Enums#BettingEnums-MatchProjection
 
@@ -99,14 +104,28 @@ public class BetFairCore
 
 	//TODO refactor all this into a better format
 	// TODO implement debug mode
+	/**
+	 * Initialises the BetFairCore object.
+	 * @param debug If true then every request performed by this class prints out the request
+	 * and reply JSON Strings. If false then no additional output is printed.
+	 */
 	public BetFairCore(boolean debug)
 	{
 		this.debug = debug;
 		directoryPrefix = System.getProperty("user.dir");
-		requester = new HttpUtil();
+		httpRequester = new HttpUtil();
 	}
 
 	// File not found will be avoided using the ui to locate the key thingy
+	/**
+	 * Logs the user into BetFair so that further requests can be made.
+	 * @param username BetFair account user name
+	 * @param password BetFair account password
+	 * @param filePassword p12 certificate file passwords
+	 * @return LoginResponse object containing the login request response and if successful, the
+	 * sessionToken for that login
+	 * @throws CryptoException If filePassword cannot successfully decrypt the certificate file.
+	 */
 	public LoginResponse login(String username, String password,
 			String filePassword) throws CryptoException
 	{
@@ -222,8 +241,11 @@ public class BetFairCore
 	
 	//TODO******* check if logged in before any calls
 	protected String makeRequest(String operation, Map<String, Object> params,
-			String appKey, String ssoToken)
+			String appKey, String ssoToken) throws NotLoggedInException
 	{
+		if(sessionToken == null)
+			throw new NotLoggedInException("You must be logged in to call makeRequest");
+			
 		String requestString;
 		// Handling the JSON-RPC request
 		JsonrpcRequest request = new JsonrpcRequest();
@@ -239,7 +261,7 @@ public class BetFairCore
 		// We need to pass the "sendPostRequest" method a string in util format:
 		// requestString
 
-		String response = requester.sendPostRequestJsonRpc(requestString,
+		String response = httpRequester.sendPostRequestJsonRpc(requestString,
 				operation, appKey, sessionToken);
 		if (debug)
 			System.out.println("\nResponse: " + response);
@@ -350,8 +372,16 @@ public class BetFairCore
 		// params.put(ORDER_PROJECTION, orderProjection);
 		// params.put(MATCH_PROJECTION, matchProjection);
 		params.put("currencyCode", currencyCode);
-		String result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(),
-				params, appKey, sessionToken);
+		String result = null;
+		try
+		{
+			result = makeRequest(ApingOperation.LISTMARKETBOOK.toString(),
+					params, appKey, sessionToken);
+		} catch (NotLoggedInException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETBOOK.getOperationName(), params,
 		// appKey, ssoId);
@@ -375,6 +405,7 @@ public class BetFairCore
 	 * 
 	 * @param sportID
 	 *            - String representing the games BetFair ID.
+	 * @throws NotLoggedInException 
 	 * @throws Exception
 	 */
 	public List<MarketCatalogue> getGames(String sportID)
@@ -407,7 +438,7 @@ public class BetFairCore
 
 		// return listEvents(marketFilter, null, MarketSort.FIRST_TO_START,
 		// maxResults);
-		return listEvents(marketFilter, null, MarketSort.FIRST_TO_START);
+			return listEvents(marketFilter, null, MarketSort.FIRST_TO_START);
 	}
 
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
@@ -424,9 +455,17 @@ public class BetFairCore
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(
-				ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey,
-				sessionToken);
+		String result = null;
+		try
+		{
+			result = makeRequest(
+					ApingOperation.LISTMARKETCATALOGUE.toString(), params, appKey,
+					sessionToken);
+		} catch (NotLoggedInException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		// if (ApiNGDemo.isDebug())
 		// System.out.println("\nResponse: " + result);
 
@@ -505,8 +544,16 @@ public class BetFairCore
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
-		String result = makeRequest(ApingOperation.LISTEVENTS.toString(),
-				params, liveAppKey, sessionToken);
+		String result = null;
+		try
+		{
+			result = makeRequest(ApingOperation.LISTEVENTS.toString(),
+					params, liveAppKey, sessionToken);
+		} catch (NotLoggedInException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		// if (ApiNGDemo.isDebug())
 		// System.out.println("\nResponse: " + result);
 
@@ -527,9 +574,17 @@ public class BetFairCore
 		params.put("filter", filter);
 		params.put("locale", Locale.getDefault().toString());
 
-		String result = makeRequest(
-				ApingOperation.LISTEVENTTYPES.getOperationName(), params,
-				liveAppKey, sessionToken);
+		String result = null;
+		try
+		{
+			result = makeRequest(
+					ApingOperation.LISTEVENTTYPES.getOperationName(), params,
+					liveAppKey, sessionToken);
+		} catch (NotLoggedInException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		// System.out.println("\nResponse: " + result);
 
 		EventTypeResultContainer container = JsonConverter.convertFromJson(
@@ -551,6 +606,10 @@ public class BetFairCore
 		return kmf.getKeyManagers();
 	}
 
+	/**
+	 * Sets the debug variable...
+	 * @param state True if debug is to be true, false if not.
+	 */
 	public void setDebug(Boolean state)
 	{
 		debug = state;

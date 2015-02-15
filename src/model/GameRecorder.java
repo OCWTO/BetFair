@@ -23,23 +23,30 @@ import betfairUtils.MarketCatalogue;
 
 /**
  * Class responsible for tracking games and storing the data from their play to files.
+ * Only currently supports 1 game with multiple tracked markets
  * @author Craig Thomson
  *
  */
 public class GameRecorder extends TimerTask
 {
-	//Need to store markets to ids, going to have a map of gameid to markets, where markets is a list we dont directly store references to
+	/*
+	 * Game IDS mapped to the market IDS (those being tracked)
+	 */
 	private Map<String,List<String>> gameToMarkets;
-	
-	// A list of lists, which contain lists of data for individual market data
+
+	/*
+	 * List 1 is of the game being tracked
+	 * List 2 is the games markets being tracked
+	 * List 3 is the market data, each market being recorded has 4 collections of data.
+	 */
 	private List<List<List<String>>> gameData;
-	//Gets a list of the game ids and their market ids to track.
 	
 	private BetFairCore betFair;
 	
 	/**
 	 * 
 	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}
+	 * @param betFairCore A reference to an initialised and logged in BetFairCore object
 	 */
 	public GameRecorder(BetFairCore betFairCore, List<String> gameAndMarkets)
 	{
@@ -112,8 +119,15 @@ public class GameRecorder extends TimerTask
 	private void saveData()
 	{
 		//save all normal data and separate csvs for markets
+		//for each game make a dir
+		//for each market in the game make a dir
+		//for each market data for the market make a file
 	}
 
+	/**
+	 * Method overwritten from TimerTask. In this case it starts method calls that adds new data
+	 * to the collections from the BetFair API.
+	 */
 	@Override
 	public void run()
 	{
