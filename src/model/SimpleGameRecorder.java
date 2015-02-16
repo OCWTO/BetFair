@@ -28,7 +28,7 @@ public class SimpleGameRecorder extends TimerTask
 	private List<Runner> runners;
 	private Map<Long, String> runnerIds;
 	private String gameName;
-	private String marketId;
+	private List<String> marketIds;
 	private long startTimeMS;
 	private int counter;
 	private String selectedRunner;
@@ -42,10 +42,10 @@ public class SimpleGameRecorder extends TimerTask
 	private List<List<String>> runnerDataList;
 	
 	public SimpleGameRecorder(BetFairCore betFair, String gameId,
-			String marketId, int mode)
+			List<String> marketId, int mode)
 	{
 		this.betFair = betFair;
-		this.marketId = marketId;
+		this.marketIds = marketId;
 		this.mode = mode;
 		counter = 1;
 		collectedData = new ArrayList<String>();
@@ -68,7 +68,7 @@ public class SimpleGameRecorder extends TimerTask
 		for (int i = 0; i < catalogue.size(); i++)
 		{
 			// find the market id
-			if (catalogue.get(i).getMarketId().equals(marketId))
+			if (catalogue.get(i).getMarketId().equals(marketIds))
 			{
 				// store the market name
 				marketName = catalogue.get(i).getMarketName();
@@ -99,7 +99,7 @@ public class SimpleGameRecorder extends TimerTask
 		collectedData.add(gameName + ". START DATE: "
 				+ catalogue.get(0).getEvent().getOpenDate() + ". Game ID: "
 				+ gameId + ". Market NAME: " + marketName + ". Market ID: "
-				+ marketId + ".\n");
+				+ marketIds + ".\n");
 		formattedCollectedData.add(collectedData.get(0));
 	}
 
@@ -141,10 +141,11 @@ public class SimpleGameRecorder extends TimerTask
 	{
 		double workingBack;
 		double workingLay;
-		tempData = betFair.getMarketBook(marketId);
+		//List tempList = new ArrayList<String>
+		tempData = betFair.getMarketBook(marketIds);
 		runners = tempData.get(0).getRunners();
 		
-		if (!betFair.getMarketBook(marketId).get(0).getStatus().equals("CLOSED"))
+		if (!betFair.getMarketBook(marketIds).get(0).getStatus().equals("CLOSED"))
 		{
 			//for each runner, we use for here since we reference list of lists and need an index
 			for(int i = 0; i < runners.size(); i++)
@@ -196,10 +197,10 @@ public class SimpleGameRecorder extends TimerTask
 	{
 		double workingBack = Integer.MIN_VALUE;
 		double workingLay = Integer.MAX_VALUE;
-		tempData = betFair.getMarketBook(marketId);
+		tempData = betFair.getMarketBook(marketIds);
 		runners = tempData.get(0).getRunners();
 		
-		if (!betFair.getMarketBook(marketId).get(0).getStatus().equals("CLOSED"))
+		if (!betFair.getMarketBook(marketIds).get(0).getStatus().equals("CLOSED"))
 		{
 			//Time stamp
 			builder.append(System.currentTimeMillis() + ",");
@@ -258,7 +259,7 @@ public class SimpleGameRecorder extends TimerTask
 		double workingBack = Integer.MIN_VALUE;
 		double workingLay = Integer.MAX_VALUE;
 
-		tempData = betFair.getMarketBook(marketId);
+		tempData = betFair.getMarketBook(marketIds);
 		runners = tempData.get(0).getRunners();
 
 		if (!tempData.get(0).getStatus().equals("CLOSED"))
@@ -321,7 +322,7 @@ public class SimpleGameRecorder extends TimerTask
 
 	private void collectAllRunnersAllData()
 	{
-		tempData = betFair.getMarketBook(marketId);
+		tempData = betFair.getMarketBook(marketIds);
 		runners = tempData.get(0).getRunners();
 
 		if (!tempData.get(0).getStatus().equals("CLOSED"))

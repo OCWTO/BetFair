@@ -30,7 +30,7 @@ public class TextFrontEnd
 	{
 		String sportId;
 		String gameId;
-		String marketId;
+		List<String> marketId;
 		int recordMode;
 		
 		//Prompt for login details
@@ -62,7 +62,7 @@ public class TextFrontEnd
 		return userInput.nextInt();
 	}
 
-	private String marketPrompt(String gameId)
+	private List<String> marketPrompt(String gameId)
 	{
 		String inputLine;
 		String[] inputTokens;
@@ -82,7 +82,8 @@ public class TextFrontEnd
 			inputTokens = inputLine.split(" ");
 			selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
 			
-			return selectedMarketRow[selectedMarketRow.length-1];
+			gameMarkets.add(selectedMarketRow[selectedMarketRow.length-1]);
+			return gameMarkets;
 		}
 	}
 

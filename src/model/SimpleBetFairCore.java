@@ -8,6 +8,7 @@ import betfairUtils.Event;
 import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.LoginResponse;
+import betfairUtils.MarketBook;
 import betfairUtils.MarketCatalogue;
 import betfairUtils.MarketCatalogueEventOpenDateComparator;
 import betfairUtils.MarketCatalogueEventNameComparator;
@@ -121,11 +122,20 @@ public class SimpleBetFairCore
 	}
 
 	/**
-	 * 
 	 * @return This classes held instance of the BetFairCore class.
 	 */
 	public BetFairCore getBetFair()
 	{
 		return this.betFair;
+	}
+	
+	/**
+	 * @param marketId The market you want information from
+	 * @return List of Strings containing formatted market information for the given market.
+	 */
+	public List<String> getMarketRunnerProbability(List<String> marketId)
+	{
+		List<MarketBook> marketData = betFair.getMarketBook(marketId);
+		return null;
 	}
 }

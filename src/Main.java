@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
@@ -5,6 +6,7 @@ import views.TextFrontEnd;
 import betfairUtils.EventTypeResult;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.MarketBook;
+import betfairUtils.MarketCatalogue;
 import betfairUtils.MarketFilter;
 import model.BetFairCore;
 import model.SimpleGameRecorder;
@@ -27,7 +29,9 @@ public class Main
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		SimpleGameRecorder x = new SimpleGameRecorder(core,"27357665","1.117137832",1);
+		List<String> temp = new ArrayList<String>();
+		temp.add("1.117137832");
+		SimpleGameRecorder x = new SimpleGameRecorder(core,"27357665",temp,1);
 		Timer time = new Timer();
 		time.schedule(x, x.getStartDelay(),5000);
 		//time.s
@@ -40,27 +44,38 @@ public class Main
 	//print out names are in home vs away, not too relevant but maybe display it in gui
 	public static void main(String[] args)
 	{
-		TextFrontEnd textUi = new TextFrontEnd(false);
-		textUi.start();
-//		BetFairCore core = new BetFairCore(true);
-//		try
-//		{
-//			core.login("0ocwto0", "2014Project", "project");
-//			try
-//			{
-//				//core.getGames("1");
-//				//core.getMarketCatalogue("27359034");
-//				//core.getMarketCatalogue("27359028");
-//				//List<MarketBook> x = core.getMarketBook("1.117137832");
-//			}
-//			catch (Exception e)
-//			{
-//				e.printStackTrace();
-//			}
-//		}
-//		catch (CryptoException e)
-//		{
-//			e.printStackTrace();
-//		}
+//		TextFrontEnd textUi = new TextFrontEnd(false);
+//		textUi.start();
+		BetFairCore core = new BetFairCore(true);
+		try
+		{
+			core.login("0ocwto0", "2014Project", "project");
+			try
+			{
+				core.getGames("1");
+				core.getMarketCatalogue("27371349");
+				
+				
+				
+				List<String> marketList = new ArrayList<String>();
+				marketList.add("1.117354053");
+				marketList.add("1.117354055");
+				marketList.add("1.117354061");
+				List<MarketBook> x = core.getMarketBook(marketList);	//goes in as 1,2,3,4. comes out as 4.3.2.1
+				System.out.println(x.size());
+				System.out.println(x.get(0).getMarketId());
+				System.out.println(x.get(1).getMarketId());	//so if data for multiple markets is requested
+				System.out.println(x.get(2).getMarketId()); //i need to get an items marketid and compare it against
+				System.out.println(x.get(3).getMarketId()); //what my initial lists have to know where to put it
+			}												//i could store the order for less comparisons
+			catch (Exception e)
+			{
+				e.printStackTrace();
+			}
+		}
+		catch (CryptoException e)
+		{
+			e.printStackTrace();
+		}
 	}
 }

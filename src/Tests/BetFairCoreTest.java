@@ -61,6 +61,7 @@ public class BetFairCoreTest
 		}
 	}
 	
+	//Test you get data back in multiple calls, need to call login firstbefore all following tests
 	//Test good login
 	
 	//Test no internet

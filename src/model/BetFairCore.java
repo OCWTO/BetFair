@@ -269,7 +269,7 @@ public class BetFairCore
 	}
 
 	//TODO allow multiple
-	public List<MarketBook> getMarketBook(String marketId)
+	public List<MarketBook> getMarketBook(List<String> marketId)
 	{
 		// 1.116584263
 
@@ -303,7 +303,7 @@ public class BetFairCore
 		// 1}'
 
 		List<String> marketIds = new ArrayList<String>();
-		marketIds.add(marketId);
+		marketIds.addAll(marketId);
 
 		PriceProjection priceProjection = new PriceProjection();
 		List<PriceProjection> projs = new ArrayList<PriceProjection>();

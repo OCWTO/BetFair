@@ -6,7 +6,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
 
+import Exceptions.CryptoException;
 import betfairUtils.MarketCatalogue;
+import betfairUtils.RunnerCatalog;
 
 //Can support recording multiple games at once and multiple markets in those games
 
@@ -35,52 +37,111 @@ public class GameRecorder extends TimerTask
 	private Map<String,List<String>> gameToMarkets;
 
 	/*
-	 * List 1 is of the game being tracked
-	 * List 2 is the games markets being tracked
-	 * List 3 is the market data, each market being recorded has 4 collections of data.
+	 * Top level is just the game, so the lists inside the game list are markets
+	 * List 1 is the games markets being tracked
+	 * List 2 is the market data, each market being recorded has 4 collections of data.
 	 */
-	private List<List<List<String>>> gameData;
+	private List<ArrayList<ArrayList<String>>> gameData;
+	
+	private Map<Long, String> runnerIds;
 	
 	private BetFairCore betFair;
-	
+	private List<Long> gameStartTimes;
 	/**
 	 * 
-	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}
+	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}, with possible repeats.
 	 * @param betFairCore A reference to an initialised and logged in BetFairCore object
 	 */
 	public GameRecorder(BetFairCore betFairCore, List<String> gameAndMarkets)
 	{
 		betFair = betFairCore;
 		gameToMarkets = new HashMap<String,List<String>>();
+		gameData = new ArrayList<ArrayList<ArrayList<String>>>();
 		generateGameToMarketMap(gameAndMarkets);
 		initiliseCollections();
 	}
-
+	
+	/**
+	 * This method is used to find the time (in ms from 1st January 1970) that the next game to be tracked starts.
+	 * @return A value in ms representing how long until the next game to be tracked starts
+	 */
+	public long getNextGameStartTime()
+	{
+		long nextGame = Long.MAX_VALUE;
+		for(int i = 0; i < gameStartTimes.size(); i++)
+		{
+			if(nextGame > gameStartTimes.get(i))
+			{
+				nextGame = gameStartTimes.get(i);
+			}
+		}
+		return nextGame;
+	}
+	
+	//TODO make it loop through indexes to support many games
 	/**
 	 * Set the initial state of collections holding data, required for meaningful data outputs.
 	 */
 	private void initiliseCollections()
 	{
+		List<String> markets;
+		List<MarketCatalogue> marketCatalogue;
+		List<Long> gameStartTimes = new ArrayList<Long>();
+		runnerIds = new HashMap<Long,String>();
 		//For each individual game
 		for(String gameIDKey : gameToMarkets.keySet())
-		{
-			//Grab the market catalogue
-			List<MarketCatalogue> marketCatalogue = betFair.getMarketCatalogue(gameIDKey);
-			List<String> markets = gameToMarkets.get(gameIDKey);
+		{	
+			//Grab the market catalogue, which contains list of all markets for that game
+			marketCatalogue = betFair.getMarketCatalogue(gameIDKey);
+			
+			//Get the List of marketIds we are tracking
+			markets = gameToMarkets.get(gameIDKey);
 			
 			//For each market we track in that game
 			for(int i = 0 ; i < markets.size(); i++)
-			{
-				//get its name from marketCatalogue
-				//need to get open date so this knows when to start
-				//add runner names to certain ones, list
+			{	
+				ArrayList<ArrayList<String>> marketData = new ArrayList<ArrayList<String>>();
 				
-				//generate initial entries
-				//need to get the markets name and append it with gamename
+				//Loop through the market catalogue
+				for(int j = 0; j < marketCatalogue.size(); j++)
+				{
+					//If the market ids match
+					if(marketCatalogue.get(j).getMarketId().equals(markets.get(i)))
+					{
+						gameStartTimes.add(marketCatalogue.get(j).getEvent().getOpenDate().getTime());
+						addToRunnerMap(marketCatalogue.get(j).getRunners());
+						
+						//Index 0 of all market data lists are gamename_marketname_marketstarttime (marketstarttime should be gamestarttime)
+						ArrayList<String> singleMarketData = new ArrayList<String>();
+						singleMarketData.add(marketCatalogue.get(j).getEvent().getName()+"_"+marketCatalogue.get(j).getMarketName()+"_"+marketCatalogue.get(j).getEvent().getOpenDate().getTime());
+						marketData.add(singleMarketData);
+						//Generate Index 0 data for each runner we track that's informative...ish
+						for(int k = 0; k < marketCatalogue.get(j).getRunners().size(); k++)
+						{
+							ArrayList<String> singleMarketData2 = new ArrayList<String>();
+							singleMarketData2.add((singleMarketData.get(0))+"_"+marketCatalogue.get(j).getRunners().get(k).getRunnerName());
+							marketData.add(singleMarketData2);
+						}
+					}
+				}
+				gameData.add(marketData);
 			}
 		}
-		
-		
+		for(int j =0 ; j < gameData.size(); j++)
+		{
+			for(int i =0 ; i < gameData.get(j).size(); i++)
+			{
+				System.out.println(gameData.get(j).get(i));
+			}
+		}
+	}
+
+	private void addToRunnerMap(List<RunnerCatalog> runners)
+	{
+		for(int i = 0; i < runners.size(); i++)
+		{
+			runnerIds.put(runners.get(i).getSelectionId(),runners.get(i).getRunnerName());
+		}
 	}
 
 	/**
@@ -132,6 +193,28 @@ public class GameRecorder extends TimerTask
 	public void run()
 	{
 		// TODO Auto-generated method stub
+		//for each market
+			//inner index are overall then runner 1,2,...,n
 		
+		//strictly put probability in runners and all data in the other
+	}
+	
+	public static void main(String[] args)
+	{
+		BetFairCore core = new BetFairCore(false);
+		try
+		{
+			core.login("0ocwto0", "2014Project", "project");
+		} catch (CryptoException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		List<String> marketList = new ArrayList<String>();
+		marketList.add("27371349,1.117354053");
+		marketList.add("27371349,1.117354055");
+		marketList.add("27371349,1.117354061");
+		
+		GameRecorder rec = new GameRecorder(core, marketList);
 	}
 }
