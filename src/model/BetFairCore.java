@@ -268,6 +268,12 @@ public class BetFairCore
 		return response;
 	}
 
+	public List<MarketBook> getMarketBook(String marketId)
+	{
+		List<String> parameters = new ArrayList<String>();
+		parameters.add(marketId);
+		return getMarketBook(parameters);
+	}
 	//TODO allow multiple
 	public List<MarketBook> getMarketBook(List<String> marketId)
 	{

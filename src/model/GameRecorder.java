@@ -4,11 +4,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Timer;
 import java.util.TimerTask;
 
 import Exceptions.CryptoException;
 import betfairUtils.MarketBook;
 import betfairUtils.MarketCatalogue;
+import betfairUtils.Runner;
 import betfairUtils.RunnerCatalog;
 
 //Can support recording multiple games at once and multiple markets in those games
@@ -74,7 +76,7 @@ public class GameRecorder extends TimerTask
 	private void generateMarketIdToNameMap()
 	{
 		List<MarketCatalogue> catalogue;// = betFair.getMarketCatalogue()
-		
+		marketIdToName = new HashMap<String,String>();
 		//For each game we track
 		for(String gameIDKey : gameToMarkets.keySet())
 		{
@@ -86,7 +88,7 @@ public class GameRecorder extends TimerTask
 				for(MarketCatalogue catalogueIndex: catalogue)
 				{
 					//If we find a match of ids
-					if(catalogueIndex.getMarketName().equals(marketIds.get(i)))
+					if(catalogueIndex.getMarketId().equals(marketIds.get(i)))
 					{
 						marketIdToName.put(marketIds.get(i), catalogueIndex.getMarketName());
 						break;
@@ -231,10 +233,11 @@ public class GameRecorder extends TimerTask
 	{
 		List<String> trackedMarkets;
 		List<MarketBook> marketData;
+		List<ArrayList<String>> activeIndex;
 		String dataIndex;
 		String[] dataIndexTokens;
 		String keyword;
-		String secondKeyword;
+		//String secondKeyword;
 		for(String gameIDKey : gameToMarkets.keySet())
 		{
 			//Tracked market list
@@ -246,31 +249,62 @@ public class GameRecorder extends TimerTask
 			//Match gameData list to marketData Item
 			for(int i = 0; i < gameData.size(); i++)
 			{
+				//Store array we're currently looking for
+				activeIndex = gameData.get(i);
+				
+				//Get 1st array item (metadata with gamename, marketname, time etc)
 				dataIndex = gameData.get(i).get(0).get(0);
 				dataIndexTokens = dataIndex.split("_");
 				
 				//Grab the market name from the stored data
 				keyword = dataIndexTokens[1];
-				
 				//Find the marketids name (if we track it)
 				for(int j = 0; j < marketData.size(); j++)
 				{
 					//Get the markets name
-					secondKeyword = marketIdToName.get(marketData.get(j));
+					String secondKeyword = marketIdToName.get(marketData.get(j).getMarketId());
 					
+					//Got match and we know the list it maps to so we get data and add to it
+					if(secondKeyword != null)
+					{
+						List<MarketBook> book = betFair.getMarketBook(marketData.get(j).getMarketId());
+						List<Runner> runners = book.get(0).getRunners();
+						
+						gatherData(runners, activeIndex);
+						//from here we have a list of lists? if so we add all to 0, runner1 to 1...
+						//gameData.get(i) is the match, so 0,0 is all 
+						//get 0 is market1
+						//get 1 is market2
+						//get 0 0 is market 1 all
+						//get 0 1 is market 1 runner 1
+						//		dont forget the last index means shit here
+						break;
+					}
 					//Match up the secondKeyword to a token 
 					
 					//if we get a match then we grab data and add to the array with the match
-				}
-				
-				
-			}
-			
-			
+				}	
+			}	
 		}
 		//Identify the gameData list that lines up to the marketData list index
 	}
 	
+	private void gatherData(List<Runner> runners, List<ArrayList<String>> activeIndex)
+	{
+		for(int i = 0; i < activeIndex.size(); i++)
+		{
+			for(int j = 0; j < activeIndex.get(i).size(); j++)
+			{
+				System.out.println(activeIndex.get(i).get(j));
+			}
+		}
+		//Index 0 for all is all data
+		//Anything after is a runner, index 0 of all contains metadata so I can detect what
+		//Split on _ and if tokens are 3 then all data, otherwise its a runner
+		//so we can find out the runner
+		//Add more methods for runner specific and another for all
+	}
+
 	private List<String> locateDataArray(MarketBook marketBook)
 	{
 		List<String> index;
@@ -325,7 +359,8 @@ public class GameRecorder extends TimerTask
 		marketList.add("27371349,1.117354055");
 		marketList.add("27371349,1.117354061");
 		GameRecorder rec = new GameRecorder(core, marketList);
-		
+		Timer time = new Timer();
+		time.schedule(rec,5000);
 		/////////
 		
 //		BetFairCore core = new BetFairCore(false);
