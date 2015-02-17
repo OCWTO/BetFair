@@ -77,13 +77,21 @@ public class TextFrontEnd
 		}
 		while(true)
 		{
-			System.out.println("Pick a market you want to record\n\tSELECT 'NUMBER'");
+			System.out.println("Pick a market you want to record\n\tSELECT 'NUMBER'\n\tEnter 'DONE' to continue");
 			inputLine = userInput.nextLine();
-			inputTokens = inputLine.split(" ");
-			selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
 			
-			gameMarkets.add(selectedMarketRow[selectedMarketRow.length-1]);
-			return gameMarkets;
+			if(inputLine.equalsIgnoreCase("done"))
+			{
+				return gameMarkets;
+			}
+			else
+			{
+				inputTokens = inputLine.split(" ");
+				
+				selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
+				
+				gameMarkets.add(selectedMarketRow[selectedMarketRow.length-1]);
+			}
 		}
 	}
 
