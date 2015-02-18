@@ -169,8 +169,7 @@ public class GameRecorder extends TimerTask
 			System.out.println("iter");
 			for(int i =0 ; i < gameData.get(j).size(); i++)
 			{
-				System.out.println(gameData.get(j).get(i));
-				//System.out.println("runne");
+				System.out.println("X " + gameData.get(j).get(i));
 			}
 		}
 	}
@@ -247,6 +246,7 @@ public class GameRecorder extends TimerTask
 			marketData = betFair.getMarketBook(trackedMarkets);
 			
 			//Match gameData list to marketData Item
+			System.out.println(gameData.size());
 			for(int i = 0; i < gameData.size(); i++)
 			{
 				//Store array we're currently looking for
@@ -291,18 +291,29 @@ public class GameRecorder extends TimerTask
 	
 	private void gatherData(List<Runner> runners, List<ArrayList<String>> activeIndex)
 	{
-		for(int i = 0; i < activeIndex.size(); i++)
+		//If split on activeindex = 2 then its all data 
+		
+		//otherwise its a runners so we only look for that
+		//String[] tokens = activeIndex.get(0).split("_");
+		System.out.println("size " + activeIndex.size());
+		
+		//For each inner list we have
+		for(int i = 0 ; i < activeIndex.size(); i++)
 		{
-			for(int j = 0; j < activeIndex.get(i).size(); j++)
+			//Tokenize index 0 (metadata entry)
+			String[] tokens = activeIndex.get(i).get(0).split("_");
+			
+			//3 Tokens are in the field we tokenize iff its the list for recording ALL game data
+			if(tokens.length == 3)
 			{
-				System.out.println(activeIndex.get(i).get(j));
+				//recordalldata
+			}
+			//4 Tokens are for a single runner so we only care about certain data and get probability instead of all data
+			else
+			{
+				//match our last token to a runner name and only care about their shit.
 			}
 		}
-		//Index 0 for all is all data
-		//Anything after is a runner, index 0 of all contains metadata so I can detect what
-		//Split on _ and if tokens are 3 then all data, otherwise its a runner
-		//so we can find out the runner
-		//Add more methods for runner specific and another for all
 	}
 
 	private List<String> locateDataArray(MarketBook marketBook)
@@ -355,9 +366,9 @@ public class GameRecorder extends TimerTask
 			e.printStackTrace();
 		}
 		List<String> marketList = new ArrayList<String>();
-		marketList.add("27371349,1.117354053");
-		marketList.add("27371349,1.117354055");
-		marketList.add("27371349,1.117354061");
+		marketList.add("27361322,1.117192952");
+		marketList.add("27361322,1.117352806");
+		marketList.add("27361322,1.117192958");
 		GameRecorder rec = new GameRecorder(core, marketList);
 		Timer time = new Timer();
 		time.schedule(rec,5000);
