@@ -85,3 +85,6 @@
 
 17/2/15:
 	Did more work on game recorder and added some helpful methods. In hindsight I've probably not written it the easiest way, at least the method isn't very simple and because the way the betfai api works, there's a lot of additional work. Fairly achieveable plan I think is finish recorder tomorrow and start getting games. Probably little modifications required if I want to do multiple games with multiple markets rather than just 1 game with many markets.
+
+18/2/15:
+	Almost finished the new game recorder, I've had lots of bugs due to tired coding. The program did it's job but it did it a few more times than it should have (It was making multiple duplicate entries). Going to just port my old recording code into the new class and it should be ready for tomorrow. I'll probably heavily refactor what I have for now since it's just one massive class.

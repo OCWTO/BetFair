@@ -28,7 +28,10 @@ import betfairUtils.RunnerCatalog;
 
 /**
  * Class responsible for tracking games and storing the data from their play to files.
- * Only currently supports 1 game with multiple tracked markets
+ * Only currently supports 1 game with tracked markets. For each tracked market it will
+ * create a number of files. One containing all time stamped raw data from all runners, and
+ * other files, for each runner. These contain time stamps with comma separated probability,
+ * which is calculated from raw data.
  * @author Craig Thomson
  *
  */
@@ -45,7 +48,7 @@ public class GameRecorder extends TimerTask
 	 * List 2 is the market data, each market being recorded has 4 collections of data.
 	 */
 	private List<ArrayList<ArrayList<String>>> gameData;
-	
+
 	private Map<Long, String> runnerIds;
 	
 	private BetFairCore betFair;
@@ -174,6 +177,10 @@ public class GameRecorder extends TimerTask
 		}
 	}
 
+	/**
+	 * 
+	 * @param runners
+	 */
 	private void addToRunnerMap(List<RunnerCatalog> runners)
 	{
 		for(int i = 0; i < runners.size(); i++)
@@ -233,88 +240,88 @@ public class GameRecorder extends TimerTask
 	{
 		List<String> trackedMarkets;
 		List<MarketBook> marketData;
-		List<ArrayList<String>> activeIndex;
-		String dataIndex;
-		String[] dataIndexTokens;
-		String keyword;
-		//String secondKeyword;
-		
+
 		//For each game
 		for(String gameIDKey : gameToMarkets.keySet())
 		{
-			//Get the list of markets in this game we track
+			//Get the list of markets in this game we track (from the map)
 			trackedMarkets = gameToMarkets.get(gameIDKey);
 			
 			//Get the list of market information for the list of markets.
 			marketData = betFair.getMarketBook(trackedMarkets);
 			
 			assert marketData.size() == trackedMarkets.size();
-			
-			//Match gameData list to marketData Item
-			System.out.println("game data " + gameData.size());
-			
+
 			//For our lists of market data
 			for(int i = 0; i < gameData.size(); i++)
 			{
-				//Store the list we're currently looking at
-				activeIndex = gameData.get(i);
-				
-				//For each individual set of data we store
-				for(int j = 0; j < activeIndex.size(); j++)
-				{
-					//get the metadata index
-					dataIndex = activeIndex.get(j).get(0);
+				//Get metadata line
+				String tempLine = gameData.get(i).get(i).get(0);
+				String[] metaDataTokens = tempLine.split("_");
 					
-					//Tokenize our index, different number of tokens identifies the data we're looking for
-					dataIndexTokens = dataIndex.split("_");
-
-					//For each market data item
-					for(int k = 0; k  < marketData.size(); k++)
+				//Match the list to the market
+				for(MarketBook item: marketData)
+				{
+					if(marketIdToName.get(item.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
 					{
-						//If the market name matches the token for the market name
-						if(marketIdToName.get(marketData.get(k).getMarketId()).equalsIgnoreCase(dataIndexTokens[1]))
-						{
-							//We know we have the right index to get runner info from so collect data from it.
-							gatherData(marketData.get(k).getRunners(), activeIndex);
-							break;
-						}
+						//If they match up then grab data from it
+						gatherData(item.getRunners(), gameData.get(i));
 					}
 				}
-			}	
-		}	
-	}
-	
-	private void gatherData(List<Runner> runners, List<ArrayList<String>> activeIndex)
-	{
-		for(int i = 0 ; i < activeIndex.size(); i++)
-		{
-			//Tokenize index 0 (metadata entry)
-			String[] tokens = activeIndex.get(i).get(0).split("_");
-			
-			//3 Tokens are in the field we tokenize iff its the list for recording ALL game data
-			if(tokens.length == 3)
-			{
-				storeAllGameData(runners, activeIndex);
 			}
-			//4 Tokens are for a single runner so we only care about certain data and get probability instead of all data
-			else
+		}	
+	}	
+	
+	/**
+	 * The purpose of this class is to be given in a List of runner data and a List of Lists which
+	 * represents the top level list for storing market data and the lower level lists [0][0] [0][1]
+	 * are for storing runner specific data
+	 * It analyses the sub-lists metadata given and calls methods to distribute the data as necessary
+	 * @param runners The list of runners in a market
+	 * @param currentList A List of Lists representing data stored from the market
+	 */
+	private void gatherData(List<Runner> runners, List<ArrayList<String>> currentList)
+	{
+		//For each sub-list we have
+		for(int i = 0 ; i < currentList.size(); i++)
+		{
+			//Metadata is in index 0 of the sub-list
+			String[] metaDataTokens = currentList.get(i).get(0).split("_");
+			
+			//3 Tokens means all data is tracked
+			if(metaDataTokens.length == 3)
 			{
-				storeSelectiveRunnerData(runners, activeIndex, tokens[tokens.length-1]);
+				System.out.println("Track all");
+				storeAllGameData(runners,currentList.get(i));
+			}
+			//4 Tokens is all the information in the all data but with a runner name appended.
+			else if(metaDataTokens.length == 4)
+			{
+				System.out.println("Track single " + metaDataTokens[metaDataTokens.length-1]);
+				storeSelectiveRunnerData(runners, currentList.get(i), metaDataTokens[metaDataTokens.length-1]);
 			}
 		}
 	}
 
-	private void storeSelectiveRunnerData(List<Runner> runners, List<ArrayList<String>> activeIndex, String token)
+	/**
+	 * 
+	 * @param runners
+	 * @param activeIndex
+	 * @param token
+	 */
+	private void storeSelectiveRunnerData(List<Runner> runners, List<String> activeIndex, String token)
 	{
 		System.out.println("method hit");
 		Runner trackedRunner;
 		
+		System.out.println("RUNNA SIZE " + runners.size());
 		for(int i = 0; i < runners.size(); i++)
 		{
 			if(runnerIds.get(runners.get(i).getSelectionId()).equalsIgnoreCase(token))
 			{
 				trackedRunner = runners.get(i);
 				System.out.println("MATCH! " + "TOKEN IS " + token +". SELECTION ID IS " + runners.get(i).getSelectionId());
+				//So we know the index of the stuff now so we call getEx on it and calculate, store and timestamp
 				break;
 			}
 			else
@@ -327,48 +334,16 @@ public class GameRecorder extends TimerTask
 		
 	}
 
-	private void storeAllGameData(List<Runner> runners, List<ArrayList<String>> activeIndex)
+	private void storeAllGameData(List<Runner> runners, List<String> activeIndex)
 	{
+		//So add all shit to activeIndex from all runners
+		//activeIndex.
+		System.out.println("store all");
 		// TODO Auto-generated method stub
 		
 	}
 
-	private List<String> locateDataArray(MarketBook marketBook)
-	{
-		List<String> index;
-		String[] indexTokens;
-		String marketToken = marketBook.getMarketId();
-		
-		
-		//For each market we track
-		for(int i = 0; i < gameData.size(); i++)
-		{
-			index = gameData.get(i).get(0);
-			//indexTokens = index.split("_");
-		}
-		
-		
-		
-		//for each market we are tracking
-		for(int i = 0; i < gameData.get(0).size(); i++)
-		{
-			//get the list of lists for a market (so information for that market)
-			index = gameData.get(0).get(i);
-			
-			//if index 0 (metadata line, which has the id)
-			indexTokens = index.get(0).split("_");
-			for(String token : indexTokens)
-			{
-				//this list has the same marketid as the marketbook passed in
-				if(token.equals(marketToken))
-				{
-					return index;
-				}
-			}
-		}
-		//assertion here that it never gets here
-		return null;
-	}
+
 
 	public static void main(String[] args)
 	{
