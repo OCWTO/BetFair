@@ -179,6 +179,7 @@ public class GameRecorder extends TimerTask
 		for(int i = 0; i < runners.size(); i++)
 		{
 			runnerIds.put(runners.get(i).getSelectionId(),runners.get(i).getRunnerName());
+			System.out.println("PUTTING " + runners.get(i).getSelectionId() +","+runners.get(i).getRunnerName());
 		}
 	}
 
@@ -237,67 +238,54 @@ public class GameRecorder extends TimerTask
 		String[] dataIndexTokens;
 		String keyword;
 		//String secondKeyword;
+		
+		//For each game
 		for(String gameIDKey : gameToMarkets.keySet())
 		{
-			//Tracked market list
+			//Get the list of markets in this game we track
 			trackedMarkets = gameToMarkets.get(gameIDKey);
 			
-			//Market book list for tracked markets
+			//Get the list of market information for the list of markets.
 			marketData = betFair.getMarketBook(trackedMarkets);
 			
+			assert marketData.size() == trackedMarkets.size();
+			
 			//Match gameData list to marketData Item
-			System.out.println(gameData.size());
+			System.out.println("game data " + gameData.size());
+			
+			//For our lists of market data
 			for(int i = 0; i < gameData.size(); i++)
 			{
-				//Store array we're currently looking for
+				//Store the list we're currently looking at
 				activeIndex = gameData.get(i);
 				
-				//Get 1st array item (metadata with gamename, marketname, time etc)
-				dataIndex = gameData.get(i).get(0).get(0);
-				dataIndexTokens = dataIndex.split("_");
-				
-				//Grab the market name from the stored data
-				keyword = dataIndexTokens[1];
-				//Find the marketids name (if we track it)
-				for(int j = 0; j < marketData.size(); j++)
+				//For each individual set of data we store
+				for(int j = 0; j < activeIndex.size(); j++)
 				{
-					//Get the markets name
-					String secondKeyword = marketIdToName.get(marketData.get(j).getMarketId());
+					//get the metadata index
+					dataIndex = activeIndex.get(j).get(0);
 					
-					//Got match and we know the list it maps to so we get data and add to it
-					if(secondKeyword != null)
+					//Tokenize our index, different number of tokens identifies the data we're looking for
+					dataIndexTokens = dataIndex.split("_");
+
+					//For each market data item
+					for(int k = 0; k  < marketData.size(); k++)
 					{
-						List<MarketBook> book = betFair.getMarketBook(marketData.get(j).getMarketId());
-						List<Runner> runners = book.get(0).getRunners();
-						
-						gatherData(runners, activeIndex);
-						//from here we have a list of lists? if so we add all to 0, runner1 to 1...
-						//gameData.get(i) is the match, so 0,0 is all 
-						//get 0 is market1
-						//get 1 is market2
-						//get 0 0 is market 1 all
-						//get 0 1 is market 1 runner 1
-						//		dont forget the last index means shit here
-						break;
+						//If the market name matches the token for the market name
+						if(marketIdToName.get(marketData.get(k).getMarketId()).equalsIgnoreCase(dataIndexTokens[1]))
+						{
+							//We know we have the right index to get runner info from so collect data from it.
+							gatherData(marketData.get(k).getRunners(), activeIndex);
+							break;
+						}
 					}
-					//Match up the secondKeyword to a token 
-					
-					//if we get a match then we grab data and add to the array with the match
-				}	
+				}
 			}	
-		}
-		//Identify the gameData list that lines up to the marketData list index
+		}	
 	}
 	
 	private void gatherData(List<Runner> runners, List<ArrayList<String>> activeIndex)
 	{
-		//If split on activeindex = 2 then its all data 
-		
-		//otherwise its a runners so we only look for that
-		//String[] tokens = activeIndex.get(0).split("_");
-		System.out.println("size " + activeIndex.size());
-		
-		//For each inner list we have
 		for(int i = 0 ; i < activeIndex.size(); i++)
 		{
 			//Tokenize index 0 (metadata entry)
@@ -306,14 +294,43 @@ public class GameRecorder extends TimerTask
 			//3 Tokens are in the field we tokenize iff its the list for recording ALL game data
 			if(tokens.length == 3)
 			{
-				//recordalldata
+				storeAllGameData(runners, activeIndex);
 			}
 			//4 Tokens are for a single runner so we only care about certain data and get probability instead of all data
 			else
 			{
-				//match our last token to a runner name and only care about their shit.
+				storeSelectiveRunnerData(runners, activeIndex, tokens[tokens.length-1]);
 			}
 		}
+	}
+
+	private void storeSelectiveRunnerData(List<Runner> runners, List<ArrayList<String>> activeIndex, String token)
+	{
+		System.out.println("method hit");
+		Runner trackedRunner;
+		
+		for(int i = 0; i < runners.size(); i++)
+		{
+			if(runnerIds.get(runners.get(i).getSelectionId()).equalsIgnoreCase(token))
+			{
+				trackedRunner = runners.get(i);
+				System.out.println("MATCH! " + "TOKEN IS " + token +". SELECTION ID IS " + runners.get(i).getSelectionId());
+				break;
+			}
+			else
+			{
+				System.out.println("NO HIT " + "TOKEN IS " + token +". SELECTION ID IS " + runners.get(i).getSelectionId() + " FOUND WAS " + runnerIds.get(runners.get(i).getSelectionId()));
+			}
+		}
+		
+		//we got our runner so we just grab its data and put it into our list! (timestamp - value)
+		
+	}
+
+	private void storeAllGameData(List<Runner> runners, List<ArrayList<String>> activeIndex)
+	{
+		// TODO Auto-generated method stub
+		
 	}
 
 	private List<String> locateDataArray(MarketBook marketBook)
