@@ -1,5 +1,6 @@
 package model;
 
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -10,6 +11,7 @@ import java.util.TimerTask;
 import Exceptions.CryptoException;
 import betfairUtils.MarketBook;
 import betfairUtils.MarketCatalogue;
+import betfairUtils.PriceSize;
 import betfairUtils.Runner;
 import betfairUtils.RunnerCatalog;
 
@@ -56,6 +58,8 @@ public class GameRecorder extends TimerTask
 	
 	//Due to betfair api inconsistancies in data type this is string to string, not long to string
 	private Map<String,String> marketIdToName;
+	private LocalTime timer;
+	private int counter;
 	/**
 	 * 
 	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}, with possible repeats.
@@ -63,6 +67,7 @@ public class GameRecorder extends TimerTask
 	 */
 	public GameRecorder(BetFairCore betFairCore, List<String> gameAndMarkets)
 	{
+		counter = 0;
 		betFair = betFairCore;
 		gameToMarkets = new HashMap<String,List<String>>();
 		gameData = new ArrayList<ArrayList<ArrayList<String>>>();
@@ -262,10 +267,22 @@ public class GameRecorder extends TimerTask
 				//Match the list to the market
 				for(MarketBook item: marketData)
 				{
-					if(marketIdToName.get(item.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
+					//If this isn't the match odds market which is closed then get data
+					if(!item.getStatus().equalsIgnoreCase("CLOSED") && !marketIdToName.get(item.getMarketId()).equals("Match odds"))
 					{
-						//If they match up then grab data from it
-						gatherData(item.getRunners(), gameData.get(i));
+						//If we get a name match and it's open then we record data.
+						if(marketIdToName.get(item.getMarketId()).equalsIgnoreCase(metaDataTokens[1]) && !item.getStatus().equalsIgnoreCase("CLOSED"))
+						{
+							//If they match up then grab data from it
+							gatherData(item.getRunners(), gameData.get(i));
+						}
+					}
+					//This means we found match odds market and its closed, hence game is over.
+					else
+					{
+						System.out.println("Game finished. Shutting down.");
+						this.cancel();
+						saveData();
 					}
 				}
 			}
@@ -311,37 +328,85 @@ public class GameRecorder extends TimerTask
 	 */
 	private void storeSelectiveRunnerData(List<Runner> runners, List<String> activeIndex, String token)
 	{
-		System.out.println("method hit");
 		Runner trackedRunner;
 		
-		System.out.println("RUNNA SIZE " + runners.size());
 		for(int i = 0; i < runners.size(); i++)
 		{
 			if(runnerIds.get(runners.get(i).getSelectionId()).equalsIgnoreCase(token))
 			{
 				trackedRunner = runners.get(i);
 				System.out.println("MATCH! " + "TOKEN IS " + token +". SELECTION ID IS " + runners.get(i).getSelectionId());
-				//So we know the index of the stuff now so we call getEx on it and calculate, store and timestamp
+				storeRunnerData(trackedRunner, activeIndex);
 				break;
 			}
-			else
+		}		
+	}
+
+	private void storeRunnerData(Runner trackedRunner, List<String> activeIndex)
+	{
+		double workingBack = Double.MIN_VALUE;
+		double workingLay = Double.MAX_VALUE;
+		
+		if (trackedRunner.getEx().getAvailableToBack().size() > 0 && trackedRunner.getEx().getAvailableToLay().size() > 0)
+		{
+			//for each individual back option
+			for(PriceSize backOption: trackedRunner.getEx().getAvailableToBack())
 			{
-				System.out.println("NO HIT " + "TOKEN IS " + token +". SELECTION ID IS " + runners.get(i).getSelectionId() + " FOUND WAS " + runnerIds.get(runners.get(i).getSelectionId()));
+				//find the biggest back value
+				if(backOption.getPrice() > workingBack)
+				{
+					workingBack = backOption.getPrice();
+				}
 			}
-		}
-		
-		//we got our runner so we just grab its data and put it into our list! (timestamp - value)
-		
+			//for each individual lay option
+			for(PriceSize layOption: trackedRunner.getEx().getAvailableToLay())
+			{
+				//find the smallest lay value
+				if(layOption.getPrice() < workingLay)
+				{
+					workingLay = layOption.getPrice();
+				}
+			}
+			timer = LocalTime.now();
+			activeIndex.add(timer + ","+ ((workingBack+workingLay)/2));
+		}		
 	}
 
 	private void storeAllGameData(List<Runner> runners, List<String> activeIndex)
 	{
-		//So add all shit to activeIndex from all runners
-		//activeIndex.
-		System.out.println("store all");
-		// TODO Auto-generated method stub
-		
-	}
+		activeIndex.add("ENTRY: " + counter + "\n");
+		activeIndex.add("\tTIME: " + LocalTime.now().toString()
+					+ "\n");
+
+			for (Runner individual : runners)
+			{
+				activeIndex.add("\t\tRUNNER: "
+						+ runnerIds.get(individual.getSelectionId()) + "\n");
+
+				for (int i = 0; i < individual.getEx().getAvailableToBack()
+						.size(); i++)
+				{
+					activeIndex.add("\t\t\tBACK: (PRICE:"
+							+ individual.getEx().getAvailableToBack().get(i)
+									.getPrice()
+							+ ",SIZE:"
+							+ individual.getEx().getAvailableToBack().get(i)
+									.getSize() + ")\n");
+				}
+				for (int i = 0; i < individual.getEx().getAvailableToLay()
+						.size(); i++)
+				{
+					activeIndex.add("\t\t\tLAY: (PRICE:"
+							+ individual.getEx().getAvailableToLay().get(i)
+									.getPrice()
+							+ ",SIZE:"
+							+ individual.getEx().getAvailableToLay().get(i)
+									.getSize() + ")\n");
+				}
+			}
+			System.out.println("Iteration: " + counter + " complete.");
+			counter++;
+	}	
 
 
 
@@ -354,7 +419,6 @@ public class GameRecorder extends TimerTask
 		} 
 		catch (CryptoException e)
 		{
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		List<String> marketList = new ArrayList<String>();
@@ -373,7 +437,6 @@ public class GameRecorder extends TimerTask
 //		} 
 //		catch (CryptoException e)
 //		{
-//			// TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}
 //		List<String> marketList = new ArrayList<String>();
