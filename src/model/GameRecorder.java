@@ -1,5 +1,9 @@
 package model;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -60,6 +64,7 @@ public class GameRecorder extends TimerTask
 	private Map<String,String> marketIdToName;
 	private LocalTime timer;
 	private int counter;
+	private long startDelay;
 	/**
 	 * 
 	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}, with possible repeats.
@@ -74,7 +79,37 @@ public class GameRecorder extends TimerTask
 		generateGameToMarketMap(gameAndMarkets);
 		generateMarketIdToNameMap();
 		initiliseCollections();
+		setStartDelay(gameAndMarkets);
 	}
+	
+	private void setStartDelay(List<String> gameAndMarkets)
+	{
+		String[] gameID = gameAndMarkets.get(0).split(",");
+		
+		List<MarketCatalogue> catalogueItem = betFair.getMarketCatalogue(gameID[0]);
+		for(int i = 0 ; i < catalogueItem.size() ; i++)
+		{
+			if(catalogueItem.get(i).getMarketId().equals(gameID[1]))
+			{
+				startDelay = catalogueItem.get(i).getEvent().getOpenDate().getTime();
+				break;
+			}
+		}
+	}
+
+	public long getStartDelay()
+	{
+		// if started
+		if ((startDelay - System.currentTimeMillis()) < 0)
+		{
+			System.out.println("STARTING NOW!");
+			return 0;
+		}
+		System.out.println("WAITING FOR "
+				+ (startDelay - System.currentTimeMillis()) + "MS");
+		return startDelay - System.currentTimeMillis();
+	}
+	
 	
 	/**
 	 * Create the map from Market Id to market name, required for storing data, since
@@ -172,14 +207,6 @@ public class GameRecorder extends TimerTask
 				gameData.add(marketData);
 			}
 		}
-		for(int j =0 ; j < gameData.size(); j++)
-		{
-			System.out.println("iter");
-			for(int i =0 ; i < gameData.get(j).size(); i++)
-			{
-				System.out.println("X " + gameData.get(j).get(i));
-			}
-		}
 	}
 
 	/**
@@ -191,7 +218,6 @@ public class GameRecorder extends TimerTask
 		for(int i = 0; i < runners.size(); i++)
 		{
 			runnerIds.put(runners.get(i).getSelectionId(),runners.get(i).getRunnerName());
-			System.out.println("PUTTING " + runners.get(i).getSelectionId() +","+runners.get(i).getRunnerName());
 		}
 	}
 
@@ -230,6 +256,57 @@ public class GameRecorder extends TimerTask
 	 */
 	private void saveData()
 	{
+		//TODO add code to support unix
+		File dataDir;
+		String currentDir = System.getProperty("user.dir");
+		String destination = "\\logs\\gamelogs\\";
+		String tempTokens[] = gameData.get(0).get(0).get(0).split("_");
+		dataDir = new File(currentDir+destination + tempTokens[0]);
+		dataDir.mkdir();
+		
+		File tempDir;
+		String[] temp2;
+		BufferedWriter outputWriter;
+		String[] moreTokens;
+		//Create sub directories and make the files
+		for(int i = 0; i < gameData.size(); i++)
+		{
+			temp2 = gameData.get(i).get(0).get(0).split("_");
+			tempDir = new File(dataDir.getPath() + temp2[1]);
+			tempDir.mkdir();
+			try
+			{
+				//Deal with inner lists
+				for(int j = 0 ; j < gameData.get(i).size(); j++)
+				{
+					moreTokens = gameData.get(i).get(j).get(0).split("_");
+					
+					if(moreTokens.length == 3)
+					{
+						outputWriter = new BufferedWriter(new FileWriter(tempDir.getPath()
+								+ "ALLDATA" + ".txt"));
+					}
+					else
+					{
+						outputWriter = new BufferedWriter(new FileWriter(tempDir.getPath()
+								+ moreTokens[moreTokens.length-1] + ".csv"));
+					}
+					for(int a = 0; a < gameData.get(i).get(j).size(); a++)
+					{
+						outputWriter.write(gameData.get(i).get(j).get(a));
+					}
+					outputWriter.flush();
+					outputWriter.close();
+				}
+			}
+			catch (IOException e)
+			{
+				e.printStackTrace();
+			}
+		}
+
+		
+		
 		//save all normal data and separate csvs for markets
 		//for each game make a dir
 		//for each market in the game make a dir
@@ -260,10 +337,16 @@ public class GameRecorder extends TimerTask
 			//For our lists of market data
 			for(int i = 0; i < gameData.size(); i++)
 			{
+				//for(int j = 0; j <gameData.get(i).size(); j++)
+				//{
 				//Get metadata line
-				String tempLine = gameData.get(i).get(i).get(0);
+				String tempLine = gameData.get(i).get(0).get(0);
 				String[] metaDataTokens = tempLine.split("_");
-					
+				//for(String fucksake: metaDataTokens)
+				//{
+				//	System.out.println(fucksake);
+				//}
+				//System.out.println(metaDataTokens.);
 				//Match the list to the market
 				for(MarketBook item: marketData)
 				{
@@ -285,8 +368,11 @@ public class GameRecorder extends TimerTask
 						saveData();
 					}
 				}
+				//}
 			}
 		}	
+		System.out.println("Iteration " + counter + "complete!");
+		counter++;
 	}	
 	
 	/**
@@ -308,13 +394,11 @@ public class GameRecorder extends TimerTask
 			//3 Tokens means all data is tracked
 			if(metaDataTokens.length == 3)
 			{
-				System.out.println("Track all");
 				storeAllGameData(runners,currentList.get(i));
 			}
 			//4 Tokens is all the information in the all data but with a runner name appended.
 			else if(metaDataTokens.length == 4)
 			{
-				System.out.println("Track single " + metaDataTokens[metaDataTokens.length-1]);
 				storeSelectiveRunnerData(runners, currentList.get(i), metaDataTokens[metaDataTokens.length-1]);
 			}
 		}
@@ -335,7 +419,6 @@ public class GameRecorder extends TimerTask
 			if(runnerIds.get(runners.get(i).getSelectionId()).equalsIgnoreCase(token))
 			{
 				trackedRunner = runners.get(i);
-				System.out.println("MATCH! " + "TOKEN IS " + token +". SELECTION ID IS " + runners.get(i).getSelectionId());
 				storeRunnerData(trackedRunner, activeIndex);
 				break;
 			}
@@ -404,8 +487,8 @@ public class GameRecorder extends TimerTask
 									.getSize() + ")\n");
 				}
 			}
-			System.out.println("Iteration: " + counter + " complete.");
-			counter++;
+			//System.out.println("Iteration: " + counter + " complete.");
+			//counter++;
 	}	
 
 
@@ -422,12 +505,13 @@ public class GameRecorder extends TimerTask
 			e.printStackTrace();
 		}
 		List<String> marketList = new ArrayList<String>();
-		marketList.add("27361322,1.117192952");
-		marketList.add("27361322,1.117352806");
-		marketList.add("27361322,1.117192958");
+		marketList.add("27361317,1.117192482");
+		marketList.add("27361317,1.117192476");
+		marketList.add("27361317,1.117192483");
 		GameRecorder rec = new GameRecorder(core, marketList);
 		Timer time = new Timer();
-		time.schedule(rec,5000);
+		time.schedule(rec, rec.getStartDelay(), 5000);
+		//time.schedule(rec,5000);
 		/////////
 		
 //		BetFairCore core = new BetFairCore(false);

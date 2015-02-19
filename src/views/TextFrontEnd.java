@@ -1,10 +1,12 @@
 package views;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Timer;
 
 import Exceptions.CryptoException;
+import model.GameRecorder;
 import model.SimpleBetFairCore;
 import model.SimpleGameRecorder;
 
@@ -13,7 +15,7 @@ public class TextFrontEnd
 {
 	private Scanner userInput;
 	private SimpleBetFairCore betFair;
-	private SimpleGameRecorder recorder;
+	private GameRecorder recorder;
 	
 	public TextFrontEnd(boolean debug)
 	{
@@ -45,11 +47,12 @@ public class TextFrontEnd
 			//If game successfully selected then prompt for market.
 			marketId = marketPrompt(gameId);		
 			
-			recordMode = recorderPrompt();
+			//recordMode = recorderPrompt();
 			//now we call
-			recorder = new SimpleGameRecorder(betFair.getBetFair(), gameId, marketId,recordMode);
+			recorder = new GameRecorder(betFair.getBetFair(), marketId);
+			System.out.println(marketId.get(0));
 			Timer timer = new Timer();
-			timer.schedule(recorder, recorder.getStartDelay(),30000);
+			timer.schedule(recorder, recorder.getStartDelay(),5000);
 			//TODO let recordmode be an enum
 		}
 	}
@@ -69,6 +72,8 @@ public class TextFrontEnd
 		List<String> gameMarkets = betFair.getMarketsForGame(gameId);
 		String[] selectedMarketRow;
 		
+		List<String> selectedMarket = new ArrayList<String>();
+		
 		System.out.println("MARKETS");
 		for(int i = 0; i < gameMarkets.size(); i++)
 		{
@@ -82,15 +87,15 @@ public class TextFrontEnd
 			
 			if(inputLine.equalsIgnoreCase("done"))
 			{
-				return gameMarkets;
+				return selectedMarket;
 			}
 			else
 			{
 				inputTokens = inputLine.split(" ");
 				
 				selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
-				
-				gameMarkets.add(selectedMarketRow[selectedMarketRow.length-1]);
+
+				selectedMarket.add(gameId +","+selectedMarketRow[selectedMarketRow.length-1]);
 			}
 		}
 	}
