@@ -274,7 +274,7 @@ public class GameRecorder extends TimerTask
 			temp2 = gameData.get(i).get(0).get(0).split("_");
 			tempDir = new File(dataDir.getPath() + temp2[1]);
 			tempDir.mkdir();
-			try
+			try	//TODO strip special chars and fix directory saving
 			{
 				//Deal with inner lists
 				for(int j = 0 ; j < gameData.get(i).size(); j++)
@@ -284,12 +284,12 @@ public class GameRecorder extends TimerTask
 					if(moreTokens.length == 3)
 					{
 						outputWriter = new BufferedWriter(new FileWriter(tempDir.getPath()
-								+ "ALLDATA" + ".txt"));
+								+ "\\ALLDATA" + ".txt"));
 					}
 					else
 					{
 						outputWriter = new BufferedWriter(new FileWriter(tempDir.getPath()
-								+ moreTokens[moreTokens.length-1] + ".csv"));
+								+ "\\"+moreTokens[moreTokens.length-1] + ".csv"));
 					}
 					for(int a = 0; a < gameData.get(i).get(j).size(); a++)
 					{
