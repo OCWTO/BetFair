@@ -1,0 +1,255 @@
+Slovacko v FK Jablonec_Slovacko +1_1424459700000ENTRY: 0
+	TIME: 21:01:15.692
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 1
+	TIME: 21:01:19.583
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 2
+	TIME: 21:01:27.367
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 3
+	TIME: 21:01:28.956
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 4
+	TIME: 21:01:34.329
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 5
+	TIME: 21:01:38.832
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 6
+	TIME: 21:01:44.416
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 7
+	TIME: 21:01:49.437
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 8
+	TIME: 21:01:54.480
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 9
+	TIME: 21:02:02.102
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 10
+	TIME: 21:02:05.356
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 11
+	TIME: 21:02:10.567
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 12
+	TIME: 21:02:14.325
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 13
+	TIME: 21:02:20.378
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 14
+	TIME: 21:02:25.764
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 15
+	TIME: 21:02:31.766
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 16
+	TIME: 21:02:35.928
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 17
+	TIME: 21:02:41.248
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 18
+	TIME: 21:02:44.445
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 19
+	TIME: 21:02:50.198
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 20
+	TIME: 21:02:55.169
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 21
+	TIME: 21:03:00.448
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 22
+	TIME: 21:03:04.201
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 23
+	TIME: 21:03:10.695
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 24
+	TIME: 21:03:15.460
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 25
+	TIME: 21:03:23.905
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 26
+	TIME: 21:03:27.946
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 27
+	TIME: 21:03:35.279
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 28
+	TIME: 21:03:38.325
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 29
+	TIME: 21:03:43.005
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 30
+	TIME: 21:03:47.520
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 31
+	TIME: 21:03:52.320
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 32
+	TIME: 21:04:02.663
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 33
+	TIME: 21:04:05.495
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 34
+	TIME: 21:04:14.384
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 35
+	TIME: 21:04:16.666
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 36
+	TIME: 21:04:22.041
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 37
+	TIME: 21:04:28.541
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 38
+	TIME: 21:04:31.750
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 39
+	TIME: 21:04:41.296
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 40
+	TIME: 21:04:46.749
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 41
+	TIME: 21:04:50.301
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 42
+	TIME: 21:04:54.095
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 43
+	TIME: 21:04:59.328
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 44
+	TIME: 21:05:04.256
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 45
+	TIME: 21:05:11.999
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 46
+	TIME: 21:05:14.467
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 47
+	TIME: 21:05:21.540
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 48
+	TIME: 21:05:25.424
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 49
+	TIME: 21:05:32.176
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
+ENTRY: 50
+	TIME: 21:05:35.487
+		RUNNER: Slovacko +1
+		RUNNER: FK Jablonec -1
+		RUNNER: Draw
