@@ -272,9 +272,12 @@ public class GameRecorder extends TimerTask
 		for(int i = 0; i < gameData.size(); i++)
 		{
 			temp2 = gameData.get(i).get(0).get(0).split("_");
-			tempDir = new File(dataDir.getPath() + temp2[1]);
+			//Need to strip special charcters, else OS rejects name.
+			String folderName = temp2[1].replaceAll("[^\\p{Alpha}]+","");
+			
+			tempDir = new File(dataDir.getPath() + "\\" + folderName);
 			tempDir.mkdir();
-			try	//TODO strip special chars and fix directory saving
+			try	
 			{
 				//Deal with inner lists
 				for(int j = 0 ; j < gameData.get(i).size(); j++)
@@ -451,7 +454,8 @@ public class GameRecorder extends TimerTask
 				}
 			}
 			timer = LocalTime.now();
-			activeIndex.add(timer + ","+ ((workingBack+workingLay)/2));
+			activeIndex.add(timer + " , "+ ((workingBack+workingLay)/2) + "\n");
+			System.out.println("Writing " + timer + " , "+ ((workingBack+workingLay)/2) + "\n" );
 		}		
 	}
 
@@ -487,52 +491,5 @@ public class GameRecorder extends TimerTask
 									.getSize() + ")\n");
 				}
 			}
-			//System.out.println("Iteration: " + counter + " complete.");
-			//counter++;
 	}	
-
-
-
-	public static void main(String[] args)
-	{
-		BetFairCore core = new BetFairCore(false);
-		try
-		{
-			core.login("0ocwto0", "2014Project", "project");
-		} 
-		catch (CryptoException e)
-		{
-			e.printStackTrace();
-		}
-		List<String> marketList = new ArrayList<String>();
-		marketList.add("27361317,1.117192482");
-		marketList.add("27361317,1.117192476");
-		marketList.add("27361317,1.117192483");
-		GameRecorder rec = new GameRecorder(core, marketList);
-		Timer time = new Timer();
-		time.schedule(rec, rec.getStartDelay(), 5000);
-		//time.schedule(rec,5000);
-		/////////
-		
-//		BetFairCore core = new BetFairCore(false);
-//		try
-//		{
-//			core.login("0ocwto0", "2014Project", "project");
-//		} 
-//		catch (CryptoException e)
-//		{
-//			e.printStackTrace();
-//		}
-//		List<String> marketList = new ArrayList<String>();
-//		marketList.add("1.117354053");
-//		marketList.add("1.117354055");
-//		marketList.add("1.117354061");
-//		List<MarketBook> xy = core.getMarketBook(marketList);
-//		System.out.println(xy.size());
-//		for(int i = 0; i < xy.size(); i++)
-//		{
-//			System.out.println(xy.get(i).getMarketId());	//comes out same order it goes in
-//			System.out.println(xy.get(i).toString());
-//		}
-	}
 }

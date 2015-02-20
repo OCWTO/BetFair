@@ -420,7 +420,7 @@ public class BetFairCore
 		eventCode.add(sportID);
 
 		TimeRange timeRange = new TimeRange();
-		Date fromDate = new Date(new Date().getTime() - (90 * 60 * 1000)); //90 Mins in the past so you can get in play games
+		Date fromDate = new Date(new Date().getTime() - (120 * 60 * 1000)); //100 Mins in the past so you can get in play games
 		Date toDate = new Date(new Date().getTime() + (24 * 60 * 60 * 1000)); //24 hours from now
 		timeRange.setFrom(fromDate);
 		timeRange.setTo(toDate);
