@@ -9,10 +9,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Timer;
 import java.util.TimerTask;
 
-import Exceptions.CryptoException;
 import betfairUtils.MarketBook;
 import betfairUtils.MarketCatalogue;
 import betfairUtils.PriceSize;
@@ -65,6 +63,7 @@ public class GameRecorder extends TimerTask
 	private LocalTime timer;
 	private int counter;
 	private long startDelay;
+	
 	/**
 	 * 
 	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}, with possible repeats.
