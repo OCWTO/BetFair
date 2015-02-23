@@ -6,7 +6,6 @@ import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.awt.Color;
 import java.awt.event.ActionListener;
-import java.awt.event.ItemListener;
 
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
@@ -74,6 +73,11 @@ public class LoginView
 		usernameAndPass[1] = new String(passwordEntry.getPassword());
 		usernameAndPass[2] = new String(filePasswordEntry.getPassword());
 		return usernameAndPass;
+	}
+	
+	public JFrame getFrame()
+	{
+		return guiFrame;
 	}
 	
 	/**

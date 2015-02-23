@@ -20,6 +20,8 @@ public class SportSelectController implements ActionListener
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
+		//if next is pressed collapse old new, make new view and pass around betfair ref
 		
+		//if back is pressed then collapse all, remove betfair init and go back to login view
 	}
 }

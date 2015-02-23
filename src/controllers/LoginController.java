@@ -4,16 +4,19 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import javax.swing.JCheckBox;
+import javax.swing.JOptionPane;
 
 import betfairUtils.LoginResponse;
 import Exceptions.CryptoException;
 import views.LoginView;
+import views.SportSelectView;
 import model.BetFairCore;
 
 public class LoginController implements ActionListener
 {
 	private BetFairCore betFair;
 	private LoginView view;
+	private SportSelectView nextView;
 	private boolean debug;
 	private boolean collect;
 	
@@ -55,24 +58,23 @@ public class LoginController implements ActionListener
 			
 			//Valid login so view changes based on settings
 			if(response.getLoginStatus().equalsIgnoreCase("success"))
-			{
+			{	
 				//Special transition to collection mode
 				if(collect)
 				{
 					System.out.println("transition to collection mode!");
-					view.closeView();
 				}
 				else
 				{
-					System.out.println("transition into normal mode");
 					view.closeView();
+					nextView = new SportSelectView(betFair);
 				}
 			}
 		} 
 		//Bad details passed in
 		catch (CryptoException e)
 		{
-			System.out.println("throw menu for bad stuff");
+			JOptionPane.showMessageDialog(view.getFrame(), e.getMessage());
 		}
 	}
 	
