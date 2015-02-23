@@ -5,6 +5,8 @@ import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.awt.Color;
+import java.awt.event.ActionListener;
+import java.awt.event.ItemListener;
 
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
@@ -15,9 +17,12 @@ import javax.swing.JPasswordField;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
+import controllers.LoginController;
+import model.BetFairCore;
+
 /**
- * 
- * @author Craig
+ * This class represents the users log in view to the program
+ * @author Craig Thomson
  *
  */
 public class LoginView
@@ -29,14 +34,20 @@ public class LoginView
 	private final int ySize = 450;
 	
 	private final String frameTitle = "BetFair Login";
-	//TODO keep betfair here?
-	//TODO method to get values of checkboxes
-	//TODO controller gets values and decides what to do, 
+	
+	private BetFairCore betFair;
+	private ActionListener guiListener;
+	
+	private JTextField usernameEntry;
+	private JPasswordField passwordEntry;
+	//TODO add field for file password
 	/**
 	 * 
 	 */
 	public LoginView()
 	{	
+		betFair = new BetFairCore();
+		guiListener = new LoginController(betFair, this);
 		guiFrame = new JFrame(frameTitle);
 		guiFrame.setResizable(false);
 		mainFrame = guiFrame.getContentPane();
@@ -48,6 +59,20 @@ public class LoginView
 		centreFrame();
 		
 		guiFrame.setVisible(true);	
+	}
+	
+	public void closeView()
+	{
+		guiFrame.setVisible(false);
+		guiFrame.dispose();
+	}
+	
+	public String[] getValues()
+	{
+		String[] usernameAndPass = new String[2];
+		usernameAndPass[0] = usernameEntry.getText();
+		usernameAndPass[1] = new String(passwordEntry.getPassword());
+		return usernameAndPass;
 	}
 	
 	/**
@@ -80,7 +105,8 @@ public class LoginView
 		//Username panel, label - field
 		JPanel userNamePanel = new JPanel();
 		JLabel userNameField = new JLabel("Username:");
-		JTextField usernameEntry = new JTextField();
+		usernameEntry = new JTextField();
+		usernameEntry.addActionListener(guiListener);
 		usernameEntry.setText("USERNAME");
 		userNamePanel.add(userNameField, BorderLayout.EAST);
 		userNamePanel.add(usernameEntry, BorderLayout.WEST);
@@ -89,7 +115,7 @@ public class LoginView
 		//Password pane, label - field
 		JPanel passwordPanel = new JPanel();
 		JLabel PasswordField = new JLabel("Password:");
-		JPasswordField passwordEntry = new JPasswordField();
+		passwordEntry = new JPasswordField();
 		passwordEntry.setText("PASSWORD");
 		passwordPanel.add(PasswordField, BorderLayout.EAST);
 		passwordPanel.add(passwordEntry, BorderLayout.WEST);
@@ -105,25 +131,21 @@ public class LoginView
 	private void setupOptionsPanel()
 	{
 		JPanel optionsPanel = new JPanel();
-		
-
-		
+		optionsPanel.setLayout(new BoxLayout(optionsPanel, BoxLayout.Y_AXIS));
 		JPanel debugPanel = new JPanel();
-		JLabel debugLabel = new JLabel("Debug mode");
-		JCheckBox debugCheckBox = new JCheckBox();
-		debugPanel.add(debugLabel, BorderLayout.WEST);
+		JCheckBox debugCheckBox = new JCheckBox("Debug mode");
+		debugCheckBox.addActionListener(guiListener);
 		debugPanel.add(debugCheckBox, BorderLayout.EAST);
 		optionsPanel.add(debugPanel);
 		
 		JPanel collectionPanel = new JPanel();
-		JLabel collectionLabel = new JLabel("Collection mode");
-		JCheckBox collectionCheckBox = new JCheckBox();
-		collectionPanel.add(collectionLabel, BorderLayout.WEST);
+		JCheckBox collectionCheckBox = new JCheckBox("Collection mode");
+		collectionCheckBox.addActionListener(guiListener);
 		collectionPanel.add(collectionCheckBox, BorderLayout.EAST);
 		optionsPanel.add(collectionPanel);
 		
-		
 		JButton loginButton = new JButton("Login");
+		loginButton.addActionListener(guiListener);
 		
 		mainFrame.add(optionsPanel);
 		mainFrame.add(loginButton);
@@ -137,11 +159,6 @@ public class LoginView
 		//File->exit, File->About, Help->?? user guide?
 	}
 	
-	public void closeView()
-	{
-		guiFrame.setVisible(false);
-		guiFrame.dispose();
-	}
 	
 	/**
 	 * 

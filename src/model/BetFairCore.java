@@ -115,6 +115,13 @@ public class BetFairCore
 		directoryPrefix = System.getProperty("user.dir");
 		httpRequester = new HttpUtil();
 	}
+	
+	public BetFairCore()
+	{
+		this.debug = debug;
+		directoryPrefix = System.getProperty("user.dir");
+		httpRequester = new HttpUtil();
+	}
 
 	// File not found will be avoided using the ui to locate the key thingy
 	/**

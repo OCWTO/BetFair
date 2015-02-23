@@ -91,3 +91,6 @@
 
 19/2/15:
 	Finished the game recorder. Doing testing tonight and if any bugs i'll fix them tomorrow. I'll probably rewrite it to be more efficient and less confusing to read later on. It's quite confusing because different levels of BetFair are "unaware" of others. Meaningful names for things like game names, market names, etc get turned into codes as you go deeper into the information you can access. So I've got quite a few maps that I use in order to resolve issues like actually putting meaningful information into files and understanding what it's looking at. Game name turns into game id, market name turns into market id, runner name turns into runner id and it gets hard to manage, especially when I added support for multiple markets, tracking all runners and the BetFair api doesn't give data out in the same order it went in, in some instances so I can't easily just go from 0 to limit knowing what market should be 0.
+
+23/2/15:
+	Worked on login controllers and views. I've planned all of the gui layouts. I'm just implementing them now. Originally I was going to do this with JavaFx but for the sake of speed, I'm doing it in swing. Almost all I do is transferable if I decide to change my library for guis later.
