@@ -40,7 +40,7 @@ public class LoginView
 	
 	private JTextField usernameEntry;
 	private JPasswordField passwordEntry;
-	//TODO add field for file password
+	private JPasswordField filePasswordEntry;
 	/**
 	 * 
 	 */
@@ -69,9 +69,10 @@ public class LoginView
 	
 	public String[] getValues()
 	{
-		String[] usernameAndPass = new String[2];
+		String[] usernameAndPass = new String[3];
 		usernameAndPass[0] = usernameEntry.getText();
 		usernameAndPass[1] = new String(passwordEntry.getPassword());
+		usernameAndPass[2] = new String(filePasswordEntry.getPassword());
 		return usernameAndPass;
 	}
 	
@@ -120,6 +121,15 @@ public class LoginView
 		passwordPanel.add(PasswordField, BorderLayout.EAST);
 		passwordPanel.add(passwordEntry, BorderLayout.WEST);
 		loginPanel.add(passwordPanel);
+		
+		//Certificate file password pane, label - field
+		JPanel filePasswordPanel = new JPanel();
+		JLabel filePasswordField = new JLabel("Password:");
+		filePasswordEntry = new JPasswordField();
+		filePasswordEntry.setText("File password");
+		filePasswordPanel.add(filePasswordField, BorderLayout.EAST);
+		filePasswordPanel.add(filePasswordEntry, BorderLayout.WEST);
+		loginPanel.add(filePasswordPanel);
 		
 		//Add to main panel
 		mainFrame.add(loginPanel);

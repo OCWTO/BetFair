@@ -5,6 +5,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.JCheckBox;
 
+import betfairUtils.LoginResponse;
 import Exceptions.CryptoException;
 import views.LoginView;
 import model.BetFairCore;
@@ -50,13 +51,28 @@ public class LoginController implements ActionListener
 		try
 		{
 			betFair.setDebug(debug);
-			betFair.login(vals[0], vals[1], vals[2]);
-			//Need to decide the next view based on collects value
+			LoginResponse response = betFair.login(vals[0], vals[1], vals[2]);
+			
+			//Valid login so view changes based on settings
+			if(response.getLoginStatus().equalsIgnoreCase("success"))
+			{
+				//Special transition to collection mode
+				if(collect)
+				{
+					System.out.println("transition to collection mode!");
+					view.closeView();
+				}
+				else
+				{
+					System.out.println("transition into normal mode");
+					view.closeView();
+				}
+			}
 		} 
+		//Bad details passed in
 		catch (CryptoException e)
 		{
-			//TODO throw some sort of notice that bad details
-			e.printStackTrace();
+			System.out.println("throw menu for bad stuff");
 		}
 	}
 	
