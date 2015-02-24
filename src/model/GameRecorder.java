@@ -41,6 +41,7 @@ import betfairUtils.RunnerCatalog;
  */
 public class GameRecorder extends TimerTask
 {
+	//TODO can probably just throw in a method call for throwing data to model
 	/*
 	 * Game IDS mapped to the market IDS (those being tracked)
 	 */
