@@ -322,6 +322,7 @@ public class GameRecorder extends TimerTask
 	@Override
 	public void run()
 	{
+		System.out.println(gameData.size());
 		List<String> trackedMarkets;
 		List<MarketBook> marketData;
 

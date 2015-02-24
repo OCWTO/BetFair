@@ -8,7 +8,6 @@ import java.awt.event.ActionListener;
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 
-import controllers.LoginController;
 import controllers.SportSelectController;
 import model.BetFairCore;
 
@@ -24,7 +23,8 @@ public class SportSelectView
 	
 	private BetFairCore betFair;
 	private ActionListener guiListener;
-	
+	//TODO purpose of this view is to call get sports, display and let user pick
+	//It probably 
 	public SportSelectView(BetFairCore betFair)
 	{
 		betFair = new BetFairCore();
