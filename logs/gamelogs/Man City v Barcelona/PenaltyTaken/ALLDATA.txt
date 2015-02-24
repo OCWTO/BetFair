@@ -1,0 +1,4 @@
+Man City v Barcelona_Penalty Taken?_1424807100000ENTRY: 0
+	TIME: 20:49:56.712
+		RUNNER: Yes
+		RUNNER: No

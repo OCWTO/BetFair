@@ -118,9 +118,14 @@ public class TextFrontEnd
 			System.out.println("Pick a game you want to record\n\tSELECT 'NUMBER'");
 			inputLine = userInput.nextLine();
 			inputTokens = inputLine.split(" ");
-			selectedGameTokens = gameList.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
-
-			return selectedGameTokens[selectedGameTokens.length-1];
+			if(inputTokens.length == 2)
+			{
+				selectedGameTokens = gameList.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
+				System.out.println("Selected game: " + selectedGameTokens[1]);
+				return selectedGameTokens[selectedGameTokens.length-1];
+			}
+			else
+				System.out.println("Invalid number of tokens. Try again!");
 		}
 	}
 
@@ -181,10 +186,11 @@ public class TextFrontEnd
 			inputLine = userInput.nextLine();
 			inputTokens = inputLine.split(" ");
 			
-			if(inputTokens[0].equalsIgnoreCase("SELECT"))
+			if(inputTokens[0].equalsIgnoreCase("SELECT") && inputTokens.length == 2)
 			{
 				//get the number token, get the sport in that index, split it and get the last number (the betfair id)
 				String[] selectedTokens = (results.get(Integer.parseInt(inputTokens[inputTokens.length-1]))).split(" ");
+				System.out.println("Selected sport: " + selectedTokens[1]);
 				return selectedTokens[selectedTokens.length-1];
 			}
 			else

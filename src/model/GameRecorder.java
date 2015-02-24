@@ -336,6 +336,9 @@ public class GameRecorder extends TimerTask
 			//Get the list of market information for the list of markets.
 			marketData = betFair.getMarketBook(trackedMarkets);
 			
+			List<String> test2 = new ArrayList<String>();
+			List<MarketBook> test = betFair.getMarketBook(test2);
+			System.out.println(test.size() + " NO APSS");
 			assert marketData.size() == trackedMarkets.size();
 
 			//For our lists of market data
@@ -345,32 +348,54 @@ public class GameRecorder extends TimerTask
 				//{
 				//Get metadata line
 				String tempLine = gameData.get(i).get(0).get(0);
+				System.out.println(tempLine + " IS TEMPLINE");
 				String[] metaDataTokens = tempLine.split("_");
-				//for(String fucksake: metaDataTokens)
-				//{
-				//	System.out.println(fucksake);
-				//}
-				//System.out.println(metaDataTokens.);
-				//Match the list to the market
+				
+				//Plan will be for each market, if its closed then individually save its contents and remove it from my references
+				//
+				
+				String marketName;
+				
+				//TODO summary is change below to a while loop, maybe every x iterations save everything. When market is closed save it
+				//and remove it from collections of shit to do
+				//if marketdata is size 0 then we can finish
+				
+				
+				//change to a while, remove elements when i match 
+				
+				//do a check if item is of size 0, which means all markets closed and we can cancel
+				
+				//From the list of all market data for our request market ids
 				for(MarketBook item: marketData)
 				{
+					marketName = marketIdToName.get(item.getMarketId());
+					System.out.println("MARKETS NAME IS " + marketName);
+					
 					//If this isn't the match odds market which is closed then get data
-					if(!item.getStatus().equalsIgnoreCase("CLOSED") && !marketIdToName.get(item.getMarketId()).equals("Match odds"))
+					//if(!item.getStatus().equalsIgnoreCase("CLOSED") && !marketIdToName.get(item.getMarketId()).equals("Match odds"))
+					
+					//If the market isn't closed then we look further
+					if(!item.getStatus().equalsIgnoreCase("CLOSED"))
 					{
-						//If we get a name match and it's open then we record data.
-						if(marketIdToName.get(item.getMarketId()).equalsIgnoreCase(metaDataTokens[1]) && !item.getStatus().equalsIgnoreCase("CLOSED"))
+						//Attempting to match the metadata token of market name to items market name
+						if(marketIdToName.get(item.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
 						{
 							//If they match up then grab data from it
-							gatherData(item.getRunners(), gameData.get(i));
+							//gatherData(item.getRunners(), gameData.get(i));
+							System.out.println("gathering data, templine matches to the name");
 						}
 					}
-					//This means we found match odds market and its closed, hence game is over.
 					else
 					{
-						System.out.println("Game finished. Shutting down.");
-						this.cancel();
-						saveData();
+						
 					}
+//					//This means we found match odds market and its closed, hence game is over.
+//					else
+//					{
+//						System.out.println("Game finished. Shutting down.");
+//						this.cancel();
+//						saveData();
+//					}
 				}
 				//}
 			}

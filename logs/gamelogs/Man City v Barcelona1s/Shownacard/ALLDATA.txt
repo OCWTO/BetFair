@@ -1,0 +1,39 @@
+Man City v Barcelona_Shown a card?_1424807100000ENTRY: 0
+	TIME: 20:47:37.615
+		RUNNER: Sergio Aguero
+		RUNNER: Wilfried Bony
+		RUNNER: Edin Dzeko
+		RUNNER: David Silva
+		RUNNER: Frank Lampard
+		RUNNER: Samir Nasri
+		RUNNER: James Milner
+		RUNNER: Jesus Navas
+		RUNNER: Fernandinho
+		RUNNER: Aleksandar Kolarov
+		RUNNER: Vincent Kompany
+		RUNNER: Martin Demichelis
+		RUNNER: Fernando Reges
+		RUNNER: Pablo Zabaleta
+		RUNNER: Eliaquim Mangala
+		RUNNER: Dedryck Boyata
+		RUNNER: Bacary Sagna
+		RUNNER: Gael Clichy
+		RUNNER: Lionel Messi
+		RUNNER: Luis Suarez
+		RUNNER: Neymar
+		RUNNER: Pedro
+		RUNNER: Andres Iniesta
+		RUNNER: Rafinha
+		RUNNER: Xavi
+		RUNNER: Gerard Pique
+		RUNNER: Sergi Roberto
+		RUNNER: Adriano
+		RUNNER: Jordi Alba
+		RUNNER: Sergio Busquets
+		RUNNER: Marc Bartra
+		RUNNER: Jeremy Mathieu
+		RUNNER: Douglas
+		RUNNER: Javier Mascherano
+		RUNNER: Martin Montoya
+		RUNNER: Ivan Rakitic
+		RUNNER: Daniel Alves

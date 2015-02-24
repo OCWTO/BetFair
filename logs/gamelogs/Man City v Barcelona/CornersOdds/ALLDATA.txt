@@ -1,0 +1,9 @@
+Man City v Barcelona_Corners Odds_1424807100000ENTRY: 0
+	TIME: 20:49:56.796
+		RUNNER: 9 or less
+			BACK: (PRICE:1.13,SIZE:40.0)
+		RUNNER: 10 - 12
+			BACK: (PRICE:2.06,SIZE:36.0)
+		RUNNER: 13 or more
+			BACK: (PRICE:2.06,SIZE:24.0)
+			BACK: (PRICE:2.0,SIZE:115.0)
