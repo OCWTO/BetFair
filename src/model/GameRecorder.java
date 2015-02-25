@@ -65,7 +65,7 @@ public class GameRecorder extends TimerTask
 	 */
 	public GameRecorder(BetFairCore betFairCore, List<String> gameAndMarkets)
 	{
-		counter = 0;
+		counter = 1;
 		betFair = betFairCore;
 		gameToMarkets = new HashMap<String,List<String>>();
 		gameData = new ArrayList<ArrayList<ArrayList<String>>>();
@@ -247,7 +247,7 @@ public class GameRecorder extends TimerTask
 	//TODO add unix support
 	private void makeBaseDirectory()
 	{
-		if(baseDir.exists())
+		if(baseDir != null)
 			return;
 		
 		String currentDir = System.getProperty("user.dir");
@@ -332,13 +332,11 @@ public class GameRecorder extends TimerTask
 				//Get metadata line from the ith markets, all data index.
 				String metaDataLine = gameData.get(i).get(0).get(0);
 				String[] metaDataTokens = metaDataLine.split("_");
-				
-				System.out.println(marketData.size() + "SZ");
+
 				//While there's market data left
-				while(!marketData.isEmpty())
+				for(int j = 0; j < marketData.size(); j++)
 				{
-					//Pop the first index
-					currentBook = marketData.remove(0);
+					currentBook = marketData.get(j);
 					
 					//If the market is closed, then we filter it out of everything.
 					if(currentBook.getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET))
@@ -364,13 +362,15 @@ public class GameRecorder extends TimerTask
 						//Look for a match to the markets name, resolved by the map, to the market name in metadata
 						if(marketIdToName.get(currentBook.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
 						{
+							System.out.println("Adding data for market: " + metaDataTokens[1]);
 							gatherData(currentBook.getRunners(), gameData.get(i));
+							System.out.println();
 						}
 					}
 				}
 			}
 		}	
-		System.out.println("Iteration " + counter + "complete!");
+		System.out.println("Iteration " + counter + " complete!");
 		counter++;
 	}	
 	
