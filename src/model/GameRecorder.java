@@ -331,41 +331,49 @@ public class GameRecorder extends TimerTask
 			{
 				//Get metadata line from the ith markets, all data index.
 				String metaDataLine = gameData.get(i).get(0).get(0);
+				System.out.println(metaDataLine + "LINE");
 				String[] metaDataTokens = metaDataLine.split("_");
 
 				//While there's market data left
 				for(int j = 0; j < marketData.size(); j++)
 				{
-					currentBook = marketData.get(j);
-					
-					//If the market is closed, then we filter it out of everything.
-					if(currentBook.getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET))
+					//If the market ID matches the current indexes market id
+					if(marketIdToName.get(marketData.get(j).getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
 					{
-						//System.out.println();
-						List<String> currentMap = gameToMarkets.remove(gameIDKey);
-						currentMap.remove(currentBook.getMarketId());
-						System.out.println("Market: " + marketIdToName.get(currentBook.getMarketId()) + " has closed.");
-						if(currentMap.isEmpty())
+						currentBook = marketData.get(j);
+						
+						//If the market is closed, then we filter it out of everything.
+						if(currentBook.getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET))
 						{
-							System.out.println("Last market closed. Shutting down.");
-							this.cancel();
-							saveData(gameData.remove(i));
+								//System.out.println();
+								List<String> currentMap = gameToMarkets.remove(gameIDKey);
+								
+								currentMap.remove(currentMap.indexOf(currentBook.getMarketId()));
+								System.out.println("Market: " + marketIdToName.get(currentBook.getMarketId()) + " has closed." + currentMap.size() + " markets left.");
+								
+								if(currentMap.isEmpty())
+								{
+									System.out.println("Last market closed. Shutting down.");
+									this.cancel();
+									saveData(gameData.remove(i));
+								}
+								else
+								{
+									gameToMarkets.put(gameIDKey, currentMap);
+									saveData(gameData.remove(i));
+								}
+								break;
 						}
 						else
 						{
-							gameToMarkets.put(gameIDKey, currentMap);
-							saveData(gameData.remove(i));
-						}
-						break;
-					}
-					else
-					{
-						//Look for a match to the markets name, resolved by the map, to the market name in metadata
-						if(marketIdToName.get(currentBook.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
-						{
-							System.out.println("Adding data for market: " + metaDataTokens[1]);
-							gatherData(currentBook.getRunners(), gameData.get(i));
-							System.out.println();
+							//Look for a match to the markets name, resolved by the map, to the market name in metadata
+							if(marketIdToName.get(currentBook.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
+							{
+								System.out.println("Adding data for market: " + metaDataTokens[1]);
+								gatherData(currentBook.getRunners(), gameData.get(i));
+								System.out.println();
+								break;
+							}
 						}
 					}
 				}
