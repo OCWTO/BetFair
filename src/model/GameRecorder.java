@@ -41,10 +41,7 @@ import betfairUtils.RunnerCatalog;
  */
 public class GameRecorder extends TimerTask
 {
-	//TODO can probably just throw in a method call for throwing data to model
-	/*
-	 * Game IDS mapped to the market IDS (those being tracked)
-	 */
+	//Game IDS mapped to the market IDS (those being tracked)
 	private Map<String,List<String>> gameToMarkets;
 
 	/*
@@ -53,20 +50,16 @@ public class GameRecorder extends TimerTask
 	 * List 2 is the market data, each market being recorded has 4 collections of data.
 	 */
 	private List<ArrayList<ArrayList<String>>> gameData;
-
 	private Map<Long, String> runnerIds;
-	
 	private BetFairCore betFair;
 	private List<Long> gameStartTimes;
-	
-	//Due to betfair api inconsistancies in data type this is string to string, not long to string
 	private Map<String,String> marketIdToName;
 	private LocalTime timer;
 	private int counter;
 	private long startDelay;
+	private File baseDir;
 	
 	/**
-	 * 
 	 * @param gameAndMarkets An array of game IDs and market IDs in the form of {gameId,marketId}, with possible repeats.
 	 * @param betFairCore A reference to an initialised and logged in BetFairCore object
 	 */
@@ -251,69 +244,68 @@ public class GameRecorder extends TimerTask
 		}	
 	}
 	
+	//TODO add unix support
+	private void makeBaseDirectory()
+	{
+		String currentDir = System.getProperty("user.dir");
+		String destination = "\\logs\\gamelogs\\";
+		String metaDataTokens[] = gameData.get(0).get(0).get(0).split("_");
+		baseDir = new File(currentDir + destination + metaDataTokens[0]);
+		
+		if(baseDir.exists())
+			return;
+		else
+			baseDir.mkdir();
+	}
+	
 	/**
 	 * Save the recorded data to a set of files.
 	 */
-	private void saveData()
+	private void saveData(ArrayList<ArrayList<String>> closedMarketData)
 	{
-		//TODO add code to support unix
-		File dataDir;
-		String currentDir = System.getProperty("user.dir");
-		String destination = "\\logs\\gamelogs\\";
-		String tempTokens[] = gameData.get(0).get(0).get(0).split("_");
-		dataDir = new File(currentDir+destination + tempTokens[0]);
-		dataDir.mkdir();
-		
-		File tempDir;
-		String[] temp2;
+		makeBaseDirectory();
+
+		File closedMarketDir;
+		String[] marketMetaDataTokens;
+		String[] individualMarketMetaDataTokens;
 		BufferedWriter outputWriter;
-		String[] moreTokens;
-		//Create sub directories and make the files
-		for(int i = 0; i < gameData.size(); i++)
-		{
-			temp2 = gameData.get(i).get(0).get(0).split("_");
-			//Need to strip special charcters, else OS rejects name.
-			String folderName = temp2[1].replaceAll("[^\\p{Alpha}]+","");
+
+		marketMetaDataTokens = closedMarketData.get(0).get(0).split("_");
+
+		String folderName = marketMetaDataTokens[1].replaceAll("[^\\p{Alpha}]+","");
 			
-			tempDir = new File(dataDir.getPath() + "\\" + folderName);
-			tempDir.mkdir();
-			try	
+		closedMarketDir = new File(baseDir.getPath() + "\\" + folderName);
+		closedMarketDir.mkdir();
+		
+		try	
+		{
+			//Deal with inner lists
+			for(int j = 0 ; j < closedMarketData.size(); j++)
 			{
-				//Deal with inner lists
-				for(int j = 0 ; j < gameData.get(i).size(); j++)
-				{
-					moreTokens = gameData.get(i).get(j).get(0).split("_");
+				individualMarketMetaDataTokens = closedMarketData.get(j).get(0).split("_");
 					
-					if(moreTokens.length == 3)
-					{
-						outputWriter = new BufferedWriter(new FileWriter(tempDir.getPath()
-								+ "\\ALLDATA" + ".txt"));
-					}
-					else
-					{
-						outputWriter = new BufferedWriter(new FileWriter(tempDir.getPath()
-								+ "\\"+moreTokens[moreTokens.length-1] + ".csv"));
-					}
-					for(int a = 0; a < gameData.get(i).get(j).size(); a++)
-					{
-						outputWriter.write(gameData.get(i).get(j).get(a));
-					}
-					outputWriter.flush();
-					outputWriter.close();
+				if(individualMarketMetaDataTokens.length == 3)
+				{
+					outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath()
+					+ "\\ALLDATA" + ".txt"));
 				}
-			}
-			catch (IOException e)
-			{
-				e.printStackTrace();
+				else
+				{
+					outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath()
+					+ "\\"+individualMarketMetaDataTokens[individualMarketMetaDataTokens.length-1] + ".csv"));
+				}
+				for(int a = 0; a < closedMarketData.get(j).size(); a++)
+				{
+					outputWriter.write(closedMarketData.get(j).get(a));
+				}
+				outputWriter.flush();
+				outputWriter.close();
 			}
 		}
-
-		
-		
-		//save all normal data and separate csvs for markets
-		//for each game make a dir
-		//for each market in the game make a dir
-		//for each market data for the market make a file
+		catch (IOException e)
+		{
+			e.printStackTrace();
+		}
 	}
 
 	/**
@@ -323,81 +315,60 @@ public class GameRecorder extends TimerTask
 	@Override
 	public void run()
 	{
-		System.out.println(gameData.size());
 		List<String> trackedMarkets;
 		List<MarketBook> marketData;
-
-		//For each game
+		MarketBook currentBook;
+		
+		//For each game that we're tracking
 		for(String gameIDKey : gameToMarkets.keySet())
 		{
-			//Get the list of markets in this game we track (from the map)
 			trackedMarkets = gameToMarkets.get(gameIDKey);
-			
-			//Get the list of market information for the list of markets.
 			marketData = betFair.getMarketBook(trackedMarkets);
-			
-			List<String> test2 = new ArrayList<String>();
-			List<MarketBook> test = betFair.getMarketBook(test2);
-			System.out.println(test.size() + " NO APSS");
+
 			assert marketData.size() == trackedMarkets.size();
 
 			//For our lists of market data
 			for(int i = 0; i < gameData.size(); i++)
 			{
-				//for(int j = 0; j <gameData.get(i).size(); j++)
-				//{
-				//Get metadata line
-				String tempLine = gameData.get(i).get(0).get(0);
-				System.out.println(tempLine + " IS TEMPLINE");
-				String[] metaDataTokens = tempLine.split("_");
+				//Get metadata line from the ith markets, all data index.
+				String metaDataLine = gameData.get(i).get(0).get(0);
+				String[] metaDataTokens = metaDataLine.split("_");
 				
-				//Plan will be for each market, if its closed then individually save its contents and remove it from my references
-				//
-				
-				String marketName;
-				
-				//TODO summary is change below to a while loop, maybe every x iterations save everything. When market is closed save it
-				//and remove it from collections of shit to do
-				//if marketdata is size 0 then we can finish
-				
-				
-				//change to a while, remove elements when i match 
-				
-				//do a check if item is of size 0, which means all markets closed and we can cancel
-				
-				//From the list of all market data for our request market ids
-				for(MarketBook item: marketData)
+				System.out.println(marketData.size() + "SZ");
+				//While there's market data left
+				while(!marketData.isEmpty())
 				{
-					marketName = marketIdToName.get(item.getMarketId());
-					System.out.println("MARKETS NAME IS " + marketName);
+					//Pop the first index
+					currentBook = marketData.remove(0);
 					
-					//If this isn't the match odds market which is closed then get data
-					//if(!item.getStatus().equalsIgnoreCase("CLOSED") && !marketIdToName.get(item.getMarketId()).equals("Match odds"))
-					
-					//If the market isn't closed then we look further
-					if(!item.getStatus().equalsIgnoreCase("CLOSED"))
+					//If the market is closed, then we filter it out of everything.
+					if(currentBook.getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET))
 					{
-						//Attempting to match the metadata token of market name to items market name
-						if(marketIdToName.get(item.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
+						//System.out.println();
+						List<String> currentMap = gameToMarkets.remove(gameIDKey);
+						currentMap.remove(currentBook.getMarketId());
+						System.out.println("Market: " + marketIdToName.get(currentBook.getMarketId()) + " has closed.");
+						if(currentMap.isEmpty())
 						{
-							//If they match up then grab data from it
-							//gatherData(item.getRunners(), gameData.get(i));
-							System.out.println("gathering data, templine matches to the name");
+							System.out.println("Last market closed. Shutting down.");
+							this.cancel();
+							saveData(gameData.remove(i));
+						}
+						else
+						{
+							gameToMarkets.put(gameIDKey, currentMap);
+							saveData(gameData.remove(i));
 						}
 					}
 					else
 					{
-						
+						//Look for a match to the markets name, resolved by the map, to the market name in metadata
+						if(marketIdToName.get(currentBook.getMarketId()).equalsIgnoreCase(metaDataTokens[1]))
+						{
+							gatherData(currentBook.getRunners(), gameData.get(i));
+						}
 					}
-//					//This means we found match odds market and its closed, hence game is over.
-//					else
-//					{
-//						System.out.println("Game finished. Shutting down.");
-//						this.cancel();
-//						saveData();
-//					}
 				}
-				//}
 			}
 		}	
 		System.out.println("Iteration " + counter + "complete!");

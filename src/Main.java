@@ -33,11 +33,7 @@ public class Main
 		temp.add("1.117137832");
 		SimpleGameRecorder x = new SimpleGameRecorder(core,"27357665",temp,1);
 		Timer time = new Timer();
-		time.schedule(x, x.getStartDelay(),5000);
-		//time.s
-		//x.
-		//time.sc
-		
+		time.schedule(x, x.getStartDelay(),5000);		
 	}
 
 	//TODO check that theres a v in the name, to filter out league wide markets I don't care about.
@@ -46,6 +42,8 @@ public class Main
 	{
 		TextFrontEnd textUi = new TextFrontEnd(false);
 		textUi.start();
+		
+		
 //		BetFairCore core = new BetFairCore(true);
 //		try
 //		{
@@ -55,19 +53,19 @@ public class Main
 //				core.getGames("1");
 //				
 //				//Roma vs feyenoord 6pm tomorrow
-//				core.getMarketCatalogue("27361322");
+//				core.getMarketCatalogue("27327273");
 //				
 //				
 //				
 //				List<String> marketList = new ArrayList<String>();
-//				marketList.add("1.117192952");
-//				marketList.add("1.117352806");
-//				marketList.add("1.117192958");
+//				marketList.add("1.116734120");
+//				//marketList.add("1.117352806");
+//				//marketList.add("1.117192958");
 //				List<MarketBook> x = core.getMarketBook(marketList);	//goes in as 1,2,3,4. comes out as 4.3.2.1
-//				System.out.println(x.size());
-//				System.out.println(x.get(0).getMarketId());
-//				System.out.println(x.get(1).getMarketId());	//so if data for multiple markets is requested
-//				System.out.println(x.get(2).getMarketId()); //i need to get an items marketid and compare it against
+//				//System.out.println(x.size());
+//				//System.out.println(x.get(0).getMarketId());
+//				//System.out.println(x.get(1).getMarketId());	//so if data for multiple markets is requested
+//				//System.out.println(x.get(2).getMarketId()); //i need to get an items marketid and compare it against
 //				//System.out.println(x.get(3).getMarketId()); //what my initial lists have to know where to put it
 //			}												//i could store the order for less comparisons
 //			catch (Exception e)
