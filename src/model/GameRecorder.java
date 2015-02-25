@@ -356,6 +356,7 @@ public class GameRecorder extends TimerTask
 							gameToMarkets.put(gameIDKey, currentMap);
 							saveData(gameData.remove(i));
 						}
+						break;
 					}
 					else
 					{

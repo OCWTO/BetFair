@@ -1,8 +1,10 @@
 package views;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Scanner;
+import java.util.Set;
 import java.util.Timer;
 
 import Exceptions.CryptoException;
@@ -71,9 +73,8 @@ public class TextFrontEnd
 		String[] inputTokens;
 		List<String> gameMarkets = betFair.getMarketsForGame(gameId);
 		String[] selectedMarketRow;
-		
-		List<String> selectedMarket = new ArrayList<String>();
-		
+		Set<String> selectedMarket = new HashSet<String>();
+
 		System.out.println("MARKETS");
 		for(int i = 0; i < gameMarkets.size(); i++)
 		{
@@ -87,15 +88,23 @@ public class TextFrontEnd
 			
 			if(inputLine.equalsIgnoreCase("done"))
 			{
-				return selectedMarket;
+				List<String> ret = new ArrayList<String>();
+				ret.addAll(selectedMarket);
+				return ret;
 			}
 			else
 			{
 				inputTokens = inputLine.split(" ");
-				
-				selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
-
-				selectedMarket.add(gameId +","+selectedMarketRow[selectedMarketRow.length-1]);
+				if(inputTokens.length == 2 && inputTokens[0].equalsIgnoreCase("select"))
+				{
+					selectedMarketRow = gameMarkets.get(Integer.parseInt(inputTokens[inputTokens.length-1])).split(",");
+					System.out.println("Adding market: " + selectedMarketRow[selectedMarketRow.length-2] + " to list");
+					selectedMarket.add(gameId +","+selectedMarketRow[selectedMarketRow.length-1]);
+				}
+				else
+				{
+					System.out.println("bad syntax try again");
+				}
 			}
 		}
 	}
