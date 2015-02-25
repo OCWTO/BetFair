@@ -247,15 +247,14 @@ public class GameRecorder extends TimerTask
 	//TODO add unix support
 	private void makeBaseDirectory()
 	{
+		if(baseDir.exists())
+			return;
+		
 		String currentDir = System.getProperty("user.dir");
 		String destination = "\\logs\\gamelogs\\";
 		String metaDataTokens[] = gameData.get(0).get(0).get(0).split("_");
 		baseDir = new File(currentDir + destination + metaDataTokens[0]);
-		
-		if(baseDir.exists())
-			return;
-		else
-			baseDir.mkdir();
+		baseDir.mkdir();
 	}
 	
 	/**
