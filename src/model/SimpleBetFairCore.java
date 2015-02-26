@@ -3,16 +3,16 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-import Exceptions.CryptoException;
-import betfairUtils.Event;
-import betfairUtils.EventTypeResult;
+import exceptions.CryptoException;
+import betFairGSONClasses.Event;
+import betFairGSONClasses.EventTypeResult;
+import betFairGSONClasses.LoginResponse;
+import betFairGSONClasses.MarketBook;
+import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.MarketFilter;
 import betfairUtils.EventTypeResultComparator;
-import betfairUtils.LoginResponse;
-import betfairUtils.MarketBook;
-import betfairUtils.MarketCatalogue;
-import betfairUtils.MarketCatalogueEventOpenDateComparator;
 import betfairUtils.MarketCatalogueEventNameComparator;
-import betfairUtils.MarketFilter;
+import betfairUtils.MarketCatalogueEventOpenDateComparator;
 
 //TODO add support for sorting events into separate lists (UK, USA, etc) handy for gui
 //TODO add support for sorting markets into their groupings e.g. match odds, goal line, etc.

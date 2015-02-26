@@ -2,6 +2,8 @@ package betfairUtils;
 
 import java.util.Comparator;
 
+import betFairGSONClasses.EventTypeResult;
+
 public class EventTypeResultComparator implements Comparator<EventTypeResult>
 {
 	@Override

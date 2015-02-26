@@ -32,29 +32,31 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
-import Exceptions.CryptoException;
-import Exceptions.NotLoggedInException;
-import betfairUtils.ApingOperation;
-import betfairUtils.EventTypeResult;
-import betfairUtils.EventTypeResultContainer;
+import betFairGSONClasses.EventTypeResult;
+import betFairGSONClasses.EventTypeResultContainer;
+import betFairGSONClasses.ListMarketBooksContainer;
+import betFairGSONClasses.ListMarketCatalogueContainer;
+import betFairGSONClasses.LoginResponse;
+import betFairGSONClasses.MarketBook;
+import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.MarketFilter;
+import betFairGSONClasses.PriceProjection;
+import betFairGSONClasses.TimeRange;
 import betfairUtils.HttpUtil;
 import betfairUtils.JsonConverter;
 import betfairUtils.JsonrpcRequest;
-import betfairUtils.ListMarketBooksContainer;
-import betfairUtils.ListMarketCatalogueContainer;
-import betfairUtils.LoginResponse;
-import betfairUtils.MarketBook;
-import betfairUtils.MarketCatalogue;
-import betfairUtils.MarketFilter;
-import betfairUtils.MarketProjection;
-import betfairUtils.MarketSort;
-import betfairUtils.OrderProjection;
-import betfairUtils.PriceData;
-import betfairUtils.PriceProjection;
-import betfairUtils.TimeRange;
 
 import com.google.gson.Gson;
 
+import enums.ApingOperation;
+import enums.MarketProjection;
+import enums.MarketSort;
+import enums.OrderProjection;
+import enums.PriceData;
+import exceptions.CryptoException;
+import exceptions.NotLoggedInException;
+//TODO modify to implement interface
+//TODO modify to use new apache code
 public class BetFairCore
 {
 	/*
@@ -404,9 +406,13 @@ public class BetFairCore
 		ListMarketBooksContainer container = JsonConverter.convertFromJson(
 				result, ListMarketBooksContainer.class);
 
+		//TODO figure out why I sometimes get a nullpointerexception here
+		//perhaps bad internet?
 		if (container.getError() != null)
-			System.out.println("CONTAINER ERROR");
-		// throw container.getError().getData().getAPINGException();
+		{
+			System.out.println(container.getError().getMessage());
+			System.out.println(container.getError().getCause().toString());
+		}
 
 		return container.getResult();
 

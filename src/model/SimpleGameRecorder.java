@@ -10,11 +10,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
 
-import betfairUtils.MarketBook;
-import betfairUtils.MarketCatalogue;
-import betfairUtils.PriceSize;
-import betfairUtils.Runner;
-import betfairUtils.RunnerCatalog;
+import betFairGSONClasses.MarketBook;
+import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.PriceSize;
+import betFairGSONClasses.Runner;
+import betFairGSONClasses.RunnerCatalog;
 
 //is there a way to dynamically do this?
 //runners always in same order

@@ -6,8 +6,8 @@ import java.awt.event.ActionListener;
 import javax.swing.JCheckBox;
 import javax.swing.JOptionPane;
 
-import betfairUtils.LoginResponse;
-import Exceptions.CryptoException;
+import exceptions.CryptoException;
+import betFairGSONClasses.LoginResponse;
 import views.LoginView;
 import views.SportSelectView;
 import model.BetFairCore;

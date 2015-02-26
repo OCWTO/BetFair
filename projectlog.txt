@@ -94,3 +94,6 @@
 
 23/2/15:
 	Worked on login controllers and views. I've planned all of the gui layouts. I'm just implementing them now. Originally I was going to do this with JavaFx but for the sake of speed, I'm doing it in swing. Almost all I do is transferable if I decide to change my library for guis later.
+
+25/2/15:
+	Fixed all known bugs on the new game recorder. It now works as expected and data for multiple sports is being collected. Whilst it collects sports, I'm writing new code tests, considering how to test certain code that's fairly inaccessible and working on the GUI.

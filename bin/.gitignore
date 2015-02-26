@@ -4,3 +4,7 @@
 /controllers/
 /model/
 /views/
+/betFairGSONClasses/
+/enums/
+/exceptions/
+/tests/

@@ -11,11 +11,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
 
-import betfairUtils.MarketBook;
-import betfairUtils.MarketCatalogue;
-import betfairUtils.PriceSize;
-import betfairUtils.Runner;
-import betfairUtils.RunnerCatalog;
+import enums.BetFairMarket;
+import betFairGSONClasses.MarketBook;
+import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.PriceSize;
+import betFairGSONClasses.Runner;
+import betFairGSONClasses.RunnerCatalog;
 
 //Can support recording multiple games at once and multiple markets in those games
 
@@ -186,13 +187,13 @@ public class GameRecorder extends TimerTask
 						
 						//Index 0 of all market data lists are gamename_marketname_marketstarttime (marketstarttime should be gamestarttime)
 						ArrayList<String> singleMarketData = new ArrayList<String>();
-						singleMarketData.add(marketCatalogue.get(j).getEvent().getName()+"_"+marketCatalogue.get(j).getMarketName()+"_"+marketCatalogue.get(j).getEvent().getOpenDate().getTime());
+						singleMarketData.add(marketCatalogue.get(j).getEvent().getName() + "_" + marketCatalogue.get(j).getMarketName()+"_"+marketCatalogue.get(j).getEvent().getOpenDate().getTime());
 						marketData.add(singleMarketData);
 						//Generate Index 0 data for each runner we track that's informative...ish
 						for(int k = 0; k < marketCatalogue.get(j).getRunners().size(); k++)
 						{
 							ArrayList<String> singleMarketData2 = new ArrayList<String>();
-							singleMarketData2.add((singleMarketData.get(0))+"_"+marketCatalogue.get(j).getRunners().get(k).getRunnerName());
+							singleMarketData2.add((singleMarketData.get(0))+"_"+marketCatalogue.get(j).getRunners().get(k).getRunnerName()); //todo add /n here and look at token size changes
 							marketData.add(singleMarketData2);
 						}
 					}
@@ -330,9 +331,7 @@ public class GameRecorder extends TimerTask
 			for(int i = 0; i < gameData.size(); i++)
 			{
 				//Get metadata line from the ith markets, all data index.
-				String metaDataLine = gameData.get(i).get(0).get(0);
-				System.out.println(metaDataLine + "LINE");
-				String[] metaDataTokens = metaDataLine.split("_");
+				String[] metaDataTokens = gameData.get(i).get(0).get(0).split("_");
 
 				//While there's market data left
 				for(int j = 0; j < marketData.size(); j++)
@@ -343,9 +342,8 @@ public class GameRecorder extends TimerTask
 						currentBook = marketData.get(j);
 						
 						//If the market is closed, then we filter it out of everything.
-						if(currentBook.getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET))
+						if(currentBook.getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET.toString()))
 						{
-								//System.out.println();
 								List<String> currentMap = gameToMarkets.remove(gameIDKey);
 								
 								currentMap.remove(currentMap.indexOf(currentBook.getMarketId()));

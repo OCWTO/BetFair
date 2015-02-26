@@ -7,12 +7,12 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.Timer;
 
-import Exceptions.CryptoException;
+import exceptions.CryptoException;
 import model.GameRecorder;
 import model.SimpleBetFairCore;
 import model.SimpleGameRecorder;
 
-//TODO say the option chose, e.g game 11 picked, say picked "gamename"
+//TODO provide exit points and opportunity to go back
 public class TextFrontEnd
 {
 	private Scanner userInput;

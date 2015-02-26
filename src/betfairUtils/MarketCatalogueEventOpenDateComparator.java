@@ -2,6 +2,8 @@ package betfairUtils;
 
 import java.util.Comparator;
 
+import betFairGSONClasses.MarketCatalogue;
+
 //Sorts them by the dates that the markets open
 public class MarketCatalogueEventOpenDateComparator implements Comparator<MarketCatalogue>
 {

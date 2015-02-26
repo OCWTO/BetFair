@@ -2,15 +2,15 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
+import exceptions.CryptoException;
 import views.TextFrontEnd;
-import betfairUtils.EventTypeResult;
+import betFairGSONClasses.EventTypeResult;
+import betFairGSONClasses.MarketBook;
+import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.MarketFilter;
 import betfairUtils.EventTypeResultComparator;
-import betfairUtils.MarketBook;
-import betfairUtils.MarketCatalogue;
-import betfairUtils.MarketFilter;
 import model.BetFairCore;
 import model.SimpleGameRecorder;
-import Exceptions.CryptoException;
 
 public class Main
 {
