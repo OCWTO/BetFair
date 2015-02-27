@@ -1,21 +1,26 @@
 package enums;
 
+/**
+ * Enum for BetFair Market statuses
+ * 
+ * @author Craig Thomson
+ *
+ */
 public enum BetFairMarket
 {
-	CLOSED_MARKET("CLOSED"),
-	INACTIVE_MARKET("INACTIVE"),
-	SUSPENDED_MARKET("SUSPENDED"),
-	OPEN_MARKET("OPEN");
-	
+	CLOSED_MARKET("CLOSED"), INACTIVE_MARKET("INACTIVE"), SUSPENDED_MARKET(
+			"SUSPENDED"), OPEN_MARKET("OPEN");
+
 	private String marketStatus;
-	
+
 	private BetFairMarket(String marketStatus)
 	{
 		this.marketStatus = marketStatus;
 	}
 
 	@Override
-	public String toString() {
+	public String toString()
+	{
 		return marketStatus;
 	}
 }

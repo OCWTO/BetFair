@@ -14,10 +14,14 @@ import betfairUtils.EventTypeResultComparator;
 import model.BetFairCore;
 import model.SimpleGameRecorder;
 
+/**
+ * Class containing main method which runs the whole program
+ * @author Craig Thomson
+ *
+ */
 public class Main
 {
 	//TODO design gui
-	//TODO modify recorder to record all markets
 	public static void main2(String[] args)
 	{
 		BetFairCore core = new BetFairCore(true);

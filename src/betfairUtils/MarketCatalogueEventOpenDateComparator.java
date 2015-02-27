@@ -4,7 +4,11 @@ import java.util.Comparator;
 
 import betFairGSONClasses.MarketCatalogue;
 
-//Sorts them by the dates that the markets open
+/**
+ * This class is used to sort MarketCatalogue objects by the time their event opened.
+ * @author Craig Thomson
+ *
+ */
 public class MarketCatalogueEventOpenDateComparator implements Comparator<MarketCatalogue>
 {
 	@Override

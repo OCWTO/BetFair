@@ -4,6 +4,12 @@ import java.util.Comparator;
 
 import betFairGSONClasses.EventTypeResult;
 
+/**
+ * This class is used for sorting EventTypeResult objects by EventType name.
+ * 
+ * @author Craig Thomson
+ *
+ */
 public class EventTypeResultComparator implements Comparator<EventTypeResult>
 {
 	@Override

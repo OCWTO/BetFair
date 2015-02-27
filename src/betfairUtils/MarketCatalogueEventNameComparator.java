@@ -4,8 +4,14 @@ import java.util.Comparator;
 
 import betFairGSONClasses.MarketCatalogue;
 
-//Sorts them by the names of the markets, typically runner x vs runner y
-public class MarketCatalogueEventNameComparator implements Comparator<MarketCatalogue>
+/**
+ * This class is used to sort MarketCatalogue objects by Event name
+ * 
+ * @author Craig Thomson
+ *
+ */
+public class MarketCatalogueEventNameComparator implements
+		Comparator<MarketCatalogue>
 {
 	@Override
 	public int compare(MarketCatalogue a, MarketCatalogue b)

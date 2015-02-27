@@ -11,6 +11,12 @@ import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 
+/**
+ * This class is used for sending HTTP post requests.
+ * 
+ * @author BetFair
+ *
+ */
 public class HttpUtil
 {
 	// timeout in ms
