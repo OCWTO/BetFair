@@ -2,9 +2,13 @@ package betFairGSONClasses;
 
 import java.util.Date;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class MarketDescription
 {
-
 	private Boolean persistenceEnabled;
 	private Boolean bspMarket;
 	private Date marketTime;

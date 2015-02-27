@@ -3,6 +3,7 @@ import java.util.List;
 import java.util.Timer;
 
 import enums.BetFairMarket;
+import enums.MarketProjection;
 import exceptions.CryptoException;
 import views.TextFrontEnd;
 import betFairGSONClasses.EventTypeResult;
@@ -16,7 +17,6 @@ import model.SimpleGameRecorder;
 public class Main
 {
 	//TODO design gui
-	//TODO add multi threaded support
 	//TODO modify recorder to record all markets
 	public static void main2(String[] args)
 	{
@@ -45,8 +45,8 @@ public class Main
 	public static void main(String[] args)
 	{
 		TextFrontEnd textUi = new TextFrontEnd(false);
-		textUi.start();
-		
+		//textUi.start();
+		System.out.println(MarketProjection.COMPETITION);
 		
 //		BetFairCore core = new BetFairCore(true);
 //		try

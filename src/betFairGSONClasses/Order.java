@@ -2,9 +2,13 @@ package betFairGSONClasses;
 
 import java.util.Date;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class Order
 {
-
 	private String betId;
 	private String orderType;
 	private String status;
@@ -185,5 +189,4 @@ public class Order
 				+ "," + "sizeCancelled=" + getSizeCancelled() + ","
 				+ "sizeVoided=" + getSizeVoided() + "," + "}";
 	}
-
 }

@@ -2,9 +2,13 @@ package betFairGSONClasses;
 
 import java.util.Date;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class Match
 {
-
 	private String betId;
 	private String matchId;
 	private String side;
@@ -79,5 +83,4 @@ public class Match
 				+ getPrice() + "," + "Size=" + getSize() + "," + "matchDate="
 				+ getMatchDate() + "," + "}";
 	}
-
 }

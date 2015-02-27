@@ -2,9 +2,13 @@ package betFairGSONClasses;
 
 import java.util.Date;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class Event
 {
-
 	private String id;
 	private String name;
 	private String countryCode;
@@ -79,5 +83,4 @@ public class Event
 				+ getTimezone() + "," + "venue=" + getVenue() + ","
 				+ "openDate=" + getOpenDate() + "," + "}";
 	}
-
 }

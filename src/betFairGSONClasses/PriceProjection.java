@@ -4,6 +4,11 @@ import java.util.Set;
 
 import enums.PriceData;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class PriceProjection
 {
 	private Set<PriceData> priceData;
@@ -51,5 +56,4 @@ public class PriceProjection
 	{
 		this.rolloverStakes = rolloverStakes;
 	}
-
 }

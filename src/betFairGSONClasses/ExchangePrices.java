@@ -2,9 +2,13 @@ package betFairGSONClasses;
 
 import java.util.List;
 
+/**
+ * This class is used for GSON serialisation TypeAdaptor for the Date class
+ * 
+ * @author BetFair
+ */
 public class ExchangePrices
 {
-
 	private List<PriceSize> availableToBack;
 	private List<PriceSize> availableToLay;
 	private List<PriceSize> tradedVolume;
@@ -45,5 +49,4 @@ public class ExchangePrices
 				+ "availableToLay=" + getAvailableToLay() + ","
 				+ "tradedVolume=" + getTradedVolume() + "," + "}";
 	}
-
 }

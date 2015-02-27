@@ -3,6 +3,11 @@ package betFairGSONClasses;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class Runner
 {
 	private Long selectionId;
@@ -138,5 +143,4 @@ public class Runner
 				+ getEx() + "," + "orders=" + getOrders() + "," + "matches="
 				+ getMatches() + "," + "}";
 	}
-
 }

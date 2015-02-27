@@ -2,6 +2,11 @@ package betFairGSONClasses;
 
 import java.util.List;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class StartingPrices
 {
 	private Double nearPrice;

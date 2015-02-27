@@ -2,6 +2,11 @@ package betFairGSONClasses;
 
 import java.util.List;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class ListMarketCatalogueContainer extends Container
 {
 
@@ -16,5 +21,4 @@ public class ListMarketCatalogueContainer extends Container
 	{
 		this.result = result;
 	}
-
 }

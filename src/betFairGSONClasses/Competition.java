@@ -1,8 +1,12 @@
 package betFairGSONClasses;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class Competition
 {
-
 	private String id;
 	private String name;
 
@@ -30,5 +34,4 @@ public class Competition
 	{
 		return "{" + "" + "id=" + getId() + "," + "name=" + getName() + "}";
 	}
-
 }

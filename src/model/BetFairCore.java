@@ -158,18 +158,7 @@ public class BetFairCore implements IBetFairCore
 		    builder.setConnectionManager(ccm);
 
 		    httpClient = builder.build();
-		    //////////////
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
+
 			// Making a post object
 			HttpPost httpPost = new HttpPost(
 					"https://identitysso.betfair.com/api/certlogin");

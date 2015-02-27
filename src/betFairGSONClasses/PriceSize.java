@@ -1,5 +1,10 @@
 package betFairGSONClasses;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class PriceSize
 {
 	private Double price;
@@ -24,5 +29,4 @@ public class PriceSize
 	{
 		this.size = size;
 	}
-
 }

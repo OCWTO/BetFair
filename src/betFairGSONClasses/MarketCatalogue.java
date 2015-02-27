@@ -2,9 +2,13 @@ package betFairGSONClasses;
 
 import java.util.List;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class MarketCatalogue
 {
-
 	private String marketId;
 	private String marketName;
 	private MarketDescription description;
@@ -87,5 +91,4 @@ public class MarketCatalogue
 	{
 		return getMarketName();
 	}
-
 }

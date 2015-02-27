@@ -1,8 +1,12 @@
 package betFairGSONClasses;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class RunnerCatalog
 {
-
 	private Long selectionId;
 	private String runnerName;
 	private Double handicap;
@@ -43,5 +47,4 @@ public class RunnerCatalog
 				+ "runnerName=" + getRunnerName() + "," + "handicap="
 				+ getHandicap() + "," + "}";
 	}
-
 }

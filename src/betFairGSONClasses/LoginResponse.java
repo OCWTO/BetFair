@@ -1,9 +1,12 @@
 package betFairGSONClasses;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author Craig Thomson
+ */
 public class LoginResponse
 {
-	// Note the variable names must be the same as the values in the json
-	// response
 	private String sessionToken;
 	private String loginStatus;
 

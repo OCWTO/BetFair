@@ -457,7 +457,7 @@ public class GameRecorder extends TimerTask
 			}
 			timer = LocalTime.now();
 			activeIndex.add(timer + " , "+ ((workingBack+workingLay)/2) + "\n");
-			System.out.println("Writing " + timer + " , "+ ((workingBack+workingLay)/2) + "\n" );
+			System.out.println("Writing " + timer + " , "+ ((workingBack+workingLay)/2)); //+"\n"
 		}		
 	}
 

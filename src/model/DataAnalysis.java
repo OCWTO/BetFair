@@ -9,7 +9,8 @@ import java.util.Observable;
  */
 public class DataAnalysis extends Observable implements IDataUtiliser
 {
-
+	//TODO multi thread?
+	//TODO add timertask
 	@Override
 	public void passData(String data)
 	{

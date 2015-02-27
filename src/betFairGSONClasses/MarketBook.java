@@ -3,6 +3,11 @@ package betFairGSONClasses;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class MarketBook
 {
 	private String marketId;
@@ -210,5 +215,4 @@ public class MarketBook
 				+ getRunnersVoidable() + "," + "version=" + getVersion() + ","
 				+ "runners=" + getRunners() + "," + "}";
 	}
-
 }

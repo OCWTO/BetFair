@@ -1,20 +1,15 @@
 package betfairUtils;
 
+import java.io.IOException;
+import java.io.UnsupportedEncodingException;
+
 import org.apache.http.client.ClientProtocolException;
-import org.apache.http.client.HttpClient;
 import org.apache.http.client.ResponseHandler;
 import org.apache.http.client.config.RequestConfig;
-import org.apache.http.client.config.RequestConfig.Builder;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
-import org.apache.http.params.HttpConnectionParams;
-import org.apache.http.params.HttpParams;
-
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 public class HttpUtil
 {
@@ -50,28 +45,12 @@ public class HttpUtil
 			post.setHeader(HTTP_HEADER_X_AUTHENTICATION, ssoToken);
 			post.setEntity(new StringEntity(jsonRequest, "UTF-8"));
 
-			// HttpClient httpClient = HttpClientBuilder.create().build();
-			// CloseableHttpClient httpClient =
-			// HttpClientBuilder.create().build();
-
 			RequestConfig requestConfig = RequestConfig.custom()
 					.setSocketTimeout(socketTimeout)
 					.setConnectTimeout(connectionTimeout).build();
 
 			CloseableHttpClient httpClient = HttpClientBuilder.create()
 					.setDefaultRequestConfig(requestConfig).build();
-
-			// Builder requestConfigBuilder = RequestConfig.custom();
-			// requestConfigBuilder.setConnectTimeout(connectionTimeout).setSocketTimeout(10000);
-
-			// httpClient.g
-
-			// HttpParams httpParams = httpClient.getParams();
-			// HttpConnectionParams.setConnectionTimeout(httpParams, new
-			// Integer(10000));
-			// HttpConnectionParams.setSoTimeout(httpParams, new
-			// Integer(10000));
-
 			resp = httpClient.execute(post, reqHandler);
 
 		}
@@ -80,19 +59,17 @@ public class HttpUtil
 			// Do something
 
 		}
-		catch (ClientProtocolException e)
+		catch (ClientProtocolException e2)
 		{
 			// Do something
 
 		}
-		catch (IOException ioE)
+		catch (IOException e3)
 		{
 			// Do something
 
 		}
-
 		return resp;
-
 	}
 
 	public String sendPostRequestJsonRpc(String param, String operation,

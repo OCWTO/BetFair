@@ -2,9 +2,12 @@ package betFairGSONClasses;
 
 import java.util.Set;
 
-
-public class MarketFilter {
-
+/**
+ * This class is used for GSON serialisation
+ * @author BetFair
+ */
+public class MarketFilter
+{
 	private String textQuery;
 	private Set<String> exchangeIds;
 	private Set<String> eventTypeIds;
@@ -15,133 +18,142 @@ public class MarketFilter {
 	private Set<String> venues;
 	private Boolean bspOnly;
 	private Boolean turnInPlayEnabled;
-	//private Set<MarketBettingType> marketBettingTypes;
 	private Set<String> marketCountries;
 	private Set<String> marketTypeCodes;
 	private TimeRange marketStartTime;
-	//private Set<OrderStatus> withOrders;
 
-	public String getTextQuery() {
+	public String getTextQuery()
+	{
 		return textQuery;
 	}
 
-	public void setTextQuery(String textQuery) {
+	public void setTextQuery(String textQuery)
+	{
 		this.textQuery = textQuery;
 	}
 
-	public Set<String> getExchangeIds() {
+	public Set<String> getExchangeIds()
+	{
 		return exchangeIds;
 	}
 
-	public void setExchangeIds(Set<String> exchangeIds) {
+	public void setExchangeIds(Set<String> exchangeIds)
+	{
 		this.exchangeIds = exchangeIds;
 	}
 
-	public Set<String> getEventTypeIds() {
+	public Set<String> getEventTypeIds()
+	{
 		return eventTypeIds;
 	}
 
-	public void setEventTypeIds(Set<String> eventTypeIds) {
+	public void setEventTypeIds(Set<String> eventTypeIds)
+	{
 		this.eventTypeIds = eventTypeIds;
 	}
 
-	public Set<String> getMarketIds() {
+	public Set<String> getMarketIds()
+	{
 		return marketIds;
 	}
 
-	public void setMarketIds(Set<String> marketIds) {
+	public void setMarketIds(Set<String> marketIds)
+	{
 		this.marketIds = marketIds;
 	}
 
-	public Boolean getInPlayOnly() {
+	public Boolean getInPlayOnly()
+	{
 		return inPlayOnly;
 	}
 
-	public void setInPlayOnly(Boolean inPlayOnly) {
+	public void setInPlayOnly(Boolean inPlayOnly)
+	{
 		this.inPlayOnly = inPlayOnly;
 	}
 
-	public Set<String> getEventIds() {
+	public Set<String> getEventIds()
+	{
 		return eventIds;
 	}
 
-	public void setEventIds(Set<String> eventIds) {
+	public void setEventIds(Set<String> eventIds)
+	{
 		this.eventIds = eventIds;
 	}
 
-	public Set<String> getCompetitionIds() {
+	public Set<String> getCompetitionIds()
+	{
 		return competitionIds;
 	}
 
-	public void setCompetitionIds(Set<String> competitionIds) {
+	public void setCompetitionIds(Set<String> competitionIds)
+	{
 		this.competitionIds = competitionIds;
 	}
 
-	public Set<String> getVenues() {
+	public Set<String> getVenues()
+	{
 		return venues;
 	}
 
-	public void setVenues(Set<String> venues) {
+	public void setVenues(Set<String> venues)
+	{
 		this.venues = venues;
 	}
 
-	public Boolean getBspOnly() {
+	public Boolean getBspOnly()
+	{
 		return bspOnly;
 	}
 
-	public void setBspOnly(Boolean bspOnly) {
+	public void setBspOnly(Boolean bspOnly)
+	{
 		this.bspOnly = bspOnly;
 	}
 
-	public Boolean getTurnInPlayEnabled() {
+	public Boolean getTurnInPlayEnabled()
+	{
 		return turnInPlayEnabled;
 	}
 
-	public void setTurnInPlayEnabled(Boolean turnInPlayEnabled) {
+	public void setTurnInPlayEnabled(Boolean turnInPlayEnabled)
+	{
 		this.turnInPlayEnabled = turnInPlayEnabled;
 	}
 
-//	public Set<MarketBettingType> getMarketBettingTypes() {
-//		return marketBettingTypes;
-//	}
-//
-//	public void setMarketBettingTypes(Set<MarketBettingType> marketBettingTypes) {
-//		this.marketBettingTypes = marketBettingTypes;
-//	}
-
-	public Set<String> getMarketCountries() {
+	public Set<String> getMarketCountries()
+	{
 		return marketCountries;
 	}
 
-	public void setMarketCountries(Set<String> marketCountries) {
+	public void setMarketCountries(Set<String> marketCountries)
+	{
 		this.marketCountries = marketCountries;
 	}
 
-	public Set<String> getMarketTypeCodes() {
+	public Set<String> getMarketTypeCodes()
+	{
 		return marketTypeCodes;
 	}
 
-	public void setMarketTypeCodes(Set<String> marketTypeCodes) {
+	public void setMarketTypeCodes(Set<String> marketTypeCodes)
+	{
 		this.marketTypeCodes = marketTypeCodes;
 	}
 
-	public TimeRange getMarketStartTime() {
+	public TimeRange getMarketStartTime()
+	{
 		return marketStartTime;
 	}
 
-	public void setMarketStartTime(TimeRange marketStartTime) {
+	public void setMarketStartTime(TimeRange marketStartTime)
+	{
 		this.marketStartTime = marketStartTime;
 	}
 
-//	public Set<OrderStatus> getWithOrders() {
-//		return withOrders;
-//	}
-//
-//	public void setWithOrders(Set<OrderStatus> withOrders) {
-//		this.withOrders = withOrders;
-//	}
-
-	public String toString() {
+	public String toString()
+	{
 		return "{" + "" + "textQuery=" + getTextQuery() + "," + "exchangeIds="
 				+ getExchangeIds() + "," + "eventTypeIds=" + getEventTypeIds()
 				+ "," + "eventIds=" + getEventIds() + "," + "competitionIds="
@@ -149,12 +161,9 @@ public class MarketFilter {
 				+ "," + "venues=" + getVenues() + "," + "bspOnly="
 				+ getBspOnly() + "," + "turnInPlayEnabled="
 				+ getTurnInPlayEnabled() + "," + "inPlayOnly="
-				+ getInPlayOnly() + "," + "marketBettingTypes="
-				//+ getMarketBettingTypes() + "," + "marketCountries="
+				+ getInPlayOnly() + "," + "marketCountries="
 				+ getMarketCountries() + "," + "marketTypeCodes="
 				+ getMarketTypeCodes() + "," + "marketStartTime="
-				//+ getMarketStartTime() + "," + "withOrders=" + getWithOrders()
-				+ "," + "}";
+				+ getMarketStartTime() + "}";
 	}
-
 }

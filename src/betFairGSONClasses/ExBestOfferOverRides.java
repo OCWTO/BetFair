@@ -1,10 +1,13 @@
 package betFairGSONClasses;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class ExBestOfferOverRides
 {
-
 	private int bestPricesDepth;
-	// private RollupModel rollupModel;
 	private int rollupLimit;
 	private double rollupLiabilityThreshold;
 	private int rollupLiabilityFactor;
@@ -18,16 +21,6 @@ public class ExBestOfferOverRides
 	{
 		this.bestPricesDepth = bestPricesDepth;
 	}
-
-	// public RollupModel getRollupModel()
-	// {
-	// return rollupModel;
-	// }
-	//
-	// public void setRollupModel(RollupModel rollupModel)
-	// {
-	// this.rollupModel = rollupModel;
-	// }
 
 	public int getRollupLimit()
 	{
@@ -58,5 +51,4 @@ public class ExBestOfferOverRides
 	{
 		this.rollupLiabilityFactor = rollupLiabilityFactor;
 	}
-
 }

@@ -1,5 +1,10 @@
 package betFairGSONClasses;
 
+/**
+ * This class is used for GSON serialisation
+ * 
+ * @author BetFair
+ */
 public class EventType
 {
 	private String id;
@@ -16,7 +21,6 @@ public class EventType
 
 	public void setId(String id)
 	{
-		// System.out.println("called!!!!!!!!!!");
 		this.id = id;
 	}
 
@@ -34,5 +38,4 @@ public class EventType
 	{
 		return "{" + "" + "id=" + getId() + "," + "name=" + getName() + "}";
 	}
-
 }
