@@ -7,36 +7,49 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.Timer;
 
-import exceptions.CryptoException;
 import model.GameRecorder;
 import model.SimpleBetFairCore;
-import model.SimpleGameRecorder;
+import exceptions.CryptoException;
 
 //TODO provide exit points and opportunity to go back
+/**
+ * Text based UI provided to allow users to track games & their markets.
+ * @author Craig Thomson
+ *
+ */
 public class TextFrontEnd
 {
 	private Scanner userInput;
 	private SimpleBetFairCore betFair;
 	private GameRecorder recorder;
 	
+	/**
+	 * 
+	 * @param debug
+	 */
 	public TextFrontEnd(boolean debug)
 	{
 		betFair = new SimpleBetFairCore(debug);
 		userInput = new Scanner(System.in);
 	}
 	
+	/**
+	 * 
+	 */
 	public void start()
 	{
 		prompt();
 	}
 
+	/**
+	 * 
+	 */
 	private void prompt()
 	{
 		String sportId;
 		String gameId;
 		List<String> marketId;
-		int recordMode;
-		
+
 		//Prompt for login details
 		if (loginPrompt())
 		{
@@ -58,15 +71,12 @@ public class TextFrontEnd
 			//TODO let recordmode be an enum
 		}
 	}
-
-
-	private int recorderPrompt()
-	{
-		System.out.println("What recorder mode do you want?\n\t1. Simple Print\n\t2. Simple Record\n\t3. Record all");
-		
-		return userInput.nextInt();
-	}
-
+	
+	/**
+	 * 
+	 * @param gameId
+	 * @return
+	 */
 	private List<String> marketPrompt(String gameId)
 	{
 		String inputLine;
@@ -109,6 +119,11 @@ public class TextFrontEnd
 		}
 	}
 
+	/**
+	 * 
+	 * @param sportId
+	 * @return
+	 */
 	private String gamePrompt(String sportId)
 	{
 		String inputLine;
@@ -138,6 +153,10 @@ public class TextFrontEnd
 		}
 	}
 
+	/**
+	 * 
+	 * @return
+	 */
 	private boolean loginPrompt()
 	{
 		String inputLine;
@@ -178,6 +197,10 @@ public class TextFrontEnd
 		}
 	}
 	
+	/**
+	 * 
+	 * @return
+	 */
 	private String sportPrompt()
 	{
 		String inputLine;

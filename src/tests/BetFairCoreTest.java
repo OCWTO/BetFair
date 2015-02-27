@@ -9,6 +9,12 @@ import org.junit.Test;
 import exceptions.CryptoException;
 import betFairGSONClasses.LoginResponse;
 
+/**
+ * Test class for all BetFairCore methods.
+ * 
+ * @author Craig Thomson
+ *
+ */
 public class BetFairCoreTest
 {
 	private static final boolean debug = true;
@@ -16,14 +22,19 @@ public class BetFairCoreTest
 	private static final String password = "2014Project";
 	private static final String filePassword = "project";
 	private BetFairCore betFair;
-	
+
+	/**
+	 * Creating a BetFairCore object for tests to use
+	 */
 	@Before
 	public void makeObject()
 	{
 		betFair = new BetFairCore(debug);
 	}
-	
-	// Testing bad file password
+
+	/**
+	 * Testing BetFairCore login when given bad certificate file password
+	 */
 	@Test
 	public void testLoginBadFilePassword()
 	{
@@ -32,13 +43,15 @@ public class BetFairCoreTest
 			betFair.login(userName, password, filePassword + "A");
 			fail("CryptoException expected in testLoginBadFilePassword()");
 		}
-		catch(CryptoException e)
+		catch (CryptoException e)
 		{
 			System.out.println("testLoginBadFilePassword() pass!");
 		}
 	}
 
-	// Testing bad username
+	/**
+	 * Testing BetFairCore login when given bad account username
+	 */
 	@Test
 	public void testLoginBadUsername()
 	{
@@ -47,13 +60,15 @@ public class BetFairCoreTest
 			betFair.login(userName + "A", password, filePassword);
 			fail("CryptoException expected in testLoginBadUsername()");
 		}
-		catch(CryptoException e)
+		catch (CryptoException e)
 		{
 			System.out.println("testLoginBadUsername() pass!");
 		}
 	}
-	
-	// Testing bad password
+
+	/**
+	 * Testing BetFairCore login when given bad account password
+	 */
 	@Test
 	public void testLoginBadPassword()
 	{
@@ -62,27 +77,35 @@ public class BetFairCoreTest
 			betFair.login(userName, password + "A", filePassword);
 			fail("CryptoException expected in testLoginBadPassword()");
 		}
-		catch(CryptoException e)
+		catch (CryptoException e)
 		{
 			System.out.println("testLoginBadPassword() pass!");
 		}
 	}
-	
+
+	/**
+	 * Testing BetFairCore login when given correct credentials
+	 */
 	@Test
 	public void testLoginSuccess()
 	{
 		try
 		{
-			LoginResponse response = betFair.login(userName, password, filePassword);
+			LoginResponse response = betFair.login(userName, password,
+					filePassword);
 			assertEquals(response.getLoginStatus(), "SUCCESS");
 		}
-		catch(CryptoException e)
+		catch (CryptoException e)
 		{
 			System.out.println("testLoginBadPassword() pass!");
 			fail("CryptoException not expected in testLoginSuccess()");
 		}
 	}
-	
+
+	/**
+	 * Testing BetFairCore login when given correct credentials with no internet
+	 * connection
+	 */
 	@Test
 	public void testLoginNoInternet()
 	{
@@ -91,17 +114,18 @@ public class BetFairCoreTest
 			betFair.login(userName, password, filePassword);
 			fail();
 		}
-		catch(Exception e)
+		catch (Exception e)
 		{
-			//expected
+			// expected
 		}
 	}
-	//TODO test you get data back in multiple calls, need to call login first before all following tests
-	//TODO test implemented betfair methods are returning the right stuff
-	//TODO test no internet
-	//TODO test unique token?
-	//TODO test event fired
-	//TODO test markets closing
-	//TODO test debug?
-	
+	// TODO test you get data back in multiple calls, need to call login first
+	// before all following tests
+	// TODO test implemented betfair methods are returning the right stuff
+	// TODO test no internet
+	// TODO test unique token?
+	// TODO test event fired
+	// TODO test markets closing
+	// TODO test debug?
+
 }

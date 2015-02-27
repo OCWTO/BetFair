@@ -3,19 +3,20 @@ package model;
 import java.util.Observable;
 
 /**
- * This class receives data from IBetFairCore and analyses it. If patterns in the data are recognised
- * then events are thrown to its observer(s).
+ * This class receives data from IBetFairCore and analyses it. If patterns in
+ * the data are recognised then events are thrown to its observer(s).
+ * 
  * @author Craig Thomson
  */
 public class DataAnalysis extends Observable implements IDataUtiliser
 {
-	//TODO multi thread?
-	//TODO add timertask
+	// TODO multi thread?
+	// TODO add timertask
 	@Override
 	public void passData(String data)
 	{
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
@@ -24,5 +25,4 @@ public class DataAnalysis extends Observable implements IDataUtiliser
 		// TODO Auto-generated method stub
 		return false;
 	}
-
 }

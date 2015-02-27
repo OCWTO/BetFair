@@ -10,7 +10,6 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
@@ -26,15 +25,10 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.config.Registry;
 import org.apache.http.config.RegistryBuilder;
-import org.apache.http.conn.ClientConnectionManager;
 import org.apache.http.conn.HttpClientConnectionManager;
-import org.apache.http.conn.scheme.Scheme;
 import org.apache.http.conn.socket.ConnectionSocketFactory;
 import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
-import org.apache.http.conn.ssl.SSLContexts;
-import org.apache.http.conn.ssl.SSLSocketFactory;
 import org.apache.http.conn.ssl.StrictHostnameVerifier;
-import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.impl.conn.BasicHttpClientConnectionManager;
 import org.apache.http.message.BasicNameValuePair;
@@ -65,14 +59,20 @@ import enums.PriceData;
 import exceptions.CryptoException;
 import exceptions.NotLoggedInException;
 
-//TODO modify to use new apache code
+/**
+ * BetFairCore is a class that implements all the BetFair API methods in the
+ * IBetFairCore interface. It is used for all BetFair method calls.
+ * 
+ * @author Craig Thomson
+ *
+ */
 public class BetFairCore implements IBetFairCore
 {
 	// BetFair app keys. Live is for fast requests and delayed is for slow.
-	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a";
+	@SuppressWarnings("unused")
 	private static final String delayedAppKey = "scQ6H11vdb6C4s7t";
-	private static final int httpsPort = 443;
-
+	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a";
+	
 	// Created on log in, required for all other calls.
 	private String sessionToken;
 
@@ -93,10 +93,13 @@ public class BetFairCore implements IBetFairCore
 		directoryPrefix = System.getProperty("user.dir");
 		httpRequester = new HttpUtil();
 	}
-	
+
 	/**
 	 * Initialises the BetFairCore object.
-	 * @param debug if true then JSON request and response strings are printed to console
+	 * 
+	 * @param debug
+	 *            if true then JSON request and response strings are printed to
+	 *            console
 	 */
 	public BetFairCore(boolean debug)
 	{
@@ -125,17 +128,13 @@ public class BetFairCore implements IBetFairCore
 			String filePassword) throws CryptoException
 	{
 		LoginResponse responseObject = new LoginResponse();
+		HttpClient httpClient = null;
 
-		
-		//DefaultHttpClient httpClient = new DefaultHttpClient();
-		HttpClient httpClient = null;//HttpClientBuilder.create().build();
-		
-		
 		Gson gson = new Gson();
 
 		try
 		{
-
+			//TODO add unix support here
 			// SSL stuff
 			KeyManager[] keyManagers = getKeyManagers("pkcs12",
 					new FileInputStream(new File(directoryPrefix
@@ -144,37 +143,39 @@ public class BetFairCore implements IBetFairCore
 
 			sslContext.init(keyManagers, null, new SecureRandom());
 
-			
 			HttpClientBuilder builder = HttpClientBuilder.create();
-		    SSLConnectionSocketFactory sslConnectionFactory = new SSLConnectionSocketFactory(sslContext, new StrictHostnameVerifier());
-		    builder.setSSLSocketFactory(sslConnectionFactory);
+			SSLConnectionSocketFactory sslConnectionFactory = new SSLConnectionSocketFactory(
+					sslContext, new StrictHostnameVerifier());
+			builder.setSSLSocketFactory(sslConnectionFactory);
 
-		    Registry<ConnectionSocketFactory> registry = RegistryBuilder.<ConnectionSocketFactory>create()
-		            .register("https", sslConnectionFactory)
-		            .build();
+			Registry<ConnectionSocketFactory> registry = RegistryBuilder
+					.<ConnectionSocketFactory> create()
+					.register("https", sslConnectionFactory).build();
 
-		    HttpClientConnectionManager ccm = new BasicHttpClientConnectionManager(registry);
-		   
-		    builder.setConnectionManager(ccm);
+			HttpClientConnectionManager ccm = new BasicHttpClientConnectionManager(
+					registry);
 
-		    httpClient = builder.build();
+			builder.setConnectionManager(ccm);
+
+			httpClient = builder.build();
 
 			// Making a post object
 			HttpPost httpPost = new HttpPost(
 					"https://identitysso.betfair.com/api/certlogin");
 
-			// Name value pair used for parameters?
-			List<NameValuePair> nvps = new ArrayList<NameValuePair>();
-			nvps.add(new BasicNameValuePair("username", username));
-			nvps.add(new BasicNameValuePair("password", password));
+			List<NameValuePair> credentialsParameters = new ArrayList<NameValuePair>();
+			credentialsParameters.add(new BasicNameValuePair("username", username));
+			credentialsParameters.add(new BasicNameValuePair("password", password));
 
-			httpPost.setEntity(new UrlEncodedFormEntity(nvps));
+			httpPost.setEntity(new UrlEncodedFormEntity(credentialsParameters));
 
-			// Header
 			httpPost.setHeader("X-Application", "appkey");
 
+			//Not using HttpUtil so need a separate debug check here.
 			if (debug)
 				System.out.println("Request: " + httpPost.getRequestLine());
+			
+			
 			// Execute
 			HttpResponse response = httpClient.execute(httpPost);
 			HttpEntity entity = response.getEntity();
@@ -269,12 +270,12 @@ public class BetFairCore implements IBetFairCore
 		// marketProjection.addAll(projs);
 
 		return listMarketBook(marketIds, priceProjection, null, null, null);
-
 	}
 
 	/**
 	 * @param filter
-	 * @param marketProjection removed**
+	 * @param marketProjection
+	 *            removed**
 	 * @return
 	 */
 	public List<MarketCatalogue> listEvents(MarketFilter filter)
@@ -283,8 +284,11 @@ public class BetFairCore implements IBetFairCore
 		parameters.put(BetFairParams.FILTER.toString(), filter);
 		parameters
 				.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
-		parameters.put(BetFairParams.MARKET_PROJECTION.toString(),
-				null);//marketprojection used to go here.
+		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), null);// marketprojection
+																			// used
+																			// to
+																			// go
+																			// here.
 
 		String jsonResultLine = null;
 
@@ -306,7 +310,7 @@ public class BetFairCore implements IBetFairCore
 
 		return container.getResult();
 	}
-	
+
 	public List<MarketBook> listMarketBook(List<String> marketIds,
 			PriceProjection priceProjection, OrderProjection orderProjection,
 			MarketProjection matchProjection, String currencyCode)
@@ -405,7 +409,6 @@ public class BetFairCore implements IBetFairCore
 				MarketSort.FIRST_TO_START, maxResults);
 	}
 
-
 	/**
 	 * This method is used to return a list of MarketCatalogue objects
 	 * representing the games available for betting with the given sport.
@@ -493,7 +496,6 @@ public class BetFairCore implements IBetFairCore
 	{
 		debug = state;
 	}
-
 
 	@Override
 	public List<MarketBook> listMarketBook(List<String> marketIds,
