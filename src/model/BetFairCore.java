@@ -49,6 +49,7 @@ import betfairUtils.JsonrpcRequest;
 import com.google.gson.Gson;
 
 import enums.ApingOperation;
+import enums.BetFairParams;
 import enums.MarketProjection;
 import enums.MarketSort;
 import enums.OrderProjection;
@@ -68,29 +69,24 @@ public class BetFairCore
 	
 	private static final int httpsPort = 443;
 
-	/*
-	 * sessionToken is generated from the login method. Every BetFair call
-	 * after requires it as a HTTP Post parameter.
-	 */
+	//Created on log in, required for all other calls.
 	private String sessionToken;
 
-	/*
-	 * USed to locate the ceritificate files.
-	 */
+	//Used to locate certs.
 	private String directoryPrefix;
 
 	private boolean debug = false;
 
-	protected final String FILTER = "filter"; // Pretty much the same as
-												// MARKET_IDS but it's not a
-												// parameter in certain calls
-	
-	// protected final String LOCALE = "locale";
-	protected final String SORT = "sort";
-	protected final String MAX_RESULT = "maxResults";
-	protected final String MARKET_IDS = "marketIds";
-	protected final String MARKET_PROJECTION = "marketProjection";
-	protected final String PRICE_PROJECTION = "priceProjection";
+//	protected final String FILTER = "filter"; // Pretty much the same as
+//												// MARKET_IDS but it's not a
+//												// parameter in certain calls
+//	
+//	// protected final String LOCALE = "locale";
+//	protected final String SORT = "sort";
+//	protected final String MAX_RESULT = "maxResults";
+//	protected final String MARKET_IDS = "marketIds";
+//	protected final String MARKET_PROJECTION = "marketProjection";
+//	protected final String PRICE_PROJECTION = "priceProjection";
 	// protected final String MATCH_PROJECTION = "matchProjection"; ?? Look at
 	// NO_ROLLUP, ROLLED_UP_BY_PRICE, ROLLED_UP_BY_AVG_PRICE
 	private HttpUtil httpRequester;
@@ -381,9 +377,9 @@ public class BetFairCore
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
-		params.put(MARKET_IDS, marketIds);
+		params.put(BetFairParams.MARKET_IDS.toString(), marketIds);
 		// System.out.println(marketIds);
-		params.put(PRICE_PROJECTION, priceProjection);
+		params.put(BetFairParams.PRICE_PROJECTION.toString(), priceProjection);
 		// params.put(ORDER_PROJECTION, orderProjection);
 		// params.put(MATCH_PROJECTION, matchProjection);
 		params.put("currencyCode", currencyCode);
@@ -466,11 +462,11 @@ public class BetFairCore
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
-		params.put(FILTER, filter);
-		params.put(MAX_RESULT, maxResults);
-		params.put(SORT, sort);
+		params.put(BetFairParams.FILTER.toString(), filter);
+		params.put(BetFairParams.MAX_RESULT.toString(), maxResults);
+		params.put(BetFairParams.SORT.toString(), sort);
 		// params.put(MAX_RESULT, maxResult);
-		params.put(MARKET_PROJECTION, marketProjection);
+		params.put(BetFairParams.MARKET_PROJECTION.toString(), marketProjection);
 		// String result = getInstance().makeRequest(
 		// ApiNgOperation.LISTMARKETCATALOGUE.getOperationName(), params,
 		// appKey, ssoId);
@@ -556,8 +552,8 @@ public class BetFairCore
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		// params.put(LOCALE, Locale.getDefault().toString());
-		params.put(FILTER, filter);
-		params.put(SORT, sort);
+		params.put(BetFairParams.FILTER.toString(), filter);
+		params.put(BetFairParams.SORT.toString(), sort);
 		// params.put(MAX_RESULT, maxResult);
 		// params.put(MARKET_PROJECTION, marketProjection);
 		// String result = getInstance().makeRequest(
@@ -597,7 +593,7 @@ public class BetFairCore
 		try
 		{
 			result = makeRequest(
-					ApingOperation.LISTEVENTTYPES.getOperationName(), params,
+					ApingOperation.LISTEVENTTYPES.toString(), params,
 					liveAppKey, sessionToken);
 		} catch (NotLoggedInException e)
 		{

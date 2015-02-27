@@ -18,7 +18,8 @@ public enum ApingOperation {
 		this.operationName = operationName;
 	}
 
-	public String getOperationName() {
+	@Override
+	public String toString() {
 		return operationName;
 	}
 }

@@ -38,7 +38,6 @@ import betFairGSONClasses.RunnerCatalog;
  * other files, for each runner. These contain time stamps with comma separated probability,
  * which is calculated from raw data.
  * @author Craig Thomson
- *
  */
 public class GameRecorder extends TimerTask
 {
