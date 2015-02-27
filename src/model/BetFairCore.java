@@ -21,14 +21,22 @@ import javax.net.ssl.SSLContext;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
+import org.apache.http.client.HttpClient;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
+import org.apache.http.config.Registry;
+import org.apache.http.config.RegistryBuilder;
 import org.apache.http.conn.ClientConnectionManager;
+import org.apache.http.conn.HttpClientConnectionManager;
 import org.apache.http.conn.scheme.Scheme;
+import org.apache.http.conn.socket.ConnectionSocketFactory;
+import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
 import org.apache.http.conn.ssl.SSLContexts;
 import org.apache.http.conn.ssl.SSLSocketFactory;
 import org.apache.http.conn.ssl.StrictHostnameVerifier;
 import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.http.impl.conn.BasicHttpClientConnectionManager;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 
@@ -77,24 +85,22 @@ public class BetFairCore implements IBetFairCore
 
 	// Then separate methods for calls and dealing with filters
 
-	// TODO refactor all this into a better format
+	/**
+	 * Creates a new BetFairCore object.
+	 */
+	public BetFairCore()
+	{
+		directoryPrefix = System.getProperty("user.dir");
+		httpRequester = new HttpUtil();
+	}
+	
 	/**
 	 * Initialises the BetFairCore object.
-	 * 
-	 * @param debug
-	 *            If true then every request performed by this class prints out
-	 *            the request and reply JSON Strings. If false then no
-	 *            additional output is printed.
+	 * @param debug if true then JSON request and response strings are printed to console
 	 */
 	public BetFairCore(boolean debug)
 	{
 		this.debug = debug;
-		directoryPrefix = System.getProperty("user.dir");
-		httpRequester = new HttpUtil();
-	}
-
-	public BetFairCore()
-	{
 		directoryPrefix = System.getProperty("user.dir");
 		httpRequester = new HttpUtil();
 	}
@@ -119,12 +125,17 @@ public class BetFairCore implements IBetFairCore
 			String filePassword) throws CryptoException
 	{
 		LoginResponse responseObject = new LoginResponse();
-		// Client important since it will do requests for us?
-		DefaultHttpClient httpClient = new DefaultHttpClient();
+
+		
+		//DefaultHttpClient httpClient = new DefaultHttpClient();
+		HttpClient httpClient = null;//HttpClientBuilder.create().build();
+		
+		
 		Gson gson = new Gson();
 
 		try
 		{
+
 			// SSL stuff
 			KeyManager[] keyManagers = getKeyManagers("pkcs12",
 					new FileInputStream(new File(directoryPrefix
@@ -133,12 +144,32 @@ public class BetFairCore implements IBetFairCore
 
 			sslContext.init(keyManagers, null, new SecureRandom());
 
-			SSLSocketFactory factory = new SSLSocketFactory(sslContext,
-					new StrictHostnameVerifier());
-			ClientConnectionManager manager = httpClient.getConnectionManager();
-			manager.getSchemeRegistry().register(
-					new Scheme("https", httpsPort, factory));
+			
+			HttpClientBuilder builder = HttpClientBuilder.create();
+		    SSLConnectionSocketFactory sslConnectionFactory = new SSLConnectionSocketFactory(sslContext, new StrictHostnameVerifier());
+		    builder.setSSLSocketFactory(sslConnectionFactory);
 
+		    Registry<ConnectionSocketFactory> registry = RegistryBuilder.<ConnectionSocketFactory>create()
+		            .register("https", sslConnectionFactory)
+		            .build();
+
+		    HttpClientConnectionManager ccm = new BasicHttpClientConnectionManager(registry);
+		   
+		    builder.setConnectionManager(ccm);
+
+		    httpClient = builder.build();
+		    //////////////
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 			// Making a post object
 			HttpPost httpPost = new HttpPost(
 					"https://identitysso.betfair.com/api/certlogin");
@@ -252,6 +283,41 @@ public class BetFairCore implements IBetFairCore
 
 	}
 
+	/**
+	 * @param filter
+	 * @param marketProjection removed**
+	 * @return
+	 */
+	public List<MarketCatalogue> listEvents(MarketFilter filter)
+	{
+		Map<String, Object> parameters = new HashMap<String, Object>();
+		parameters.put(BetFairParams.FILTER.toString(), filter);
+		parameters
+				.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
+		parameters.put(BetFairParams.MARKET_PROJECTION.toString(),
+				null);//marketprojection used to go here.
+
+		String jsonResultLine = null;
+
+		try
+		{
+			jsonResultLine = makeRequest(ApingOperation.LISTEVENTS.toString(),
+					parameters, liveAppKey, sessionToken);
+		}
+		catch (NotLoggedInException notLoggedIn)
+		{
+			notLoggedIn.printStackTrace();
+		}
+
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
+				jsonResultLine, ListMarketCatalogueContainer.class);
+
+		if (container.getError() != null)
+			System.out.println(container.getError().toString());
+
+		return container.getResult();
+	}
+	
 	public List<MarketBook> listMarketBook(List<String> marketIds,
 			PriceProjection priceProjection, OrderProjection orderProjection,
 			MarketProjection matchProjection, String currencyCode)
@@ -350,42 +416,6 @@ public class BetFairCore implements IBetFairCore
 				MarketSort.FIRST_TO_START, maxResults);
 	}
 
-	/**
-	 * 
-	 * @param filter
-	 * @param marketProjection
-	 * @return
-	 */
-	public List<MarketCatalogue> listEvents(MarketFilter filter,
-			Set<MarketProjection> marketProjection)
-	{
-		Map<String, Object> parameters = new HashMap<String, Object>();
-		parameters.put(BetFairParams.FILTER.toString(), filter);
-		parameters
-				.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
-		parameters.put(BetFairParams.MARKET_PROJECTION.toString(),
-				marketProjection);
-
-		String jsonResultLine = null;
-
-		try
-		{
-			jsonResultLine = makeRequest(ApingOperation.LISTEVENTS.toString(),
-					parameters, liveAppKey, sessionToken);
-		}
-		catch (NotLoggedInException notLoggedIn)
-		{
-			notLoggedIn.printStackTrace();
-		}
-
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
-				jsonResultLine, ListMarketCatalogueContainer.class);
-
-		if (container.getError() != null)
-			System.out.println(container.getError().toString());
-
-		return container.getResult();
-	}
 
 	/**
 	 * This method is used to return a list of MarketCatalogue objects
@@ -413,7 +443,7 @@ public class BetFairCore implements IBetFairCore
 		Set<MarketProjection> marketProjection = new HashSet<MarketProjection>();
 		marketProjection.add(MarketProjection.RUNNER_DESCRIPTION);
 
-		return listEvents(marketFilter, null);
+		return listEvents(marketFilter);
 	}
 
 	/**
@@ -475,12 +505,6 @@ public class BetFairCore implements IBetFairCore
 		debug = state;
 	}
 
-	@Override
-	public List<MarketCatalogue> listEvents(MarketFilter filter)
-	{
-		// TODO Auto-generated method stub
-		return null;
-	}
 
 	@Override
 	public List<MarketBook> listMarketBook(List<String> marketIds,
