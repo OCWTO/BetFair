@@ -8,7 +8,7 @@ public enum BetFairParams
 	MARKET_IDS("marketIds"),
 	MARKET_PROJECTION("marketProjection"),
 	PRICE_PROJECTION("priceProjection"),
-	FILTER("filer");
+	FILTER("filter");
 	
 	private String param;
 	
@@ -17,8 +17,8 @@ public enum BetFairParams
 		this.param = param;
 	}
 	
-	public String getParam()
-	{
+	@Override
+	public String toString() {
 		return this.param;
 	}
 }

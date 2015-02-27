@@ -6,9 +6,16 @@
 package model;
 
 import java.util.List;
+import java.util.Set;
 
 import betFairGSONClasses.EventTypeResult;
+import betFairGSONClasses.MarketBook;
+import betFairGSONClasses.MarketCatalogue;
 import betFairGSONClasses.MarketFilter;
+import betFairGSONClasses.PriceProjection;
+import enums.MarketProjection;
+import enums.MarketSort;
+import enums.OrderProjection;
 
 public interface IBetFairCore
 {
@@ -22,13 +29,14 @@ public interface IBetFairCore
 	
 	//listCurrentOrders	
 	
-	//listEvents
+	//Return type here is different from API list but it's ok.
+	public List<MarketCatalogue> listEvents ( MarketFilter filter);
 
 	public List<EventTypeResult> listEventTypes(MarketFilter filter);
 	
-	//listMarketBook
+	public List<MarketBook> listMarketBook (List<String>marketIds , PriceProjection priceProjection, OrderProjection orderProjection);
 	
-	//listMarketCatalogue
+	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection>marketProjection, MarketSort sort, int maxResults, String locale);
 	
 	//listMarketProfitAndLoss
 
@@ -36,6 +44,8 @@ public interface IBetFairCore
 	
 	//listVenues
 
+	//login 
+	
 	//placeOrders
 	
 	//replaceOrders

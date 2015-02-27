@@ -14,8 +14,8 @@ public enum BetFairMarket
 		this.marketStatus = marketStatus;
 	}
 
-	public String getMarketStatus()
-	{
+	@Override
+	public String toString() {
 		return marketStatus;
 	}
 }

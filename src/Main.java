@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
+import enums.BetFairMarket;
 import exceptions.CryptoException;
 import views.TextFrontEnd;
 import betFairGSONClasses.EventTypeResult;
@@ -19,7 +20,7 @@ public class Main
 	//TODO modify recorder to record all markets
 	public static void main2(String[] args)
 	{
-		BetFairCore core = new BetFairCore(false);
+		BetFairCore core = new BetFairCore(true);
 		try
 		{
 			core.login("0ocwto0", "2014Project", "project");
@@ -30,10 +31,13 @@ public class Main
 			e.printStackTrace();
 		}
 		List<String> temp = new ArrayList<String>();
-		temp.add("1.117137832");
-		SimpleGameRecorder x = new SimpleGameRecorder(core,"27357665",temp,1);
-		Timer time = new Timer();
-		time.schedule(x, x.getStartDelay(),5000);		
+		//temp.add("1.117517592");
+		List<MarketBook> t2 = core.getMarketBook("1.117517592");
+		System.out.println(BetFairMarket.CLOSED_MARKET.toString());
+		System.out.println(t2.get(0).getStatus().equalsIgnoreCase(BetFairMarket.CLOSED_MARKET.toString()));
+		//SimpleGameRecorder x = new SimpleGameRecorder(core,"27357665",temp,1);
+		//Timer time = new Timer();
+		//time.schedule(x, x.getStartDelay(),5000);		
 	}
 
 	//TODO check that theres a v in the name, to filter out league wide markets I don't care about.

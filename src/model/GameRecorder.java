@@ -467,31 +467,31 @@ public class GameRecorder extends TimerTask
 		activeIndex.add("\tTIME: " + LocalTime.now().toString()
 					+ "\n");
 
-			for (Runner individual : runners)
-			{
-				activeIndex.add("\t\tRUNNER: "
-						+ runnerIds.get(individual.getSelectionId()) + "\n");
+		for (Runner individual : runners)
+		{
+			activeIndex.add("\t\tRUNNER: "
+					+ runnerIds.get(individual.getSelectionId()) + "\n");
 
-				for (int i = 0; i < individual.getEx().getAvailableToBack()
-						.size(); i++)
-				{
-					activeIndex.add("\t\t\tBACK: (PRICE:"
-							+ individual.getEx().getAvailableToBack().get(i)
-									.getPrice()
-							+ ",SIZE:"
-							+ individual.getEx().getAvailableToBack().get(i)
-									.getSize() + ")\n");
-				}
-				for (int i = 0; i < individual.getEx().getAvailableToLay()
-						.size(); i++)
-				{
-					activeIndex.add("\t\t\tLAY: (PRICE:"
-							+ individual.getEx().getAvailableToLay().get(i)
-									.getPrice()
-							+ ",SIZE:"
-							+ individual.getEx().getAvailableToLay().get(i)
-									.getSize() + ")\n");
-				}
+			for (int i = 0; i < individual.getEx().getAvailableToBack()
+					.size(); i++)
+			{
+				activeIndex.add("\t\t\tBACK: (PRICE:"
+						+ individual.getEx().getAvailableToBack().get(i)
+								.getPrice()
+						+ ",SIZE:"
+						+ individual.getEx().getAvailableToBack().get(i)
+								.getSize() + ")\n");
 			}
+			for (int i = 0; i < individual.getEx().getAvailableToLay()
+					.size(); i++)
+			{
+				activeIndex.add("\t\t\tLAY: (PRICE:"
+						+ individual.getEx().getAvailableToLay().get(i)
+								.getPrice()
+						+ ",SIZE:"
+						+ individual.getEx().getAvailableToLay().get(i)
+								.getSize() + ")\n");
+			}
+		}
 	}	
 }

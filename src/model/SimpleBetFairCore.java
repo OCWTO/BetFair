@@ -64,6 +64,7 @@ public class SimpleBetFairCore
 	{
 		List<EventTypeResult> sportList = betFair
 				.listEventTypes(new MarketFilter());
+		System.out.println(sportList == null);
 		sportList.sort(new EventTypeResultComparator());
 
 		List<String> readableOutput = new ArrayList<String>();

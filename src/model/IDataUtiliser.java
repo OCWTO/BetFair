@@ -1,7 +1,3 @@
-/**
- * @author Craig Thomson
- * This interface is for any class which receives BetFair data.
- */
 package model;
 
 /**
