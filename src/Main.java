@@ -21,6 +21,7 @@ import model.SimpleGameRecorder;
  */
 public class Main
 {
+	//TODO test out marketprojection? parameters to see if the maps are necessary, see what data is available whilst getting market books
 	//TODO design gui
 	public static void main2(String[] args)
 	{
@@ -31,7 +32,6 @@ public class Main
 		}
 		catch (CryptoException e)
 		{
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		List<String> temp = new ArrayList<String>();

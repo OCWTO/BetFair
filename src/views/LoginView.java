@@ -40,6 +40,7 @@ public class LoginView
 	private JTextField usernameEntry;
 	private JPasswordField passwordEntry;
 	private JPasswordField filePasswordEntry;
+	
 	/**
 	 * 
 	 */
@@ -186,6 +187,7 @@ public class LoginView
 	
 	public static void main(String[] args)
 	{
+		@SuppressWarnings("unused")
 		LoginView gui = new LoginView();
 	}
 }

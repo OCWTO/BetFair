@@ -62,6 +62,7 @@ public class GameRecorder extends TimerTask
 
 	private static final String windowsPath = "\\";
 	private static final String unixPath = "/";
+
 	/**
 	 * @param gameAndMarkets
 	 *            An array of game IDs and market IDs in the form of
@@ -100,7 +101,7 @@ public class GameRecorder extends TimerTask
 
 	public long getStartDelay()
 	{
-		// if started
+		// If in progress (already started)
 		if ((startDelay - System.currentTimeMillis()) < 0)
 		{
 			System.out.println("STARTING NOW!");
