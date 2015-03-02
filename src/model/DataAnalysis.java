@@ -26,3 +26,4 @@ public class DataAnalysis extends Observable implements IDataUtiliser
 		return false;
 	}
 }
+//TODO find a cut off value to decide an event? then event is decided by looking at the name and finding the mapping to it

@@ -3,7 +3,7 @@ package betFairGSONClasses;
 import java.util.List;
 
 /**
- * This class is used for GSON serialisation TypeAdaptor for the Date class
+ * This class is used for GSON serialisation
  * 
  * @author BetFair
  */

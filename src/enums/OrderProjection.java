@@ -2,6 +2,7 @@ package enums;
 
 /**
  * Enum for Order projection options
+ * 
  * @author BetFair
  *
  */

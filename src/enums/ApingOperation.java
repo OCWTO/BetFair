@@ -1,7 +1,7 @@
 package enums;
 
 /**
- * Enum class for Betfair method names
+ * Enum for Betfair method names
  * 
  * @author BetFair
  *
