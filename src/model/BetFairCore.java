@@ -125,7 +125,7 @@ public class BetFairCore implements IBetFairCore
 	 *             file.
 	 */
 	public LoginResponse login(String username, String password,
-			String filePassword) throws CryptoException
+			String filePassword)
 	{
 		LoginResponse responseObject = new LoginResponse();
 		HttpClient httpClient = null;

@@ -5,7 +5,7 @@ package exceptions;
  * @author Craig Thomson
  *
  */
-public class CryptoException extends Exception
+public class CryptoException extends RuntimeException
 {
 	private static final long serialVersionUID = 8678004041404827757L;
 

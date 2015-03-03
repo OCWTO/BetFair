@@ -7,7 +7,7 @@ package exceptions;
  * @author Craig Thomson
  *
  */
-public class BadLoginException extends Exception
+public class BadLoginException extends RuntimeException
 {
 	private static final long serialVersionUID = 6797760693883067928L;
 

@@ -3,7 +3,6 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-import exceptions.CryptoException;
 import betFairGSONClasses.Event;
 import betFairGSONClasses.EventTypeResult;
 import betFairGSONClasses.LoginResponse;
@@ -13,6 +12,7 @@ import betFairGSONClasses.MarketFilter;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.MarketCatalogueEventNameComparator;
 import betfairUtils.MarketCatalogueEventOpenDateComparator;
+import exceptions.CryptoException;
 
 //TODO add support for sorting events into separate lists (UK, USA, etc) handy for gui
 //TODO add support for sorting markets into their groupings e.g. match odds, goal line, etc.
@@ -23,7 +23,7 @@ import betfairUtils.MarketCatalogueEventOpenDateComparator;
  * @author Craig Thomson
  *
  */
-public class SimpleBetFairCore
+public class SimpleBetFairCore implements ISimpleBetFair
 {
 	private BetFairCore betFair;
 
@@ -45,7 +45,6 @@ public class SimpleBetFairCore
 	 * @throws CryptoException if the p12 certificate file cannot be accessed with the given password.
 	 */
 	public String login(String username, String password, String certPassword)
-			throws CryptoException
 	{
 		LoginResponse result = betFair.login(username, password, certPassword);
 
@@ -137,6 +136,20 @@ public class SimpleBetFairCore
 	public List<String> getMarketRunnerProbability(List<String> marketId)
 	{
 		List<MarketBook> marketData = betFair.getMarketBook(marketId);
+		return null;
+	}
+
+	@Override
+	public List<String> getGameListForSport(List<String> sportId)
+	{
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public IBetFairCore getBetFairObject()
+	{
+		// TODO Auto-generated method stub
 		return null;
 	}
 }

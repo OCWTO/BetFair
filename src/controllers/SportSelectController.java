@@ -24,7 +24,7 @@ public class SportSelectController implements ActionListener
 	{
 		//get selected sport from the option list, add tha tto the options...
 		//create new view and pass it in options
-		
+			
 		//if next is pressed collapse old new, make new view and pass around betfair ref
 		
 		//if back is pressed then collapse all, remove betfair init and go back to login view

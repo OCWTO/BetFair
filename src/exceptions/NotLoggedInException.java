@@ -6,7 +6,7 @@ package exceptions;
  * @author Craig Thomson
  *
  */
-public class NotLoggedInException extends Exception
+public class NotLoggedInException extends RuntimeException
 {
 	private static final long serialVersionUID = -2184603801477251653L;
 
