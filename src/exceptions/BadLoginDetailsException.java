@@ -7,16 +7,16 @@ package exceptions;
  * @author Craig Thomson
  *
  */
-public class BadLoginException extends RuntimeException
+public class BadLoginDetailsException extends RuntimeException
 {
 	private static final long serialVersionUID = 6797760693883067928L;
 
-	public BadLoginException()
+	public BadLoginDetailsException()
 	{
 		super();
 	}
 
-	public BadLoginException(String message)
+	public BadLoginDetailsException(String message)
 	{
 		super(message);
 	}

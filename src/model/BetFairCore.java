@@ -51,11 +51,13 @@ import betfairUtils.JsonrpcRequest;
 import com.google.gson.Gson;
 
 import enums.ApingOperation;
+import enums.BetFairLogin;
 import enums.BetFairParams;
 import enums.MarketProjection;
 import enums.MarketSort;
 import enums.OrderProjection;
 import enums.PriceData;
+import exceptions.BadLoginDetailsException;
 import exceptions.CryptoException;
 import exceptions.NotLoggedInException;
 
@@ -135,7 +137,6 @@ public class BetFairCore implements IBetFairCore
 		try
 		{
 			//TODO add unix support here
-			// SSL stuff
 			KeyManager[] keyManagers = getKeyManagers("pkcs12",
 					new FileInputStream(new File(directoryPrefix
 							+ "/certs/client-2048.p12")), filePassword);
@@ -180,17 +181,16 @@ public class BetFairCore implements IBetFairCore
 			HttpResponse response = httpClient.execute(httpPost);
 			HttpEntity entity = response.getEntity();
 
-			// bad password exception here
-			if (entity != null)
-			{
-				responseObject = gson.fromJson(EntityUtils.toString(entity),
-						LoginResponse.class);
-				// System.out.println(responseObject);
-				if (debug)
-					System.out.println("Response:" + responseObject.toString());
+			responseObject = gson.fromJson(EntityUtils.toString(entity), LoginResponse.class);
 
-				sessionToken = responseObject.getSessionToken();
-			}
+			if (debug)
+				System.out.println("Response:" + responseObject.toString());
+			
+
+			if(responseObject.getSessionToken() == null)
+				throw new BadLoginDetailsException(responseObject.getLoginStatus());
+			
+			sessionToken = responseObject.getSessionToken();
 		}
 		catch (Throwable e)
 		{
@@ -200,7 +200,14 @@ public class BetFairCore implements IBetFairCore
 				throw new CryptoException("Issue with given file/password. "
 						+ e.getMessage());
 			}
-			e.printStackTrace();
+			else if(e.getMessage().equals(BetFairLogin.BADLOGINDETAILS))
+			{
+				throw new BadLoginDetailsException(e.getMessage());
+			}
+			else
+			{
+				e.printStackTrace();
+			}
 		}
 		return responseObject;
 	}

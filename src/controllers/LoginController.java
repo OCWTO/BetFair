@@ -65,10 +65,10 @@ public class LoginController implements ActionListener
 		try
 		{
 			betFair.setDebug(debug);
-			LoginResponse response = betFair.login(vals[0], vals[1], vals[2]);
+			String response = betFair.login(vals[0], vals[1], vals[2]);
 			
 			//Valid login so view changes based on settings
-			if(response.getLoginStatus().equalsIgnoreCase("success"))
+			if(response.equalsIgnoreCase("success"))
 			{	
 				//Special transition to collection mode
 				if(collect)

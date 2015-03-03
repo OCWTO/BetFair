@@ -26,14 +26,8 @@ public class Main
 	public static void main(String[] args)
 	{
 		BetFairCore core = new BetFairCore(true);
-		try
-		{
-			core.login("0ocwto0", "2014Project", "project");
-		}
-		catch (CryptoException e)
-		{
-			e.printStackTrace();
-		}
+		core.login("0ocwto0", "2014Projectt", "project");
+
 		
 		core.getGames("1");
 		//List<String> temp = new ArrayList<String>();

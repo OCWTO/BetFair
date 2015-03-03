@@ -46,5 +46,6 @@ public interface ISimpleBetFair
 	 */
 	public IBetFairCore getBetFairObject();
 	
+	public void setDebug(boolean debugValue);
 	
 }
