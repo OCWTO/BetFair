@@ -9,16 +9,16 @@ import java.util.Observable;
  * 
  * @author Craig Thomson
  */
-public class DataRecorder extends Observable implements IDataUtiliser
+public class DataRecorder extends Observable// implements BetFairDataUtiliser
 {
-	@Override
+	//@Override
 	public void passData(String data)
 	{
 		// TODO Auto-generated method stub
 
 	}
 
-	@Override
+	//@Override
 	public boolean isRunning()
 	{
 		// TODO Auto-generated method stub

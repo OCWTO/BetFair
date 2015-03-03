@@ -58,7 +58,7 @@ public class GameRecorder extends TimerTask
 	private LocalTime timer;
 	private int counter;
 	private long startDelay;
-	private File baseDir;
+	private File baseDirectory;
 
 	private static final String windowsPath = "\\";
 	private static final String unixPath = "/";
@@ -99,15 +99,15 @@ public class GameRecorder extends TimerTask
 		}
 	}
 
-	public long getStartDelay()
+	public long getStartDelayInMS()
 	{
 		// If in progress (already started)
 		if ((startDelay - System.currentTimeMillis()) < 0)
 		{
-			System.out.println("STARTING NOW!");
+			System.out.println("Starting now.");
 			return 0;
 		}
-		System.out.println("WAITING FOR "
+		System.out.println("Waiting for: "
 				+ (startDelay - System.currentTimeMillis()) + "MS");
 		return startDelay - System.currentTimeMillis();
 	}
@@ -164,7 +164,6 @@ public class GameRecorder extends TimerTask
 		return nextGame;
 	}
 
-	// TODO make it loop through indexes to support many games
 	/**
 	 * Set the initial state of collections holding data, required for
 	 * meaningful data outputs.
@@ -239,6 +238,8 @@ public class GameRecorder extends TimerTask
 				gameData.add(marketData);
 			}
 		}
+		
+		
 	}
 
 	/**
@@ -291,14 +292,14 @@ public class GameRecorder extends TimerTask
 	// TODO add unix support
 	private void makeBaseDirectory()
 	{
-		if (baseDir != null)
+		if (baseDirectory != null)
 			return;
 
 		String currentDir = System.getProperty("user.dir");
 		String destination = "\\logs\\gamelogs\\";
 		String metaDataTokens[] = gameData.get(0).get(0).get(0).split("_");
-		baseDir = new File(currentDir + destination + metaDataTokens[0]);
-		baseDir.mkdir();
+		baseDirectory = new File(currentDir + destination + metaDataTokens[0]);
+		baseDirectory.mkdir();
 	}
 
 	/**
@@ -318,7 +319,7 @@ public class GameRecorder extends TimerTask
 		String folderName = marketMetaDataTokens[1].replaceAll(
 				"[^\\p{Alpha}]+", "");
 
-		closedMarketDir = new File(baseDir.getPath() + "\\" + folderName);
+		closedMarketDir = new File(baseDirectory.getPath() + "\\" + folderName);
 		closedMarketDir.mkdir();
 
 		try
@@ -568,5 +569,22 @@ public class GameRecorder extends TimerTask
 								.getSize() + ")\n");
 			}
 		}
+	}
+	
+	/**
+	 * Store the amount of money matched for each market in the game
+	 */
+	private void storeMarketMoneyMatchedData()
+	{
+		//need an arraylist of values for every market present
+		//String gameId = gameToMarkets.keySet();
+		
+		/*
+		 * Get game id
+		 * get marketbook for that game
+		 * 
+		 * for each marketbook if our initial index 0 has a name match then add data
+		 * else skip
+		 */
 	}
 }

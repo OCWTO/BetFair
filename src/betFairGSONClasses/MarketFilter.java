@@ -1,5 +1,7 @@
 package betFairGSONClasses;
 
+import java.util.Date;
+import java.util.HashSet;
 import java.util.Set;
 
 /**
@@ -165,5 +167,21 @@ public class MarketFilter
 				+ getMarketCountries() + "," + "marketTypeCodes="
 				+ getMarketTypeCodes() + "," + "marketStartTime="
 				+ getMarketStartTime() + "}";
+	}
+	
+	public static MarketFilter createMarketFilter(int gameStartMinsAgo, int gameStartHoursLater, String eventId)
+	{
+		TimeRange gameTimeRange = new TimeRange();
+		gameTimeRange.setFrom(new Date(new Date().getTime() - (gameStartMinsAgo * 60 * 1000)));
+		gameTimeRange.setTo(new Date(new Date().getTime() + (gameStartHoursLater * 60 * 60 * 1000)));
+		
+		Set<String> eventIds = new HashSet<String>();
+		eventIds.add(eventId);
+		
+		MarketFilter thisFilter = new MarketFilter();
+		thisFilter.setEventTypeIds(eventIds);
+		thisFilter.setMarketStartTime(gameTimeRange);
+		
+		return thisFilter;
 	}
 }

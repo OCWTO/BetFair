@@ -68,7 +68,7 @@ public class TextFrontEnd
 			recorder = new GameRecorder(betFair.getBetFair(), marketId);
 			System.out.println(marketId.get(0));
 			Timer timer = new Timer();
-			timer.schedule(recorder, recorder.getStartDelay(), 5000);
+			timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
 			// TODO let recordmode be an enum
 		}
 	}

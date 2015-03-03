@@ -8,8 +8,10 @@ import java.awt.event.ActionListener;
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 
-import controllers.SportSelectController;
 import model.BetFairCore;
+import model.IBetFairCore;
+import model.ProgramOptions;
+import controllers.SportSelectController;
 
 public class SportSelectView
 {
@@ -21,14 +23,15 @@ public class SportSelectView
 	
 	private final String frameTitle = "BetFair Sport Select";
 	
-	private BetFairCore betFair;
+	private IBetFairCore betFair;
 	private ActionListener guiListener;
+	private ProgramOptions options;
 	//TODO purpose of this view is to call get sports, display and let user pick
 	//It probably 
-	public SportSelectView(BetFairCore betFair)
+	public SportSelectView(ProgramOptions options)
 	{
-		betFair = new BetFairCore();
-		guiListener = new SportSelectController(betFair, this);
+		this.betFair = options.getBetFair();
+		guiListener = new SportSelectController(options, this);
 		guiFrame = new JFrame(frameTitle);
 		guiFrame.setResizable(false);
 		mainFrame = guiFrame.getContentPane();
@@ -38,7 +41,7 @@ public class SportSelectView
 		setupPanels();
 		addMenus();
 		centreFrame();
-		
+		//showSports()
 		guiFrame.setVisible(true);
 	}
 
@@ -48,6 +51,8 @@ public class SportSelectView
 		guiFrame.setBounds((int) screenDims.getWidth() / 2 - (xSize / 2),
 						(int) screenDims.getHeight() / 2 - (ySize / 2), xSize, ySize);
 	}
+	
+	//on creation it needs to get the list of all sports from BetFair
 
 	private void addMenus()
 	{

@@ -269,7 +269,7 @@ public class BetFairCore implements IBetFairCore
 		// MarketProjection.COMPETITION);
 		// marketProjection.addAll(projs);
 
-		return listMarketBook(marketIds, priceProjection, null, null, null);
+		return listMarketBook(marketIds, priceProjection, null);
 	}
 
 	/**
@@ -310,16 +310,16 @@ public class BetFairCore implements IBetFairCore
 
 		return container.getResult();
 	}
+	
 
 	public List<MarketBook> listMarketBook(List<String> marketIds,
-			PriceProjection priceProjection, OrderProjection orderProjection,
-			MarketProjection matchProjection, String currencyCode)
+			PriceProjection priceProjection, OrderProjection orderProjection)
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		params.put(BetFairParams.MARKET_IDS.toString(), marketIds);
 		params.put(BetFairParams.PRICE_PROJECTION.toString(), priceProjection);
 
-		params.put("currencyCode", currencyCode);
+		params.put("currencyCode", null);
 
 		String jsonResultLine = null;
 		try
@@ -497,20 +497,12 @@ public class BetFairCore implements IBetFairCore
 		debug = state;
 	}
 
-	@Override
-	public List<MarketBook> listMarketBook(List<String> marketIds,
-			PriceProjection priceProjection, OrderProjection orderProjection)
-	{
-		// TODO Auto-generated method stub
-		return null;
-	}
 
 	@Override
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
 			Set<MarketProjection> marketProjection, MarketSort sort,
 			int maxResults, String locale)
 	{
-		// TODO Auto-generated method stub
 		return null;
 	}
 }

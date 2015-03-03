@@ -8,18 +8,18 @@ import java.util.Observable;
  * 
  * @author Craig Thomson
  */
-public class DataAnalysis extends Observable implements IDataUtiliser
+public class DataAnalysis extends Observable //implements BetFairDataUtiliser
 {
 	// TODO multi thread?
 	// TODO add timertask
-	@Override
+	//@Override
 	public void passData(String data)
 	{
 		// TODO Auto-generated method stub
 
 	}
 
-	@Override
+	//@Override
 	public boolean isRunning()
 	{
 		// TODO Auto-generated method stub
