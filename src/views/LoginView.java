@@ -25,6 +25,7 @@ import controllers.LoginController;
  * @author Craig Thomson
  *
  */
+//TODO add option to put in cert files
 public class LoginView
 {
 	private JFrame guiFrame;

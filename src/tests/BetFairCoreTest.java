@@ -2,7 +2,11 @@ package tests;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
+
+import java.lang.reflect.Method;
+
 import model.BetFairCore;
+import model.ProgramOptions;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -121,6 +125,7 @@ public class BetFairCoreTest
 			// expected
 		}
 	}
+	//TODO look into using reflection for testing http://stackoverflow.com/questions/34571/how-to-test-a-class-that-has-private-methods-fields-or-inner-classes
 	// TODO test you get data back in multiple calls, need to call login first
 	// before all following tests
 	// TODO test implemented betfair methods are returning the right stuff

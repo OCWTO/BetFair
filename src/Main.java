@@ -26,7 +26,7 @@ public class Main
 	public static void main(String[] args)
 	{
 		BetFairCore core = new BetFairCore(true);
-		core.login("0ocwto0", "2014Projectt", "project");
+		core.login("0ocwto0", "2014Project", "project");
 
 		
 		core.getGames("1");
