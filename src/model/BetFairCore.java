@@ -194,15 +194,15 @@ public class BetFairCore implements IBetFairCore
 		}
 		catch (Throwable e)
 		{
-			if (e.getCause().getClass().toString()
+			if(e.getMessage().equals(BetFairLogin.BADLOGINDETAILS.toString()))
+			{
+				throw new BadLoginDetailsException(e.getMessage());
+			}
+			else if (e.getCause().getClass().toString()
 					.contains("BadPaddingException"))
 			{
 				throw new CryptoException("Issue with given file/password. "
 						+ e.getMessage());
-			}
-			else if(e.getMessage().equals(BetFairLogin.BADLOGINDETAILS))
-			{
-				throw new BadLoginDetailsException(e.getMessage());
 			}
 			else
 			{

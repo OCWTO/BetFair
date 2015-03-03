@@ -1,13 +1,15 @@
 package tests;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
 import model.BetFairCore;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import exceptions.CryptoException;
 import betFairGSONClasses.LoginResponse;
+import exceptions.BadLoginDetailsException;
+import exceptions.CryptoException;
 
 /**
  * Test class for all BetFairCore methods.
@@ -43,7 +45,7 @@ public class BetFairCoreTest
 			betFair.login(userName, password, filePassword + "A");
 			fail("CryptoException expected in testLoginBadFilePassword()");
 		}
-		catch (CryptoException e)
+		catch (CryptoException expectedException)
 		{
 			System.out.println("testLoginBadFilePassword() pass!");
 		}
@@ -60,7 +62,7 @@ public class BetFairCoreTest
 			betFair.login(userName + "A", password, filePassword);
 			fail("CryptoException expected in testLoginBadUsername()");
 		}
-		catch (CryptoException e)
+		catch (BadLoginDetailsException expectedException)
 		{
 			System.out.println("testLoginBadUsername() pass!");
 		}
@@ -77,7 +79,7 @@ public class BetFairCoreTest
 			betFair.login(userName, password + "A", filePassword);
 			fail("CryptoException expected in testLoginBadPassword()");
 		}
-		catch (CryptoException e)
+		catch (BadLoginDetailsException expectedException)
 		{
 			System.out.println("testLoginBadPassword() pass!");
 		}
@@ -95,7 +97,7 @@ public class BetFairCoreTest
 					filePassword);
 			assertEquals(response.getLoginStatus(), "SUCCESS");
 		}
-		catch (CryptoException e)
+		catch (CryptoException expectedException)
 		{
 			System.out.println("testLoginBadPassword() pass!");
 			fail("CryptoException not expected in testLoginSuccess()");
@@ -114,7 +116,7 @@ public class BetFairCoreTest
 			betFair.login(userName, password, filePassword);
 			fail();
 		}
-		catch (Exception e)
+		catch (Exception expectedException)
 		{
 			// expected
 		}
