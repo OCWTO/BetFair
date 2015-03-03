@@ -7,6 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.Timer;
 
+import model.BetFairSportObject;
 import model.GameRecorder;
 import model.SimpleBetFairCore;
 import exceptions.CryptoException;
@@ -55,7 +56,7 @@ public class TextFrontEnd
 		if (loginPrompt())
 		{
 			// If successful login then prompt for selected sport
-			sportId = sportPrompt();
+			sportId = sportPrompt().getId();
 
 			// If sport successfully selected then prompt for game
 			gameId = gamePrompt(sportId);
@@ -218,15 +219,18 @@ public class TextFrontEnd
 	 * 
 	 * @return
 	 */
-	private String sportPrompt()
+	private BetFairSportObject sportPrompt()
 	{
 		String inputLine;
 		String[] inputTokens;
-		List<String> results = betFair.getSupportedSportList();
+		List<BetFairSportObject> results = betFair.getSupportedSportList();
 
 		System.out.println("SPORT LIST\nNUM\tNAME\t\tID");
-		for (String resultItem : results)
-			System.out.println(resultItem);
+		
+		for(int i = 0; i < results.size(); i++)
+		{
+			System.out.println(i + " " + results.get(i));
+		}
 
 		while (true)
 		{
@@ -239,13 +243,10 @@ public class TextFrontEnd
 			if (inputTokens[0].equalsIgnoreCase("SELECT")
 					&& inputTokens.length == 2)
 			{
-				// get the number token, get the sport in that index, split it
-				// and get the last number (the betfair id)
-				String[] selectedTokens = (results.get(Integer
-						.parseInt(inputTokens[inputTokens.length - 1])))
-						.split(" ");
-				System.out.println("Selected sport: " + selectedTokens[1]);
-				return selectedTokens[selectedTokens.length - 1];
+				//TODO add boundary checking
+				BetFairSportObject selectedSportObject = results.get(Integer.parseInt(inputTokens[1]));
+				System.out.println("Selected sport: " + selectedSportObject.getName());
+				return selectedSportObject;
 			}
 			else
 			{

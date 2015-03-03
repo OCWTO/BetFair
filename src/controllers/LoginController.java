@@ -11,11 +11,12 @@ import betFairGSONClasses.LoginResponse;
 import views.LoginView;
 import views.SportSelectView;
 import model.BetFairCore;
+import model.ISimpleBetFair;
 import model.ProgramOptions;
 
 public class LoginController implements ActionListener
 {
-	private BetFairCore betFair;
+	private ISimpleBetFair betFair;
 	private LoginView view;
 	private SportSelectView nextView;
 	private ProgramOptions options;
@@ -24,17 +25,17 @@ public class LoginController implements ActionListener
 	
 	/**
 	 * 
-	 * @param betFair
+	 * @param betFair2
 	 * @param loginView
 	 */
-	public LoginController(BetFairCore betFair, LoginView loginView)
+	public LoginController(ISimpleBetFair betFair2, LoginView loginView)
 	{
-		this.betFair = betFair;
+		this.betFair = betFair2;
 		this.view = loginView;
 		debug = false;
 		collect = false;
 		options = new ProgramOptions();
-		options.addBetFair(betFair);
+		options.addBetFair(betFair2);
 		options.setProgramOption("collect:" + collect);
 	}
 

@@ -17,7 +17,7 @@ public interface ISimpleBetFair
 	 * 
 	 * @return
 	 */
-	public List<String> getSupportedSportList();
+	public List<BetFairSportObject> getSupportedSportList();
 	
 	/**
 	 * 

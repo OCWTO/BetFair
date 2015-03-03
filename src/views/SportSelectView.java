@@ -9,11 +9,9 @@ import java.util.List;
 import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 
-import model.IBetFairCore;
+import model.BetFairSportObject;
+import model.ISimpleBetFair;
 import model.ProgramOptions;
-import betFairGSONClasses.EventTypeResult;
-import betFairGSONClasses.MarketCatalogue;
-import betFairGSONClasses.MarketFilter;
 import controllers.SportSelectController;
 
 public class SportSelectView
@@ -26,7 +24,7 @@ public class SportSelectView
 	
 	private final String frameTitle = "BetFair Sport Select";
 	
-	private IBetFairCore betFair;
+	private ISimpleBetFair betFair;
 	private ActionListener guiListener;
 	private ProgramOptions options;
 	
@@ -47,7 +45,7 @@ public class SportSelectView
 		centreFrame();
 		//showSports()
 		guiFrame.setVisible(true);
-		List<EventTypeResult> availableSports = betFair.listEventTypes(new MarketFilter());
+		List<BetFairSportObject> availableSports = betFair.getSupportedSportList();
 	}
 
 	private void centreFrame()

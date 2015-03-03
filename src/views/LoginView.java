@@ -1,23 +1,24 @@
 package views;
 
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.Toolkit;
-import java.awt.Color;
 import java.awt.event.ActionListener;
 
+import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
 import javax.swing.JFrame;
-import javax.swing.BoxLayout;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
-import javax.swing.JLabel;
 import javax.swing.JTextField;
 
+import model.ISimpleBetFair;
+import model.SimpleBetFairCore;
 import controllers.LoginController;
-import model.BetFairCore;
 
 /**
  * This class represents the users log in view to the program
@@ -34,7 +35,7 @@ public class LoginView
 	
 	private final String frameTitle = "BetFair Login";
 	
-	private BetFairCore betFair;
+	private ISimpleBetFair betFair;
 	private ActionListener guiListener;
 	
 	private JTextField usernameEntry;
@@ -46,7 +47,7 @@ public class LoginView
 	 */
 	public LoginView()
 	{	
-		betFair = new BetFairCore();
+		betFair = new SimpleBetFairCore(false);
 		guiListener = new LoginController(betFair, this);
 		guiFrame = new JFrame(frameTitle);
 		guiFrame.setResizable(false);

@@ -8,19 +8,19 @@ public class ProgramOptions
 	private String programOption;
 	private int eventId;
 	private List<Integer> marketIds;
-	private IBetFairCore betFair;
+	private ISimpleBetFair betFair;
 	
 	public ProgramOptions()
 	{
 		marketIds = new ArrayList<Integer>();
 	}
 
-	public void addBetFair(IBetFairCore betFair)
+	public void addBetFair(ISimpleBetFair betFair)
 	{
 		this.betFair = betFair;
 	}
 	
-	public IBetFairCore getBetFair()
+	public ISimpleBetFair getBetFair()
 	{
 		return this.betFair;
 	}

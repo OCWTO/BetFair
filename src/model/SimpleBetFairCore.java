@@ -59,23 +59,21 @@ public class SimpleBetFairCore implements ISimpleBetFair
 	 * @return List of Strings where each index represents a sport that BetFair supports betting on.
 	 * The returned String is of the format {sportname,BetFair} sport id. 
 	 */
-	public List<String> getSupportedSportList()
+	public List<BetFairSportObject> getSupportedSportList()
 	{
 		List<EventTypeResult> sportList = betFair
 				.listEventTypes(new MarketFilter());
-		System.out.println(sportList == null);
 		sportList.sort(new EventTypeResultComparator());
 
-		List<String> readableOutput = new ArrayList<String>();
+		List<BetFairSportObject> formattedSportList = new ArrayList<BetFairSportObject>();
 
 		for (int i = 0; i < sportList.size(); i++)
 		{
-			readableOutput.add(new String(i + " "
-					+ sportList.get(i).getEventType().getName() + ". ID: "
-					+ sportList.get(i).getEventType().getId()));
+			formattedSportList.add(new BetFairSportObject(sportList.get(i).getEventType().getName(),
+					sportList.get(i).getEventType().getId()));
 		}
 
-		return readableOutput;
+		return formattedSportList;
 	}
 
 	/**
@@ -119,6 +117,11 @@ public class SimpleBetFairCore implements ISimpleBetFair
 		}
 
 		return formattedMarketList;
+	}
+	
+	public void setDebug(boolean debugValue)
+	{
+		betFair.setDebug(debugValue);
 	}
 
 	/**
