@@ -1,10 +1,8 @@
-/Exceptions/
-/Tests/
-/betfairUtils/
-/controllers/
-/model/
-/views/
 /betFairGSONClasses/
 /enums/
+/betfairUtils/
 /exceptions/
+/views/
+/model/
 /tests/
+/controllers/

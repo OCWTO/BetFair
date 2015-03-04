@@ -23,7 +23,7 @@ public class Main
 {
 	//TODO test out marketprojection? parameters to see if the maps are necessary, see what data is available whilst getting market books
 	//TODO design gui
-	public static void main(String[] args)
+	public static void main2(String[] args)
 	{
 		BetFairCore core = new BetFairCore(true);
 		core.login("0ocwto0", "2014Project", "project");
@@ -42,11 +42,11 @@ public class Main
 
 	//TODO check that theres a v in the name, to filter out league wide markets I don't care about.
 	//print out names are in home vs away, not too relevant but maybe display it in gui
-	public static void main2(String[] args)
+	public static void main(String[] args)
 	{
 		TextFrontEnd textUi = new TextFrontEnd(false);
-		//textUi.start();
-		System.out.println(MarketProjection.COMPETITION);
+		textUi.start();
+//		System.out.println(MarketProjection.COMPETITION);
 		
 //		BetFairCore core = new BetFairCore(true);
 //		try

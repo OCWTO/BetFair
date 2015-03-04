@@ -134,6 +134,8 @@ public class TextFrontEnd
 	 * @param sportId
 	 * @return
 	 */
+	//TODO filter out general markets, look only for those with v, check first 10 
+	//if first 10 have it then next10 etc or change 10 for x
 	private String gamePrompt(String sportId)
 	{
 		String inputLine;
