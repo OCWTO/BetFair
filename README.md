@@ -11,4 +11,4 @@ TODO
   Design program model
   Look at image creation for model
   Collect more game data
-  Research markov chains
+  Research markov chainasls

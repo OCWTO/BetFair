@@ -3,40 +3,33 @@ package controllers;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import javax.swing.JCheckBox;
 import javax.swing.JOptionPane;
 
-import exceptions.CryptoException;
-import betFairGSONClasses.LoginResponse;
-import views.LoginView;
-import views.SportSelectView;
-import model.BetFairCore;
 import model.ISimpleBetFair;
 import model.ProgramOptions;
+import model.SimpleBetFairCore;
+import views.BetFairView;
+import views.LoginView;
+import views.SportSelectView;
+import exceptions.BadLoginDetailsException;
+import exceptions.CryptoException;
 
 public class LoginController implements ActionListener
 {
 	private ISimpleBetFair betFair;
-	private LoginView view;
-	private SportSelectView nextView;
+	private BetFairView view;
 	private ProgramOptions options;
-	private boolean debug;
-	private boolean collect;
 	
 	/**
 	 * 
 	 * @param betFair2
 	 * @param loginView
 	 */
-	public LoginController(ISimpleBetFair betFair2, LoginView loginView)
+	public LoginController(LoginView loginView)
 	{
-		this.betFair = betFair2;
-		this.view = loginView;
-		debug = false;
-		collect = false;
-		options = new ProgramOptions();
-		options.addBetFair(betFair2);
-		options.setProgramOption("collect:" + collect);
+		betFair = new SimpleBetFairCore(false);
+		view = loginView;
+		//options = view.getOptions();
 	}
 
 	/**
@@ -49,67 +42,32 @@ public class LoginController implements ActionListener
 		{
 			loginPress();
 		}
-		else if(e.getActionCommand().equalsIgnoreCase("debug mode"))
-		{
-			debugPress((JCheckBox) e.getSource());
-		}
-		else if(e.getActionCommand().equalsIgnoreCase("collection mode"))
-		{
-			collectPress((JCheckBox) e.getSource());
-		}
 	}
 	
 	private void loginPress()
 	{
-		String[] vals = view.getValues();
+		options = view.getOptions();
+		betFair = options.getBetFair();
+
 		try
 		{
-			betFair.setDebug(debug);
-			String response = betFair.login(vals[0], vals[1], vals[2]);
-			
-			//Valid login so view changes based on settings
+			betFair.setDebug(options.getDebugMode());
+			String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword());
+
 			if(response.equalsIgnoreCase("success"))
 			{	
-				//Special transition to collection mode
-				if(collect)
-				{
-					System.out.println("transition to collection mode!");
-				}
-				else
-				{
 					view.closeView();
-					nextView = new SportSelectView(options);
-				}
+					BetFairView nextView = new SportSelectView(options);
 			}
+			//Anything other than success should throw an exception which is caught below.
 		} 
-		//Bad details passed in
-		catch (CryptoException e)
+		catch (CryptoException badCertPasswordException)
 		{
-			JOptionPane.showMessageDialog(view.getFrame(), e.getMessage());
+			JOptionPane.showMessageDialog(view.getFrame(), badCertPasswordException.getMessage());
 		}
-	}
-	
-	private void debugPress(JCheckBox active)
-	{
-		if(active.isSelected())
+		catch(BadLoginDetailsException badDetailsException)
 		{
-			debug = true;
-		}
-		else
-		{
-			debug = false;
-		}
-	}
-	
-	private void collectPress(JCheckBox active)
-	{		
-		if(active.isSelected())
-		{
-			collect = true;
-		}
-		else
-		{
-			collect = false;
+			JOptionPane.showMessageDialog(view.getFrame(), badDetailsException.getMessage());
 		}
 	}
 }

@@ -2,21 +2,17 @@ package views;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.Container;
 import java.awt.Dimension;
-import java.awt.Toolkit;
-import java.awt.event.ActionListener;
 
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JCheckBox;
-import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-import model.ISimpleBetFair;
+import model.ProgramOptions;
 import model.SimpleBetFairCore;
 import controllers.LoginController;
 
@@ -26,71 +22,28 @@ import controllers.LoginController;
  *
  */
 //TODO add option to put in cert files
-public class LoginView
-{
-	private JFrame guiFrame;
-	private Container mainFrame;
-	
-	private final int xSize = 250;
-	private final int ySize = 450;
-	
-	private final String frameTitle = "BetFair Login";
-	
-	private ISimpleBetFair betFair;
-	private ActionListener guiListener;
+public class LoginView extends BetFairView
+{	
+	private static final int xSize = 250;
+	private static final int ySize = 450;
+	private static final String frameTitle = "BetFair Login";
 	
 	private JTextField usernameEntry;
 	private JPasswordField passwordEntry;
 	private JPasswordField filePasswordEntry;
-	
+	private JCheckBox debugCheckBox;
+	private JCheckBox collectionCheckBox;
 	/**
 	 * 
 	 */
-	public LoginView()
+	public LoginView(ProgramOptions options)
 	{	
-		betFair = new SimpleBetFairCore(false);
-		guiListener = new LoginController(betFair, this);
-		guiFrame = new JFrame(frameTitle);
-		guiFrame.setResizable(false);
-		mainFrame = guiFrame.getContentPane();
-		mainFrame.setLayout(new BoxLayout(guiFrame.getContentPane(), BoxLayout.Y_AXIS));
-		guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		super(frameTitle, options, null);
+		mainFrame.setLayout(new BoxLayout(mainFrame, BoxLayout.Y_AXIS));
+		super.setSize(new Dimension(xSize, ySize));
+		super.viewListener = new LoginController(this);
 		
-		setupPanels();
-		addMenus();
-		centreFrame();
-		
-		guiFrame.setVisible(true);	
-	}
-	
-	public void closeView()
-	{
-		guiFrame.setVisible(false);
-		guiFrame.dispose();
-	}
-	
-	public String[] getValues()
-	{
-		String[] usernameAndPass = new String[3];
-		usernameAndPass[0] = usernameEntry.getText();
-		usernameAndPass[1] = new String(passwordEntry.getPassword());
-		usernameAndPass[2] = new String(filePasswordEntry.getPassword());
-		return usernameAndPass;
-	}
-	
-	public JFrame getFrame()
-	{
-		return guiFrame;
-	}
-	
-	/**
-	 * 
-	 */
-	private void setupPanels()
-	{
-		setupLogoPanel();
-		setupDetailsPanel();
-		setupOptionsPanel();
+		setupAndDisplay();
 	}
 	
 	/**
@@ -114,7 +67,7 @@ public class LoginView
 		JPanel userNamePanel = new JPanel();
 		JLabel userNameField = new JLabel("Username:");
 		usernameEntry = new JTextField();
-		usernameEntry.addActionListener(guiListener);
+		usernameEntry.addActionListener(viewListener);
 		usernameEntry.setText("USERNAME");
 		userNamePanel.add(userNameField, BorderLayout.EAST);
 		userNamePanel.add(usernameEntry, BorderLayout.WEST);
@@ -150,46 +103,54 @@ public class LoginView
 		JPanel optionsPanel = new JPanel();
 		optionsPanel.setLayout(new BoxLayout(optionsPanel, BoxLayout.Y_AXIS));
 		JPanel debugPanel = new JPanel();
-		JCheckBox debugCheckBox = new JCheckBox("Debug mode");
-		debugCheckBox.addActionListener(guiListener);
+		debugCheckBox = new JCheckBox("Debug mode");
+		debugCheckBox.addActionListener(viewListener);
 		debugPanel.add(debugCheckBox, BorderLayout.EAST);
 		optionsPanel.add(debugPanel);
 		
 		JPanel collectionPanel = new JPanel();
-		JCheckBox collectionCheckBox = new JCheckBox("Collection mode");
-		collectionCheckBox.addActionListener(guiListener);
+		collectionCheckBox = new JCheckBox("Collection mode");
+		collectionCheckBox.addActionListener(viewListener);
 		collectionPanel.add(collectionCheckBox, BorderLayout.EAST);
 		optionsPanel.add(collectionPanel);
 		
 		JButton loginButton = new JButton("Login");
-		loginButton.addActionListener(guiListener);
+		loginButton.addActionListener(viewListener);
 		
 		mainFrame.add(optionsPanel);
 		mainFrame.add(loginButton);
 	}
 	
-	/**
-	 * 
-	 */
-	private void addMenus()
-	{
-		//File->exit, File->About, Help->?? user guide?
-	}
-	
-	
-	/**
-	 * 
-	 */
-	private void centreFrame()
-	{
-		Dimension screenDims = Toolkit.getDefaultToolkit().getScreenSize();
-		guiFrame.setBounds((int) screenDims.getWidth() / 2 - (xSize / 2),
-						(int) screenDims.getHeight() / 2 - (ySize / 2), xSize, ySize);
-	}
-	
 	public static void main(String[] args)
 	{
 		@SuppressWarnings("unused")
-		LoginView gui = new LoginView();
+		LoginView gui = new LoginView(new ProgramOptions());
+	}
+
+	@Override
+	void setupPanels()
+	{
+		setupLogoPanel();
+		setupDetailsPanel();
+		setupOptionsPanel();
+	}
+
+	@Override
+	void addMenus()
+	{
+		//File->exit, File->About, Help->?? user guide?
+	}
+
+	@Override
+	public ProgramOptions getOptions()
+	{
+		System.out.println("called here");
+		ProgramOptions currentOptions = new ProgramOptions();
+		currentOptions.setCollectionMode(collectionCheckBox.isSelected());
+		currentOptions.setDebugMode(collectionCheckBox.isSelected());
+		currentOptions.addBetFair(new SimpleBetFairCore(currentOptions.getDebugMode()));
+		System.out.println("giving  " + usernameEntry.getText() + " " +  new String(passwordEntry.getPassword()) + " " + new String(filePasswordEntry.getPassword()));
+		currentOptions.setUserDetails(usernameEntry.getText(), new String(passwordEntry.getPassword()), new String(filePasswordEntry.getPassword()));
+		return currentOptions;
 	}
 }
