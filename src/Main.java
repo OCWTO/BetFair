@@ -23,6 +23,10 @@ public class Main
 {
 	//TODO test out marketprojection? parameters to see if the maps are necessary, see what data is available whilst getting market books
 	//TODO design gui
+	//TODO record all markets at every tick and their pricematched
+	
+	//TODO record all json object requests so reflection testing can be done later
+	
 	public static void main2(String[] args)
 	{
 		BetFairCore core = new BetFairCore(true);
