@@ -3,13 +3,15 @@ package controllers;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import model.BetFairCore;
+import javax.swing.JOptionPane;
+
 import model.ProgramOptions;
+import views.BetFairView;
+import views.MarketSelectView;
 import views.SportSelectView;
 
 public class SportSelectController implements ActionListener
 {
-	private BetFairCore betFair;
 	private SportSelectView view;
 	private ProgramOptions options;
 	
@@ -22,6 +24,27 @@ public class SportSelectController implements ActionListener
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
+		options = view.getOptions();
+		
+		if(e.getActionCommand().equals("next"))
+		{
+			if(options.getEventId() != null)
+			{
+				view.closeView();
+				BetFairView marketSelectView = new MarketSelectView(options);
+			}	
+			else
+				JOptionPane.showMessageDialog(view.getFrame(), "Please select a sport");
+				
+		}
+		else if(e.getActionCommand().equals("back"))
+		{
+			System.out.println("b");
+		}
+		else
+		{
+			System.out.println(e.getActionCommand());
+		}
 		//get selected sport from the option list, add tha tto the options...
 		//create new view and pass it in options
 			

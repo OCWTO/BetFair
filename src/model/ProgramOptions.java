@@ -6,7 +6,7 @@ import java.util.List;
 public class ProgramOptions
 {
 	private String programOption;
-	private int eventId;
+	private String eventId;
 	private List<Integer> marketIds;
 	private ISimpleBetFair betFair;
 	private boolean debugMode;
@@ -73,12 +73,12 @@ public class ProgramOptions
 		return this.betFair;
 	}
 	
-	public int getEventId()
+	public String getEventId()
 	{
 		return this.eventId;
 	}
 
-	public void setEventId(int option)
+	public void setEventId(String option)
 	{
 		this.eventId = option;
 	}

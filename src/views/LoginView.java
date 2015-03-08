@@ -39,7 +39,6 @@ public class LoginView extends BetFairView
 	public LoginView(ProgramOptions options)
 	{	
 		super(frameTitle, options, null);
-		mainFrame.setLayout(new BoxLayout(mainFrame, BoxLayout.Y_AXIS));
 		super.setSize(new Dimension(xSize, ySize));
 		super.viewListener = new LoginController(this);
 		
@@ -53,7 +52,7 @@ public class LoginView extends BetFairView
 	{
 		JPanel logoPanel = new JPanel();
 		logoPanel.setBackground(Color.RED);
-		mainFrame.add(logoPanel);
+		mainContainer.add(logoPanel);
 	}
 	
 	/**
@@ -68,7 +67,7 @@ public class LoginView extends BetFairView
 		JLabel userNameField = new JLabel("Username:");
 		usernameEntry = new JTextField();
 		usernameEntry.addActionListener(viewListener);
-		usernameEntry.setText("USERNAME");
+		usernameEntry.setText("0ocwto0");
 		userNamePanel.add(userNameField, BorderLayout.EAST);
 		userNamePanel.add(usernameEntry, BorderLayout.WEST);
 		loginPanel.add(userNamePanel);
@@ -77,7 +76,7 @@ public class LoginView extends BetFairView
 		JPanel passwordPanel = new JPanel();
 		JLabel PasswordField = new JLabel("Password:");
 		passwordEntry = new JPasswordField();
-		passwordEntry.setText("PASSWORD");
+		passwordEntry.setText("2014Project");
 		passwordPanel.add(PasswordField, BorderLayout.EAST);
 		passwordPanel.add(passwordEntry, BorderLayout.WEST);
 		loginPanel.add(passwordPanel);
@@ -86,13 +85,13 @@ public class LoginView extends BetFairView
 		JPanel filePasswordPanel = new JPanel();
 		JLabel filePasswordField = new JLabel("Password:");
 		filePasswordEntry = new JPasswordField();
-		filePasswordEntry.setText("File password");
+		filePasswordEntry.setText("project");
 		filePasswordPanel.add(filePasswordField, BorderLayout.EAST);
 		filePasswordPanel.add(filePasswordEntry, BorderLayout.WEST);
 		loginPanel.add(filePasswordPanel);
 		
 		//Add to main panel
-		mainFrame.add(loginPanel);
+		mainContainer.add(loginPanel);
 	}
 	
 	/**
@@ -117,8 +116,8 @@ public class LoginView extends BetFairView
 		JButton loginButton = new JButton("Login");
 		loginButton.addActionListener(viewListener);
 		
-		mainFrame.add(optionsPanel);
-		mainFrame.add(loginButton);
+		mainContainer.add(optionsPanel);
+		mainContainer.add(loginButton);
 	}
 	
 	public static void main(String[] args)

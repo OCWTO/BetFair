@@ -571,6 +571,11 @@ public class GameRecorder extends TimerTask
 		}
 	}
 	
+	private void storeJSONReplyString()
+	{
+		
+	}
+	
 	/**
 	 * Store the amount of money matched for each market in the game
 	 */

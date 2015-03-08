@@ -5,6 +5,7 @@ import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.awt.event.ActionListener;
 
+import javax.swing.BoxLayout;
 import javax.swing.JFrame;
 
 import model.ISimpleBetFair;
@@ -19,7 +20,7 @@ import model.ProgramOptions;
 public abstract class BetFairView
 {
 	private JFrame guiFrame;
-	protected Container mainFrame;
+	protected Container mainContainer;
 	protected ActionListener viewListener;
 	private double xSize = 900;
 	private double ySize = 600;
@@ -33,7 +34,8 @@ public abstract class BetFairView
 		betFair = programOptions.getBetFair();
 		guiFrame = new JFrame(title);
 		guiFrame.setResizable(false);
-		mainFrame = guiFrame.getContentPane();
+		mainContainer = guiFrame.getContentPane();
+		mainContainer.setLayout(new BoxLayout(mainContainer, BoxLayout.Y_AXIS));
 		guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 	
