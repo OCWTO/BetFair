@@ -74,7 +74,7 @@ public class BetFairCore implements IBetFairCore
 	@SuppressWarnings("unused")
 	private static final String delayedAppKey = "scQ6H11vdb6C4s7t";
 	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a";
-	
+
 	// Created on log in, required for all other calls.
 	private String sessionToken;
 
@@ -126,8 +126,7 @@ public class BetFairCore implements IBetFairCore
 	 *             If filePassword cannot successfully decrypt the certificate
 	 *             file.
 	 */
-	public LoginResponse login(String username, String password,
-			String filePassword)
+	public LoginResponse login(String username, String password, String filePassword)
 	{
 		LoginResponse responseObject = new LoginResponse();
 		HttpClient httpClient = null;
@@ -136,33 +135,28 @@ public class BetFairCore implements IBetFairCore
 
 		try
 		{
-			//TODO add unix support here
-			KeyManager[] keyManagers = getKeyManagers("pkcs12",
-					new FileInputStream(new File(directoryPrefix
-							+ "/certs/client-2048.p12")), filePassword);
+			// TODO add unix support here
+			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")),
+					filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
 
 			sslContext.init(keyManagers, null, new SecureRandom());
 
 			HttpClientBuilder builder = HttpClientBuilder.create();
-			SSLConnectionSocketFactory sslConnectionFactory = new SSLConnectionSocketFactory(
-					sslContext, new StrictHostnameVerifier());
+			SSLConnectionSocketFactory sslConnectionFactory = new SSLConnectionSocketFactory(sslContext, new StrictHostnameVerifier());
 			builder.setSSLSocketFactory(sslConnectionFactory);
 
-			Registry<ConnectionSocketFactory> registry = RegistryBuilder
-					.<ConnectionSocketFactory> create()
-					.register("https", sslConnectionFactory).build();
+			Registry<ConnectionSocketFactory> registry = RegistryBuilder.<ConnectionSocketFactory> create().register("https", sslConnectionFactory)
+					.build();
 
-			HttpClientConnectionManager ccm = new BasicHttpClientConnectionManager(
-					registry);
+			HttpClientConnectionManager ccm = new BasicHttpClientConnectionManager(registry);
 
 			builder.setConnectionManager(ccm);
 
 			httpClient = builder.build();
 
 			// Making a post object
-			HttpPost httpPost = new HttpPost(
-					"https://identitysso.betfair.com/api/certlogin");
+			HttpPost httpPost = new HttpPost("https://identitysso.betfair.com/api/certlogin");
 
 			List<NameValuePair> credentialsParameters = new ArrayList<NameValuePair>();
 			credentialsParameters.add(new BasicNameValuePair("username", username));
@@ -172,11 +166,10 @@ public class BetFairCore implements IBetFairCore
 
 			httpPost.setHeader("X-Application", "appkey");
 
-			//Not using HttpUtil so need a separate debug check here.
+			// Not using HttpUtil so need a separate debug check here.
 			if (debug)
 				System.out.println("Request: " + httpPost.getRequestLine());
-			
-			
+
 			// Execute
 			HttpResponse response = httpClient.execute(httpPost);
 			HttpEntity entity = response.getEntity();
@@ -185,26 +178,20 @@ public class BetFairCore implements IBetFairCore
 
 			if (debug)
 				System.out.println("Response:" + responseObject.toString());
-			
 
-			if(responseObject.getSessionToken() == null)
+			if (responseObject.getSessionToken() == null)
 				throw new BadLoginDetailsException(responseObject.getLoginStatus());
-			
+
 			sessionToken = responseObject.getSessionToken();
-		}
-		catch (Throwable e)
+		} catch (Throwable e)
 		{
-			if(e.getMessage().equals(BetFairLogin.BADLOGINDETAILS.toString()))
+			if (e.getMessage().equals(BetFairLogin.BADLOGINDETAILS.toString()))
 			{
 				throw new BadLoginDetailsException(e.getMessage());
-			}
-			else if (e.getCause().getClass().toString()
-					.contains("BadPaddingException"))
+			} else if (e.getCause().getClass().toString().contains("BadPaddingException"))
 			{
-				throw new CryptoException("Issue with given file/password. "
-						+ e.getMessage());
-			}
-			else
+				throw new CryptoException("Issue with given file/password. " + e.getMessage());
+			} else
 			{
 				e.printStackTrace();
 			}
@@ -212,12 +199,10 @@ public class BetFairCore implements IBetFairCore
 		return responseObject;
 	}
 
-	protected String makeRequest(String operation, Map<String, Object> params,
-			String appKey, String ssoToken) throws NotLoggedInException
+	protected String makeRequest(String operation, Map<String, Object> params, String appKey, String ssoToken) throws NotLoggedInException
 	{
 		if (sessionToken == null)
-			throw new NotLoggedInException(
-					"You must be logged in to call makeRequest");
+			throw new NotLoggedInException("You must be logged in to call makeRequest");
 
 		String requestString;
 		// Handling the JSON-RPC request
@@ -234,8 +219,7 @@ public class BetFairCore implements IBetFairCore
 		// We need to pass the "sendPostRequest" method a string in util format:
 		// requestString
 
-		String response = httpRequester.sendPostRequestJsonRpc(requestString,
-				operation, appKey, sessionToken);
+		String response = httpRequester.sendPostRequestJsonRpc(requestString, operation, appKey, sessionToken);
 		if (debug)
 			System.out.println("\nResponse: " + response);
 		return response;
@@ -289,8 +273,7 @@ public class BetFairCore implements IBetFairCore
 	{
 		Map<String, Object> parameters = new HashMap<String, Object>();
 		parameters.put(BetFairParams.FILTER.toString(), filter);
-		parameters
-				.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
+		parameters.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
 		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), null);// marketprojection
 																			// used
 																			// to
@@ -301,26 +284,21 @@ public class BetFairCore implements IBetFairCore
 
 		try
 		{
-			jsonResultLine = makeRequest(ApingOperation.LISTEVENTS.toString(),
-					parameters, liveAppKey, sessionToken);
-		}
-		catch (NotLoggedInException notLoggedIn)
+			jsonResultLine = makeRequest(ApingOperation.LISTEVENTS.toString(), parameters, liveAppKey, sessionToken);
+		} catch (NotLoggedInException notLoggedIn)
 		{
 			notLoggedIn.printStackTrace();
 		}
 
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
-				jsonResultLine, ListMarketCatalogueContainer.class);
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketCatalogueContainer.class);
 
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
 
 		return container.getResult();
 	}
-	
 
-	public List<MarketBook> listMarketBook(List<String> marketIds,
-			PriceProjection priceProjection, OrderProjection orderProjection)
+	public List<MarketBook> listMarketBook(List<String> marketIds, PriceProjection priceProjection, OrderProjection orderProjection)
 	{
 		Map<String, Object> params = new HashMap<String, Object>();
 		params.put(BetFairParams.MARKET_IDS.toString(), marketIds);
@@ -331,17 +309,13 @@ public class BetFairCore implements IBetFairCore
 		String jsonResultLine = null;
 		try
 		{
-			jsonResultLine = makeRequest(
-					ApingOperation.LISTMARKETBOOK.toString(), params,
-					liveAppKey, sessionToken);
-		}
-		catch (NotLoggedInException e)
+			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, liveAppKey, sessionToken);
+		} catch (NotLoggedInException e)
 		{
 			e.printStackTrace();
 		}
 
-		ListMarketBooksContainer container = JsonConverter.convertFromJson(
-				jsonResultLine, ListMarketBooksContainer.class);
+		ListMarketBooksContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketBooksContainer.class);
 
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
@@ -357,31 +331,24 @@ public class BetFairCore implements IBetFairCore
 	 * @param maxResults
 	 * @return
 	 */
-	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
-			Set<MarketProjection> marketProjection, MarketSort sort,
-			String maxResults)
+	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResults)
 	{
 		Map<String, Object> parameters = new HashMap<String, Object>();
 		parameters.put(BetFairParams.FILTER.toString(), filter);
 		parameters.put(BetFairParams.SORT.toString(), sort);
 		parameters.put(BetFairParams.MAX_RESULT.toString(), maxResults);
-		parameters.put(BetFairParams.MARKET_PROJECTION.toString(),
-				marketProjection);
+		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), marketProjection);
 
 		String jsonResultLine = null;
 		try
 		{
-			jsonResultLine = makeRequest(
-					ApingOperation.LISTMARKETCATALOGUE.toString(), parameters,
-					liveAppKey, sessionToken);
-		}
-		catch (NotLoggedInException e)
+			jsonResultLine = makeRequest(ApingOperation.LISTMARKETCATALOGUE.toString(), parameters, liveAppKey, sessionToken);
+		} catch (NotLoggedInException e)
 		{
 			e.printStackTrace();
 		}
 
-		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(
-				jsonResultLine, ListMarketCatalogueContainer.class);
+		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketCatalogueContainer.class);
 
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
@@ -412,8 +379,7 @@ public class BetFairCore implements IBetFairCore
 		marketProjection.addAll(projections);
 		String maxResults = "1000";
 
-		return listMarketCatalogue(marketFilter, marketProjection,
-				MarketSort.FIRST_TO_START, maxResults);
+		return listMarketCatalogue(marketFilter, marketProjection, MarketSort.FIRST_TO_START, maxResults);
 	}
 
 	/**
@@ -456,17 +422,13 @@ public class BetFairCore implements IBetFairCore
 		String jsonResultLine = null;
 		try
 		{
-			jsonResultLine = makeRequest(
-					ApingOperation.LISTEVENTTYPES.toString(), parameters,
-					liveAppKey, sessionToken);
-		}
-		catch (NotLoggedInException e)
+			jsonResultLine = makeRequest(ApingOperation.LISTEVENTTYPES.toString(), parameters, liveAppKey, sessionToken);
+		} catch (NotLoggedInException e)
 		{
 			e.printStackTrace();
 		}
 
-		EventTypeResultContainer container = JsonConverter.convertFromJson(
-				jsonResultLine, EventTypeResultContainer.class);
+		EventTypeResultContainer container = JsonConverter.convertFromJson(jsonResultLine, EventTypeResultContainer.class);
 
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
@@ -482,13 +444,11 @@ public class BetFairCore implements IBetFairCore
 	 * @return
 	 * @throws Exception
 	 */
-	private KeyManager[] getKeyManagers(String keyStoreType,
-			InputStream keyStoreFile, String keyStorePassword) throws Exception
+	private KeyManager[] getKeyManagers(String keyStoreType, InputStream keyStoreFile, String keyStorePassword) throws Exception
 	{
 		KeyStore keyStore = KeyStore.getInstance(keyStoreType);
 		keyStore.load(keyStoreFile, keyStorePassword.toCharArray());
-		KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory
-				.getDefaultAlgorithm());
+		KeyManagerFactory kmf = KeyManagerFactory.getInstance(KeyManagerFactory.getDefaultAlgorithm());
 		kmf.init(keyStore, keyStorePassword.toCharArray());
 		return kmf.getKeyManagers();
 	}
@@ -504,11 +464,9 @@ public class BetFairCore implements IBetFairCore
 		debug = state;
 	}
 
-
 	@Override
-	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter,
-			Set<MarketProjection> marketProjection, MarketSort sort,
-			int maxResults, String locale)
+	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, int maxResults,
+			String locale)
 	{
 		return null;
 	}

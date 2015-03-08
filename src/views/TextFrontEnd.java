@@ -7,6 +7,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.Timer;
 
+import model.BetFairGameObject;
 import model.BetFairSportObject;
 import model.GameRecorder;
 import model.SimpleBetFairCore;
@@ -140,13 +141,13 @@ public class TextFrontEnd
 	{
 		String inputLine;
 		String[] inputTokens;
-		List<String> gameList = betFair.getGameListForSport(sportId);
-		String[] selectedGameTokens;
+		List<BetFairGameObject> gameList = betFair.getGameListForSport(sportId);
+		BetFairGameObject selectedGame;
 
 		System.out.println("GAME LIST");
 		for (int i = 0; i < gameList.size(); i++)
 		{
-			System.out.println("NO: " + gameList.get(i)); // instead of another
+			System.out.println("NO: " + i + " " + gameList.get(i)); // instead of another
 															// for i'm just
 															// printing data too
 		}
@@ -159,11 +160,9 @@ public class TextFrontEnd
 			inputTokens = inputLine.split(" ");
 			if (inputTokens.length == 2)
 			{
-				selectedGameTokens = gameList.get(
-						Integer.parseInt(inputTokens[inputTokens.length - 1]))
-						.split(",");
-				System.out.println("Selected game: " + selectedGameTokens[1]);
-				return selectedGameTokens[selectedGameTokens.length - 1];
+				selectedGame = gameList.get(Integer.parseInt(inputTokens[inputTokens.length - 1]));
+				System.out.println("Selected game: " + selectedGame.getName());
+				return selectedGame.getId();
 			}
 			else
 				System.out.println("Invalid number of tokens. Try again!");

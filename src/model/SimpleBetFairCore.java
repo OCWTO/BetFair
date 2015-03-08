@@ -3,7 +3,6 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-import betFairGSONClasses.Event;
 import betFairGSONClasses.EventTypeResult;
 import betFairGSONClasses.LoginResponse;
 import betFairGSONClasses.MarketBook;
@@ -83,18 +82,16 @@ public class SimpleBetFairCore implements ISimpleBetFair
 	 * @return A list of strings representing the games returned. The returned strings are in the
 	 * format of {gamename, gameid}
 	 */
-	public List<String> getGameListForSport(String id)
+	public List<BetFairGameObject> getGameListForSport(String id)
 	{
 		List<MarketCatalogue> gameList = betFair.getGames(id);
 		gameList.sort(new MarketCatalogueEventOpenDateComparator());
-		List<String> formattedGameList = new ArrayList<String>();
+		List<BetFairGameObject> formattedGameList = new ArrayList<BetFairGameObject>();
 		
-		Event actualEvent;
-		
-		for(int i=0;i<gameList.size();i++)
+
+		for(int i=0; i < gameList.size();i++)
 		{
-			actualEvent = gameList.get(i).getEvent();
-			formattedGameList.add(i + "," + actualEvent.getName() + "," + actualEvent.getOpenDate()  + "," +  actualEvent.getId());
+			formattedGameList.add(new BetFairGameObject(gameList.get(i).getEvent()));
 		}
 		return formattedGameList;
 	}

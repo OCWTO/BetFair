@@ -7,6 +7,7 @@ import javax.swing.JOptionPane;
 
 import model.ProgramOptions;
 import views.BetFairView;
+import views.GameSelectView;
 import views.MarketSelectView;
 import views.SportSelectView;
 
@@ -28,10 +29,10 @@ public class SportSelectController implements ActionListener
 		
 		if(e.getActionCommand().equals("next"))
 		{
-			if(options.getEventId() != null)
+			if(options.getEventTypeId() != null)
 			{
 				view.closeView();
-				BetFairView marketSelectView = new MarketSelectView(options);
+				BetFairView marketSelectView = new GameSelectView(options);
 			}	
 			else
 				JOptionPane.showMessageDialog(view.getFrame(), "Please select a sport");

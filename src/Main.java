@@ -12,6 +12,7 @@ import betFairGSONClasses.MarketCatalogue;
 import betFairGSONClasses.MarketFilter;
 import betfairUtils.EventTypeResultComparator;
 import model.BetFairCore;
+import model.SimpleBetFairCore;
 import model.SimpleGameRecorder;
 
 /**
@@ -50,15 +51,20 @@ public class Main
 	{
 		TextFrontEnd textUi = new TextFrontEnd(false);
 		textUi.start();
+		
+		
+		
 //		System.out.println(MarketProjection.COMPETITION);
 		
-//		BetFairCore core = new BetFairCore(true);
+		//SimpleBetFairCore core = new SimpleBetFairCore(true);
 //		try
 //		{
-//			core.login("0ocwto0", "2014Project", "project");
+			//core.login("0ocwto0", "2014Project", "project");
 //			try
 //			{
-//				core.getGames("1");
+			//core.getSupportedSportList();
+			//core.getGameListForSport("1");
+				//core.getGames("1");
 //				
 //				//Roma vs feyenoord 6pm tomorrow
 //				core.getMarketCatalogue("27327273");

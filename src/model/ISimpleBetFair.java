@@ -24,7 +24,7 @@ public interface ISimpleBetFair
 	 * @param sportId
 	 * @return
 	 */
-	public List<String> getGameListForSport(String sportId);
+	public List<BetFairGameObject> getGameListForSport(String sportId);
 	
 	/**
 	 * Gets the list of games availble

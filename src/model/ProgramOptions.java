@@ -6,6 +6,7 @@ import java.util.List;
 public class ProgramOptions
 {
 	private String programOption;
+	private String eventTypeId;
 	private String eventId;
 	private List<Integer> marketIds;
 	private ISimpleBetFair betFair;
@@ -73,11 +74,21 @@ public class ProgramOptions
 		return this.betFair;
 	}
 	
+	public String getEventTypeId()
+	{
+		return this.eventTypeId;
+	}
+
+	public void setEventTypeId(String option)
+	{
+		this.eventTypeId = option;
+	}
+	
 	public String getEventId()
 	{
 		return this.eventId;
 	}
-
+	
 	public void setEventId(String option)
 	{
 		this.eventId = option;

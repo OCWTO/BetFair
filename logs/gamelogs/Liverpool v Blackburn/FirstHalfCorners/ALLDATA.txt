@@ -1,0 +1,2718 @@
+Liverpool v Blackburn_First Half Corners_1425830400000ENTRY: 1
+	TIME: 16:00:00.514
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:9.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 2
+	TIME: 16:00:05.372
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 3
+	TIME: 16:00:10.580
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 4
+	TIME: 16:00:15.379
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 5
+	TIME: 16:00:20.371
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 6
+	TIME: 16:00:25.385
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 7
+	TIME: 16:00:30.422
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 8
+	TIME: 16:00:35.387
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 9
+	TIME: 16:00:40.391
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 10
+	TIME: 16:00:45.384
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 11
+	TIME: 16:00:50.422
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 12
+	TIME: 16:00:55.424
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 13
+	TIME: 16:01:00.608
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 14
+	TIME: 16:01:05.509
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 15
+	TIME: 16:01:10.475
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 16
+	TIME: 16:01:15.451
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 17
+	TIME: 16:01:20.456
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 18
+	TIME: 16:01:25.494
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 19
+	TIME: 16:01:30.498
+		RUNNER: Under 4.5 Corners
+			BACK: (PRICE:2.32,SIZE:50.87)
+			BACK: (PRICE:2.3,SIZE:307.22)
+			BACK: (PRICE:2.28,SIZE:10.1)
+			LAY: (PRICE:3.3,SIZE:214.0)
+		RUNNER: Over 4.5 Corners
+			BACK: (PRICE:1.59,SIZE:4.91)
+			BACK: (PRICE:1.58,SIZE:70.83)
+			BACK: (PRICE:1.57,SIZE:444.0)
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 20
+	TIME: 16:01:35.507
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 21
+	TIME: 16:01:40.502
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 22
+	TIME: 16:01:45.494
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 23
+	TIME: 16:01:50.507
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 24
+	TIME: 16:01:55.504
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 25
+	TIME: 16:02:00.541
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 26
+	TIME: 16:02:05.604
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 27
+	TIME: 16:02:10.546
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 28
+	TIME: 16:02:15.675
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 29
+	TIME: 16:02:20.572
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 30
+	TIME: 16:02:25.629
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 31
+	TIME: 16:02:30.598
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 32
+	TIME: 16:02:35.590
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 33
+	TIME: 16:02:40.591
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 34
+	TIME: 16:02:45.601
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 35
+	TIME: 16:02:50.609
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 36
+	TIME: 16:02:55.655
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 37
+	TIME: 16:03:00.622
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 38
+	TIME: 16:03:05.684
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 39
+	TIME: 16:03:10.657
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 40
+	TIME: 16:03:15.661
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 41
+	TIME: 16:03:20.647
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 42
+	TIME: 16:03:25.635
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 43
+	TIME: 16:03:30.664
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 44
+	TIME: 16:03:35.681
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 45
+	TIME: 16:03:40.692
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 46
+	TIME: 16:03:45.684
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 47
+	TIME: 16:03:50.796
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 48
+	TIME: 16:03:55.711
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 49
+	TIME: 16:04:00.766
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 50
+	TIME: 16:04:05.727
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 51
+	TIME: 16:04:10.816
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 52
+	TIME: 16:04:15.756
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 53
+	TIME: 16:04:20.875
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 54
+	TIME: 16:04:25.757
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 55
+	TIME: 16:04:30.780
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 56
+	TIME: 16:04:35.803
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 57
+	TIME: 16:04:40.767
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 58
+	TIME: 16:04:45.800
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 59
+	TIME: 16:04:50.824
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 60
+	TIME: 16:04:55.824
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 61
+	TIME: 16:05:00.823
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 62
+	TIME: 16:05:07.162
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 63
+	TIME: 16:05:10.863
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 64
+	TIME: 16:05:15.835
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 65
+	TIME: 16:05:20.872
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 66
+	TIME: 16:05:25.844
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 67
+	TIME: 16:05:31.197
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 68
+	TIME: 16:05:35.931
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 69
+	TIME: 16:05:40.878
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+			LAY: (PRICE:1.65,SIZE:31.19)
+ENTRY: 70
+	TIME: 16:05:45.885
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 71
+	TIME: 16:05:50.909
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 72
+	TIME: 16:05:55.906
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 73
+	TIME: 16:06:00.918
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 74
+	TIME: 16:06:05.967
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 75
+	TIME: 16:06:10.932
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 76
+	TIME: 16:06:16.220
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 77
+	TIME: 16:06:20.991
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 78
+	TIME: 16:06:25.971
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 79
+	TIME: 16:06:30.950
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 80
+	TIME: 16:06:35.950
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 81
+	TIME: 16:06:40.970
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 82
+	TIME: 16:06:45.973
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 83
+	TIME: 16:06:50.989
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 84
+	TIME: 16:06:55.997
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 85
+	TIME: 16:07:01.017
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 86
+	TIME: 16:07:06.011
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 87
+	TIME: 16:07:11.022
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 88
+	TIME: 16:07:16.046
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 89
+	TIME: 16:07:21.054
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 90
+	TIME: 16:07:26.046
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 91
+	TIME: 16:07:31.061
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 92
+	TIME: 16:07:36.068
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 93
+	TIME: 16:07:41.226
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 94
+	TIME: 16:07:46.073
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 95
+	TIME: 16:07:51.123
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 96
+	TIME: 16:07:56.108
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 97
+	TIME: 16:08:01.087
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 98
+	TIME: 16:08:06.085
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 99
+	TIME: 16:08:11.103
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 100
+	TIME: 16:08:16.122
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 101
+	TIME: 16:08:21.117
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 102
+	TIME: 16:08:26.131
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 103
+	TIME: 16:08:31.140
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 104
+	TIME: 16:08:36.133
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 105
+	TIME: 16:08:41.150
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 106
+	TIME: 16:08:46.149
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 107
+	TIME: 16:08:51.142
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 108
+	TIME: 16:08:56.167
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 109
+	TIME: 16:09:01.166
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 110
+	TIME: 16:09:06.172
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 111
+	TIME: 16:09:11.176
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 112
+	TIME: 16:09:16.188
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 113
+	TIME: 16:09:21.208
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 114
+	TIME: 16:09:26.203
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 115
+	TIME: 16:09:31.198
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 116
+	TIME: 16:09:36.205
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 117
+	TIME: 16:09:41.222
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 118
+	TIME: 16:09:46.253
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 119
+	TIME: 16:09:51.249
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 120
+	TIME: 16:09:56.267
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 121
+	TIME: 16:10:01.295
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 122
+	TIME: 16:10:06.246
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 123
+	TIME: 16:10:11.322
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 124
+	TIME: 16:10:16.290
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 125
+	TIME: 16:10:21.298
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 126
+	TIME: 16:10:26.290
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 127
+	TIME: 16:10:31.296
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 128
+	TIME: 16:10:36.311
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 129
+	TIME: 16:10:41.359
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 130
+	TIME: 16:10:46.321
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 131
+	TIME: 16:10:51.375
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 132
+	TIME: 16:10:56.367
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 133
+	TIME: 16:11:01.355
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 134
+	TIME: 16:11:06.375
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 135
+	TIME: 16:11:11.412
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 136
+	TIME: 16:11:16.504
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 137
+	TIME: 16:11:21.389
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 138
+	TIME: 16:11:26.431
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 139
+	TIME: 16:11:31.408
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 140
+	TIME: 16:11:36.420
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 141
+	TIME: 16:11:41.418
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 142
+	TIME: 16:11:46.453
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 143
+	TIME: 16:11:51.480
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 144
+	TIME: 16:11:56.470
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 145
+	TIME: 16:12:01.476
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 146
+	TIME: 16:12:06.484
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 147
+	TIME: 16:12:11.466
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 148
+	TIME: 16:12:16.484
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 149
+	TIME: 16:12:21.557
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 150
+	TIME: 16:12:30.731
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 151
+	TIME: 16:12:33.576
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 152
+	TIME: 16:12:36.504
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 153
+	TIME: 16:12:41.568
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 154
+	TIME: 16:12:46.513
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 155
+	TIME: 16:12:51.573
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 156
+	TIME: 16:12:56.534
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 157
+	TIME: 16:13:01.561
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 158
+	TIME: 16:13:06.548
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 159
+	TIME: 16:13:11.552
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 160
+	TIME: 16:13:16.590
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 161
+	TIME: 16:13:21.568
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 162
+	TIME: 16:13:26.581
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 163
+	TIME: 16:13:31.593
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 164
+	TIME: 16:13:36.620
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 165
+	TIME: 16:13:41.605
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 166
+	TIME: 16:13:46.606
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 167
+	TIME: 16:13:51.624
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 168
+	TIME: 16:13:56.634
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 169
+	TIME: 16:14:01.613
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 170
+	TIME: 16:14:06.689
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 171
+	TIME: 16:14:11.636
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 172
+	TIME: 16:14:16.653
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 173
+	TIME: 16:14:21.662
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 174
+	TIME: 16:14:26.658
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 175
+	TIME: 16:14:31.703
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 176
+	TIME: 16:14:36.723
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 177
+	TIME: 16:14:41.682
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 178
+	TIME: 16:14:46.692
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 179
+	TIME: 16:14:51.748
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 180
+	TIME: 16:14:56.697
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 181
+	TIME: 16:15:01.714
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 182
+	TIME: 16:15:06.730
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 183
+	TIME: 16:15:11.752
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 184
+	TIME: 16:15:16.807
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 185
+	TIME: 16:15:21.766
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 186
+	TIME: 16:15:26.766
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 187
+	TIME: 16:15:31.763
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 188
+	TIME: 16:15:36.842
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 189
+	TIME: 16:15:41.786
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 190
+	TIME: 16:15:46.796
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 191
+	TIME: 16:15:51.812
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 192
+	TIME: 16:15:56.804
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 193
+	TIME: 16:16:01.810
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 194
+	TIME: 16:16:06.816
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 195
+	TIME: 16:16:11.831
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 196
+	TIME: 16:16:16.832
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 197
+	TIME: 16:16:21.850
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 198
+	TIME: 16:16:26.868
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 199
+	TIME: 16:16:31.864
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 200
+	TIME: 16:16:36.899
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 201
+	TIME: 16:16:41.879
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 202
+	TIME: 16:16:46.893
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 203
+	TIME: 16:16:51.904
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 204
+	TIME: 16:16:56.901
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 205
+	TIME: 16:17:01.914
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 206
+	TIME: 16:17:06.910
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 207
+	TIME: 16:17:11.905
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 208
+	TIME: 16:17:16.904
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 209
+	TIME: 16:17:21.969
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 210
+	TIME: 16:17:26.957
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 211
+	TIME: 16:17:32.012
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 212
+	TIME: 16:17:36.942
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 213
+	TIME: 16:17:41.934
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 214
+	TIME: 16:17:46.948
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 215
+	TIME: 16:17:51.981
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 216
+	TIME: 16:17:56.970
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 217
+	TIME: 16:18:01.975
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 218
+	TIME: 16:18:06.986
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 219
+	TIME: 16:18:11.996
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 220
+	TIME: 16:18:17.023
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 221
+	TIME: 16:18:22.019
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 222
+	TIME: 16:18:27.025
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 223
+	TIME: 16:18:32.048
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 224
+	TIME: 16:18:37.034
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 225
+	TIME: 16:18:42.045
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 226
+	TIME: 16:18:47.068
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 227
+	TIME: 16:18:52.082
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 228
+	TIME: 16:18:57.084
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 229
+	TIME: 16:19:02.125
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 230
+	TIME: 16:19:07.106
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 231
+	TIME: 16:19:12.164
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 232
+	TIME: 16:19:17.157
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 233
+	TIME: 16:19:22.150
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 234
+	TIME: 16:19:27.139
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 235
+	TIME: 16:19:32.146
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 236
+	TIME: 16:19:37.156
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 237
+	TIME: 16:19:42.155
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 238
+	TIME: 16:19:47.162
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 239
+	TIME: 16:19:52.167
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 240
+	TIME: 16:19:57.280
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 241
+	TIME: 16:20:02.192
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 242
+	TIME: 16:20:07.221
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 243
+	TIME: 16:20:12.344
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 244
+	TIME: 16:20:17.249
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 245
+	TIME: 16:20:22.342
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 246
+	TIME: 16:20:27.236
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 247
+	TIME: 16:20:32.246
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 248
+	TIME: 16:20:37.249
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 249
+	TIME: 16:20:42.230
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 250
+	TIME: 16:20:47.280
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 251
+	TIME: 16:20:52.266
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 252
+	TIME: 16:20:57.269
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 253
+	TIME: 16:21:02.299
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 254
+	TIME: 16:21:07.307
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 255
+	TIME: 16:21:12.322
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 256
+	TIME: 16:21:17.326
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 257
+	TIME: 16:21:22.300
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 258
+	TIME: 16:21:27.308
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 259
+	TIME: 16:21:32.320
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 260
+	TIME: 16:21:37.344
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 261
+	TIME: 16:21:42.334
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 262
+	TIME: 16:21:47.554
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 263
+	TIME: 16:21:52.384
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 264
+	TIME: 16:21:57.400
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 265
+	TIME: 16:22:02.441
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 266
+	TIME: 16:22:07.375
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 267
+	TIME: 16:22:12.408
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 268
+	TIME: 16:22:17.384
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 269
+	TIME: 16:22:22.393
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 270
+	TIME: 16:22:27.405
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 271
+	TIME: 16:22:32.426
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 272
+	TIME: 16:22:37.445
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 273
+	TIME: 16:22:42.431
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 274
+	TIME: 16:22:47.460
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 275
+	TIME: 16:22:52.481
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 276
+	TIME: 16:22:57.476
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 277
+	TIME: 16:23:02.458
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 278
+	TIME: 16:23:07.493
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 279
+	TIME: 16:23:12.546
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 280
+	TIME: 16:23:17.545
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 281
+	TIME: 16:23:22.497
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 282
+	TIME: 16:23:27.518
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 283
+	TIME: 16:23:32.529
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 284
+	TIME: 16:23:37.524
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 285
+	TIME: 16:23:42.586
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 286
+	TIME: 16:23:47.551
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 287
+	TIME: 16:23:52.551
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 288
+	TIME: 16:23:57.561
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 289
+	TIME: 16:24:02.568
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 290
+	TIME: 16:24:07.680
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 291
+	TIME: 16:24:12.619
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 292
+	TIME: 16:24:17.768
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 293
+	TIME: 16:24:22.648
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 294
+	TIME: 16:24:27.708
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 295
+	TIME: 16:24:32.661
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 296
+	TIME: 16:24:37.678
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 297
+	TIME: 16:24:42.703
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 298
+	TIME: 16:24:47.738
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 299
+	TIME: 16:24:52.734
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 300
+	TIME: 16:24:57.785
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 301
+	TIME: 16:25:02.706
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 302
+	TIME: 16:25:07.706
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 303
+	TIME: 16:25:12.700
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 304
+	TIME: 16:25:17.701
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 305
+	TIME: 16:25:22.792
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 306
+	TIME: 16:25:27.719
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 307
+	TIME: 16:25:32.729
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 308
+	TIME: 16:25:37.739
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 309
+	TIME: 16:25:42.753
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 310
+	TIME: 16:25:47.737
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 311
+	TIME: 16:25:52.745
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 312
+	TIME: 16:25:57.772
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 313
+	TIME: 16:26:02.780
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 314
+	TIME: 16:26:07.772
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 315
+	TIME: 16:26:12.773
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 316
+	TIME: 16:26:18.798
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 317
+	TIME: 16:26:24.740
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 318
+	TIME: 16:26:27.852
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 319
+	TIME: 16:26:32.782
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 320
+	TIME: 16:26:37.817
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 321
+	TIME: 16:26:42.809
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 322
+	TIME: 16:26:47.806
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 323
+	TIME: 16:26:52.828
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 324
+	TIME: 16:26:58.002
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 325
+	TIME: 16:27:02.883
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 326
+	TIME: 16:27:07.845
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 327
+	TIME: 16:27:12.903
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 328
+	TIME: 16:27:17.866
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 329
+	TIME: 16:27:22.875
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 330
+	TIME: 16:27:27.874
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 331
+	TIME: 16:27:34.081
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 332
+	TIME: 16:27:37.888
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 333
+	TIME: 16:27:42.886
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 334
+	TIME: 16:27:47.908
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 335
+	TIME: 16:27:52.900
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 336
+	TIME: 16:27:57.954
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 337
+	TIME: 16:28:02.936
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 338
+	TIME: 16:28:07.928
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 339
+	TIME: 16:28:12.988
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 340
+	TIME: 16:28:17.966
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 341
+	TIME: 16:28:23.033
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 342
+	TIME: 16:28:27.992
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 343
+	TIME: 16:28:32.997
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 344
+	TIME: 16:28:37.997
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 345
+	TIME: 16:28:43.612
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 346
+	TIME: 16:28:48.012
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 347
+	TIME: 16:28:53.021
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 348
+	TIME: 16:28:58.439
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 349
+	TIME: 16:29:03.046
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 350
+	TIME: 16:29:08.044
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 351
+	TIME: 16:29:13.054
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 352
+	TIME: 16:29:18.064
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 353
+	TIME: 16:29:23.079
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 354
+	TIME: 16:29:28.142
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 355
+	TIME: 16:29:33.091
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 356
+	TIME: 16:29:38.116
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 357
+	TIME: 16:29:43.108
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 358
+	TIME: 16:29:48.128
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 359
+	TIME: 16:29:53.881
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 360
+	TIME: 16:29:58.147
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 361
+	TIME: 16:30:03.150
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 362
+	TIME: 16:30:08.165
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 363
+	TIME: 16:30:13.170
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 364
+	TIME: 16:30:18.184
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 365
+	TIME: 16:30:23.190
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 366
+	TIME: 16:30:28.250
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 367
+	TIME: 16:30:33.269
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 368
+	TIME: 16:30:38.223
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 369
+	TIME: 16:30:43.211
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 370
+	TIME: 16:30:52.147
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 371
+	TIME: 16:30:54.711
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 372
+	TIME: 16:31:05.446
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 373
+	TIME: 16:31:07.481
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 374
+	TIME: 16:31:19.579
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 375
+	TIME: 16:31:24.757
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 376
+	TIME: 16:31:32.290
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 377
+	TIME: 16:31:36.124
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 378
+	TIME: 16:31:41.902
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 379
+	TIME: 16:31:49.973
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 380
+	TIME: 16:32:01.610
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 381
+	TIME: 16:32:08.106
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 382
+	TIME: 16:32:09.952
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 383
+	TIME: 16:32:13.443
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 384
+	TIME: 16:32:26.409
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 385
+	TIME: 16:32:31.041
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 386
+	TIME: 16:32:35.272
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 387
+	TIME: 16:32:37.442
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 388
+	TIME: 16:32:47.129
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 389
+	TIME: 16:32:48.805
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 390
+	TIME: 16:32:56.515
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 391
+	TIME: 16:33:02.077
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 392
+	TIME: 16:33:04.131
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 393
+	TIME: 16:33:08.466
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 394
+	TIME: 16:33:12.560
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 395
+	TIME: 16:33:19.151
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 396
+	TIME: 16:33:36.271
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 397
+	TIME: 16:33:38.553
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 398
+	TIME: 16:33:44.402
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 399
+	TIME: 16:33:53.625
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 400
+	TIME: 16:33:57.981
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 401
+	TIME: 16:34:00.635
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 402
+	TIME: 16:34:09.101
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 403
+	TIME: 16:34:16.760
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 404
+	TIME: 16:34:22.082
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 405
+	TIME: 16:34:31.147
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 406
+	TIME: 16:34:36.174
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 407
+	TIME: 16:34:39.051
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 408
+	TIME: 16:34:44.199
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 409
+	TIME: 16:34:51.303
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 410
+	TIME: 16:34:56.498
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 411
+	TIME: 16:35:00.338
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 412
+	TIME: 16:35:03.698
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 413
+	TIME: 16:35:10.741
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 414
+	TIME: 16:35:17.350
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 415
+	TIME: 16:35:23.875
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 416
+	TIME: 16:35:25.283
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 417
+	TIME: 16:35:34.630
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 418
+	TIME: 16:35:39.128
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 419
+	TIME: 16:35:48.233
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 420
+	TIME: 16:35:52.868
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 421
+	TIME: 16:35:57.999
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 422
+	TIME: 16:36:06.510
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 423
+	TIME: 16:36:11.409
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 424
+	TIME: 16:36:14.855
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 425
+	TIME: 16:36:20.393
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 426
+	TIME: 16:36:24.873
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 427
+	TIME: 16:36:27.319
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 428
+	TIME: 16:36:36.672
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 429
+	TIME: 16:36:38.715
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 430
+	TIME: 16:36:47.882
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 431
+	TIME: 16:36:53.701
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 432
+	TIME: 16:36:59.023
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 433
+	TIME: 16:37:06.240
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 434
+	TIME: 16:37:10.546
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 435
+	TIME: 16:37:17.634
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 436
+	TIME: 16:37:23.007
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 437
+	TIME: 16:37:28.630
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 438
+	TIME: 16:37:31.459
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 439
+	TIME: 16:37:33.958
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 440
+	TIME: 16:37:38.975
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 441
+	TIME: 16:37:44.013
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 442
+	TIME: 16:37:49.003
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 443
+	TIME: 16:37:54.096
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 444
+	TIME: 16:37:59.002
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 445
+	TIME: 16:38:04.021
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 446
+	TIME: 16:38:09.022
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 447
+	TIME: 16:38:14.026
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 448
+	TIME: 16:38:19.042
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 449
+	TIME: 16:38:24.091
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 450
+	TIME: 16:38:29.057
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 451
+	TIME: 16:38:34.089
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 452
+	TIME: 16:38:39.058
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 453
+	TIME: 16:38:44.115
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 454
+	TIME: 16:38:49.079
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 455
+	TIME: 16:38:54.097
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 456
+	TIME: 16:38:59.100
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 457
+	TIME: 16:39:04.116
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 458
+	TIME: 16:39:09.133
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 459
+	TIME: 16:39:14.138
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 460
+	TIME: 16:39:19.130
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 461
+	TIME: 16:39:24.145
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 462
+	TIME: 16:39:29.156
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 463
+	TIME: 16:39:34.161
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 464
+	TIME: 16:39:39.193
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 465
+	TIME: 16:39:44.174
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 466
+	TIME: 16:39:49.187
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 467
+	TIME: 16:39:54.195
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 468
+	TIME: 16:39:59.189
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 469
+	TIME: 16:40:04.248
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 470
+	TIME: 16:40:09.242
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 471
+	TIME: 16:40:14.212
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 472
+	TIME: 16:40:19.237
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 473
+	TIME: 16:40:24.250
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 474
+	TIME: 16:40:29.278
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 475
+	TIME: 16:40:34.261
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 476
+	TIME: 16:40:39.298
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 477
+	TIME: 16:40:44.282
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 478
+	TIME: 16:40:49.323
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 479
+	TIME: 16:40:54.318
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 480
+	TIME: 16:40:59.307
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 481
+	TIME: 16:41:04.316
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 482
+	TIME: 16:41:09.363
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 483
+	TIME: 16:41:14.328
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 484
+	TIME: 16:41:19.326
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 485
+	TIME: 16:41:24.324
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 486
+	TIME: 16:41:29.339
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 487
+	TIME: 16:41:34.330
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 488
+	TIME: 16:41:39.425
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 489
+	TIME: 16:41:44.360
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 490
+	TIME: 16:41:49.373
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 491
+	TIME: 16:41:54.447
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 492
+	TIME: 16:41:59.383
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 493
+	TIME: 16:42:04.406
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 494
+	TIME: 16:42:09.450
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 495
+	TIME: 16:42:14.417
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 496
+	TIME: 16:42:19.417
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 497
+	TIME: 16:42:24.420
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 498
+	TIME: 16:42:29.651
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 499
+	TIME: 16:42:35.259
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 500
+	TIME: 16:42:39.455
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 501
+	TIME: 16:42:44.472
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 502
+	TIME: 16:42:49.473
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 503
+	TIME: 16:42:54.464
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 504
+	TIME: 16:42:59.474
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 505
+	TIME: 16:43:04.493
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 506
+	TIME: 16:43:09.547
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 507
+	TIME: 16:43:14.488
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 508
+	TIME: 16:43:20.288
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 509
+	TIME: 16:43:24.547
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 510
+	TIME: 16:43:29.556
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 511
+	TIME: 16:43:34.615
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 512
+	TIME: 16:43:39.639
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 513
+	TIME: 16:43:44.549
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 514
+	TIME: 16:43:49.560
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 515
+	TIME: 16:43:54.614
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 516
+	TIME: 16:43:59.608
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 517
+	TIME: 16:44:04.600
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 518
+	TIME: 16:44:09.686
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 519
+	TIME: 16:44:14.614
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 520
+	TIME: 16:44:19.649
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 521
+	TIME: 16:44:24.636
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 522
+	TIME: 16:44:32.644
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 523
+	TIME: 16:44:34.727
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 524
+	TIME: 16:44:39.756
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 525
+	TIME: 16:44:44.654
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 526
+	TIME: 16:44:49.772
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 527
+	TIME: 16:44:54.647
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 528
+	TIME: 16:44:59.665
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 529
+	TIME: 16:45:04.677
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 530
+	TIME: 16:45:09.684
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 531
+	TIME: 16:45:14.681
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 532
+	TIME: 16:45:19.684
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 533
+	TIME: 16:45:24.735
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 534
+	TIME: 16:45:29.688
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 535
+	TIME: 16:45:34.703
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 536
+	TIME: 16:45:40.787
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 537
+	TIME: 16:45:44.715
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 538
+	TIME: 16:45:49.722
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 539
+	TIME: 16:45:54.760
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 540
+	TIME: 16:45:59.750
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 541
+	TIME: 16:46:04.773
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 542
+	TIME: 16:46:09.838
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 543
+	TIME: 16:46:14.768
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 544
+	TIME: 16:46:19.768
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 545
+	TIME: 16:46:24.793
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 546
+	TIME: 16:46:29.803
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 547
+	TIME: 16:46:34.794
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 548
+	TIME: 16:46:39.813
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 549
+	TIME: 16:46:44.850
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 550
+	TIME: 16:46:49.812
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 551
+	TIME: 16:46:54.815
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 552
+	TIME: 16:46:59.893
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 553
+	TIME: 16:47:04.823
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 554
+	TIME: 16:47:09.881
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 555
+	TIME: 16:47:14.894
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 556
+	TIME: 16:47:19.864
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 557
+	TIME: 16:47:24.868
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 558
+	TIME: 16:47:29.878
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 559
+	TIME: 16:47:34.963
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 560
+	TIME: 16:47:39.901
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 561
+	TIME: 16:47:44.929
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 562
+	TIME: 16:47:49.926
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 563
+	TIME: 16:47:54.926
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 564
+	TIME: 16:47:59.948
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 565
+	TIME: 16:48:04.949
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 566
+	TIME: 16:48:09.965
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 567
+	TIME: 16:48:14.974
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 568
+	TIME: 16:48:19.983
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 569
+	TIME: 16:48:24.993
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 570
+	TIME: 16:48:30.008
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 571
+	TIME: 16:48:35.018
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 572
+	TIME: 16:48:40.011
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 573
+	TIME: 16:48:45.037
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 574
+	TIME: 16:48:50.019
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 575
+	TIME: 16:48:55.036
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 576
+	TIME: 16:49:00.067
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 577
+	TIME: 16:49:05.053
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 578
+	TIME: 16:49:10.081
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 579
+	TIME: 16:49:15.075
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 580
+	TIME: 16:49:20.087
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 581
+	TIME: 16:49:25.112
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 582
+	TIME: 16:49:30.099
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 583
+	TIME: 16:49:35.120
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 584
+	TIME: 16:49:40.122
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 585
+	TIME: 16:49:45.168
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 586
+	TIME: 16:49:50.135
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 587
+	TIME: 16:49:55.148
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 588
+	TIME: 16:50:00.154
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 589
+	TIME: 16:50:05.176
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 590
+	TIME: 16:50:10.173
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 591
+	TIME: 16:50:15.175
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 592
+	TIME: 16:50:20.236
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 593
+	TIME: 16:50:25.218
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 594
+	TIME: 16:50:30.210
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 595
+	TIME: 16:50:35.264
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 596
+	TIME: 16:50:40.235
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 597
+	TIME: 16:50:45.230
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 598
+	TIME: 16:50:50.253
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 599
+	TIME: 16:50:55.256
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 600
+	TIME: 16:51:00.264
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 601
+	TIME: 16:51:05.271
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 602
+	TIME: 16:51:10.271
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 603
+	TIME: 16:51:15.339
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 604
+	TIME: 16:51:20.292
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 605
+	TIME: 16:51:25.321
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 606
+	TIME: 16:51:30.328
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 607
+	TIME: 16:51:35.327
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 608
+	TIME: 16:51:40.372
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 609
+	TIME: 16:51:45.352
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 610
+	TIME: 16:51:50.356
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 611
+	TIME: 16:51:55.423
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 612
+	TIME: 16:52:00.338
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 613
+	TIME: 16:52:05.364
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 614
+	TIME: 16:52:10.363
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 615
+	TIME: 16:52:15.635
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 616
+	TIME: 16:52:20.384
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 617
+	TIME: 16:52:25.395
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 618
+	TIME: 16:52:30.398
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 619
+	TIME: 16:52:35.401
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 620
+	TIME: 16:52:40.409
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 621
+	TIME: 16:52:45.416
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 622
+	TIME: 16:52:50.473
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 623
+	TIME: 16:52:55.450
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 624
+	TIME: 16:53:00.455
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 625
+	TIME: 16:53:05.465
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 626
+	TIME: 16:53:10.486
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 627
+	TIME: 16:53:15.484
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 628
+	TIME: 16:53:20.476
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
+ENTRY: 629
+	TIME: 16:53:25.485
+		RUNNER: Under 4.5 Corners
+		RUNNER: Over 4.5 Corners
