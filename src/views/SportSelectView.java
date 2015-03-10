@@ -22,7 +22,6 @@ public class SportSelectView extends BetFairView
 	public SportSelectView(ProgramOptions options)
 	{
 		super(frameTitle, options, null);
-		this.betFair = options.getBetFair();
 		super.viewListener = new SportSelectController(options, this);
 		availableSports = betFair.getSupportedSportList();
 		setupAndDisplay();

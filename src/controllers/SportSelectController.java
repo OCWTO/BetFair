@@ -32,7 +32,7 @@ public class SportSelectController implements ActionListener
 			if(options.getEventTypeId() != null)
 			{
 				view.closeView();
-				BetFairView marketSelectView = new GameSelectView(options);
+				BetFairView sportSelectView = new GameSelectView(options);
 			}	
 			else
 				JOptionPane.showMessageDialog(view.getFrame(), "Please select a sport");
@@ -46,7 +46,7 @@ public class SportSelectController implements ActionListener
 		{
 			System.out.println(e.getActionCommand());
 		}
-		//get selected sport from the option list, add tha tto the options...
+		//get selected sport from the option list, add that to the options...
 		//create new view and pass it in options
 			
 		//if next is pressed collapse old new, make new view and pass around betfair ref
