@@ -102,15 +102,15 @@ public class SimpleBetFairCore implements ISimpleBetFair
 	 * @param gameId The BetFair id for the desired game.
 	 * @return A List of Strings representing the markets available, which you can bet on in the game.
 	 */
-	public List<String> getMarketsForGame(String gameId)
+	public List<BetFairMarketObject> getMarketsForGame(String gameId)
 	{
 		List<MarketCatalogue> marketList = betFair.getMarketCatalogue(gameId);
 
 		marketList.sort(new MarketCatalogueEventNameComparator());
-		List<String> formattedMarketList = new ArrayList<String>();
+		List<BetFairMarketObject> formattedMarketList = new ArrayList<BetFairMarketObject>();
 		for(int i = 0; i < marketList.size(); i++)
 		{
-			formattedMarketList.add(i + "," + marketList.get(i).getMarketName() + "," + marketList.get(i).getMarketId());
+			formattedMarketList.add(new BetFairMarketObject(marketList.get(i).getMarketName(), marketList.get(i).getMarketId()));
 		}
 
 		return formattedMarketList;
@@ -140,7 +140,7 @@ public class SimpleBetFairCore implements ISimpleBetFair
 	}
 
 	@Override
-	public List<String> getGameListForSport(List<String> sportId)
+	public List<BetFairGameObject> getGameListForSport(List<String> sportId)
 	{
 		// TODO Auto-generated method stub
 		return null;

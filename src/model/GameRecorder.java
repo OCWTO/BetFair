@@ -4,6 +4,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.lang.reflect.Type;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,7 +12,10 @@ import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
 
-import enums.BetFairMarket;
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import enums.BetFairMarketStatus;
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.MarketCatalogue;
 import betFairGSONClasses.PriceSize;
@@ -59,9 +63,7 @@ public class GameRecorder extends TimerTask
 	private int counter;
 	private long startDelay;
 	private File baseDirectory;
-
-	private static final String windowsPath = "\\";
-	private static final String unixPath = "/";
+	private String separator = File.separator;
 
 	/**
 	 * @param gameAndMarkets
@@ -120,7 +122,8 @@ public class GameRecorder extends TimerTask
 	 */
 	private void generateMarketIdToNameMap()
 	{
-		List<MarketCatalogue> catalogue;// = betFair.getMarketCatalogue()
+		List<MarketCatalogue> catalogue;
+		
 		marketIdToName = new HashMap<String, String>();
 		// For each game we track
 		for (String gameIDKey : gameToMarkets.keySet())
@@ -289,14 +292,13 @@ public class GameRecorder extends TimerTask
 		}
 	}
 
-	// TODO add unix support
 	private void makeBaseDirectory()
 	{
 		if (baseDirectory != null)
 			return;
 
 		String currentDir = System.getProperty("user.dir");
-		String destination = "\\logs\\gamelogs\\";
+		String destination = separator + "logs" + separator + "gamelogs" + separator;
 		String metaDataTokens[] = gameData.get(0).get(0).get(0).split("_");
 		baseDirectory = new File(currentDir + destination + metaDataTokens[0]);
 		baseDirectory.mkdir();
@@ -319,7 +321,7 @@ public class GameRecorder extends TimerTask
 		String folderName = marketMetaDataTokens[1].replaceAll(
 				"[^\\p{Alpha}]+", "");
 
-		closedMarketDir = new File(baseDirectory.getPath() + "\\" + folderName);
+		closedMarketDir = new File(baseDirectory.getPath() + separator + folderName);
 		closedMarketDir.mkdir();
 
 		try
@@ -333,14 +335,14 @@ public class GameRecorder extends TimerTask
 				if (individualMarketMetaDataTokens.length == 3)
 				{
 					outputWriter = new BufferedWriter(new FileWriter(
-							closedMarketDir.getPath() + "\\ALLDATA" + ".txt"));
+							closedMarketDir.getPath() + separator + "ALLDATA" + ".txt"));
 				}
 				else
 				{
 					outputWriter = new BufferedWriter(
 							new FileWriter(
 									closedMarketDir.getPath()
-											+ "\\"
+											+ separator
 											+ individualMarketMetaDataTokens[individualMarketMetaDataTokens.length - 1]
 											+ ".csv"));
 				}
@@ -368,47 +370,70 @@ public class GameRecorder extends TimerTask
 		List<String> trackedMarkets;
 		List<MarketBook> marketData;
 		MarketBook currentBook;
-
-		// For each game that we're tracking
+		String[] metaDataTokens;
+		
+		/*
+		 * For each game we're tracking. (Each game id is mapped
+		 * to a list of the market IDs inside it we're tracking).
+		 */
 		for (String gameIDKey : gameToMarkets.keySet())
 		{
 			trackedMarkets = gameToMarkets.get(gameIDKey);
 			marketData = betFair.getMarketBook(trackedMarkets);
-
+			//TODO send all market data to get stored.
+			/*
+			 * 
+				System.out.println("data size " + gameData.size() + " other size  " + marketData.size());
+				//System.out.println(marketData.get(i));
+				
+				
+				Gson x = new Gson();
+				Type typeOfSrc = new TypeToken<MarketBook>(){}.getType();
+				System.out.println("JSON CON " + x.toJson(marketData.get(i), MarketBook.class));
+				//System.out.println(x);
+				//Possibly missing: "json {"jsonrpc":"2.0","result":[{
+				
+			 */
+			
+			
+			//Each index returned represents one market.
 			assert marketData.size() == trackedMarkets.size();
 
-			// For our lists of market data
+			//For each of of our lists of lists of game data
 			for (int i = 0; i < gameData.size(); i++)
 			{
-				// Get metadata line from the ith markets, all data index.
-				String[] metaDataTokens = gameData.get(i).get(0).get(0)
+				//Get metadata line from the ith markets (all data list index).
+				metaDataTokens = gameData.get(i).get(0).get(0)
 						.split("_");
 
-				// While there's market data left
+				//For each index of the list of data from the API
 				for (int j = 0; j < marketData.size(); j++)
 				{
-					// If the market ID matches the current indexes market id
+					//If its market id matches our current lists id
 					if (marketIdToName.get(marketData.get(j).getMarketId())
 							.equalsIgnoreCase(metaDataTokens[1]))
 					{
 						currentBook = marketData.get(j);
 
-						// If the market is closed, then we filter it out of
-						// everything.
+						// If the market is closed then we can stop tracking it
 						if (currentBook.getStatus().equalsIgnoreCase(
-								BetFairMarket.CLOSED_MARKET.toString()))
+								BetFairMarketStatus.CLOSED_MARKET.toString()))
 						{
-							List<String> currentMap = gameToMarkets
+							//Grab our market list for the current game from the map
+							List<String> currentMarketList = gameToMarkets
 									.remove(gameIDKey);
-
-							currentMap.remove(currentMap.indexOf(currentBook
+							
+							//Remove the market id from its list
+							currentMarketList.remove(currentMarketList.indexOf(currentBook
 									.getMarketId()));
+							//TODO throw event here instead
 							System.out.println("Market: "
 									+ marketIdToName.get(currentBook
 											.getMarketId()) + " has closed."
-									+ currentMap.size() + " markets left.");
+									+ currentMarketList.size() + " markets left.");
 
-							if (currentMap.isEmpty())
+							//If all the markets we've been tracking shuts then we stop
+							if (currentMarketList.isEmpty())
 							{
 								System.out
 										.println("Last market closed. Shutting down.");
@@ -417,7 +442,8 @@ public class GameRecorder extends TimerTask
 							}
 							else
 							{
-								gameToMarkets.put(gameIDKey, currentMap);
+								//Otherwise pop our new list back on and save the current markets data
+								gameToMarkets.put(gameIDKey, currentMarketList);
 								saveData(gameData.remove(i));
 							}
 							break;

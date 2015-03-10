@@ -31,14 +31,14 @@ public interface ISimpleBetFair
 	 * @param sportId
 	 * @return
 	 */
-	public List<String> getGameListForSport(List<String> sportId);
+	public List<BetFairGameObject> getGameListForSport(List<String> sportId);
 	
 	/**
 	 * 
 	 * @param gameId
 	 * @return
 	 */
-	public List<String> getMarketsForGame(String gameId);
+	public List<BetFairMarketObject> getMarketsForGame(String gameId);
 	
 	/**
 	 * 

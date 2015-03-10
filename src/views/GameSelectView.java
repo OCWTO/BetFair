@@ -12,6 +12,10 @@ import model.BetFairGameObject;
 import model.ProgramOptions;
 import controllers.GameSelectController;
 
+//TODO allow sort by click on column list
+//TODO colour code for in progress, soon and coming up
+//TODO filter out non games 
+
 public class GameSelectView extends BetFairView
 {
 	private static final String frameTitle = "BetFair Game Select";

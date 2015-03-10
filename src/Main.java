@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Timer;
 
-import enums.BetFairMarket;
+import enums.BetFairMarketStatus;
 import enums.MarketProjection;
 import exceptions.CryptoException;
 import views.TextFrontEnd;
@@ -49,7 +49,7 @@ public class Main
 	//print out names are in home vs away, not too relevant but maybe display it in gui
 	public static void main(String[] args)
 	{
-		TextFrontEnd textUi = new TextFrontEnd(false);
+		TextFrontEnd textUi = new TextFrontEnd(true);
 		textUi.start();
 		
 		
