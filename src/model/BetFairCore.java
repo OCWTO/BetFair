@@ -316,10 +316,17 @@ public class BetFairCore implements IBetFairCore
 		}
 
 		ListMarketBooksContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketBooksContainer.class);
-
+		
+		//Recursively call again, this occurs when null is returned so socket is timed out? not served etc.
+		while(container == null)
+		{
+			System.out.println("No result returned, trying again");
+			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, liveAppKey, sessionToken);
+			container = JsonConverter.convertFromJson(jsonResultLine, ListMarketBooksContainer.class);
+		}
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
-
+	
 		return container.getResult();
 	}
 
