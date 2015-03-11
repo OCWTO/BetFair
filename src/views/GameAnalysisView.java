@@ -1,7 +1,5 @@
 package views;
 
-import java.awt.event.ActionListener;
-
 import model.ProgramOptions;
 
 public class GameAnalysisView extends BetFairView

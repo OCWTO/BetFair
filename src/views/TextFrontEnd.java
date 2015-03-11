@@ -8,6 +8,7 @@ import java.util.Set;
 import java.util.Timer;
 
 import model.BetFairGameObject;
+import model.BetFairMarketObject;
 import model.BetFairSportObject;
 import model.GameRecorder;
 import model.SimpleBetFairCore;
@@ -65,13 +66,11 @@ public class TextFrontEnd
 			// If game successfully selected then prompt for market.
 			marketId = marketPrompt(gameId);
 
-			// recordMode = recorderPrompt();
-			// now we call
+			//
 			recorder = new GameRecorder(betFair.getBetFair(), marketId);
 			System.out.println(marketId.get(0));
 			Timer timer = new Timer();
 			timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
-			// TODO let recordmode be an enum
 		}
 	}
 
@@ -84,14 +83,15 @@ public class TextFrontEnd
 	{
 		String inputLine;
 		String[] inputTokens;
-		List<String> gameMarkets = betFair.getMarketsForGame(gameId);
-		String[] selectedMarketRow;
-		Set<String> selectedMarket = new HashSet<String>();
+		List<BetFairMarketObject> gameMarkets = betFair
+				.getMarketsForGame(gameId);
+		BetFairMarketObject selectedMarket;
+		Set<String> selectedMarkets = new HashSet<String>();
 
 		System.out.println("MARKETS");
 		for (int i = 0; i < gameMarkets.size(); i++)
 		{
-			System.out.println("NO: " + gameMarkets.get(i));
+			System.out.println("NO: " + i + gameMarkets.get(i));
 
 		}
 		while (true)
@@ -103,7 +103,7 @@ public class TextFrontEnd
 			if (inputLine.equalsIgnoreCase("done"))
 			{
 				List<String> ret = new ArrayList<String>();
-				ret.addAll(selectedMarket);
+				ret.addAll(selectedMarkets);
 				return ret;
 			}
 			else
@@ -112,15 +112,12 @@ public class TextFrontEnd
 				if (inputTokens.length == 2
 						&& inputTokens[0].equalsIgnoreCase("select"))
 				{
-					selectedMarketRow = gameMarkets
-							.get(Integer
-									.parseInt(inputTokens[inputTokens.length - 1]))
-							.split(",");
+					selectedMarket = gameMarkets.get(Integer
+							.parseInt(inputTokens[inputTokens.length - 1]));
 					System.out.println("Adding market: "
-							+ selectedMarketRow[selectedMarketRow.length - 2]
-							+ " to list");
-					selectedMarket.add(gameId + ","
-							+ selectedMarketRow[selectedMarketRow.length - 1]);
+							+ selectedMarket.getMarketName() + " to list");
+					selectedMarkets.add(gameId + ","
+							+ selectedMarket.getMarketId());
 				}
 				else
 				{
@@ -135,8 +132,9 @@ public class TextFrontEnd
 	 * @param sportId
 	 * @return
 	 */
-	//TODO filter out general markets, look only for those with v, check first 10 
-	//if first 10 have it then next10 etc or change 10 for x
+	// TODO filter out general markets, look only for those with v, check first
+	// 10
+	// if first 10 have it then next10 etc or change 10 for x
 	private String gamePrompt(String sportId)
 	{
 		String inputLine;
@@ -147,9 +145,11 @@ public class TextFrontEnd
 		System.out.println("GAME LIST");
 		for (int i = 0; i < gameList.size(); i++)
 		{
-			System.out.println("NO: " + i + " " + gameList.get(i)); // instead of another
-															// for i'm just
-															// printing data too
+			System.out.println("NO: " + i + " " + gameList.get(i)); // instead
+																	// of
+																	// another
+			// for i'm just
+			// printing data too
 		}
 
 		while (true)
@@ -160,7 +160,8 @@ public class TextFrontEnd
 			inputTokens = inputLine.split(" ");
 			if (inputTokens.length == 2)
 			{
-				selectedGame = gameList.get(Integer.parseInt(inputTokens[inputTokens.length - 1]));
+				selectedGame = gameList.get(Integer
+						.parseInt(inputTokens[inputTokens.length - 1]));
 				System.out.println("Selected game: " + selectedGame.getName());
 				return selectedGame.getId();
 			}
@@ -227,8 +228,8 @@ public class TextFrontEnd
 		List<BetFairSportObject> results = betFair.getSupportedSportList();
 
 		System.out.println("SPORT LIST\nNUM\tNAME\t\tID");
-		
-		for(int i = 0; i < results.size(); i++)
+
+		for (int i = 0; i < results.size(); i++)
 		{
 			System.out.println(i + " " + results.get(i));
 		}
@@ -244,9 +245,11 @@ public class TextFrontEnd
 			if (inputTokens[0].equalsIgnoreCase("SELECT")
 					&& inputTokens.length == 2)
 			{
-				//TODO add boundary checking
-				BetFairSportObject selectedSportObject = results.get(Integer.parseInt(inputTokens[1]));
-				System.out.println("Selected sport: " + selectedSportObject.getName());
+				// TODO add boundary checking
+				BetFairSportObject selectedSportObject = results.get(Integer
+						.parseInt(inputTokens[1]));
+				System.out.println("Selected sport: "
+						+ selectedSportObject.getName());
 				return selectedSportObject;
 			}
 			else

@@ -2,6 +2,7 @@ package model;
 
 public class BetFairMarketObject
 {
+	//TODO add tostring
 	private String marketName;
 	private String marketId;
 

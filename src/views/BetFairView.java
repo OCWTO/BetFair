@@ -46,9 +46,6 @@ public abstract class BetFairView
 		centreView();
 		showView();
 	}
-	
-	
-	//abstract ProgramOptions getSelectedOptions();
 
 	abstract void setupPanels();
 	
