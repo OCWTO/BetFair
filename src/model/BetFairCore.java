@@ -80,6 +80,7 @@ public class BetFairCore implements IBetFairCore
 
 	// Used to locate certs.
 	private String directoryPrefix;
+	private String separator;
 	private boolean debug = false;
 
 	// Class used for handling all (except login) http calls.
@@ -92,8 +93,7 @@ public class BetFairCore implements IBetFairCore
 	 */
 	public BetFairCore()
 	{
-		directoryPrefix = System.getProperty("user.dir");
-		httpRequester = new HttpUtil();
+		utilInit();
 	}
 
 	/**
@@ -106,7 +106,13 @@ public class BetFairCore implements IBetFairCore
 	public BetFairCore(boolean debug)
 	{
 		this.debug = debug;
+		utilInit();
+	}
+	
+	private void utilInit()
+	{
 		directoryPrefix = System.getProperty("user.dir");
+		separator =  File.separator;
 		httpRequester = new HttpUtil();
 	}
 
@@ -136,7 +142,8 @@ public class BetFairCore implements IBetFairCore
 		try
 		{
 			// TODO add unix support here
-			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + "/certs/client-2048.p12")),
+			System.out.println(separator);
+			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + separator + "certs" + separator + "client-2048.p12")),
 					filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
 

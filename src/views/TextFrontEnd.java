@@ -66,11 +66,15 @@ public class TextFrontEnd
 			// If game successfully selected then prompt for market.
 			marketId = marketPrompt(gameId);
 
-			//
+			
+			//THIS CODE starts a recorder so we want to do the same sort of stuff except observe it too
 			recorder = new GameRecorder(betFair.getBetFair(), marketId);
 			System.out.println(marketId.get(0));
 			Timer timer = new Timer();
 			timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
+			
+			
+			//timer runs on its own thread so i can do whatever after
 		}
 	}
 

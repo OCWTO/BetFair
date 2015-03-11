@@ -4,9 +4,10 @@ import model.ProgramOptions;
 
 public class GameAnalysisView extends BetFairView
 {
+	private static final String frameTitle = "BetFair Game View";
 	public GameAnalysisView(ProgramOptions options)
 	{
-		super("", options, null);
+		super(frameTitle, options, null);
 		// TODO Auto-generated constructor stub
 	}
 

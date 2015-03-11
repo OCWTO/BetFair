@@ -44,6 +44,10 @@ import betFairGSONClasses.RunnerCatalog;
  * 
  * @author Craig Thomson
  */
+//TODO extend this so it stores or throws or both depending on whats passed
+//if analsys
+
+
 public class GameRecorder extends TimerTask
 {
 	// Game IDS mapped to the market IDS (those being tracked)

@@ -38,19 +38,18 @@ public class MarketSelectView extends BetFairView
 		JPanel gameSelectPanel = new JPanel();
 		JScrollPane tablePane;
 
-		String[] columnNames = {"Game name", "Start time", "Country"};
-		//Object[][]rowData = new Object[availableGames.size()][3];
+		String[] columnNames = {"Market name", "Market Id"};
+		Object[][]rowData = new Object[availableMarkets.size()][columnNames.length];
 		
-//		for(int i = 0; i < availableGames.size(); i++)
-//		{
-//			rowData[i][0] = availableGames.get(i).getName();
-//			rowData[i][1] = availableGames.get(i).getStartTime();
-//			rowData[i][2] = availableGames.get(i).getCountryCode();
-//		}
-//		
-//		gameListTable = new JTable(rowData, columnNames);
-//		tablePane = new JScrollPane(gameListTable);
-//		gameSelectPanel.add(tablePane);
+		for(int i = 0; i < availableMarkets.size(); i++)
+		{
+			rowData[i][0] = availableMarkets.get(i).getMarketName();
+			rowData[i][1] = availableMarkets.get(i).getMarketId();
+		}
+		
+		marketListTable = new JTable(rowData, columnNames);
+		tablePane = new JScrollPane(marketListTable);
+		gameSelectPanel.add(tablePane);
 		mainContainer.add(gameSelectPanel);
 		
 	}
@@ -79,5 +78,13 @@ public class MarketSelectView extends BetFairView
 		// TODO Auto-generated method stub
 		
 	}
-
+	
+	@Override
+	public ProgramOptions getOptions()
+	{
+		if(marketListTable.getSelectedRow() != -1)
+			super.getOptions().setEventTypeId(availableMarkets.get(marketListTable.getSelectedRow()).getMarketId());
+		
+		return super.getOptions();
+	}
 }

@@ -103,3 +103,6 @@
 
 8/3/15:
 	Did some UI work. Plan is to finish prototype tomorrow. All of the code has been done before with the revamp with parameter passing. I just have to write some more. Also started work on implementing my own observer and event objects for later. Plan is to have all implemented tomorrow with a simplistic model.
+
+11/3/15:
+	26 Days 11 hours until submission. I worked on the guis to a point where I now have to implement the final record and analysis views. With my design all relevant information is passed over so it can run as intended. I've designed mockups for the guis. Next step is going to be to implement my uis then the back end which involves modifying my existing classes and implementing observer/observable classes. The plan is to spend almost all of tomorrow on that and do some of the report so I'm at a good spot. A weeks time I plan on finishing everything so I have plenty of time to work on the report and refine any code. It looks like I'm only going to be able to get football working well. I'll try some basic implementating as a catch all for other sports which will just be if theres a big change in odds then I'll reflect the market name and who got the change (biggest change towards 1 not biggest in actuality).
