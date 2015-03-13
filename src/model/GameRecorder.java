@@ -313,6 +313,8 @@ public class GameRecorder extends TimerTask
 	 */
 	private void saveData(ArrayList<ArrayList<String>> closedMarketData)
 	{
+		//Market names/runners can sometimes have invalid characters for filenames so we have to remove them
+		String fileNameRegex = "[^\\p{Alpha}]+";
 		makeBaseDirectory();
 
 		File closedMarketDir;
@@ -323,7 +325,7 @@ public class GameRecorder extends TimerTask
 		marketMetaDataTokens = closedMarketData.get(0).get(0).split("_");
 
 		String folderName = marketMetaDataTokens[1].replaceAll(
-				"[^\\p{Alpha}]+", "");
+				fileNameRegex, "");
 
 		closedMarketDir = new File(baseDirectory.getPath() + separator + folderName);
 		closedMarketDir.mkdir();
@@ -347,7 +349,7 @@ public class GameRecorder extends TimerTask
 							new FileWriter(
 									closedMarketDir.getPath()
 											+ separator
-											+ individualMarketMetaDataTokens[individualMarketMetaDataTokens.length - 1]
+											+ individualMarketMetaDataTokens[individualMarketMetaDataTokens.length - 1].replaceAll(fileNameRegex, "")
 											+ ".csv"));
 				}
 				for (int a = 0; a < closedMarketData.get(j).size(); a++)

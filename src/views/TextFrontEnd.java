@@ -141,6 +141,7 @@ public class TextFrontEnd
 	// if first 10 have it then next10 etc or change 10 for x
 	private String gamePrompt(String sportId)
 	{
+		//sportId = "101153190";
 		String inputLine;
 		String[] inputTokens;
 		List<BetFairGameObject> gameList = betFair.getGameListForSport(sportId);

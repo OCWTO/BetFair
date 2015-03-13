@@ -34,7 +34,8 @@ public class Main
 		core.login("0ocwto0", "2014Project", "project");
 
 		
-		core.getGames("1");
+		core.getGames("101153190");
+		core.getMarketBook("1.01153190");
 		//List<String> temp = new ArrayList<String>();
 		//temp.add("1.117517592");
 		//List<MarketBook> t2 = core.getMarketBook("1.117517592");
