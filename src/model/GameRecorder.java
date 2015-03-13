@@ -12,15 +12,16 @@ import java.util.List;
 import java.util.Map;
 import java.util.TimerTask;
 
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-
-import enums.BetFairMarketStatus;
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.MarketCatalogue;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
 import betFairGSONClasses.RunnerCatalog;
+
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import enums.BetFairMarketStatus;
 
 //Can support recording multiple games at once and multiple markets in those games
 
@@ -68,7 +69,7 @@ public class GameRecorder extends TimerTask
 	private long startDelay;
 	private File baseDirectory;
 	private String separator = File.separator;
-
+	private List<String> jsonMarketBookReplies;
 	/**
 	 * @param gameAndMarkets
 	 *            An array of game IDs and market IDs in the form of
@@ -82,6 +83,7 @@ public class GameRecorder extends TimerTask
 		betFair = betFairCore;
 		gameToMarkets = new HashMap<String, List<String>>();
 		gameData = new ArrayList<ArrayList<ArrayList<String>>>();
+		jsonMarketBookReplies = new ArrayList<String>();
 		generateGameToMarketMap(gameAndMarkets);
 		generateMarketIdToNameMap();
 		initiliseCollections();
@@ -296,18 +298,19 @@ public class GameRecorder extends TimerTask
 		}
 	}
 
-	private void makeBaseDirectory()
+	private void makeBaseDirectory(ArrayList<ArrayList<String>> closedMarketData)
 	{
 		if (baseDirectory != null)
 			return;
 
 		String currentDir = System.getProperty("user.dir");
 		String destination = separator + "logs" + separator + "gamelogs" + separator;
-		String metaDataTokens[] = gameData.get(0).get(0).get(0).split("_");
+		String metaDataTokens[] = closedMarketData.get(0).get(0).split("_");
 		baseDirectory = new File(currentDir + destination + metaDataTokens[0]);
 		baseDirectory.mkdir();
 	}
 
+	//TODO modify so it saves things separetely, alldata, jsondata, marketvolumedata and probability data
 	/**
 	 * Save the recorded data to a set of files.
 	 */
@@ -315,7 +318,7 @@ public class GameRecorder extends TimerTask
 	{
 		//Market names/runners can sometimes have invalid characters for filenames so we have to remove them
 		String fileNameRegex = "[^\\p{Alpha}]+";
-		makeBaseDirectory();
+		makeBaseDirectory(closedMarketData);
 
 		File closedMarketDir;
 		String[] marketMetaDataTokens;
@@ -387,19 +390,8 @@ public class GameRecorder extends TimerTask
 			trackedMarkets = gameToMarkets.get(gameIDKey);
 			marketData = betFair.getMarketBook(trackedMarkets);
 			//TODO send all market data to get stored.
-			/*
-			 * 
-				System.out.println("data size " + gameData.size() + " other size  " + marketData.size());
-				//System.out.println(marketData.get(i));
-				
-				
-				Gson x = new Gson();
-				Type typeOfSrc = new TypeToken<MarketBook>(){}.getType();
-				System.out.println("JSON CON " + x.toJson(marketData.get(i), MarketBook.class));
-				//System.out.println(x);
-				//Possibly missing: "json {"jsonrpc":"2.0","result":[{
-				
-			 */
+			storeResultObject(marketData);
+			
 			
 			
 			//Each index returned represents one market.
@@ -475,6 +467,43 @@ public class GameRecorder extends TimerTask
 		}
 		System.out.println("Iteration " + counter + " complete!");
 		counter++;
+	}
+
+	//TODO add code to store this stuff in RAWJSONRESULTS.txt or something
+	private void storeResultObject(List<MarketBook> marketData)
+	{
+		String gsonNotationResults = convertToJson(marketData);
+		jsonMarketBookReplies.add(gsonNotationResults);
+	}
+
+	/**
+	 * Takes in a list of MarketBook objects and converts them back into a comma separated json string, identical to what the program initially received
+	 * converts it pretty much the same except the notation for time is different
+	 * from the betfair api.
+	 * @param marketData
+	 * @return
+	 */
+	private String convertToJson(List<MarketBook> marketData)
+	{
+		Gson gsonConvertor = new Gson();
+		Type sourceType = new TypeToken<MarketBook>(){}.getType();
+		
+		StringBuilder jsonStringBuilder = new StringBuilder();
+		jsonStringBuilder.append("{\"jsonrpc\":\"2.0\",\"result\":[");
+		for(int i = 0; i < marketData.size(); i++)
+		{
+			jsonStringBuilder.append(gsonConvertor.toJson(marketData.get(i), sourceType));
+			
+			if(i == marketData.size()-1)
+			{
+				jsonStringBuilder.append("],\"id\":\"1\"}");
+			}
+			else
+			{
+				jsonStringBuilder.append(",");
+			}
+		}
+		return jsonStringBuilder.toString();
 	}
 
 	/**
@@ -602,11 +631,7 @@ public class GameRecorder extends TimerTask
 			}
 		}
 	}
-	
-	private void storeJSONReplyString()
-	{
-		
-	}
+
 	
 	/**
 	 * Store the amount of money matched for each market in the game
