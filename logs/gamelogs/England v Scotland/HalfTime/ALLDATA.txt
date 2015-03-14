@@ -1,0 +1,3159 @@
+England v Scotland_Half Time_1426352400000ENTRY: 1
+	TIME: 17:00:01.170
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:249.83)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+			LAY: (PRICE:1.32,SIZE:337.16)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:28.22)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:44.05)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 2
+	TIME: 17:00:06.804
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:249.83)
+			LAY: (PRICE:1.26,SIZE:32.5)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:28.22)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:43.76)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 3
+	TIME: 17:00:11.301
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:249.83)
+			LAY: (PRICE:1.26,SIZE:32.5)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:28.22)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:43.76)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 4
+	TIME: 17:00:16.102
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:249.83)
+			LAY: (PRICE:1.26,SIZE:32.5)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:26.8)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:43.76)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 5
+	TIME: 17:00:21.537
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:249.83)
+			LAY: (PRICE:1.26,SIZE:32.5)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:26.8)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:43.76)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 6
+	TIME: 17:00:26.689
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:9.19)
+			LAY: (PRICE:1.26,SIZE:32.5)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:26.8)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:43.76)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 7
+	TIME: 17:00:31.114
+		RUNNER: England (HT)
+			BACK: (PRICE:1.25,SIZE:1074.6)
+			BACK: (PRICE:1.24,SIZE:298.75)
+			BACK: (PRICE:1.23,SIZE:9.19)
+			LAY: (PRICE:1.26,SIZE:32.5)
+			LAY: (PRICE:1.3,SIZE:11.39)
+			LAY: (PRICE:1.31,SIZE:5.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:6.0,SIZE:164.4)
+			BACK: (PRICE:5.8,SIZE:14.94)
+			BACK: (PRICE:5.4,SIZE:42.59)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:13.0,SIZE:26.8)
+			BACK: (PRICE:12.0,SIZE:6.52)
+			BACK: (PRICE:11.5,SIZE:27.0)
+			LAY: (PRICE:15.0,SIZE:43.76)
+			LAY: (PRICE:21.0,SIZE:3.21)
+ENTRY: 8
+	TIME: 17:00:36.288
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 9
+	TIME: 17:00:41.218
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 10
+	TIME: 17:00:46.426
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 11
+	TIME: 17:00:51.032
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 12
+	TIME: 17:00:56.208
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 13
+	TIME: 17:01:00.962
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 14
+	TIME: 17:01:05.949
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 15
+	TIME: 17:01:11.211
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 16
+	TIME: 17:01:16.116
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 17
+	TIME: 17:01:24.548
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 18
+	TIME: 17:01:28.342
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 19
+	TIME: 17:01:31.392
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 20
+	TIME: 17:01:35.981
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 21
+	TIME: 17:01:41.047
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 22
+	TIME: 17:01:46.227
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 23
+	TIME: 17:01:51.189
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 24
+	TIME: 17:01:55.958
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 25
+	TIME: 17:02:01.052
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 26
+	TIME: 17:02:06.034
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 27
+	TIME: 17:02:11.487
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 28
+	TIME: 17:02:16.274
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 29
+	TIME: 17:02:21.324
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 30
+	TIME: 17:02:26.598
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 31
+	TIME: 17:02:31.231
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 32
+	TIME: 17:02:36.034
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 33
+	TIME: 17:02:41.006
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 34
+	TIME: 17:02:46.296
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 35
+	TIME: 17:02:51.047
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 36
+	TIME: 17:02:56.040
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 37
+	TIME: 17:03:01.458
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 38
+	TIME: 17:03:06.061
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 39
+	TIME: 17:03:11.137
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 40
+	TIME: 17:03:16.109
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 41
+	TIME: 17:03:21.020
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 42
+	TIME: 17:03:26.037
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 43
+	TIME: 17:03:31.147
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 44
+	TIME: 17:03:36.205
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 45
+	TIME: 17:03:41.248
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 46
+	TIME: 17:03:46.839
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 47
+	TIME: 17:03:52.564
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 48
+	TIME: 17:03:56.563
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 49
+	TIME: 17:04:03.281
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 50
+	TIME: 17:04:06.197
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 51
+	TIME: 17:04:11.187
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 52
+	TIME: 17:04:16.241
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 53
+	TIME: 17:04:24.923
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 54
+	TIME: 17:04:26.358
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 55
+	TIME: 17:04:31.008
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 56
+	TIME: 17:04:36.079
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 57
+	TIME: 17:04:41.057
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 58
+	TIME: 17:04:46.100
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 59
+	TIME: 17:04:51.010
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 60
+	TIME: 17:04:55.972
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 61
+	TIME: 17:05:01.164
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 62
+	TIME: 17:05:06.079
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 63
+	TIME: 17:05:11.052
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 64
+	TIME: 17:05:17.631
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 65
+	TIME: 17:05:21.267
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 66
+	TIME: 17:05:26.447
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 67
+	TIME: 17:05:31.172
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 68
+	TIME: 17:05:36.314
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 69
+	TIME: 17:05:41.011
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 70
+	TIME: 17:05:46.182
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 71
+	TIME: 17:05:51.059
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 72
+	TIME: 17:06:05.046
+		RUNNER: England (HT)
+			LAY: (PRICE:1.12,SIZE:15.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 73
+	TIME: 17:06:20.184
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 74
+	TIME: 17:06:28.726
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 75
+	TIME: 17:06:32.107
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 76
+	TIME: 17:06:35.984
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 77
+	TIME: 17:06:39.729
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 78
+	TIME: 17:06:44.810
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 79
+	TIME: 17:06:49.885
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 80
+	TIME: 17:06:54.754
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 81
+	TIME: 17:06:59.909
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 82
+	TIME: 17:07:04.757
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 83
+	TIME: 17:07:09.658
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 84
+	TIME: 17:07:14.672
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 85
+	TIME: 17:07:19.751
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 86
+	TIME: 17:07:24.675
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 87
+	TIME: 17:07:29.921
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 88
+	TIME: 17:07:34.662
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 89
+	TIME: 17:07:39.670
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 90
+	TIME: 17:07:44.715
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 91
+	TIME: 17:07:49.645
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 92
+	TIME: 17:07:54.735
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 93
+	TIME: 17:07:59.658
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 94
+	TIME: 17:08:04.663
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 95
+	TIME: 17:08:09.814
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 96
+	TIME: 17:08:14.738
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 97
+	TIME: 17:08:19.808
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 98
+	TIME: 17:08:24.806
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 99
+	TIME: 17:08:30.065
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 100
+	TIME: 17:08:34.678
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 101
+	TIME: 17:08:39.667
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 102
+	TIME: 17:08:44.690
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 103
+	TIME: 17:08:49.698
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 104
+	TIME: 17:08:54.706
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 105
+	TIME: 17:08:59.682
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 106
+	TIME: 17:09:04.650
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 107
+	TIME: 17:09:09.678
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 108
+	TIME: 17:09:14.663
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 109
+	TIME: 17:09:19.664
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 110
+	TIME: 17:09:24.681
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 111
+	TIME: 17:09:29.745
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 112
+	TIME: 17:09:34.807
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 113
+	TIME: 17:09:39.754
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 114
+	TIME: 17:09:45.071
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 115
+	TIME: 17:09:49.721
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 116
+	TIME: 17:09:54.733
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 117
+	TIME: 17:09:59.851
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 118
+	TIME: 17:10:04.692
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 119
+	TIME: 17:10:09.686
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 120
+	TIME: 17:10:14.701
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 121
+	TIME: 17:10:19.816
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 122
+	TIME: 17:10:24.835
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 123
+	TIME: 17:10:30.081
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 124
+	TIME: 17:10:36.913
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 125
+	TIME: 17:10:40.862
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 126
+	TIME: 17:10:44.868
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 127
+	TIME: 17:10:54.119
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 128
+	TIME: 17:10:55.146
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 129
+	TIME: 17:11:00.984
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 130
+	TIME: 17:11:06.314
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 131
+	TIME: 17:11:10.249
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 132
+	TIME: 17:11:15.245
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 133
+	TIME: 17:11:20.063
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 134
+	TIME: 17:11:25.147
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 135
+	TIME: 17:11:30.104
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 136
+	TIME: 17:11:35.073
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 137
+	TIME: 17:11:40.031
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 138
+	TIME: 17:11:48.075
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 139
+	TIME: 17:11:50.070
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 140
+	TIME: 17:11:55.108
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 141
+	TIME: 17:12:00.030
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 142
+	TIME: 17:12:05.060
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 143
+	TIME: 17:12:10.703
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 144
+	TIME: 17:12:15.151
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 145
+	TIME: 17:12:20.177
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 146
+	TIME: 17:12:25.058
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 147
+	TIME: 17:12:30.372
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 148
+	TIME: 17:12:35.197
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 149
+	TIME: 17:12:40.450
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 150
+	TIME: 17:12:45.096
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 151
+	TIME: 17:12:50.163
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 152
+	TIME: 17:12:55.147
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 153
+	TIME: 17:13:00.056
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 154
+	TIME: 17:13:05.036
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 155
+	TIME: 17:13:10.268
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 156
+	TIME: 17:13:15.046
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 157
+	TIME: 17:13:20.065
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 158
+	TIME: 17:13:25.058
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 159
+	TIME: 17:13:30.066
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 160
+	TIME: 17:13:35.113
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 161
+	TIME: 17:13:40.061
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 162
+	TIME: 17:13:45.127
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 163
+	TIME: 17:13:50.107
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 164
+	TIME: 17:13:55.392
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 165
+	TIME: 17:14:00.158
+		RUNNER: England (HT)
+			BACK: (PRICE:1.02,SIZE:678.33)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 166
+	TIME: 17:14:05.318
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 167
+	TIME: 17:14:10.046
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 168
+	TIME: 17:14:15.026
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 169
+	TIME: 17:14:20.151
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 170
+	TIME: 17:14:25.089
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 171
+	TIME: 17:14:30.124
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 172
+	TIME: 17:14:35.057
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 173
+	TIME: 17:14:40.052
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 174
+	TIME: 17:14:45.052
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 175
+	TIME: 17:14:50.058
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 176
+	TIME: 17:14:55.123
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 177
+	TIME: 17:15:00.198
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 178
+	TIME: 17:15:05.144
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 179
+	TIME: 17:15:10.062
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 180
+	TIME: 17:15:15.136
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 181
+	TIME: 17:15:20.214
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 182
+	TIME: 17:15:25.547
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 183
+	TIME: 17:15:33.048
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 184
+	TIME: 17:15:35.108
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 185
+	TIME: 17:15:40.106
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 186
+	TIME: 17:15:45.040
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 187
+	TIME: 17:15:50.302
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 188
+	TIME: 17:15:55.075
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 189
+	TIME: 17:16:00.128
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 190
+	TIME: 17:16:05.065
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 191
+	TIME: 17:16:10.051
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 192
+	TIME: 17:16:15.049
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 193
+	TIME: 17:16:20.116
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 194
+	TIME: 17:16:26.359
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 195
+	TIME: 17:16:30.221
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 196
+	TIME: 17:16:35.079
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 197
+	TIME: 17:16:40.070
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 198
+	TIME: 17:16:45.282
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 199
+	TIME: 17:16:50.301
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 200
+	TIME: 17:16:55.081
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 201
+	TIME: 17:17:00.058
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 202
+	TIME: 17:17:05.080
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 203
+	TIME: 17:17:10.045
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 204
+	TIME: 17:17:15.064
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 205
+	TIME: 17:17:20.145
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 206
+	TIME: 17:17:25.160
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 207
+	TIME: 17:17:30.073
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 208
+	TIME: 17:17:35.080
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 209
+	TIME: 17:17:40.066
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 210
+	TIME: 17:17:45.100
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 211
+	TIME: 17:17:50.059
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 212
+	TIME: 17:17:55.167
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 213
+	TIME: 17:18:00.057
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 214
+	TIME: 17:18:05.123
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 215
+	TIME: 17:18:10.077
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 216
+	TIME: 17:18:15.498
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 217
+	TIME: 17:18:20.314
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 218
+	TIME: 17:18:25.338
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 219
+	TIME: 17:18:30.043
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 220
+	TIME: 17:18:35.271
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 221
+	TIME: 17:18:40.067
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 222
+	TIME: 17:18:45.611
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 223
+	TIME: 17:18:50.091
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 224
+	TIME: 17:18:55.117
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 225
+	TIME: 17:19:00.074
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 226
+	TIME: 17:19:05.076
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 227
+	TIME: 17:19:10.070
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 228
+	TIME: 17:19:15.060
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 229
+	TIME: 17:19:20.105
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 230
+	TIME: 17:19:25.085
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 231
+	TIME: 17:19:30.214
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 232
+	TIME: 17:19:35.236
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 233
+	TIME: 17:19:40.340
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 234
+	TIME: 17:19:45.053
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 235
+	TIME: 17:19:50.087
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 236
+	TIME: 17:19:55.191
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 237
+	TIME: 17:20:00.108
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 238
+	TIME: 17:20:05.120
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 239
+	TIME: 17:20:10.111
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 240
+	TIME: 17:20:15.067
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 241
+	TIME: 17:20:20.204
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 242
+	TIME: 17:20:25.072
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 243
+	TIME: 17:20:30.125
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 244
+	TIME: 17:20:35.122
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 245
+	TIME: 17:20:40.113
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 246
+	TIME: 17:20:45.096
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 247
+	TIME: 17:20:50.175
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 248
+	TIME: 17:20:55.194
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 249
+	TIME: 17:21:00.429
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 250
+	TIME: 17:21:05.144
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 251
+	TIME: 17:21:10.141
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 252
+	TIME: 17:21:15.226
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 253
+	TIME: 17:21:20.073
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 254
+	TIME: 17:21:25.148
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 255
+	TIME: 17:21:30.230
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 256
+	TIME: 17:21:35.109
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 257
+	TIME: 17:21:40.108
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 258
+	TIME: 17:21:45.213
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 259
+	TIME: 17:21:50.118
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 260
+	TIME: 17:21:55.352
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 261
+	TIME: 17:22:00.138
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 262
+	TIME: 17:22:05.165
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 263
+	TIME: 17:22:10.127
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 264
+	TIME: 17:22:15.380
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 265
+	TIME: 17:22:20.167
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 266
+	TIME: 17:22:25.303
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 267
+	TIME: 17:22:30.083
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 268
+	TIME: 17:22:35.103
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 269
+	TIME: 17:22:40.095
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 270
+	TIME: 17:22:45.170
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 271
+	TIME: 17:22:50.084
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 272
+	TIME: 17:22:55.112
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 273
+	TIME: 17:23:00.118
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 274
+	TIME: 17:23:05.103
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 275
+	TIME: 17:23:10.083
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 276
+	TIME: 17:23:15.081
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 277
+	TIME: 17:23:20.069
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 278
+	TIME: 17:23:25.116
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 279
+	TIME: 17:23:30.092
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 280
+	TIME: 17:23:35.114
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 281
+	TIME: 17:23:40.280
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 282
+	TIME: 17:23:45.443
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 283
+	TIME: 17:23:50.093
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 284
+	TIME: 17:23:55.090
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 285
+	TIME: 17:24:00.134
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 286
+	TIME: 17:24:05.105
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 287
+	TIME: 17:24:10.164
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 288
+	TIME: 17:24:15.141
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 289
+	TIME: 17:24:20.162
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 290
+	TIME: 17:24:25.123
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 291
+	TIME: 17:24:30.111
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 292
+	TIME: 17:24:35.621
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 293
+	TIME: 17:24:40.147
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 294
+	TIME: 17:24:45.113
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 295
+	TIME: 17:24:50.104
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 296
+	TIME: 17:24:55.150
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 297
+	TIME: 17:25:00.293
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:10.17)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 298
+	TIME: 17:25:05.353
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 299
+	TIME: 17:25:10.376
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 300
+	TIME: 17:25:15.121
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 301
+	TIME: 17:25:20.121
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 302
+	TIME: 17:25:25.104
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 303
+	TIME: 17:25:30.174
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 304
+	TIME: 17:25:35.097
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 305
+	TIME: 17:25:40.127
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 306
+	TIME: 17:25:45.121
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 307
+	TIME: 17:25:50.083
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 308
+	TIME: 17:25:55.128
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 309
+	TIME: 17:26:00.107
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 310
+	TIME: 17:26:05.087
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 311
+	TIME: 17:26:10.125
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 312
+	TIME: 17:26:15.145
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 313
+	TIME: 17:26:20.105
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 314
+	TIME: 17:26:25.313
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 315
+	TIME: 17:26:30.353
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 316
+	TIME: 17:26:35.150
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 317
+	TIME: 17:26:40.187
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 318
+	TIME: 17:26:45.101
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 319
+	TIME: 17:26:50.089
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 320
+	TIME: 17:26:55.153
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 321
+	TIME: 17:27:00.193
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 322
+	TIME: 17:27:05.239
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 323
+	TIME: 17:27:10.146
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 324
+	TIME: 17:27:15.130
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 325
+	TIME: 17:27:20.111
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 326
+	TIME: 17:27:25.132
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 327
+	TIME: 17:27:30.113
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 328
+	TIME: 17:27:35.167
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 329
+	TIME: 17:27:40.086
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 330
+	TIME: 17:27:45.343
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 331
+	TIME: 17:27:50.159
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 332
+	TIME: 17:27:55.396
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 333
+	TIME: 17:28:00.101
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 334
+	TIME: 17:28:05.111
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 335
+	TIME: 17:28:10.114
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 336
+	TIME: 17:28:15.358
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 337
+	TIME: 17:28:20.159
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 338
+	TIME: 17:28:25.141
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 339
+	TIME: 17:28:30.152
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 340
+	TIME: 17:28:35.153
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 341
+	TIME: 17:28:40.115
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 342
+	TIME: 17:28:46.259
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 343
+	TIME: 17:28:50.175
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 344
+	TIME: 17:28:55.117
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 345
+	TIME: 17:29:00.117
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 346
+	TIME: 17:29:05.096
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 347
+	TIME: 17:29:10.557
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 348
+	TIME: 17:29:15.375
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 349
+	TIME: 17:29:23.244
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 350
+	TIME: 17:29:25.123
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 351
+	TIME: 17:29:30.218
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 352
+	TIME: 17:29:35.109
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 353
+	TIME: 17:29:40.128
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 354
+	TIME: 17:29:45.175
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 355
+	TIME: 17:29:50.163
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 356
+	TIME: 17:29:55.150
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 357
+	TIME: 17:30:00.135
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 358
+	TIME: 17:30:05.115
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 359
+	TIME: 17:30:10.129
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 360
+	TIME: 17:30:15.120
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 361
+	TIME: 17:30:20.117
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 362
+	TIME: 17:30:25.382
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 363
+	TIME: 17:30:30.195
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 364
+	TIME: 17:30:35.266
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 365
+	TIME: 17:30:40.699
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 366
+	TIME: 17:30:45.814
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 367
+	TIME: 17:30:50.124
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 368
+	TIME: 17:30:55.165
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 369
+	TIME: 17:31:00.125
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 370
+	TIME: 17:31:05.133
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 371
+	TIME: 17:31:10.688
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 372
+	TIME: 17:31:15.133
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 373
+	TIME: 17:31:20.446
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 374
+	TIME: 17:31:25.191
+		RUNNER: England (HT)
+			LAY: (PRICE:2.0,SIZE:2.71)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 375
+	TIME: 17:31:30.144
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 376
+	TIME: 17:31:35.233
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 377
+	TIME: 17:31:40.217
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 378
+	TIME: 17:31:45.103
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 379
+	TIME: 17:31:50.128
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 380
+	TIME: 17:31:55.124
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 381
+	TIME: 17:32:00.290
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 382
+	TIME: 17:32:05.387
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 383
+	TIME: 17:32:10.180
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 384
+	TIME: 17:32:15.147
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 385
+	TIME: 17:32:20.122
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 386
+	TIME: 17:32:25.174
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 387
+	TIME: 17:32:30.213
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 388
+	TIME: 17:32:35.127
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 389
+	TIME: 17:32:40.122
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 390
+	TIME: 17:32:45.160
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 391
+	TIME: 17:32:50.189
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 392
+	TIME: 17:32:55.155
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 393
+	TIME: 17:33:00.137
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 394
+	TIME: 17:33:05.291
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 395
+	TIME: 17:33:10.141
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 396
+	TIME: 17:33:15.137
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 397
+	TIME: 17:33:20.280
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 398
+	TIME: 17:33:25.356
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 399
+	TIME: 17:33:30.368
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 400
+	TIME: 17:33:35.153
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 401
+	TIME: 17:33:40.216
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 402
+	TIME: 17:33:45.449
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 403
+	TIME: 17:33:50.312
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 404
+	TIME: 17:33:55.211
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 405
+	TIME: 17:34:00.187
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 406
+	TIME: 17:34:05.411
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 407
+	TIME: 17:34:10.127
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 408
+	TIME: 17:34:15.137
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 409
+	TIME: 17:34:20.220
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 410
+	TIME: 17:34:25.162
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 411
+	TIME: 17:34:30.215
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 412
+	TIME: 17:34:35.204
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 413
+	TIME: 17:34:40.165
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 414
+	TIME: 17:34:45.407
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 415
+	TIME: 17:34:50.310
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 416
+	TIME: 17:34:55.393
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 417
+	TIME: 17:35:00.313
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 418
+	TIME: 17:35:05.417
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 419
+	TIME: 17:35:10.183
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 420
+	TIME: 17:35:15.156
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 421
+	TIME: 17:35:20.184
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 422
+	TIME: 17:35:25.198
+		RUNNER: England (HT)
+			BACK: (PRICE:1.1,SIZE:40.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 423
+	TIME: 17:35:30.133
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 424
+	TIME: 17:35:35.328
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 425
+	TIME: 17:35:40.297
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 426
+	TIME: 17:35:45.158
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 427
+	TIME: 17:35:50.204
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 428
+	TIME: 17:35:55.152
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 429
+	TIME: 17:36:00.194
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 430
+	TIME: 17:36:08.114
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 431
+	TIME: 17:36:10.307
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 432
+	TIME: 17:36:15.215
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 433
+	TIME: 17:36:20.425
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 434
+	TIME: 17:36:25.197
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 435
+	TIME: 17:36:30.182
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 436
+	TIME: 17:36:35.193
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 437
+	TIME: 17:36:40.204
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 438
+	TIME: 17:36:45.192
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 439
+	TIME: 17:36:50.297
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 440
+	TIME: 17:36:55.165
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 441
+	TIME: 17:37:00.259
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 442
+	TIME: 17:37:05.163
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 443
+	TIME: 17:37:10.247
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 444
+	TIME: 17:37:15.210
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 445
+	TIME: 17:37:20.196
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 446
+	TIME: 17:37:25.195
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 447
+	TIME: 17:37:30.176
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 448
+	TIME: 17:37:35.345
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 449
+	TIME: 17:37:40.564
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 450
+	TIME: 17:37:45.242
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 451
+	TIME: 17:37:50.217
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 452
+	TIME: 17:37:55.207
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 453
+	TIME: 17:38:00.181
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 454
+	TIME: 17:38:05.203
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 455
+	TIME: 17:38:10.251
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 456
+	TIME: 17:38:15.190
+		RUNNER: England (HT)
+			BACK: (PRICE:1.5,SIZE:33.0)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 457
+	TIME: 17:38:20.380
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 458
+	TIME: 17:38:25.215
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 459
+	TIME: 17:38:30.228
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 460
+	TIME: 17:38:35.199
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 461
+	TIME: 17:38:40.168
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 462
+	TIME: 17:38:45.260
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 463
+	TIME: 17:38:50.161
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 464
+	TIME: 17:38:55.277
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 465
+	TIME: 17:39:00.297
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 466
+	TIME: 17:39:05.436
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 467
+	TIME: 17:39:10.208
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 468
+	TIME: 17:39:15.220
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 469
+	TIME: 17:39:20.156
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 470
+	TIME: 17:39:25.232
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 471
+	TIME: 17:39:30.201
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 472
+	TIME: 17:39:35.190
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 473
+	TIME: 17:39:40.272
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 474
+	TIME: 17:39:45.373
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 475
+	TIME: 17:39:50.205
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 476
+	TIME: 17:39:55.280
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 477
+	TIME: 17:40:00.229
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 478
+	TIME: 17:40:05.175
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 479
+	TIME: 17:40:10.695
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 480
+	TIME: 17:40:15.398
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 481
+	TIME: 17:40:20.477
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 482
+	TIME: 17:40:25.735
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 483
+	TIME: 17:40:30.260
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 484
+	TIME: 17:40:35.442
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 485
+	TIME: 17:40:40.192
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 486
+	TIME: 17:40:45.192
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 487
+	TIME: 17:40:50.186
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 488
+	TIME: 17:40:55.209
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 489
+	TIME: 17:41:00.206
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 490
+	TIME: 17:41:05.219
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 491
+	TIME: 17:41:10.227
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 492
+	TIME: 17:41:15.171
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 493
+	TIME: 17:41:20.193
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 494
+	TIME: 17:41:25.219
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 495
+	TIME: 17:41:30.319
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 496
+	TIME: 17:41:35.204
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 497
+	TIME: 17:41:40.309
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 498
+	TIME: 17:41:45.263
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 499
+	TIME: 17:41:50.369
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 500
+	TIME: 17:41:55.240
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 501
+	TIME: 17:42:00.205
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 502
+	TIME: 17:42:05.167
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 503
+	TIME: 17:42:10.219
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 504
+	TIME: 17:42:15.377
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 505
+	TIME: 17:42:20.216
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 506
+	TIME: 17:42:25.227
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 507
+	TIME: 17:42:30.210
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 508
+	TIME: 17:42:35.175
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 509
+	TIME: 17:42:40.221
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 510
+	TIME: 17:42:45.224
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 511
+	TIME: 17:42:50.258
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 512
+	TIME: 17:42:55.201
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 513
+	TIME: 17:43:00.204
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 514
+	TIME: 17:43:05.309
+		RUNNER: England (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+		RUNNER: Scotland (HT)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+			BACK: (PRICE:1.01,SIZE:1000.0)
+ENTRY: 515
+	TIME: 17:43:10.251
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 516
+	TIME: 17:43:15.537
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 517
+	TIME: 17:43:20.204
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 518
+	TIME: 17:43:25.204
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 519
+	TIME: 17:43:30.178
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:5.0,SIZE:10.0)
+			BACK: (PRICE:3.0,SIZE:250.0)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 520
+	TIME: 17:43:35.266
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:5.0,SIZE:10.0)
+			BACK: (PRICE:3.0,SIZE:250.0)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 521
+	TIME: 17:43:40.614
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 522
+	TIME: 17:43:45.215
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 523
+	TIME: 17:43:50.215
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 524
+	TIME: 17:43:55.238
+		RUNNER: England (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:3.0,SIZE:250.0)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 525
+	TIME: 17:44:00.185
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 526
+	TIME: 17:44:05.240
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 527
+	TIME: 17:44:10.220
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 528
+	TIME: 17:44:15.194
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 529
+	TIME: 17:44:20.250
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)
+ENTRY: 530
+	TIME: 17:44:25.272
+		RUNNER: England (HT)
+		RUNNER: Scotland (HT)
+			LAY: (PRICE:5.0,SIZE:2.71)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:1.2,SIZE:391.48)

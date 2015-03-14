@@ -1,0 +1,1015 @@
+England v Scotland_First Try Odds_1426352400000ENTRY: 1
+	TIME: 17:00:01.174
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:24.58)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+			LAY: (PRICE:2.92,SIZE:2.57)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 2
+	TIME: 17:00:06.809
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:24.58)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+			LAY: (PRICE:2.92,SIZE:2.57)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 3
+	TIME: 17:00:11.303
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:24.58)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+			LAY: (PRICE:2.92,SIZE:2.57)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 4
+	TIME: 17:00:16.105
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:24.58)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+			LAY: (PRICE:2.92,SIZE:2.57)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 5
+	TIME: 17:00:21.538
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:24.58)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+			LAY: (PRICE:2.92,SIZE:2.57)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 6
+	TIME: 17:00:26.690
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:25.01)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 7
+	TIME: 17:00:31.115
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:2.96,SIZE:14.35)
+			BACK: (PRICE:2.94,SIZE:9.79)
+			BACK: (PRICE:2.92,SIZE:3.26)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:2.9,SIZE:25.01)
+			BACK: (PRICE:2.88,SIZE:13.3)
+			BACK: (PRICE:2.86,SIZE:7.72)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:4.6,SIZE:12.97)
+			BACK: (PRICE:4.5,SIZE:7.14)
+			BACK: (PRICE:4.4,SIZE:2.59)
+			LAY: (PRICE:4.8,SIZE:3.03)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.2,SIZE:8.43)
+			BACK: (PRICE:8.0,SIZE:3.57)
+			BACK: (PRICE:7.6,SIZE:2.88)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:15.5,SIZE:4.7)
+			BACK: (PRICE:15.0,SIZE:6.67)
+			BACK: (PRICE:14.5,SIZE:61.6)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:24.0,SIZE:6.99)
+			BACK: (PRICE:23.0,SIZE:37.36)
+			BACK: (PRICE:22.0,SIZE:2.38)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:40.0,SIZE:2.94)
+			BACK: (PRICE:38.0,SIZE:22.22)
+			BACK: (PRICE:36.0,SIZE:11.11)
+		RUNNER: 71 - Full Time
+			BACK: (PRICE:44.0,SIZE:2.8)
+			BACK: (PRICE:42.0,SIZE:20.05)
+			BACK: (PRICE:40.0,SIZE:10.0)
+		RUNNER: No Try
+			BACK: (PRICE:36.0,SIZE:3.55)
+			BACK: (PRICE:34.0,SIZE:24.91)
+			BACK: (PRICE:30.0,SIZE:13.33)
+ENTRY: 8
+	TIME: 17:00:36.288
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 9
+	TIME: 17:00:41.218
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 10
+	TIME: 17:00:46.426
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 11
+	TIME: 17:00:51.033
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 12
+	TIME: 17:00:56.209
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 13
+	TIME: 17:01:00.962
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 14
+	TIME: 17:01:05.949
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 15
+	TIME: 17:01:11.212
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 16
+	TIME: 17:01:16.116
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 17
+	TIME: 17:01:24.549
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 18
+	TIME: 17:01:28.342
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 19
+	TIME: 17:01:31.393
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 20
+	TIME: 17:01:35.981
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 21
+	TIME: 17:01:41.048
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 22
+	TIME: 17:01:46.227
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 23
+	TIME: 17:01:51.190
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 24
+	TIME: 17:01:55.959
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 25
+	TIME: 17:02:01.053
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 26
+	TIME: 17:02:06.034
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 27
+	TIME: 17:02:11.487
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 28
+	TIME: 17:02:16.274
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 29
+	TIME: 17:02:21.325
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 30
+	TIME: 17:02:26.599
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 31
+	TIME: 17:02:31.231
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 32
+	TIME: 17:02:36.034
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 33
+	TIME: 17:02:41.006
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 34
+	TIME: 17:02:46.297
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 35
+	TIME: 17:02:51.048
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 36
+	TIME: 17:02:56.040
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 37
+	TIME: 17:03:01.458
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 38
+	TIME: 17:03:06.061
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 39
+	TIME: 17:03:11.137
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 40
+	TIME: 17:03:16.109
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 41
+	TIME: 17:03:21.021
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 42
+	TIME: 17:03:26.038
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 43
+	TIME: 17:03:31.147
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 44
+	TIME: 17:03:36.205
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 45
+	TIME: 17:03:41.249
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 46
+	TIME: 17:03:46.840
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 47
+	TIME: 17:03:52.565
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 48
+	TIME: 17:03:56.563
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 49
+	TIME: 17:04:03.282
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 50
+	TIME: 17:04:06.197
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 51
+	TIME: 17:04:11.188
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 52
+	TIME: 17:04:16.241
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 53
+	TIME: 17:04:24.923
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 54
+	TIME: 17:04:26.358
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 55
+	TIME: 17:04:31.009
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 56
+	TIME: 17:04:36.079
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 57
+	TIME: 17:04:41.058
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 58
+	TIME: 17:04:46.101
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 59
+	TIME: 17:04:51.011
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 60
+	TIME: 17:04:55.972
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 61
+	TIME: 17:05:01.165
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 62
+	TIME: 17:05:06.080
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 63
+	TIME: 17:05:11.053
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 64
+	TIME: 17:05:17.631
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 65
+	TIME: 17:05:21.268
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 66
+	TIME: 17:05:26.447
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 67
+	TIME: 17:05:31.173
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 68
+	TIME: 17:05:36.314
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 69
+	TIME: 17:05:41.011
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 70
+	TIME: 17:05:46.183
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 71
+	TIME: 17:05:51.060
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 72
+	TIME: 17:06:05.047
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 73
+	TIME: 17:06:20.184
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
+ENTRY: 74
+	TIME: 17:06:28.726
+		RUNNER: 0 - 10 Minutes
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - Full Time
+		RUNNER: No Try
