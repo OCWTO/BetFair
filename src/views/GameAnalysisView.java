@@ -8,20 +8,26 @@ public class GameAnalysisView extends BetFairView
 	public GameAnalysisView(ProgramOptions options)
 	{
 		super(frameTitle, options, null);
-		// TODO Auto-generated constructor stub
+		
+		//new analysis view sooo
+		//creates a recorder object, gives it betfair, observes it
+		
+		//Recorder will be observable
+		//Class will sit above it and parse events
+		//Class above it is observer and observable, it throws updates
+		//after it receives events and nicely formats
+		
 	}
 
 	@Override
 	void setupPanels()
 	{
-		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
 	void addMenus()
 	{
-		// TODO Auto-generated method stub
 		
 	}
 

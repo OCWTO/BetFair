@@ -110,7 +110,7 @@ public class SimpleBetFairCore implements ISimpleBetFair
 		List<BetFairMarketObject> formattedMarketList = new ArrayList<BetFairMarketObject>();
 		for(int i = 0; i < marketList.size(); i++)
 		{
-			formattedMarketList.add(new BetFairMarketObject(marketList.get(i).getMarketName(), marketList.get(i).getMarketId()));
+			formattedMarketList.add(new BetFairMarketObject(marketList.get(i)));
 		}
 
 		return formattedMarketList;
@@ -151,5 +151,18 @@ public class SimpleBetFairCore implements ISimpleBetFair
 	{
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	@Override
+	public List<BetFairMarketData> getMarketInformation(List<String> marketIds)
+	{
+		List<MarketBook> marketBook = betFair.getMarketBook(marketIds);
+		List<BetFairMarketData> marketInformation = new ArrayList<BetFairMarketData>();
+		
+		for(MarketBook book: marketBook)
+		{
+			marketInformation.add(new BetFairMarketData(book));
+		}
+		return marketInformation;
 	}
 }

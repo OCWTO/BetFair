@@ -40,6 +40,9 @@ public interface ISimpleBetFair
 	 */
 	public List<BetFairMarketObject> getMarketsForGame(String gameId);
 	
+	
+	public List<BetFairMarketData> getMarketInformation(List<String> marketIds);
+	
 	/**
 	 * 
 	 * @return

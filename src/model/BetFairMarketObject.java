@@ -1,22 +1,49 @@
 package model;
 
+import java.util.Date;
+import java.util.List;
+
+import betFairGSONClasses.Event;
+import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.RunnerCatalog;
+
 public class BetFairMarketObject implements BetFairDataObject
 {
-	//TODO add tostring
 	private String marketName;
 	private String marketId;
+	private List<RunnerCatalog> marketRunners;
+	private Date marketOpenDate;
+	private Event marketEvent;
 	
-	public BetFairMarketObject(String name, String id)
+	public BetFairMarketObject(MarketCatalogue market)
 	{
-		marketName = name;
-		marketId = id;
+		marketName = market.getMarketName();
+		marketId = market.getMarketId();
+		marketRunners = market.getRunners();
+		marketOpenDate = market.getEvent().getOpenDate();
+		marketEvent = market.getEvent();
+	}
+	
+	public Date getOpenDate()
+	{
+		return marketOpenDate;
 	}
 
+	public List<RunnerCatalog> getRunners()
+	{
+		return marketRunners;
+	}
+	
 	public String getName()
 	{
 		return marketName;
 	}
 
+	public Event getMarketEvent()
+	{
+		return marketEvent;
+	}
+	
 	public String getId()
 	{
 		return marketId;

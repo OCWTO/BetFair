@@ -77,7 +77,12 @@ public class BetFairCore implements IBetFairCore
 
 	// Created on log in, required for all other calls.
 	private String sessionToken;
-
+	//TODO fix the output so i get game name+market then newline then odds (csv)
+	//TODO convert everything to use simplebetfair
+	//TODO implement the gui 
+	//TODO implement the observer/observable and test
+	//Other than that just clean up code.
+	//Take note of this https://site.sports.betfair.com/betting/WheresTheMoneyAction.do?eventTypeId=7511&sortId=2&timeZone=Europe/London&region=GBR&locale=en_GB&brand=betfair&currency=GBP&hybrid=
 	// Used to locate certs.
 	private String directoryPrefix;
 	private String separator;

@@ -11,6 +11,7 @@ import model.BetFairGameObject;
 import model.BetFairMarketObject;
 import model.BetFairSportObject;
 import model.GameRecorder;
+import model.ISimpleBetFair;
 import model.SimpleBetFairCore;
 import exceptions.CryptoException;
 
@@ -24,7 +25,7 @@ import exceptions.CryptoException;
 public class TextFrontEnd
 {
 	private Scanner userInput;
-	private SimpleBetFairCore betFair;
+	private ISimpleBetFair betFair;
 	private GameRecorder recorder;
 
 	/**
@@ -68,7 +69,7 @@ public class TextFrontEnd
 
 			
 			//THIS CODE starts a recorder so we want to do the same sort of stuff except observe it too
-			recorder = new GameRecorder(betFair.getBetFair(), marketId);
+			recorder = new GameRecorder(betFair, marketId);
 			System.out.println(marketId.get(0));
 			Timer timer = new Timer();
 			timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
