@@ -2,7 +2,7 @@ package model;
 
 import betFairGSONClasses.Event;
 
-public class BetFairGameObject
+public class BetFairGameObject implements BetFairDataObject
 {
 	private Event gameObj;
 	

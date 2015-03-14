@@ -43,8 +43,8 @@ public class MarketSelectView extends BetFairView
 		
 		for(int i = 0; i < availableMarkets.size(); i++)
 		{
-			rowData[i][0] = availableMarkets.get(i).getMarketName();
-			rowData[i][1] = availableMarkets.get(i).getMarketId();
+			rowData[i][0] = availableMarkets.get(i).getName();
+			rowData[i][1] = availableMarkets.get(i).getId();
 		}
 		
 		marketListTable = new JTable(rowData, columnNames);
@@ -83,7 +83,7 @@ public class MarketSelectView extends BetFairView
 	public ProgramOptions getOptions()
 	{
 		if(marketListTable.getSelectedRow() != -1)
-			super.getOptions().setEventTypeId(availableMarkets.get(marketListTable.getSelectedRow()).getMarketId());
+			super.getOptions().setEventTypeId(availableMarkets.get(marketListTable.getSelectedRow()).getId());
 		
 		return super.getOptions();
 	}

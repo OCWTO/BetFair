@@ -119,9 +119,9 @@ public class TextFrontEnd
 					selectedMarket = gameMarkets.get(Integer
 							.parseInt(inputTokens[inputTokens.length - 1]));
 					System.out.println("Adding market: "
-							+ selectedMarket.getMarketName() + " to list");
+							+ selectedMarket.getName() + " to list");
 					selectedMarkets.add(gameId + ","
-							+ selectedMarket.getMarketId());
+							+ selectedMarket.getId());
 				}
 				else
 				{

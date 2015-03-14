@@ -683,22 +683,4 @@ public class GameRecorder extends TimerTask
 			}
 		}
 	}
-
-	
-	/**
-	 * Store the amount of money matched for each market in the game
-	 */
-	private void storeMarketMoneyMatchedData()
-	{
-		//need an arraylist of values for every market present
-		//String gameId = gameToMarkets.keySet();
-		
-		/*
-		 * Get game id
-		 * get marketbook for that game
-		 * 
-		 * for each marketbook if our initial index 0 has a name match then add data
-		 * else skip
-		 */
-	}
 }

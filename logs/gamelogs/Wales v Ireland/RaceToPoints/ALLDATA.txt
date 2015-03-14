@@ -1,0 +1,1562 @@
+Wales v Ireland_Race To 10 Points_1426343400000ENTRY: 1
+	TIME: 14:30:00.656
+		RUNNER: Wales
+			BACK: (PRICE:2.1,SIZE:55.0)
+			BACK: (PRICE:2.04,SIZE:77.96)
+			BACK: (PRICE:2.02,SIZE:49.22)
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+			BACK: (PRICE:1.85,SIZE:291.12)
+			BACK: (PRICE:1.84,SIZE:29.4)
+			BACK: (PRICE:1.83,SIZE:105.82)
+			LAY: (PRICE:2.08,SIZE:3.44)
+			LAY: (PRICE:2.12,SIZE:2.0)
+		RUNNER: Neither Team
+			BACK: (PRICE:34.0,SIZE:3.05)
+			BACK: (PRICE:32.0,SIZE:26.52)
+			BACK: (PRICE:27.0,SIZE:3.59)
+ENTRY: 2
+	TIME: 14:30:05.414
+		RUNNER: Wales
+			BACK: (PRICE:2.1,SIZE:55.0)
+			BACK: (PRICE:2.04,SIZE:77.96)
+			BACK: (PRICE:2.02,SIZE:49.22)
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+			BACK: (PRICE:1.85,SIZE:291.12)
+			BACK: (PRICE:1.84,SIZE:29.4)
+			BACK: (PRICE:1.83,SIZE:105.82)
+			LAY: (PRICE:2.08,SIZE:3.44)
+			LAY: (PRICE:2.12,SIZE:2.0)
+		RUNNER: Neither Team
+			BACK: (PRICE:34.0,SIZE:3.05)
+			BACK: (PRICE:32.0,SIZE:26.52)
+			BACK: (PRICE:27.0,SIZE:3.59)
+ENTRY: 3
+	TIME: 14:30:10.506
+		RUNNER: Wales
+			BACK: (PRICE:2.1,SIZE:55.0)
+			BACK: (PRICE:2.04,SIZE:77.96)
+			BACK: (PRICE:2.02,SIZE:49.22)
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+			BACK: (PRICE:1.85,SIZE:291.12)
+			BACK: (PRICE:1.84,SIZE:29.4)
+			BACK: (PRICE:1.83,SIZE:105.82)
+			LAY: (PRICE:2.08,SIZE:3.44)
+			LAY: (PRICE:2.12,SIZE:2.0)
+		RUNNER: Neither Team
+			BACK: (PRICE:34.0,SIZE:3.05)
+			BACK: (PRICE:32.0,SIZE:26.52)
+			BACK: (PRICE:27.0,SIZE:3.59)
+ENTRY: 4
+	TIME: 14:30:15.388
+		RUNNER: Wales
+			BACK: (PRICE:2.1,SIZE:55.0)
+			BACK: (PRICE:2.04,SIZE:77.96)
+			BACK: (PRICE:2.02,SIZE:49.22)
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+			BACK: (PRICE:1.85,SIZE:291.12)
+			BACK: (PRICE:1.84,SIZE:29.4)
+			BACK: (PRICE:1.83,SIZE:105.82)
+			LAY: (PRICE:2.08,SIZE:3.44)
+			LAY: (PRICE:2.12,SIZE:2.0)
+		RUNNER: Neither Team
+			BACK: (PRICE:34.0,SIZE:3.05)
+			BACK: (PRICE:32.0,SIZE:26.52)
+			BACK: (PRICE:27.0,SIZE:3.59)
+ENTRY: 5
+	TIME: 14:30:20.337
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 6
+	TIME: 14:30:25.418
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 7
+	TIME: 14:30:30.550
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 8
+	TIME: 14:30:35.748
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 9
+	TIME: 14:30:40.358
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 10
+	TIME: 14:30:45.404
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 11
+	TIME: 14:30:50.409
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 12
+	TIME: 14:30:55.469
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 13
+	TIME: 14:31:00.408
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 14
+	TIME: 14:31:05.432
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 15
+	TIME: 14:31:12.648
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 16
+	TIME: 14:31:16.382
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 17
+	TIME: 14:31:20.458
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 18
+	TIME: 14:31:25.493
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 19
+	TIME: 14:31:30.457
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 20
+	TIME: 14:31:35.487
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 21
+	TIME: 14:31:40.843
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 22
+	TIME: 14:31:46.419
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 23
+	TIME: 14:31:50.511
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 24
+	TIME: 14:31:55.521
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 25
+	TIME: 14:32:00.529
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 26
+	TIME: 14:32:05.540
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 27
+	TIME: 14:32:10.552
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 28
+	TIME: 14:32:15.536
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 29
+	TIME: 14:32:20.586
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 30
+	TIME: 14:32:25.634
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 31
+	TIME: 14:32:30.565
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 32
+	TIME: 14:32:35.598
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 33
+	TIME: 14:32:41.151
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 34
+	TIME: 14:32:45.609
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 35
+	TIME: 14:32:51.424
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 36
+	TIME: 14:32:56.232
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 37
+	TIME: 14:33:00.604
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 38
+	TIME: 14:33:05.664
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 39
+	TIME: 14:33:10.886
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 40
+	TIME: 14:33:15.705
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 41
+	TIME: 14:33:21.005
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 42
+	TIME: 14:33:28.175
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 43
+	TIME: 14:33:30.652
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 44
+	TIME: 14:33:35.654
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 45
+	TIME: 14:33:40.677
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 46
+	TIME: 14:33:45.652
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 47
+	TIME: 14:33:50.675
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 48
+	TIME: 14:33:55.707
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 49
+	TIME: 14:34:00.707
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 50
+	TIME: 14:34:05.712
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 51
+	TIME: 14:34:10.759
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 52
+	TIME: 14:34:16.053
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 53
+	TIME: 14:34:20.727
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 54
+	TIME: 14:34:25.717
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 55
+	TIME: 14:34:30.787
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 56
+	TIME: 14:34:35.785
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 57
+	TIME: 14:34:41.676
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 58
+	TIME: 14:34:45.823
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 59
+	TIME: 14:34:50.779
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 60
+	TIME: 14:34:56.394
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 61
+	TIME: 14:35:01.331
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 62
+	TIME: 14:35:05.820
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 63
+	TIME: 14:35:10.761
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 64
+	TIME: 14:35:15.867
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 65
+	TIME: 14:35:21.090
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 66
+	TIME: 14:35:25.858
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 67
+	TIME: 14:35:30.800
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 68
+	TIME: 14:35:35.805
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 69
+	TIME: 14:35:41.226
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 70
+	TIME: 14:35:45.906
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 71
+	TIME: 14:35:51.347
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 72
+	TIME: 14:35:55.832
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 73
+	TIME: 14:36:01.102
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 74
+	TIME: 14:36:05.879
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 75
+	TIME: 14:36:10.893
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 76
+	TIME: 14:36:15.884
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 77
+	TIME: 14:36:21.218
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 78
+	TIME: 14:36:25.951
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 79
+	TIME: 14:36:31.277
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 80
+	TIME: 14:36:35.935
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 81
+	TIME: 14:36:40.924
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 82
+	TIME: 14:36:45.940
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 83
+	TIME: 14:36:51.369
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 84
+	TIME: 14:36:55.953
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 85
+	TIME: 14:37:00.927
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 86
+	TIME: 14:37:06.152
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 87
+	TIME: 14:37:11.432
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 88
+	TIME: 14:37:15.972
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 89
+	TIME: 14:37:21.118
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 90
+	TIME: 14:37:26.068
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 91
+	TIME: 14:37:31.109
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 92
+	TIME: 14:37:36.072
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 93
+	TIME: 14:37:41.016
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 94
+	TIME: 14:37:46.250
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 95
+	TIME: 14:37:51.463
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 96
+	TIME: 14:37:56.061
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 97
+	TIME: 14:38:01.033
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 98
+	TIME: 14:38:06.094
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 99
+	TIME: 14:38:11.092
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 100
+	TIME: 14:38:16.101
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 101
+	TIME: 14:38:21.111
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 102
+	TIME: 14:38:26.405
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 103
+	TIME: 14:38:31.216
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 104
+	TIME: 14:38:36.131
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 105
+	TIME: 14:38:41.265
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 106
+	TIME: 14:38:46.428
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 107
+	TIME: 14:38:51.276
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 108
+	TIME: 14:38:56.150
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 109
+	TIME: 14:39:01.137
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 110
+	TIME: 14:39:06.421
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 111
+	TIME: 14:39:11.202
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 112
+	TIME: 14:39:16.272
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 113
+	TIME: 14:39:21.187
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 114
+	TIME: 14:39:26.299
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 115
+	TIME: 14:39:31.195
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 116
+	TIME: 14:39:36.196
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 117
+	TIME: 14:39:41.183
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 118
+	TIME: 14:39:46.612
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 119
+	TIME: 14:39:51.227
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 120
+	TIME: 14:39:56.227
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 121
+	TIME: 14:40:01.257
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 122
+	TIME: 14:40:06.328
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 123
+	TIME: 14:40:11.595
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 124
+	TIME: 14:40:16.468
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 125
+	TIME: 14:40:21.251
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 126
+	TIME: 14:40:26.803
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 127
+	TIME: 14:40:31.434
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 128
+	TIME: 14:40:36.265
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 129
+	TIME: 14:40:41.461
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 130
+	TIME: 14:40:46.814
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 131
+	TIME: 14:40:51.381
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 132
+	TIME: 14:40:56.309
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 133
+	TIME: 14:41:01.470
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 134
+	TIME: 14:41:06.826
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 135
+	TIME: 14:41:11.337
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 136
+	TIME: 14:41:16.389
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 137
+	TIME: 14:41:21.329
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 138
+	TIME: 14:41:26.313
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 139
+	TIME: 14:41:31.342
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 140
+	TIME: 14:41:36.372
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 141
+	TIME: 14:41:41.372
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 142
+	TIME: 14:41:46.370
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 143
+	TIME: 14:41:51.447
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 144
+	TIME: 14:41:56.387
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 145
+	TIME: 14:42:01.415
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 146
+	TIME: 14:42:06.844
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 147
+	TIME: 14:42:11.405
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 148
+	TIME: 14:42:16.414
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 149
+	TIME: 14:42:21.424
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 150
+	TIME: 14:42:26.411
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 151
+	TIME: 14:42:31.493
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 152
+	TIME: 14:42:36.467
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 153
+	TIME: 14:42:41.767
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 154
+	TIME: 14:42:46.453
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 155
+	TIME: 14:42:51.492
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+ENTRY: 156
+	TIME: 14:42:56.782
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 157
+	TIME: 14:43:01.704
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 158
+	TIME: 14:43:06.584
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 159
+	TIME: 14:43:11.488
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 160
+	TIME: 14:43:16.682
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 161
+	TIME: 14:43:21.525
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 162
+	TIME: 14:43:26.551
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 163
+	TIME: 14:43:31.522
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 164
+	TIME: 14:43:37.073
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 165
+	TIME: 14:43:41.540
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 166
+	TIME: 14:43:46.565
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 167
+	TIME: 14:43:52.179
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 168
+	TIME: 14:43:56.665
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 169
+	TIME: 14:44:01.567
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 170
+	TIME: 14:44:06.578
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 171
+	TIME: 14:44:11.600
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 172
+	TIME: 14:44:17.201
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 173
+	TIME: 14:44:21.618
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 174
+	TIME: 14:44:26.650
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 175
+	TIME: 14:44:31.635
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 176
+	TIME: 14:44:36.716
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 177
+	TIME: 14:44:41.611
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 178
+	TIME: 14:44:46.646
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 179
+	TIME: 14:44:52.325
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 180
+	TIME: 14:44:56.636
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 181
+	TIME: 14:45:01.654
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 182
+	TIME: 14:45:06.782
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 183
+	TIME: 14:45:11.656
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 184
+	TIME: 14:45:16.994
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 185
+	TIME: 14:45:21.686
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 186
+	TIME: 14:45:26.679
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 187
+	TIME: 14:45:31.682
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 188
+	TIME: 14:45:36.700
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 189
+	TIME: 14:45:42.295
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 190
+	TIME: 14:45:46.690
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 191
+	TIME: 14:45:51.707
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 192
+	TIME: 14:45:56.756
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 193
+	TIME: 14:46:01.702
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 194
+	TIME: 14:46:06.729
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 195
+	TIME: 14:46:11.739
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 196
+	TIME: 14:46:17.412
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 197
+	TIME: 14:46:21.755
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 198
+	TIME: 14:46:26.755
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 199
+	TIME: 14:46:31.818
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 200
+	TIME: 14:46:36.768
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 201
+	TIME: 14:46:41.784
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 202
+	TIME: 14:46:46.797
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 203
+	TIME: 14:46:52.028
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 204
+	TIME: 14:46:56.954
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 205
+	TIME: 14:47:02.989
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 206
+	TIME: 14:47:07.072
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 207
+	TIME: 14:47:11.816
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 208
+	TIME: 14:47:17.308
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 209
+	TIME: 14:47:21.848
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 210
+	TIME: 14:47:26.897
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 211
+	TIME: 14:47:31.897
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 212
+	TIME: 14:47:36.927
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 213
+	TIME: 14:47:41.884
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 214
+	TIME: 14:47:47.170
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 215
+	TIME: 14:47:51.972
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 216
+	TIME: 14:47:56.896
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 217
+	TIME: 14:48:01.902
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 218
+	TIME: 14:48:07.550
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 219
+	TIME: 14:48:11.911
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 220
+	TIME: 14:48:16.908
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 221
+	TIME: 14:48:22.254
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 222
+	TIME: 14:48:27.360
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 223
+	TIME: 14:48:31.942
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 224
+	TIME: 14:48:37.087
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 225
+	TIME: 14:48:41.956
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 226
+	TIME: 14:48:46.957
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 227
+	TIME: 14:48:52.079
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 228
+	TIME: 14:48:57.373
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 229
+	TIME: 14:49:02.305
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 230
+	TIME: 14:49:06.980
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 231
+	TIME: 14:49:12.263
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 232
+	TIME: 14:49:17.041
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 233
+	TIME: 14:49:22.013
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 234
+	TIME: 14:49:27.216
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 235
+	TIME: 14:49:32.075
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 236
+	TIME: 14:49:37.131
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 237
+	TIME: 14:49:42.045
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 238
+	TIME: 14:49:47.083
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
+ENTRY: 239
+	TIME: 14:49:52.056
+		RUNNER: Wales
+			LAY: (PRICE:2.2,SIZE:2.0)
+		RUNNER: Ireland
+		RUNNER: Neither Team
+			BACK: (PRICE:30.0,SIZE:2.0)
