@@ -10,10 +10,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.TimerTask;
 
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.MarketCatalogue;
+import betFairGSONClasses.MarketFilter;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
 import betFairGSONClasses.RunnerCatalog;
@@ -53,7 +55,7 @@ public class GameRecorder extends TimerTask
 {
 	// Game IDS mapped to the market IDS (those being tracked)
 	private Map<String, List<String>> gameToMarkets;
-
+	//TODO add code to store the new methods (moneymatched and jsonstrings at the end).
 	/*
 	 * Top level is just the game, so the lists inside the game list are markets
 	 * List 1 is the games markets being tracked List 2 is the market data, each
@@ -70,6 +72,7 @@ public class GameRecorder extends TimerTask
 	private File baseDirectory;
 	private String separator = File.separator;
 	private List<String> jsonMarketBookReplies;
+	private List<String> marketCatalogueActivity;
 	/**
 	 * @param gameAndMarkets
 	 *            An array of game IDs and market IDs in the form of
@@ -84,6 +87,7 @@ public class GameRecorder extends TimerTask
 		gameToMarkets = new HashMap<String, List<String>>();
 		gameData = new ArrayList<ArrayList<ArrayList<String>>>();
 		jsonMarketBookReplies = new ArrayList<String>();
+		marketCatalogueActivity = new ArrayList<String>();
 		generateGameToMarketMap(gameAndMarkets);
 		generateMarketIdToNameMap();
 		initiliseCollections();
@@ -189,7 +193,6 @@ public class GameRecorder extends TimerTask
 			// Grab the market catalogue, which contains list of all markets for
 			// that game
 			marketCatalogue = betFair.getMarketCatalogue(gameIDKey);
-
 			// Get the List of marketIds we are tracking
 			markets = gameToMarkets.get(gameIDKey);
 
@@ -376,6 +379,7 @@ public class GameRecorder extends TimerTask
 	@Override
 	public void run()
 	{
+		List<MarketCatalogue> completeCatalogue;
 		List<String> trackedMarkets;
 		List<MarketBook> marketData;
 		MarketBook currentBook;
@@ -389,10 +393,20 @@ public class GameRecorder extends TimerTask
 		{
 			trackedMarkets = gameToMarkets.get(gameIDKey);
 			marketData = betFair.getMarketBook(trackedMarkets);
+			
+			storeCatalogueActivity(betFair.getMarketCatalogue(gameIDKey));
+			//Set<String> eventIdSet = new HashSet<String>();
+			//eventIdSet.add(gameIDKey);
+			//tempFilter.setEventIds(eventIdSet);
+			//betFair.getM
+			
+			//completeCatalogue = betFair.getMarketCatalogue(gameIDKey);
+			//storeCatalogueActivity(completeCatalogue);
+			
+			
 			//TODO send all market data to get stored.
 			storeResultObject(marketData);
-			
-			
+			//marketdata is what the type we want
 			
 			//Each index returned represents one market.
 			assert marketData.size() == trackedMarkets.size();
@@ -437,6 +451,7 @@ public class GameRecorder extends TimerTask
 										.println("Last market closed. Shutting down.");
 								this.cancel();
 								saveData(gameData.remove(i));
+								storeMarketData();
 							}
 							else
 							{
@@ -467,6 +482,43 @@ public class GameRecorder extends TimerTask
 		}
 		System.out.println("Iteration " + counter + " complete!");
 		counter++;
+	}
+
+	private void storeMarketData()
+	{
+		//store json
+		//store moneymatched
+	}
+
+	/**
+	 * Creates strings of timestamp and market info for games
+	 * @param completeCatalogue
+	 */
+	private void storeCatalogueActivity(List<MarketCatalogue> completeCatalogue)
+	{
+		List<String> marketIds = new ArrayList<String>();
+		for(MarketCatalogue catalogueItem: completeCatalogue)
+			marketIds.add(catalogueItem.getMarketId());
+		
+		List<MarketBook> bookDetails = betFair.getMarketBook(marketIds);
+		
+		StringBuilder catalogueInformationBuilder = new StringBuilder();
+		
+		catalogueInformationBuilder.append("TIMESTAMP:" + LocalTime.now() + "\n");
+		
+		for(MarketBook bookItem : bookDetails)
+		{
+			for(int i = 0; i < completeCatalogue.size(); i++)
+			{
+				if(bookItem.getMarketId().equals(completeCatalogue.get(i).getMarketId()))
+				{
+					catalogueInformationBuilder.append("\t{" + completeCatalogue.get(i).getMarketName() + "," + bookItem.getMarketId() + ", matched: " +
+							bookItem.getTotalMatched() + ", available: " + bookItem.getTotalAvailable() + ", TOTAL " + (bookItem.getTotalAvailable()+bookItem.getTotalMatched()) + ",\n");
+				}
+			}
+		}
+		System.out.println("Adding " + catalogueInformationBuilder.toString());
+		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
 	}
 
 	//TODO add code to store this stuff in RAWJSONRESULTS.txt or something

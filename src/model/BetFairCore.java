@@ -247,6 +247,8 @@ public class BetFairCore implements IBetFairCore
 		List<String> marketIds = new ArrayList<String>();
 		marketIds.addAll(marketId);
 
+		
+		
 		Set<PriceData> priceData = new HashSet<PriceData>();
 		priceData.add(PriceData.EX_BEST_OFFERS);
 
@@ -269,6 +271,7 @@ public class BetFairCore implements IBetFairCore
 
 		return listMarketBook(marketIds, priceProjection, null);
 	}
+	
 
 	/**
 	 * @param filter
