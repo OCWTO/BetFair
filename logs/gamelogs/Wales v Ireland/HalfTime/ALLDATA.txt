@@ -1,0 +1,3242 @@
+Wales v Ireland_Half Time_1426343400000ENTRY: 1
+	TIME: 14:30:00.656
+		RUNNER: Wales (HT)
+			BACK: (PRICE:2.2,SIZE:685.71)
+			BACK: (PRICE:2.18,SIZE:230.09)
+			BACK: (PRICE:2.14,SIZE:21.93)
+		RUNNER: Ireland (HT)
+			BACK: (PRICE:2.02,SIZE:18.12)
+			BACK: (PRICE:1.98,SIZE:25.51)
+			BACK: (PRICE:1.97,SIZE:199.64)
+			LAY: (PRICE:2.2,SIZE:16.61)
+			LAY: (PRICE:2.24,SIZE:11.39)
+			LAY: (PRICE:2.28,SIZE:11.39)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:9.0,SIZE:8.98)
+			BACK: (PRICE:8.4,SIZE:25.33)
+			BACK: (PRICE:8.2,SIZE:3.47)
+			LAY: (PRICE:10.0,SIZE:32.64)
+			LAY: (PRICE:11.0,SIZE:120.0)
+			LAY: (PRICE:16.0,SIZE:2.0)
+ENTRY: 2
+	TIME: 14:30:05.414
+		RUNNER: Wales (HT)
+			BACK: (PRICE:2.2,SIZE:685.71)
+			BACK: (PRICE:2.18,SIZE:230.09)
+			BACK: (PRICE:2.14,SIZE:21.93)
+		RUNNER: Ireland (HT)
+			BACK: (PRICE:2.02,SIZE:18.12)
+			BACK: (PRICE:1.98,SIZE:25.51)
+			BACK: (PRICE:1.97,SIZE:199.64)
+			LAY: (PRICE:2.2,SIZE:16.61)
+			LAY: (PRICE:2.24,SIZE:11.39)
+			LAY: (PRICE:2.28,SIZE:11.39)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:9.0,SIZE:8.98)
+			BACK: (PRICE:8.4,SIZE:25.33)
+			BACK: (PRICE:8.2,SIZE:3.47)
+			LAY: (PRICE:10.0,SIZE:32.64)
+			LAY: (PRICE:11.0,SIZE:120.0)
+			LAY: (PRICE:16.0,SIZE:2.0)
+ENTRY: 3
+	TIME: 14:30:10.506
+		RUNNER: Wales (HT)
+			BACK: (PRICE:2.2,SIZE:685.71)
+			BACK: (PRICE:2.18,SIZE:230.09)
+			BACK: (PRICE:2.14,SIZE:21.93)
+		RUNNER: Ireland (HT)
+			BACK: (PRICE:2.02,SIZE:18.12)
+			BACK: (PRICE:1.98,SIZE:25.51)
+			BACK: (PRICE:1.97,SIZE:199.64)
+			LAY: (PRICE:2.2,SIZE:16.61)
+			LAY: (PRICE:2.24,SIZE:11.39)
+			LAY: (PRICE:2.28,SIZE:11.39)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:9.0,SIZE:8.98)
+			BACK: (PRICE:8.4,SIZE:25.33)
+			BACK: (PRICE:8.2,SIZE:3.47)
+			LAY: (PRICE:10.0,SIZE:32.64)
+			LAY: (PRICE:11.0,SIZE:120.0)
+			LAY: (PRICE:16.0,SIZE:2.0)
+ENTRY: 4
+	TIME: 14:30:15.388
+		RUNNER: Wales (HT)
+			BACK: (PRICE:2.2,SIZE:685.71)
+			BACK: (PRICE:2.18,SIZE:230.09)
+			BACK: (PRICE:2.14,SIZE:21.93)
+		RUNNER: Ireland (HT)
+			BACK: (PRICE:2.02,SIZE:18.12)
+			BACK: (PRICE:1.98,SIZE:25.51)
+			BACK: (PRICE:1.97,SIZE:199.64)
+			LAY: (PRICE:2.2,SIZE:16.61)
+			LAY: (PRICE:2.24,SIZE:11.39)
+			LAY: (PRICE:2.28,SIZE:11.39)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:9.0,SIZE:8.98)
+			BACK: (PRICE:8.4,SIZE:25.33)
+			BACK: (PRICE:8.2,SIZE:3.47)
+			LAY: (PRICE:10.0,SIZE:32.64)
+			LAY: (PRICE:11.0,SIZE:120.0)
+			LAY: (PRICE:16.0,SIZE:2.0)
+ENTRY: 5
+	TIME: 14:30:20.337
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 6
+	TIME: 14:30:25.418
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 7
+	TIME: 14:30:30.550
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 8
+	TIME: 14:30:35.748
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 9
+	TIME: 14:30:40.358
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 10
+	TIME: 14:30:45.404
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 11
+	TIME: 14:30:50.409
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 12
+	TIME: 14:30:55.469
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 13
+	TIME: 14:31:00.423
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 14
+	TIME: 14:31:05.432
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 15
+	TIME: 14:31:12.648
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 16
+	TIME: 14:31:16.382
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 17
+	TIME: 14:31:20.458
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 18
+	TIME: 14:31:25.493
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 19
+	TIME: 14:31:30.457
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 20
+	TIME: 14:31:35.487
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 21
+	TIME: 14:31:40.843
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 22
+	TIME: 14:31:46.419
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 23
+	TIME: 14:31:50.511
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 24
+	TIME: 14:31:55.521
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 25
+	TIME: 14:32:00.529
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 26
+	TIME: 14:32:05.540
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 27
+	TIME: 14:32:10.552
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 28
+	TIME: 14:32:15.536
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 29
+	TIME: 14:32:20.586
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 30
+	TIME: 14:32:25.634
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 31
+	TIME: 14:32:30.565
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 32
+	TIME: 14:32:35.598
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 33
+	TIME: 14:32:41.151
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 34
+	TIME: 14:32:45.609
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 35
+	TIME: 14:32:51.424
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 36
+	TIME: 14:32:56.232
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 37
+	TIME: 14:33:00.604
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 38
+	TIME: 14:33:05.664
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 39
+	TIME: 14:33:10.886
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 40
+	TIME: 14:33:15.705
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 41
+	TIME: 14:33:21.005
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 42
+	TIME: 14:33:28.175
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 43
+	TIME: 14:33:30.652
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 44
+	TIME: 14:33:35.654
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 45
+	TIME: 14:33:40.677
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 46
+	TIME: 14:33:45.652
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 47
+	TIME: 14:33:50.675
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 48
+	TIME: 14:33:55.707
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 49
+	TIME: 14:34:00.707
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 50
+	TIME: 14:34:05.712
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 51
+	TIME: 14:34:10.759
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 52
+	TIME: 14:34:16.053
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 53
+	TIME: 14:34:20.727
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 54
+	TIME: 14:34:25.717
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 55
+	TIME: 14:34:30.787
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 56
+	TIME: 14:34:35.785
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 57
+	TIME: 14:34:41.676
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 58
+	TIME: 14:34:45.823
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 59
+	TIME: 14:34:50.779
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 60
+	TIME: 14:34:56.394
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 61
+	TIME: 14:35:01.331
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 62
+	TIME: 14:35:05.820
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 63
+	TIME: 14:35:10.761
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 64
+	TIME: 14:35:15.867
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 65
+	TIME: 14:35:21.090
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 66
+	TIME: 14:35:25.858
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 67
+	TIME: 14:35:30.800
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 68
+	TIME: 14:35:35.805
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 69
+	TIME: 14:35:41.226
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 70
+	TIME: 14:35:45.906
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 71
+	TIME: 14:35:51.347
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 72
+	TIME: 14:35:55.832
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 73
+	TIME: 14:36:01.102
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 74
+	TIME: 14:36:05.879
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 75
+	TIME: 14:36:10.893
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 76
+	TIME: 14:36:15.884
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 77
+	TIME: 14:36:21.218
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 78
+	TIME: 14:36:25.951
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 79
+	TIME: 14:36:31.277
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 80
+	TIME: 14:36:35.935
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 81
+	TIME: 14:36:40.924
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 82
+	TIME: 14:36:45.940
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 83
+	TIME: 14:36:51.370
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 84
+	TIME: 14:36:55.953
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 85
+	TIME: 14:37:00.927
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 86
+	TIME: 14:37:06.152
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 87
+	TIME: 14:37:11.432
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 88
+	TIME: 14:37:15.972
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 89
+	TIME: 14:37:21.118
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 90
+	TIME: 14:37:26.068
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 91
+	TIME: 14:37:31.109
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 92
+	TIME: 14:37:36.072
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 93
+	TIME: 14:37:41.016
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 94
+	TIME: 14:37:46.250
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 95
+	TIME: 14:37:51.463
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 96
+	TIME: 14:37:56.061
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 97
+	TIME: 14:38:01.033
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 98
+	TIME: 14:38:06.094
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 99
+	TIME: 14:38:11.092
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 100
+	TIME: 14:38:16.101
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 101
+	TIME: 14:38:21.111
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 102
+	TIME: 14:38:26.405
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 103
+	TIME: 14:38:31.216
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 104
+	TIME: 14:38:36.131
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 105
+	TIME: 14:38:41.265
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 106
+	TIME: 14:38:46.428
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 107
+	TIME: 14:38:51.276
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 108
+	TIME: 14:38:56.150
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 109
+	TIME: 14:39:01.137
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 110
+	TIME: 14:39:06.421
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 111
+	TIME: 14:39:11.202
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 112
+	TIME: 14:39:16.272
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 113
+	TIME: 14:39:21.187
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 114
+	TIME: 14:39:26.299
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 115
+	TIME: 14:39:31.195
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 116
+	TIME: 14:39:36.196
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 117
+	TIME: 14:39:41.183
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 118
+	TIME: 14:39:46.612
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 119
+	TIME: 14:39:51.227
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 120
+	TIME: 14:39:56.227
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 121
+	TIME: 14:40:01.257
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 122
+	TIME: 14:40:06.328
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 123
+	TIME: 14:40:11.595
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 124
+	TIME: 14:40:16.468
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 125
+	TIME: 14:40:21.251
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 126
+	TIME: 14:40:26.803
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 127
+	TIME: 14:40:31.434
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 128
+	TIME: 14:40:36.265
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 129
+	TIME: 14:40:41.461
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 130
+	TIME: 14:40:46.814
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 131
+	TIME: 14:40:51.382
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 132
+	TIME: 14:40:56.309
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 133
+	TIME: 14:41:01.470
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 134
+	TIME: 14:41:06.826
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 135
+	TIME: 14:41:11.337
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 136
+	TIME: 14:41:16.389
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 137
+	TIME: 14:41:21.329
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 138
+	TIME: 14:41:26.313
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 139
+	TIME: 14:41:31.342
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 140
+	TIME: 14:41:36.372
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 141
+	TIME: 14:41:41.372
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 142
+	TIME: 14:41:46.370
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 143
+	TIME: 14:41:51.447
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 144
+	TIME: 14:41:56.387
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 145
+	TIME: 14:42:01.415
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 146
+	TIME: 14:42:06.844
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 147
+	TIME: 14:42:11.405
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 148
+	TIME: 14:42:16.414
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 149
+	TIME: 14:42:21.424
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 150
+	TIME: 14:42:26.411
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 151
+	TIME: 14:42:31.493
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 152
+	TIME: 14:42:36.467
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 153
+	TIME: 14:42:41.767
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 154
+	TIME: 14:42:46.453
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 155
+	TIME: 14:42:51.492
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 156
+	TIME: 14:42:56.782
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 157
+	TIME: 14:43:01.704
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 158
+	TIME: 14:43:06.584
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 159
+	TIME: 14:43:11.488
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 160
+	TIME: 14:43:16.682
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 161
+	TIME: 14:43:21.525
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 162
+	TIME: 14:43:26.551
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 163
+	TIME: 14:43:31.522
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 164
+	TIME: 14:43:37.073
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 165
+	TIME: 14:43:41.540
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 166
+	TIME: 14:43:46.565
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 167
+	TIME: 14:43:52.179
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 168
+	TIME: 14:43:56.665
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 169
+	TIME: 14:44:01.567
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 170
+	TIME: 14:44:06.578
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 171
+	TIME: 14:44:11.600
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 172
+	TIME: 14:44:17.201
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 173
+	TIME: 14:44:21.618
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 174
+	TIME: 14:44:26.650
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 175
+	TIME: 14:44:31.635
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 176
+	TIME: 14:44:36.716
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 177
+	TIME: 14:44:41.611
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 178
+	TIME: 14:44:46.646
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 179
+	TIME: 14:44:52.325
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 180
+	TIME: 14:44:56.636
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 181
+	TIME: 14:45:01.654
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 182
+	TIME: 14:45:06.782
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 183
+	TIME: 14:45:11.656
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 184
+	TIME: 14:45:16.994
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 185
+	TIME: 14:45:21.686
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 186
+	TIME: 14:45:26.679
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 187
+	TIME: 14:45:31.682
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 188
+	TIME: 14:45:36.700
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 189
+	TIME: 14:45:42.295
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 190
+	TIME: 14:45:46.690
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 191
+	TIME: 14:45:51.707
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 192
+	TIME: 14:45:56.756
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 193
+	TIME: 14:46:01.702
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 194
+	TIME: 14:46:06.729
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 195
+	TIME: 14:46:11.739
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 196
+	TIME: 14:46:17.412
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 197
+	TIME: 14:46:21.755
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 198
+	TIME: 14:46:26.755
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 199
+	TIME: 14:46:31.818
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 200
+	TIME: 14:46:36.768
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 201
+	TIME: 14:46:41.784
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 202
+	TIME: 14:46:46.797
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 203
+	TIME: 14:46:52.028
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 204
+	TIME: 14:46:56.954
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 205
+	TIME: 14:47:02.989
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 206
+	TIME: 14:47:07.072
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 207
+	TIME: 14:47:11.816
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 208
+	TIME: 14:47:17.308
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 209
+	TIME: 14:47:21.848
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 210
+	TIME: 14:47:26.897
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 211
+	TIME: 14:47:31.897
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 212
+	TIME: 14:47:36.927
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 213
+	TIME: 14:47:41.884
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 214
+	TIME: 14:47:47.170
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 215
+	TIME: 14:47:51.972
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 216
+	TIME: 14:47:56.896
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 217
+	TIME: 14:48:01.902
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 218
+	TIME: 14:48:07.550
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 219
+	TIME: 14:48:11.911
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 220
+	TIME: 14:48:16.908
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 221
+	TIME: 14:48:22.254
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 222
+	TIME: 14:48:27.360
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 223
+	TIME: 14:48:31.942
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 224
+	TIME: 14:48:37.087
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 225
+	TIME: 14:48:41.956
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 226
+	TIME: 14:48:46.957
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 227
+	TIME: 14:48:52.079
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 228
+	TIME: 14:48:57.373
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 229
+	TIME: 14:49:02.305
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 230
+	TIME: 14:49:06.980
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 231
+	TIME: 14:49:12.263
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 232
+	TIME: 14:49:17.041
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 233
+	TIME: 14:49:22.013
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 234
+	TIME: 14:49:27.216
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 235
+	TIME: 14:49:32.076
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 236
+	TIME: 14:49:37.131
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 237
+	TIME: 14:49:42.045
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 238
+	TIME: 14:49:47.083
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 239
+	TIME: 14:49:52.056
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 240
+	TIME: 14:49:57.100
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 241
+	TIME: 14:50:02.453
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 242
+	TIME: 14:50:07.092
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 243
+	TIME: 14:50:12.328
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 244
+	TIME: 14:50:17.174
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 245
+	TIME: 14:50:22.168
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 246
+	TIME: 14:50:27.122
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 247
+	TIME: 14:50:32.144
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 248
+	TIME: 14:50:37.102
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 249
+	TIME: 14:50:42.109
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 250
+	TIME: 14:50:47.542
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 251
+	TIME: 14:50:52.107
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 252
+	TIME: 14:50:57.134
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 253
+	TIME: 14:51:02.152
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 254
+	TIME: 14:51:07.646
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 255
+	TIME: 14:51:12.147
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 256
+	TIME: 14:51:17.270
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 257
+	TIME: 14:51:22.242
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 258
+	TIME: 14:51:27.206
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 259
+	TIME: 14:51:32.216
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 260
+	TIME: 14:51:37.261
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 261
+	TIME: 14:51:42.194
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 262
+	TIME: 14:51:47.578
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 263
+	TIME: 14:51:52.776
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 264
+	TIME: 14:51:57.214
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 265
+	TIME: 14:52:02.220
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 266
+	TIME: 14:52:07.732
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 267
+	TIME: 14:52:12.271
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 268
+	TIME: 14:52:17.355
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 269
+	TIME: 14:52:22.247
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 270
+	TIME: 14:52:27.859
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 271
+	TIME: 14:52:32.453
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 272
+	TIME: 14:52:37.277
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 273
+	TIME: 14:52:42.303
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 274
+	TIME: 14:52:47.821
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 275
+	TIME: 14:52:52.857
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 276
+	TIME: 14:52:57.298
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 277
+	TIME: 14:53:02.312
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 278
+	TIME: 14:53:07.818
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 279
+	TIME: 14:53:12.439
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 280
+	TIME: 14:53:17.346
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 281
+	TIME: 14:53:22.933
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 282
+	TIME: 14:53:27.586
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 283
+	TIME: 14:53:32.334
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 284
+	TIME: 14:53:37.356
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 285
+	TIME: 14:53:42.379
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 286
+	TIME: 14:53:47.440
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 287
+	TIME: 14:53:52.379
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 288
+	TIME: 14:53:57.532
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 289
+	TIME: 14:54:02.393
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 290
+	TIME: 14:54:07.408
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 291
+	TIME: 14:54:12.446
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 292
+	TIME: 14:54:17.441
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 293
+	TIME: 14:54:22.441
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 294
+	TIME: 14:54:27.448
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 295
+	TIME: 14:54:32.444
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 296
+	TIME: 14:54:38.111
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 297
+	TIME: 14:54:42.478
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 298
+	TIME: 14:54:47.490
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 299
+	TIME: 14:54:52.496
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 300
+	TIME: 14:54:57.481
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 301
+	TIME: 14:55:02.503
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 302
+	TIME: 14:55:07.902
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 303
+	TIME: 14:55:12.521
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 304
+	TIME: 14:55:17.537
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 305
+	TIME: 14:55:22.553
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 306
+	TIME: 14:55:27.562
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 307
+	TIME: 14:55:32.555
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 308
+	TIME: 14:55:37.559
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 309
+	TIME: 14:55:42.554
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 310
+	TIME: 14:55:47.610
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 311
+	TIME: 14:55:52.614
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 312
+	TIME: 14:55:57.597
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 313
+	TIME: 14:56:02.598
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 314
+	TIME: 14:56:07.653
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 315
+	TIME: 14:56:12.619
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 316
+	TIME: 14:56:17.622
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 317
+	TIME: 14:56:22.655
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 318
+	TIME: 14:56:27.646
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 319
+	TIME: 14:56:32.755
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 320
+	TIME: 14:56:37.736
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 321
+	TIME: 14:56:42.704
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 322
+	TIME: 14:56:47.693
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 323
+	TIME: 14:56:52.691
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 324
+	TIME: 14:56:57.709
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 325
+	TIME: 14:57:02.731
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 326
+	TIME: 14:57:07.732
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 327
+	TIME: 14:57:12.791
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 328
+	TIME: 14:57:17.765
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 329
+	TIME: 14:57:22.783
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 330
+	TIME: 14:57:27.833
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 331
+	TIME: 14:57:32.777
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 332
+	TIME: 14:57:37.823
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 333
+	TIME: 14:57:42.896
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 334
+	TIME: 14:57:48.239
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 335
+	TIME: 14:57:52.877
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 336
+	TIME: 14:57:57.799
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 337
+	TIME: 14:58:02.826
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 338
+	TIME: 14:58:08.211
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 339
+	TIME: 14:58:14.028
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 340
+	TIME: 14:58:17.849
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 341
+	TIME: 14:58:22.852
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 342
+	TIME: 14:58:28.283
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 343
+	TIME: 14:58:33.233
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 344
+	TIME: 14:58:38.292
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 345
+	TIME: 14:58:43.495
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 346
+	TIME: 14:58:48.196
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 347
+	TIME: 14:58:53.357
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 348
+	TIME: 14:58:57.902
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 349
+	TIME: 14:59:03.562
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 350
+	TIME: 14:59:07.927
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 351
+	TIME: 14:59:12.913
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 352
+	TIME: 14:59:17.933
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 353
+	TIME: 14:59:23.739
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 354
+	TIME: 14:59:28.005
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 355
+	TIME: 14:59:32.979
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 356
+	TIME: 14:59:38.075
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 357
+	TIME: 14:59:43.463
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 358
+	TIME: 14:59:48.203
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 359
+	TIME: 14:59:53.035
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 360
+	TIME: 14:59:58.507
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 361
+	TIME: 15:00:03.034
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 362
+	TIME: 15:00:08.042
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 363
+	TIME: 15:00:13.369
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 364
+	TIME: 15:00:18.570
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 365
+	TIME: 15:00:23.062
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 366
+	TIME: 15:00:28.273
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 367
+	TIME: 15:00:33.300
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 368
+	TIME: 15:00:40.433
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 369
+	TIME: 15:00:43.081
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 370
+	TIME: 15:00:48.863
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 371
+	TIME: 15:00:53.172
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 372
+	TIME: 15:00:58.149
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 373
+	TIME: 15:01:03.207
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 374
+	TIME: 15:01:08.709
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 375
+	TIME: 15:01:13.305
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 376
+	TIME: 15:01:18.202
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 377
+	TIME: 15:01:23.208
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 378
+	TIME: 15:01:28.635
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 379
+	TIME: 15:01:33.262
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 380
+	TIME: 15:01:39.197
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 381
+	TIME: 15:01:43.191
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 382
+	TIME: 15:01:48.217
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 383
+	TIME: 15:01:53.211
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 384
+	TIME: 15:01:58.222
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 385
+	TIME: 15:02:03.252
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 386
+	TIME: 15:02:08.595
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 387
+	TIME: 15:02:13.244
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 388
+	TIME: 15:02:18.215
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 389
+	TIME: 15:02:23.524
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 390
+	TIME: 15:02:28.266
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 391
+	TIME: 15:02:33.261
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 392
+	TIME: 15:02:38.248
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 393
+	TIME: 15:02:43.747
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 394
+	TIME: 15:02:48.333
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 395
+	TIME: 15:02:53.293
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 396
+	TIME: 15:02:58.323
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 397
+	TIME: 15:03:03.315
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 398
+	TIME: 15:03:08.375
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 399
+	TIME: 15:03:13.319
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 400
+	TIME: 15:03:18.354
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 401
+	TIME: 15:03:23.825
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 402
+	TIME: 15:03:28.423
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 403
+	TIME: 15:03:33.363
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 404
+	TIME: 15:03:38.356
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 405
+	TIME: 15:03:44.003
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 406
+	TIME: 15:03:48.474
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 407
+	TIME: 15:03:53.381
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 408
+	TIME: 15:03:58.454
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 409
+	TIME: 15:04:03.561
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 410
+	TIME: 15:04:08.403
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 411
+	TIME: 15:04:13.419
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 412
+	TIME: 15:04:18.449
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 413
+	TIME: 15:04:23.888
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 414
+	TIME: 15:04:28.507
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 415
+	TIME: 15:04:33.458
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 416
+	TIME: 15:04:38.430
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 417
+	TIME: 15:04:43.528
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 418
+	TIME: 15:04:48.482
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 419
+	TIME: 15:04:53.774
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 420
+	TIME: 15:04:58.476
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 421
+	TIME: 15:05:03.551
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 422
+	TIME: 15:05:08.953
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 423
+	TIME: 15:05:13.516
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 424
+	TIME: 15:05:18.534
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 425
+	TIME: 15:05:23.530
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 426
+	TIME: 15:05:28.528
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 427
+	TIME: 15:05:33.595
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 428
+	TIME: 15:05:38.555
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 429
+	TIME: 15:05:43.884
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 430
+	TIME: 15:05:48.554
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 431
+	TIME: 15:05:53.570
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 432
+	TIME: 15:05:58.581
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 433
+	TIME: 15:06:03.576
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 434
+	TIME: 15:06:08.611
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 435
+	TIME: 15:06:13.612
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 436
+	TIME: 15:06:18.606
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 437
+	TIME: 15:06:23.603
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 438
+	TIME: 15:06:28.642
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 439
+	TIME: 15:06:33.625
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 440
+	TIME: 15:06:38.652
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 441
+	TIME: 15:06:43.646
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 442
+	TIME: 15:06:48.671
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 443
+	TIME: 15:06:53.800
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 444
+	TIME: 15:06:58.875
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 445
+	TIME: 15:07:03.953
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 446
+	TIME: 15:07:08.750
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 447
+	TIME: 15:07:13.815
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 448
+	TIME: 15:07:18.707
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 449
+	TIME: 15:07:23.716
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 450
+	TIME: 15:07:28.714
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 451
+	TIME: 15:07:33.758
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 452
+	TIME: 15:07:39.075
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 453
+	TIME: 15:07:43.742
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 454
+	TIME: 15:07:48.762
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 455
+	TIME: 15:07:53.746
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 456
+	TIME: 15:07:59.071
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 457
+	TIME: 15:08:03.761
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 458
+	TIME: 15:08:08.756
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 459
+	TIME: 15:08:13.786
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 460
+	TIME: 15:08:19.017
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 461
+	TIME: 15:08:24.050
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 462
+	TIME: 15:08:28.798
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 463
+	TIME: 15:08:33.810
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 464
+	TIME: 15:08:38.847
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 465
+	TIME: 15:08:43.848
+		RUNNER: Wales (HT)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 466
+	TIME: 15:08:48.836
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 467
+	TIME: 15:08:53.853
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 468
+	TIME: 15:08:58.843
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 469
+	TIME: 15:09:03.937
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 470
+	TIME: 15:09:09.323
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 471
+	TIME: 15:09:13.885
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 472
+	TIME: 15:09:18.915
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 473
+	TIME: 15:09:24.153
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 474
+	TIME: 15:09:29.397
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 475
+	TIME: 15:09:33.921
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 476
+	TIME: 15:09:39.096
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 477
+	TIME: 15:09:44.474
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 478
+	TIME: 15:09:49.266
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 479
+	TIME: 15:09:53.948
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 480
+	TIME: 15:09:58.970
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 481
+	TIME: 15:10:03.986
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 482
+	TIME: 15:10:09.297
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 483
+	TIME: 15:10:14.010
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 484
+	TIME: 15:10:19.057
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 485
+	TIME: 15:10:24.017
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 486
+	TIME: 15:10:29.033
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 487
+	TIME: 15:10:34.034
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 488
+	TIME: 15:10:39.254
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 489
+	TIME: 15:10:44.231
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 490
+	TIME: 15:10:49.449
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 491
+	TIME: 15:10:54.090
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 492
+	TIME: 15:10:59.068
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 493
+	TIME: 15:11:04.147
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 494
+	TIME: 15:11:09.255
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 495
+	TIME: 15:11:14.063
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 496
+	TIME: 15:11:19.169
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 497
+	TIME: 15:11:24.586
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 498
+	TIME: 15:11:29.114
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 499
+	TIME: 15:11:34.104
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 500
+	TIME: 15:11:39.336
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 501
+	TIME: 15:11:44.709
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 502
+	TIME: 15:11:49.121
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 503
+	TIME: 15:11:54.312
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 504
+	TIME: 15:11:59.587
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 505
+	TIME: 15:12:04.154
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 506
+	TIME: 15:12:09.249
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 507
+	TIME: 15:12:14.201
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 508
+	TIME: 15:12:19.299
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 509
+	TIME: 15:12:24.391
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 510
+	TIME: 15:12:29.225
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 511
+	TIME: 15:12:34.256
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 512
+	TIME: 15:12:39.243
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 513
+	TIME: 15:12:44.216
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 514
+	TIME: 15:12:50.298
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 515
+	TIME: 15:12:54.473
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 516
+	TIME: 15:12:59.517
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 517
+	TIME: 15:13:04.300
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 518
+	TIME: 15:13:09.258
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 519
+	TIME: 15:13:14.699
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 520
+	TIME: 15:13:19.331
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 521
+	TIME: 15:13:24.356
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 522
+	TIME: 15:13:29.591
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 523
+	TIME: 15:13:34.315
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 524
+	TIME: 15:13:39.362
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 525
+	TIME: 15:13:44.975
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 526
+	TIME: 15:13:49.325
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 527
+	TIME: 15:13:54.346
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 528
+	TIME: 15:13:59.604
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 529
+	TIME: 15:14:04.401
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 530
+	TIME: 15:14:09.367
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 531
+	TIME: 15:14:14.373
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 532
+	TIME: 15:14:19.445
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 533
+	TIME: 15:14:24.368
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 534
+	TIME: 15:14:29.400
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 535
+	TIME: 15:14:34.585
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 536
+	TIME: 15:14:39.402
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 537
+	TIME: 15:14:44.684
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 538
+	TIME: 15:14:49.412
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 539
+	TIME: 15:14:54.437
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 540
+	TIME: 15:14:59.689
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 541
+	TIME: 15:15:05.573
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 542
+	TIME: 15:15:09.441
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 543
+	TIME: 15:15:14.459
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 544
+	TIME: 15:15:19.519
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 545
+	TIME: 15:15:24.489
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 546
+	TIME: 15:15:29.656
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 547
+	TIME: 15:15:34.494
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 548
+	TIME: 15:15:40.126
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 549
+	TIME: 15:15:44.640
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 550
+	TIME: 15:15:49.517
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 551
+	TIME: 15:15:54.521
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 552
+	TIME: 15:15:59.698
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 553
+	TIME: 15:16:05.441
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 554
+	TIME: 15:16:09.548
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 555
+	TIME: 15:16:14.557
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 556
+	TIME: 15:16:19.566
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 557
+	TIME: 15:16:24.763
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 558
+	TIME: 15:16:29.559
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 559
+	TIME: 15:16:35.243
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 560
+	TIME: 15:16:39.580
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 561
+	TIME: 15:16:44.622
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 562
+	TIME: 15:16:49.614
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 563
+	TIME: 15:16:54.622
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 564
+	TIME: 15:16:59.668
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 565
+	TIME: 15:17:04.623
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 566
+	TIME: 15:17:09.620
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 567
+	TIME: 15:17:14.671
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 568
+	TIME: 15:17:19.639
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 569
+	TIME: 15:17:24.945
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 570
+	TIME: 15:17:29.660
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 571
+	TIME: 15:17:34.832
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 572
+	TIME: 15:17:39.876
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 573
+	TIME: 15:17:44.861
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 574
+	TIME: 15:17:49.689
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:8.0,SIZE:5.69)
+ENTRY: 575
+	TIME: 15:17:54.703
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:8.0,SIZE:5.69)
+ENTRY: 576
+	TIME: 15:17:59.726
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:8.0,SIZE:5.69)
+ENTRY: 577
+	TIME: 15:18:04.853
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:8.0,SIZE:5.69)
+ENTRY: 578
+	TIME: 15:18:09.717
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:8.0,SIZE:5.69)
+ENTRY: 579
+	TIME: 15:18:14.749
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+ENTRY: 580
+	TIME: 15:18:19.732
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 581
+	TIME: 15:18:24.765
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 582
+	TIME: 15:18:29.748
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 583
+	TIME: 15:18:34.866
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 584
+	TIME: 15:18:40.039
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 585
+	TIME: 15:18:44.783
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 586
+	TIME: 15:18:49.780
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 587
+	TIME: 15:18:54.798
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 588
+	TIME: 15:19:00.276
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 589
+	TIME: 15:19:04.778
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 590
+	TIME: 15:19:09.820
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 591
+	TIME: 15:19:14.830
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 592
+	TIME: 15:19:20.823
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 593
+	TIME: 15:19:24.831
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 594
+	TIME: 15:19:30.057
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 595
+	TIME: 15:19:34.857
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 596
+	TIME: 15:19:40.067
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 597
+	TIME: 15:19:44.878
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 598
+	TIME: 15:19:49.982
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 599
+	TIME: 15:19:55.009
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 600
+	TIME: 15:20:00.272
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 601
+	TIME: 15:20:04.885
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 602
+	TIME: 15:20:09.898
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)
+ENTRY: 603
+	TIME: 15:20:14.911
+		RUNNER: Wales (HT)
+			LAY: (PRICE:2.0,SIZE:34.16)
+		RUNNER: Ireland (HT)
+		RUNNER: Draw (HT)
+			BACK: (PRICE:11.0,SIZE:5.69)

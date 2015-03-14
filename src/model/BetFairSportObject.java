@@ -1,6 +1,6 @@
 package model;
 
-public class BetFairSportObject
+public class BetFairSportObject implements BetFairDataObject
 {
 	private String sportName;
 	private String sportId;

@@ -1,6 +1,6 @@
 package model;
 
-public class BetFairMarketObject
+public class BetFairMarketObject implements BetFairDataObject
 {
 	//TODO add tostring
 	private String marketName;
@@ -12,12 +12,12 @@ public class BetFairMarketObject
 		marketId = id;
 	}
 
-	public String getMarketName()
+	public String getName()
 	{
 		return marketName;
 	}
 
-	public String getMarketId()
+	public String getId()
 	{
 		return marketId;
 	}
