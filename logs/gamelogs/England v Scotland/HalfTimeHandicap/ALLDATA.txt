@@ -1,0 +1,2413 @@
+England v Scotland_Half Time Handicap_1426352400000ENTRY: 1
+	TIME: 17:00:01.175
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.92,SIZE:4.1)
+			BACK: (PRICE:1.91,SIZE:29.4)
+			BACK: (PRICE:1.89,SIZE:8.17)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:2.0,SIZE:255.2)
+			BACK: (PRICE:1.97,SIZE:250.0)
+			BACK: (PRICE:1.96,SIZE:274.69)
+ENTRY: 2
+	TIME: 17:00:06.810
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.92,SIZE:4.1)
+			BACK: (PRICE:1.91,SIZE:29.4)
+			BACK: (PRICE:1.89,SIZE:8.17)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:2.0,SIZE:255.2)
+			BACK: (PRICE:1.97,SIZE:250.0)
+			BACK: (PRICE:1.96,SIZE:274.69)
+ENTRY: 3
+	TIME: 17:00:11.303
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.91,SIZE:16.61)
+			BACK: (PRICE:1.89,SIZE:8.17)
+			BACK: (PRICE:1.88,SIZE:81.48)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:2.0,SIZE:165.2)
+			BACK: (PRICE:1.97,SIZE:250.0)
+			BACK: (PRICE:1.96,SIZE:274.69)
+ENTRY: 4
+	TIME: 17:00:16.106
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.91,SIZE:16.61)
+			BACK: (PRICE:1.89,SIZE:8.17)
+			BACK: (PRICE:1.88,SIZE:81.48)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:2.0,SIZE:165.2)
+			BACK: (PRICE:1.97,SIZE:250.0)
+			BACK: (PRICE:1.96,SIZE:274.69)
+ENTRY: 5
+	TIME: 17:00:21.538
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.91,SIZE:16.61)
+			BACK: (PRICE:1.89,SIZE:8.17)
+			BACK: (PRICE:1.88,SIZE:81.48)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:2.0,SIZE:165.2)
+			BACK: (PRICE:1.97,SIZE:250.0)
+			BACK: (PRICE:1.96,SIZE:274.69)
+ENTRY: 6
+	TIME: 17:00:26.690
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.91,SIZE:16.61)
+			BACK: (PRICE:1.89,SIZE:8.17)
+			BACK: (PRICE:1.88,SIZE:81.48)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.97,SIZE:115.19)
+			BACK: (PRICE:1.96,SIZE:274.69)
+			BACK: (PRICE:1.92,SIZE:269.22)
+ENTRY: 7
+	TIME: 17:00:31.115
+		RUNNER: Scotland +8.5pts (HT)
+			BACK: (PRICE:1.91,SIZE:16.61)
+			BACK: (PRICE:1.89,SIZE:8.17)
+			BACK: (PRICE:1.88,SIZE:81.48)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.97,SIZE:115.19)
+			BACK: (PRICE:1.96,SIZE:274.69)
+			BACK: (PRICE:1.92,SIZE:269.22)
+ENTRY: 8
+	TIME: 17:00:36.289
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.96,SIZE:200.0)
+ENTRY: 9
+	TIME: 17:00:41.219
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 10
+	TIME: 17:00:46.426
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.92,SIZE:4.62)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.9,SIZE:200.0)
+ENTRY: 11
+	TIME: 17:00:51.033
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.92,SIZE:4.62)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.9,SIZE:200.0)
+ENTRY: 12
+	TIME: 17:00:56.209
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.92,SIZE:4.62)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.9,SIZE:200.0)
+ENTRY: 13
+	TIME: 17:01:00.962
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.9,SIZE:200.0)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 14
+	TIME: 17:01:05.950
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 15
+	TIME: 17:01:11.212
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 16
+	TIME: 17:01:16.116
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 17
+	TIME: 17:01:24.549
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 18
+	TIME: 17:01:28.342
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 19
+	TIME: 17:01:31.393
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 20
+	TIME: 17:01:35.981
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 21
+	TIME: 17:01:41.048
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 22
+	TIME: 17:01:46.228
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 23
+	TIME: 17:01:51.190
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:195.74)
+ENTRY: 24
+	TIME: 17:01:55.959
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 25
+	TIME: 17:02:01.053
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 26
+	TIME: 17:02:06.034
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 27
+	TIME: 17:02:11.487
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 28
+	TIME: 17:02:16.275
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 29
+	TIME: 17:02:21.325
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 30
+	TIME: 17:02:26.599
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 31
+	TIME: 17:02:31.231
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 32
+	TIME: 17:02:36.034
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 33
+	TIME: 17:02:41.006
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 34
+	TIME: 17:02:46.297
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 35
+	TIME: 17:02:51.048
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 36
+	TIME: 17:02:56.040
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 37
+	TIME: 17:03:01.458
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 38
+	TIME: 17:03:06.061
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 39
+	TIME: 17:03:11.137
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 40
+	TIME: 17:03:16.109
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 41
+	TIME: 17:03:21.021
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 42
+	TIME: 17:03:26.038
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 43
+	TIME: 17:03:31.147
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 44
+	TIME: 17:03:36.205
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 45
+	TIME: 17:03:41.249
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 46
+	TIME: 17:03:46.840
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 47
+	TIME: 17:03:52.565
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 48
+	TIME: 17:03:56.563
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 49
+	TIME: 17:04:03.282
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 50
+	TIME: 17:04:06.197
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 51
+	TIME: 17:04:11.188
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 52
+	TIME: 17:04:16.241
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 53
+	TIME: 17:04:24.923
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 54
+	TIME: 17:04:26.359
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 55
+	TIME: 17:04:31.009
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 56
+	TIME: 17:04:36.079
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 57
+	TIME: 17:04:41.058
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 58
+	TIME: 17:04:46.101
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 59
+	TIME: 17:04:51.011
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 60
+	TIME: 17:04:55.972
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 61
+	TIME: 17:05:01.165
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 62
+	TIME: 17:05:06.080
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 63
+	TIME: 17:05:11.053
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 64
+	TIME: 17:05:17.631
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 65
+	TIME: 17:05:21.268
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 66
+	TIME: 17:05:26.448
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 67
+	TIME: 17:05:31.173
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 69
+	TIME: 17:05:41.012
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 70
+	TIME: 17:05:46.183
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 71
+	TIME: 17:05:51.060
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 72
+	TIME: 17:06:05.047
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 73
+	TIME: 17:06:20.184
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 74
+	TIME: 17:06:28.726
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 75
+	TIME: 17:06:32.111
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 76
+	TIME: 17:06:35.984
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 77
+	TIME: 17:06:39.729
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 78
+	TIME: 17:06:44.811
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 79
+	TIME: 17:06:49.886
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 80
+	TIME: 17:06:54.755
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.5,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 81
+	TIME: 17:06:59.909
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 82
+	TIME: 17:07:04.757
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 83
+	TIME: 17:07:09.659
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 84
+	TIME: 17:07:14.672
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 85
+	TIME: 17:07:19.751
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 86
+	TIME: 17:07:24.675
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 87
+	TIME: 17:07:29.922
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 88
+	TIME: 17:07:34.663
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 89
+	TIME: 17:07:39.671
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 90
+	TIME: 17:07:44.715
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 91
+	TIME: 17:07:49.646
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.43,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 92
+	TIME: 17:07:54.735
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 93
+	TIME: 17:07:59.658
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.3,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 94
+	TIME: 17:08:04.663
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:3.3,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.3,SIZE:100.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 95
+	TIME: 17:08:09.814
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.3,SIZE:100.0)
+			LAY: (PRICE:1.43,SIZE:11.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 96
+	TIME: 17:08:14.738
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.3,SIZE:100.0)
+			LAY: (PRICE:1.43,SIZE:11.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 97
+	TIME: 17:08:19.808
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.3,SIZE:100.0)
+			LAY: (PRICE:1.43,SIZE:11.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 98
+	TIME: 17:08:24.806
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:1.43,SIZE:11.0)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 99
+	TIME: 17:08:30.065
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 100
+	TIME: 17:08:34.678
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 101
+	TIME: 17:08:39.667
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 102
+	TIME: 17:08:44.691
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 103
+	TIME: 17:08:49.698
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 104
+	TIME: 17:08:54.706
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 105
+	TIME: 17:08:59.682
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 106
+	TIME: 17:09:04.650
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 107
+	TIME: 17:09:09.678
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 108
+	TIME: 17:09:14.664
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 109
+	TIME: 17:09:19.665
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 110
+	TIME: 17:09:24.681
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 111
+	TIME: 17:09:29.746
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 112
+	TIME: 17:09:34.808
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 113
+	TIME: 17:09:39.754
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 114
+	TIME: 17:09:45.071
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 115
+	TIME: 17:09:49.721
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 116
+	TIME: 17:09:54.733
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 117
+	TIME: 17:09:59.852
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 118
+	TIME: 17:10:04.692
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 119
+	TIME: 17:10:09.686
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 120
+	TIME: 17:10:14.701
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 121
+	TIME: 17:10:19.816
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 122
+	TIME: 17:10:24.835
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 123
+	TIME: 17:10:30.081
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 124
+	TIME: 17:10:36.913
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 125
+	TIME: 17:10:40.863
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 126
+	TIME: 17:10:44.869
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 127
+	TIME: 17:10:54.119
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 128
+	TIME: 17:10:55.146
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 129
+	TIME: 17:11:00.984
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 130
+	TIME: 17:11:06.314
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 131
+	TIME: 17:11:10.249
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 132
+	TIME: 17:11:15.245
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 133
+	TIME: 17:11:20.064
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 134
+	TIME: 17:11:25.147
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 135
+	TIME: 17:11:30.104
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 136
+	TIME: 17:11:35.074
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 137
+	TIME: 17:11:40.031
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 138
+	TIME: 17:11:48.076
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 139
+	TIME: 17:11:50.070
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 140
+	TIME: 17:11:55.108
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 141
+	TIME: 17:12:00.031
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 142
+	TIME: 17:12:05.060
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 143
+	TIME: 17:12:10.703
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 144
+	TIME: 17:12:15.151
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 145
+	TIME: 17:12:20.177
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 146
+	TIME: 17:12:25.058
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 147
+	TIME: 17:12:30.373
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 148
+	TIME: 17:12:35.198
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 149
+	TIME: 17:12:40.450
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 150
+	TIME: 17:12:45.096
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 151
+	TIME: 17:12:50.163
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 152
+	TIME: 17:12:55.147
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 153
+	TIME: 17:13:00.056
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 154
+	TIME: 17:13:05.036
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 155
+	TIME: 17:13:10.268
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 156
+	TIME: 17:13:15.046
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 157
+	TIME: 17:13:20.065
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 158
+	TIME: 17:13:25.059
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 159
+	TIME: 17:13:30.067
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 160
+	TIME: 17:13:35.113
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 161
+	TIME: 17:13:40.061
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 162
+	TIME: 17:13:45.127
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 163
+	TIME: 17:13:50.107
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 164
+	TIME: 17:13:55.392
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 165
+	TIME: 17:14:00.158
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 166
+	TIME: 17:14:05.319
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 167
+	TIME: 17:14:10.047
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 168
+	TIME: 17:14:15.026
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 169
+	TIME: 17:14:20.152
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 170
+	TIME: 17:14:25.090
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: England -8.5pts (HT)
+			LAY: (PRICE:2.0,SIZE:200.0)
+ENTRY: 171
+	TIME: 17:14:30.124
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 172
+	TIME: 17:14:35.058
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 173
+	TIME: 17:14:40.053
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 174
+	TIME: 17:14:45.053
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 175
+	TIME: 17:14:50.058
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 176
+	TIME: 17:14:55.124
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 177
+	TIME: 17:15:00.198
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 178
+	TIME: 17:15:05.145
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 179
+	TIME: 17:15:10.062
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 180
+	TIME: 17:15:15.137
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 181
+	TIME: 17:15:20.215
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 182
+	TIME: 17:15:25.547
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 183
+	TIME: 17:15:33.049
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 184
+	TIME: 17:15:35.108
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 185
+	TIME: 17:15:40.106
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 186
+	TIME: 17:15:45.040
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 187
+	TIME: 17:15:50.302
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 188
+	TIME: 17:15:55.076
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 189
+	TIME: 17:16:00.128
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 190
+	TIME: 17:16:05.065
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 191
+	TIME: 17:16:10.051
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 192
+	TIME: 17:16:15.050
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 193
+	TIME: 17:16:20.116
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 194
+	TIME: 17:16:26.360
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 195
+	TIME: 17:16:30.221
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 196
+	TIME: 17:16:35.079
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 197
+	TIME: 17:16:40.070
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 198
+	TIME: 17:16:45.283
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 199
+	TIME: 17:16:50.302
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 200
+	TIME: 17:16:55.084
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 201
+	TIME: 17:17:00.059
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 202
+	TIME: 17:17:05.080
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 203
+	TIME: 17:17:10.045
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 204
+	TIME: 17:17:15.064
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 205
+	TIME: 17:17:20.146
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 206
+	TIME: 17:17:25.161
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 207
+	TIME: 17:17:30.073
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 208
+	TIME: 17:17:35.081
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 209
+	TIME: 17:17:40.066
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 210
+	TIME: 17:17:45.100
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 211
+	TIME: 17:17:50.059
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 212
+	TIME: 17:17:55.167
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 213
+	TIME: 17:18:00.057
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 214
+	TIME: 17:18:05.123
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 215
+	TIME: 17:18:10.077
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 216
+	TIME: 17:18:15.498
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 217
+	TIME: 17:18:20.315
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 218
+	TIME: 17:18:25.339
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 219
+	TIME: 17:18:30.043
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 220
+	TIME: 17:18:35.272
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 221
+	TIME: 17:18:40.068
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 222
+	TIME: 17:18:45.612
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 223
+	TIME: 17:18:50.091
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 224
+	TIME: 17:18:55.118
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 225
+	TIME: 17:19:00.074
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 226
+	TIME: 17:19:05.076
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 227
+	TIME: 17:19:10.070
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 228
+	TIME: 17:19:15.060
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 229
+	TIME: 17:19:20.105
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 230
+	TIME: 17:19:25.086
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 231
+	TIME: 17:19:30.215
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 232
+	TIME: 17:19:35.237
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 233
+	TIME: 17:19:40.341
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 234
+	TIME: 17:19:45.053
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 235
+	TIME: 17:19:50.087
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 236
+	TIME: 17:19:55.191
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 237
+	TIME: 17:20:00.108
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 238
+	TIME: 17:20:05.120
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 239
+	TIME: 17:20:10.112
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 240
+	TIME: 17:20:15.067
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 241
+	TIME: 17:20:20.205
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 242
+	TIME: 17:20:25.072
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 243
+	TIME: 17:20:30.125
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 244
+	TIME: 17:20:35.122
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 245
+	TIME: 17:20:40.113
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 246
+	TIME: 17:20:45.096
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 247
+	TIME: 17:20:50.175
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 248
+	TIME: 17:20:55.194
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 249
+	TIME: 17:21:00.429
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 250
+	TIME: 17:21:05.145
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 251
+	TIME: 17:21:10.142
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 252
+	TIME: 17:21:15.226
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 253
+	TIME: 17:21:20.074
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 254
+	TIME: 17:21:25.148
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 255
+	TIME: 17:21:30.231
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 256
+	TIME: 17:21:35.109
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 257
+	TIME: 17:21:40.109
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 258
+	TIME: 17:21:45.214
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 259
+	TIME: 17:21:50.119
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 260
+	TIME: 17:21:55.353
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 261
+	TIME: 17:22:00.139
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 262
+	TIME: 17:22:05.166
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 263
+	TIME: 17:22:10.127
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 264
+	TIME: 17:22:15.381
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 265
+	TIME: 17:22:20.167
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 266
+	TIME: 17:22:25.304
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 267
+	TIME: 17:22:30.084
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 268
+	TIME: 17:22:35.103
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 269
+	TIME: 17:22:40.096
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 270
+	TIME: 17:22:45.170
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 271
+	TIME: 17:22:50.084
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 272
+	TIME: 17:22:55.112
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 273
+	TIME: 17:23:00.118
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 274
+	TIME: 17:23:05.104
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 275
+	TIME: 17:23:10.083
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 276
+	TIME: 17:23:15.081
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 277
+	TIME: 17:23:20.075
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 278
+	TIME: 17:23:25.116
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 279
+	TIME: 17:23:30.093
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 280
+	TIME: 17:23:35.114
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 281
+	TIME: 17:23:40.281
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 282
+	TIME: 17:23:45.444
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 283
+	TIME: 17:23:50.093
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 284
+	TIME: 17:23:55.090
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 285
+	TIME: 17:24:00.134
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 286
+	TIME: 17:24:05.105
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 287
+	TIME: 17:24:10.165
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 288
+	TIME: 17:24:15.141
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 289
+	TIME: 17:24:20.162
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 290
+	TIME: 17:24:25.123
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 291
+	TIME: 17:24:30.111
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 292
+	TIME: 17:24:35.621
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 293
+	TIME: 17:24:40.147
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 294
+	TIME: 17:24:45.113
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 295
+	TIME: 17:24:50.104
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 296
+	TIME: 17:24:55.151
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 297
+	TIME: 17:25:00.294
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 298
+	TIME: 17:25:05.354
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 299
+	TIME: 17:25:10.377
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 300
+	TIME: 17:25:15.122
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 301
+	TIME: 17:25:20.122
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 302
+	TIME: 17:25:25.104
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 303
+	TIME: 17:25:30.174
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 304
+	TIME: 17:25:35.097
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 305
+	TIME: 17:25:40.128
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 306
+	TIME: 17:25:45.121
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 307
+	TIME: 17:25:50.083
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 308
+	TIME: 17:25:55.129
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 309
+	TIME: 17:26:00.107
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 310
+	TIME: 17:26:05.087
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 311
+	TIME: 17:26:10.125
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 312
+	TIME: 17:26:15.146
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 313
+	TIME: 17:26:20.106
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 314
+	TIME: 17:26:25.314
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 315
+	TIME: 17:26:30.354
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 316
+	TIME: 17:26:35.150
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 317
+	TIME: 17:26:40.187
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 318
+	TIME: 17:26:45.101
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 319
+	TIME: 17:26:50.089
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 320
+	TIME: 17:26:55.153
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 321
+	TIME: 17:27:00.194
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 322
+	TIME: 17:27:05.240
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 323
+	TIME: 17:27:10.147
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 324
+	TIME: 17:27:15.130
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 325
+	TIME: 17:27:20.111
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 326
+	TIME: 17:27:25.132
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 327
+	TIME: 17:27:30.113
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 328
+	TIME: 17:27:35.167
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 329
+	TIME: 17:27:40.087
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 330
+	TIME: 17:27:45.343
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 331
+	TIME: 17:27:50.160
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 332
+	TIME: 17:27:55.397
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 333
+	TIME: 17:28:00.101
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 334
+	TIME: 17:28:05.112
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 335
+	TIME: 17:28:10.114
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 336
+	TIME: 17:28:15.359
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 337
+	TIME: 17:28:20.159
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 338
+	TIME: 17:28:25.141
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 339
+	TIME: 17:28:30.153
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 340
+	TIME: 17:28:35.154
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 341
+	TIME: 17:28:40.115
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 342
+	TIME: 17:28:46.259
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 343
+	TIME: 17:28:50.176
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 344
+	TIME: 17:28:55.117
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 345
+	TIME: 17:29:00.117
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 346
+	TIME: 17:29:05.097
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 347
+	TIME: 17:29:10.557
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 348
+	TIME: 17:29:15.376
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 349
+	TIME: 17:29:23.245
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 350
+	TIME: 17:29:25.124
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 351
+	TIME: 17:29:30.219
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 352
+	TIME: 17:29:35.109
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 353
+	TIME: 17:29:40.128
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 354
+	TIME: 17:29:45.176
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 355
+	TIME: 17:29:50.164
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 356
+	TIME: 17:29:55.150
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 357
+	TIME: 17:30:00.136
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 358
+	TIME: 17:30:05.119
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 359
+	TIME: 17:30:10.129
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 360
+	TIME: 17:30:15.121
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 361
+	TIME: 17:30:20.117
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 362
+	TIME: 17:30:25.384
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 363
+	TIME: 17:30:30.195
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 364
+	TIME: 17:30:35.267
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 365
+	TIME: 17:30:40.699
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 366
+	TIME: 17:30:45.814
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 367
+	TIME: 17:30:50.125
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 368
+	TIME: 17:30:55.165
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 369
+	TIME: 17:31:00.125
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 370
+	TIME: 17:31:05.134
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 371
+	TIME: 17:31:10.688
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 372
+	TIME: 17:31:15.133
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 373
+	TIME: 17:31:20.447
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 374
+	TIME: 17:31:25.191
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 375
+	TIME: 17:31:30.144
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 376
+	TIME: 17:31:35.234
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 377
+	TIME: 17:31:40.217
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 378
+	TIME: 17:31:45.103
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 379
+	TIME: 17:31:50.128
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 380
+	TIME: 17:31:55.124
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 381
+	TIME: 17:32:00.290
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 382
+	TIME: 17:32:05.387
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 383
+	TIME: 17:32:10.181
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 384
+	TIME: 17:32:15.148
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 385
+	TIME: 17:32:20.122
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 386
+	TIME: 17:32:25.174
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 387
+	TIME: 17:32:30.213
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 388
+	TIME: 17:32:35.127
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 389
+	TIME: 17:32:40.122
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 390
+	TIME: 17:32:45.161
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 391
+	TIME: 17:32:50.189
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 392
+	TIME: 17:32:55.155
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 393
+	TIME: 17:33:00.137
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 394
+	TIME: 17:33:05.292
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 395
+	TIME: 17:33:10.141
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 396
+	TIME: 17:33:15.137
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 397
+	TIME: 17:33:20.281
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 398
+	TIME: 17:33:25.356
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 399
+	TIME: 17:33:30.369
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 400
+	TIME: 17:33:35.154
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 401
+	TIME: 17:33:40.217
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 402
+	TIME: 17:33:45.450
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 403
+	TIME: 17:33:50.313
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 404
+	TIME: 17:33:55.211
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 405
+	TIME: 17:34:00.187
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 406
+	TIME: 17:34:05.412
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 407
+	TIME: 17:34:10.127
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 408
+	TIME: 17:34:15.138
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 409
+	TIME: 17:34:20.221
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 410
+	TIME: 17:34:25.163
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 411
+	TIME: 17:34:30.215
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 412
+	TIME: 17:34:35.204
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 413
+	TIME: 17:34:40.165
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 414
+	TIME: 17:34:45.408
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 415
+	TIME: 17:34:50.311
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 416
+	TIME: 17:34:55.394
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 417
+	TIME: 17:35:00.314
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 418
+	TIME: 17:35:05.418
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 419
+	TIME: 17:35:10.183
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 420
+	TIME: 17:35:15.156
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 421
+	TIME: 17:35:20.185
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 422
+	TIME: 17:35:25.198
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 423
+	TIME: 17:35:30.133
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 424
+	TIME: 17:35:35.328
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 425
+	TIME: 17:35:40.298
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 426
+	TIME: 17:35:45.158
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 427
+	TIME: 17:35:50.205
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 428
+	TIME: 17:35:55.152
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 429
+	TIME: 17:36:00.194
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 430
+	TIME: 17:36:08.114
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 431
+	TIME: 17:36:10.308
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 432
+	TIME: 17:36:15.216
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 433
+	TIME: 17:36:20.426
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 434
+	TIME: 17:36:25.197
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 435
+	TIME: 17:36:30.182
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 436
+	TIME: 17:36:35.194
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 437
+	TIME: 17:36:40.204
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 438
+	TIME: 17:36:45.193
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 439
+	TIME: 17:36:50.298
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 440
+	TIME: 17:36:55.166
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 441
+	TIME: 17:37:00.260
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 442
+	TIME: 17:37:05.164
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 443
+	TIME: 17:37:10.247
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 444
+	TIME: 17:37:15.210
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 445
+	TIME: 17:37:20.196
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 446
+	TIME: 17:37:25.195
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 447
+	TIME: 17:37:30.176
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 448
+	TIME: 17:37:35.345
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 449
+	TIME: 17:37:40.565
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 450
+	TIME: 17:37:45.242
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 451
+	TIME: 17:37:50.217
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 452
+	TIME: 17:37:55.207
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 453
+	TIME: 17:38:00.181
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 454
+	TIME: 17:38:05.204
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 455
+	TIME: 17:38:10.251
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 456
+	TIME: 17:38:15.190
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 457
+	TIME: 17:38:20.380
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 458
+	TIME: 17:38:25.216
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 459
+	TIME: 17:38:30.228
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 460
+	TIME: 17:38:35.200
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 461
+	TIME: 17:38:40.168
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 462
+	TIME: 17:38:45.260
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 463
+	TIME: 17:38:50.161
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 464
+	TIME: 17:38:55.278
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 465
+	TIME: 17:39:00.298
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 466
+	TIME: 17:39:05.436
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 467
+	TIME: 17:39:10.208
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 468
+	TIME: 17:39:15.220
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 469
+	TIME: 17:39:20.156
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 470
+	TIME: 17:39:25.232
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 471
+	TIME: 17:39:30.202
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 472
+	TIME: 17:39:35.190
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 473
+	TIME: 17:39:40.272
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 474
+	TIME: 17:39:45.373
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 475
+	TIME: 17:39:50.206
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 476
+	TIME: 17:39:55.281
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 477
+	TIME: 17:40:00.230
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 478
+	TIME: 17:40:05.176
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 479
+	TIME: 17:40:10.695
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 480
+	TIME: 17:40:15.398
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 481
+	TIME: 17:40:20.477
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 482
+	TIME: 17:40:25.736
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 483
+	TIME: 17:40:30.261
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 484
+	TIME: 17:40:35.442
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 485
+	TIME: 17:40:40.193
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 486
+	TIME: 17:40:45.192
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 487
+	TIME: 17:40:50.186
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 488
+	TIME: 17:40:55.209
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 489
+	TIME: 17:41:00.206
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 490
+	TIME: 17:41:05.220
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 491
+	TIME: 17:41:10.227
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 492
+	TIME: 17:41:15.171
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 493
+	TIME: 17:41:20.193
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 494
+	TIME: 17:41:25.220
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 495
+	TIME: 17:41:30.319
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 496
+	TIME: 17:41:35.204
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+ENTRY: 497
+	TIME: 17:41:40.310
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 498
+	TIME: 17:41:45.264
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 499
+	TIME: 17:41:50.370
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 500
+	TIME: 17:41:55.241
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 501
+	TIME: 17:42:00.205
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 502
+	TIME: 17:42:05.167
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 503
+	TIME: 17:42:10.219
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 504
+	TIME: 17:42:15.378
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 505
+	TIME: 17:42:20.217
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:455.0)
+ENTRY: 506
+	TIME: 17:42:25.227
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 507
+	TIME: 17:42:30.210
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 508
+	TIME: 17:42:35.175
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 509
+	TIME: 17:42:40.221
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 510
+	TIME: 17:42:45.224
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 511
+	TIME: 17:42:50.258
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 512
+	TIME: 17:42:55.202
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 513
+	TIME: 17:43:00.204
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.01,SIZE:400.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 514
+	TIME: 17:43:05.310
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.01,SIZE:400.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 515
+	TIME: 17:43:10.251
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.01,SIZE:400.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 516
+	TIME: 17:43:15.537
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.01,SIZE:400.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 517
+	TIME: 17:43:20.205
+		RUNNER: Scotland +8.5pts (HT)
+			LAY: (PRICE:1.01,SIZE:400.0)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 518
+	TIME: 17:43:25.204
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 519
+	TIME: 17:43:30.178
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 520
+	TIME: 17:43:35.266
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 521
+	TIME: 17:43:40.615
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 522
+	TIME: 17:43:45.215
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 523
+	TIME: 17:43:50.216
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 524
+	TIME: 17:43:55.238
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 525
+	TIME: 17:44:00.186
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 526
+	TIME: 17:44:05.241
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 527
+	TIME: 17:44:10.221
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 528
+	TIME: 17:44:15.194
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 529
+	TIME: 17:44:20.250
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 530
+	TIME: 17:44:25.273
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 531
+	TIME: 17:44:30.319
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 532
+	TIME: 17:44:35.323
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 533
+	TIME: 17:44:40.239
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 534
+	TIME: 17:44:45.262
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 535
+	TIME: 17:44:50.303
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 536
+	TIME: 17:44:55.205
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 537
+	TIME: 17:45:00.235
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)
+ENTRY: 538
+	TIME: 17:45:05.263
+		RUNNER: Scotland +8.5pts (HT)
+		RUNNER: England -8.5pts (HT)
+			BACK: (PRICE:1.05,SIZE:910.0)

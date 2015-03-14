@@ -1,0 +1,1875 @@
+England v Scotland_Race To 10 Points_1426352400000ENTRY: 1
+	TIME: 17:00:01.175
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+			LAY: (PRICE:1.21,SIZE:95.25)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 2
+	TIME: 17:00:06.810
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+			LAY: (PRICE:1.21,SIZE:95.25)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 3
+	TIME: 17:00:11.303
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 4
+	TIME: 17:00:16.107
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 5
+	TIME: 17:00:21.539
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 6
+	TIME: 17:00:26.690
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 7
+	TIME: 17:00:31.115
+		RUNNER: England
+			BACK: (PRICE:1.2,SIZE:490.36)
+			BACK: (PRICE:1.19,SIZE:1265.0)
+			BACK: (PRICE:1.18,SIZE:138.89)
+		RUNNER: Scotland
+			BACK: (PRICE:5.1,SIZE:19.35)
+			BACK: (PRICE:5.0,SIZE:228.9)
+			BACK: (PRICE:4.9,SIZE:18.38)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:5.0)
+			BACK: (PRICE:55.0,SIZE:15.22)
+			BACK: (PRICE:30.0,SIZE:3.22)
+ENTRY: 8
+	TIME: 17:00:36.289
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 9
+	TIME: 17:00:41.219
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 10
+	TIME: 17:00:46.426
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 11
+	TIME: 17:00:51.033
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 12
+	TIME: 17:00:56.209
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 13
+	TIME: 17:01:00.962
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 14
+	TIME: 17:01:05.950
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 15
+	TIME: 17:01:11.212
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 16
+	TIME: 17:01:16.116
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 17
+	TIME: 17:01:24.549
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 18
+	TIME: 17:01:28.342
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 19
+	TIME: 17:01:31.393
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 20
+	TIME: 17:01:35.981
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 21
+	TIME: 17:01:41.048
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 22
+	TIME: 17:01:46.228
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 23
+	TIME: 17:01:51.190
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 24
+	TIME: 17:01:55.959
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 25
+	TIME: 17:02:01.053
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 26
+	TIME: 17:02:06.034
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 27
+	TIME: 17:02:11.487
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 28
+	TIME: 17:02:16.275
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 29
+	TIME: 17:02:21.325
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 30
+	TIME: 17:02:26.599
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 31
+	TIME: 17:02:31.231
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 32
+	TIME: 17:02:36.034
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 33
+	TIME: 17:02:41.006
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 34
+	TIME: 17:02:46.297
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 35
+	TIME: 17:02:51.048
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 36
+	TIME: 17:02:56.040
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 37
+	TIME: 17:03:01.458
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 38
+	TIME: 17:03:06.061
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 39
+	TIME: 17:03:11.137
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 40
+	TIME: 17:03:16.109
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 41
+	TIME: 17:03:21.021
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 42
+	TIME: 17:03:26.038
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 43
+	TIME: 17:03:31.147
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 44
+	TIME: 17:03:36.205
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 45
+	TIME: 17:03:41.249
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 46
+	TIME: 17:03:46.840
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 47
+	TIME: 17:03:52.565
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 48
+	TIME: 17:03:56.563
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 49
+	TIME: 17:04:03.282
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 50
+	TIME: 17:04:06.197
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 51
+	TIME: 17:04:11.188
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 52
+	TIME: 17:04:16.241
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 53
+	TIME: 17:04:24.923
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 54
+	TIME: 17:04:26.359
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 55
+	TIME: 17:04:31.009
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 56
+	TIME: 17:04:36.079
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 57
+	TIME: 17:04:41.058
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 58
+	TIME: 17:04:46.101
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 59
+	TIME: 17:04:51.011
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 60
+	TIME: 17:04:55.972
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 61
+	TIME: 17:05:01.165
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 62
+	TIME: 17:05:06.080
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 63
+	TIME: 17:05:11.053
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 64
+	TIME: 17:05:17.631
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 65
+	TIME: 17:05:21.268
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 66
+	TIME: 17:05:26.448
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 67
+	TIME: 17:05:31.173
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 68
+	TIME: 17:05:36.319
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 69
+	TIME: 17:05:41.012
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 70
+	TIME: 17:05:46.183
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 71
+	TIME: 17:05:51.060
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 72
+	TIME: 17:06:05.047
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 73
+	TIME: 17:06:20.184
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 74
+	TIME: 17:06:28.726
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 75
+	TIME: 17:06:32.111
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 76
+	TIME: 17:06:35.984
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 77
+	TIME: 17:06:39.729
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 78
+	TIME: 17:06:44.811
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 79
+	TIME: 17:06:49.886
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 80
+	TIME: 17:06:54.755
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 81
+	TIME: 17:06:59.909
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 82
+	TIME: 17:07:04.757
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 83
+	TIME: 17:07:09.659
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 84
+	TIME: 17:07:14.672
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 85
+	TIME: 17:07:19.752
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 86
+	TIME: 17:07:24.675
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 87
+	TIME: 17:07:29.922
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 88
+	TIME: 17:07:34.663
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 89
+	TIME: 17:07:39.671
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 90
+	TIME: 17:07:44.715
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 91
+	TIME: 17:07:49.646
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 92
+	TIME: 17:07:54.735
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 93
+	TIME: 17:07:59.658
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 94
+	TIME: 17:08:04.663
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 95
+	TIME: 17:08:09.814
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 96
+	TIME: 17:08:14.739
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 97
+	TIME: 17:08:19.808
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 98
+	TIME: 17:08:24.806
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 99
+	TIME: 17:08:30.065
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 100
+	TIME: 17:08:34.678
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 101
+	TIME: 17:08:39.667
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 102
+	TIME: 17:08:44.691
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 103
+	TIME: 17:08:49.698
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 104
+	TIME: 17:08:54.706
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 105
+	TIME: 17:08:59.682
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 106
+	TIME: 17:09:04.650
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 107
+	TIME: 17:09:09.678
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 108
+	TIME: 17:09:14.664
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 109
+	TIME: 17:09:19.665
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 110
+	TIME: 17:09:24.681
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 111
+	TIME: 17:09:29.746
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 112
+	TIME: 17:09:34.808
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 113
+	TIME: 17:09:39.754
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 114
+	TIME: 17:09:45.071
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 115
+	TIME: 17:09:49.721
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 116
+	TIME: 17:09:54.733
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 117
+	TIME: 17:09:59.852
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 118
+	TIME: 17:10:04.692
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 119
+	TIME: 17:10:09.686
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 120
+	TIME: 17:10:14.701
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 121
+	TIME: 17:10:19.816
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 122
+	TIME: 17:10:24.835
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 123
+	TIME: 17:10:30.081
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 124
+	TIME: 17:10:36.913
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 125
+	TIME: 17:10:40.863
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 126
+	TIME: 17:10:44.869
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 127
+	TIME: 17:10:54.119
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 128
+	TIME: 17:10:55.146
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 129
+	TIME: 17:11:00.984
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 130
+	TIME: 17:11:06.314
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 131
+	TIME: 17:11:10.249
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 132
+	TIME: 17:11:15.245
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 133
+	TIME: 17:11:20.064
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 134
+	TIME: 17:11:25.147
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 135
+	TIME: 17:11:30.104
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 136
+	TIME: 17:11:35.074
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 137
+	TIME: 17:11:40.031
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 138
+	TIME: 17:11:48.076
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 139
+	TIME: 17:11:50.070
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 140
+	TIME: 17:11:55.108
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 141
+	TIME: 17:12:00.031
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 142
+	TIME: 17:12:05.060
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 143
+	TIME: 17:12:10.703
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 144
+	TIME: 17:12:15.151
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 145
+	TIME: 17:12:20.177
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 146
+	TIME: 17:12:25.058
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 147
+	TIME: 17:12:30.373
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 148
+	TIME: 17:12:35.198
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 149
+	TIME: 17:12:40.450
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 150
+	TIME: 17:12:45.096
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 151
+	TIME: 17:12:50.163
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 152
+	TIME: 17:12:55.147
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 153
+	TIME: 17:13:00.056
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 154
+	TIME: 17:13:05.036
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 155
+	TIME: 17:13:10.268
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 156
+	TIME: 17:13:15.046
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 157
+	TIME: 17:13:20.065
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 158
+	TIME: 17:13:25.059
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 159
+	TIME: 17:13:30.067
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 160
+	TIME: 17:13:35.113
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 161
+	TIME: 17:13:40.061
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 162
+	TIME: 17:13:45.127
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 163
+	TIME: 17:13:50.107
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 164
+	TIME: 17:13:55.392
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 165
+	TIME: 17:14:00.158
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 166
+	TIME: 17:14:05.319
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 167
+	TIME: 17:14:10.047
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 168
+	TIME: 17:14:15.026
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 169
+	TIME: 17:14:20.152
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 170
+	TIME: 17:14:25.090
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 171
+	TIME: 17:14:30.124
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 172
+	TIME: 17:14:35.058
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 173
+	TIME: 17:14:40.053
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 174
+	TIME: 17:14:45.053
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 175
+	TIME: 17:14:50.058
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 176
+	TIME: 17:14:55.124
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 177
+	TIME: 17:15:00.198
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 178
+	TIME: 17:15:05.145
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 179
+	TIME: 17:15:10.062
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 180
+	TIME: 17:15:15.137
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 181
+	TIME: 17:15:20.215
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 182
+	TIME: 17:15:25.547
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 183
+	TIME: 17:15:33.049
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 184
+	TIME: 17:15:35.108
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 185
+	TIME: 17:15:40.106
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 186
+	TIME: 17:15:45.040
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 187
+	TIME: 17:15:50.302
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 188
+	TIME: 17:15:55.076
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 189
+	TIME: 17:16:00.128
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 190
+	TIME: 17:16:05.065
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 191
+	TIME: 17:16:10.051
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 192
+	TIME: 17:16:15.050
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 193
+	TIME: 17:16:20.116
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 194
+	TIME: 17:16:26.360
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 195
+	TIME: 17:16:30.221
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 196
+	TIME: 17:16:35.079
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 197
+	TIME: 17:16:40.070
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 198
+	TIME: 17:16:45.283
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 199
+	TIME: 17:16:50.302
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 200
+	TIME: 17:16:55.084
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 201
+	TIME: 17:17:00.059
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 202
+	TIME: 17:17:05.080
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 203
+	TIME: 17:17:10.045
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 204
+	TIME: 17:17:15.064
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 205
+	TIME: 17:17:20.146
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 206
+	TIME: 17:17:25.161
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 207
+	TIME: 17:17:30.073
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 208
+	TIME: 17:17:35.081
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 209
+	TIME: 17:17:40.066
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 210
+	TIME: 17:17:45.100
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 211
+	TIME: 17:17:50.059
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 212
+	TIME: 17:17:55.167
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 213
+	TIME: 17:18:00.057
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 214
+	TIME: 17:18:05.123
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 215
+	TIME: 17:18:10.077
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 216
+	TIME: 17:18:15.498
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 217
+	TIME: 17:18:20.315
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 218
+	TIME: 17:18:25.339
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 219
+	TIME: 17:18:30.043
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 220
+	TIME: 17:18:35.272
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 221
+	TIME: 17:18:40.068
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 222
+	TIME: 17:18:45.612
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 223
+	TIME: 17:18:50.092
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 224
+	TIME: 17:18:55.118
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 225
+	TIME: 17:19:00.074
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 226
+	TIME: 17:19:05.076
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 227
+	TIME: 17:19:10.070
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 228
+	TIME: 17:19:15.060
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 229
+	TIME: 17:19:20.105
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 230
+	TIME: 17:19:25.086
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 231
+	TIME: 17:19:30.215
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 232
+	TIME: 17:19:35.237
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 233
+	TIME: 17:19:40.341
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 234
+	TIME: 17:19:45.054
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 235
+	TIME: 17:19:50.087
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 236
+	TIME: 17:19:55.191
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 237
+	TIME: 17:20:00.108
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 238
+	TIME: 17:20:05.120
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 239
+	TIME: 17:20:10.112
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 240
+	TIME: 17:20:15.067
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 241
+	TIME: 17:20:20.205
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 242
+	TIME: 17:20:25.072
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 243
+	TIME: 17:20:30.125
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 244
+	TIME: 17:20:35.122
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 245
+	TIME: 17:20:40.113
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 246
+	TIME: 17:20:45.096
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 247
+	TIME: 17:20:50.175
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 248
+	TIME: 17:20:55.194
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 249
+	TIME: 17:21:00.429
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 250
+	TIME: 17:21:05.145
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 251
+	TIME: 17:21:10.142
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 252
+	TIME: 17:21:15.226
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 253
+	TIME: 17:21:20.074
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 254
+	TIME: 17:21:25.148
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 255
+	TIME: 17:21:30.231
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 256
+	TIME: 17:21:35.109
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 257
+	TIME: 17:21:40.109
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 258
+	TIME: 17:21:45.214
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 259
+	TIME: 17:21:50.119
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 260
+	TIME: 17:21:55.353
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 261
+	TIME: 17:22:00.139
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 262
+	TIME: 17:22:05.166
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 263
+	TIME: 17:22:10.127
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 264
+	TIME: 17:22:15.381
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 265
+	TIME: 17:22:20.167
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 266
+	TIME: 17:22:25.304
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 267
+	TIME: 17:22:30.084
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 268
+	TIME: 17:22:35.103
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 269
+	TIME: 17:22:40.096
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 270
+	TIME: 17:22:45.170
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 271
+	TIME: 17:22:50.084
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 272
+	TIME: 17:22:55.112
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 273
+	TIME: 17:23:00.118
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 274
+	TIME: 17:23:05.104
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 275
+	TIME: 17:23:10.083
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 276
+	TIME: 17:23:15.081
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 277
+	TIME: 17:23:20.075
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 278
+	TIME: 17:23:25.116
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 279
+	TIME: 17:23:30.093
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 280
+	TIME: 17:23:35.114
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 281
+	TIME: 17:23:40.281
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 282
+	TIME: 17:23:45.444
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 283
+	TIME: 17:23:50.093
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 284
+	TIME: 17:23:55.090
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 285
+	TIME: 17:24:00.134
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 286
+	TIME: 17:24:05.105
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 287
+	TIME: 17:24:10.165
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 288
+	TIME: 17:24:15.141
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 289
+	TIME: 17:24:20.162
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 290
+	TIME: 17:24:25.123
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 291
+	TIME: 17:24:30.111
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 292
+	TIME: 17:24:35.621
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 293
+	TIME: 17:24:40.147
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 294
+	TIME: 17:24:45.113
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 295
+	TIME: 17:24:50.104
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 296
+	TIME: 17:24:55.151
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 297
+	TIME: 17:25:00.294
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 298
+	TIME: 17:25:05.354
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 299
+	TIME: 17:25:10.377
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 300
+	TIME: 17:25:15.122
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 301
+	TIME: 17:25:20.122
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 302
+	TIME: 17:25:25.104
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 303
+	TIME: 17:25:30.174
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 304
+	TIME: 17:25:35.097
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 305
+	TIME: 17:25:40.128
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 306
+	TIME: 17:25:45.121
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 307
+	TIME: 17:25:50.083
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 308
+	TIME: 17:25:55.129
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 309
+	TIME: 17:26:00.107
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 310
+	TIME: 17:26:05.087
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 311
+	TIME: 17:26:10.125
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 312
+	TIME: 17:26:15.146
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 313
+	TIME: 17:26:20.106
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 314
+	TIME: 17:26:25.314
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 315
+	TIME: 17:26:30.354
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 316
+	TIME: 17:26:35.150
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 317
+	TIME: 17:26:40.187
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 318
+	TIME: 17:26:45.101
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 319
+	TIME: 17:26:50.089
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 320
+	TIME: 17:26:55.153
+		RUNNER: England
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 321
+	TIME: 17:27:00.194
+		RUNNER: England
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 322
+	TIME: 17:27:05.240
+		RUNNER: England
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 323
+	TIME: 17:27:10.147
+		RUNNER: England
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 324
+	TIME: 17:27:15.130
+		RUNNER: England
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 325
+	TIME: 17:27:20.111
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 326
+	TIME: 17:27:25.132
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 327
+	TIME: 17:27:30.113
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 328
+	TIME: 17:27:35.167
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 329
+	TIME: 17:27:40.087
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 330
+	TIME: 17:27:45.343
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 331
+	TIME: 17:27:50.160
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 332
+	TIME: 17:27:55.397
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 333
+	TIME: 17:28:00.101
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 334
+	TIME: 17:28:05.112
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 335
+	TIME: 17:28:10.114
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 336
+	TIME: 17:28:15.359
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 337
+	TIME: 17:28:20.159
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 338
+	TIME: 17:28:25.141
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 339
+	TIME: 17:28:30.153
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 340
+	TIME: 17:28:35.154
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 341
+	TIME: 17:28:40.115
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 342
+	TIME: 17:28:46.259
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 343
+	TIME: 17:28:50.176
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 344
+	TIME: 17:28:55.117
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 345
+	TIME: 17:29:00.117
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 346
+	TIME: 17:29:05.097
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 347
+	TIME: 17:29:10.557
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 348
+	TIME: 17:29:15.376
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 349
+	TIME: 17:29:23.245
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 350
+	TIME: 17:29:25.124
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 351
+	TIME: 17:29:30.219
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 352
+	TIME: 17:29:35.109
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 353
+	TIME: 17:29:40.128
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 354
+	TIME: 17:29:45.176
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 355
+	TIME: 17:29:50.164
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 356
+	TIME: 17:29:55.150
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 357
+	TIME: 17:30:00.136
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 358
+	TIME: 17:30:05.119
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 359
+	TIME: 17:30:10.129
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 360
+	TIME: 17:30:15.121
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
+ENTRY: 361
+	TIME: 17:30:20.117
+		RUNNER: England
+		RUNNER: Scotland
+		RUNNER: Neither Team
