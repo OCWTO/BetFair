@@ -7,16 +7,20 @@ import betFairGSONClasses.Runner;
 
 public class BetFairMarketData implements BetFairDataObject
 {
-	private String id;
+	private String marketId;
+	private String marketStatus;
 	private double matchedAmount;
 	private double unmatchedAmount;
+	private List<Runner> marketRunners;
 	private MarketBook rawBook;
 	
 	public BetFairMarketData(MarketBook book)
 	{
-		id = book.getMarketId();
+		marketId = book.getMarketId();
+		marketStatus = book.getStatus();
 		matchedAmount = book.getTotalAvailable();
 		unmatchedAmount = book.getTotalMatched();
+		marketRunners = book.getRunners();
 		rawBook = book;
 	}
 	
@@ -43,12 +47,12 @@ public class BetFairMarketData implements BetFairDataObject
 	
 	public String getStatus()
 	{
-		return rawBook.getStatus();
+		return marketStatus;
 	}
 	
 	public List<Runner> getRunners()
 	{
-		return rawBook.getRunners();
+		return marketRunners;
 	}
 	
 	@Override
@@ -60,7 +64,7 @@ public class BetFairMarketData implements BetFairDataObject
 	@Override
 	public String getId()
 	{
-		return id;
+		return marketId;
 	}
 
 }

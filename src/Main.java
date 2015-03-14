@@ -1,19 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Timer;
-
-import enums.BetFairMarketStatus;
-import enums.MarketProjection;
-import exceptions.CryptoException;
-import views.TextFrontEnd;
-import betFairGSONClasses.EventTypeResult;
-import betFairGSONClasses.MarketBook;
-import betFairGSONClasses.MarketCatalogue;
-import betFairGSONClasses.MarketFilter;
-import betfairUtils.EventTypeResultComparator;
 import model.BetFairCore;
-import model.SimpleBetFairCore;
-import model.SimpleGameRecorder;
+import views.TextFrontEnd;
 
 /**
  * Class containing main method which runs the whole program
