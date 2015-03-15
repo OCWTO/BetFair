@@ -10,12 +10,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.TimerTask;
 
 import betFairGSONClasses.MarketBook;
-import betFairGSONClasses.MarketCatalogue;
-import betFairGSONClasses.MarketFilter;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
 import betFairGSONClasses.RunnerCatalog;
@@ -48,6 +45,8 @@ import enums.BetFairMarketStatus;
  * @author Craig Thomson
  */
 //TODO extend this so it stores or throws or both depending on whats passed
+
+
 //if analsys
 
 
@@ -434,9 +433,9 @@ public class GameRecorder extends TimerTask
 							{
 								System.out
 										.println("Last market closed. Shutting down.");
-								this.cancel();
 								saveData(gameData.remove(i));
 								storeFinalData();
+								this.cancel();
 							}
 							else
 							{

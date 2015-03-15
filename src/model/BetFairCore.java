@@ -78,7 +78,6 @@ public class BetFairCore implements IBetFairCore
 	// Created on log in, required for all other calls.
 	private String sessionToken;
 	//TODO fix the output so i get game name+market then newline then odds (csv)
-	//TODO convert everything to use simplebetfair
 	//TODO implement the gui 
 	//TODO implement the observer/observable and test
 	//Other than that just clean up code.

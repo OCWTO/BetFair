@@ -1,34 +1,42 @@
 package model;
 
+import java.util.Date;
+
 import betFairGSONClasses.Event;
 
 public class BetFairGameObject implements BetFairDataObject
 {
-	private Event gameObj;
+	private String countryCode;
+	private String gameName;
+	private String gameId;
+	private Date gameStartTime;
 	
 	public BetFairGameObject(Event gameObject)
 	{
-		gameObj = gameObject;
+		gameId = gameObject.getId();
+		gameName = gameObject.getName();
+		countryCode = gameObject.getCountryCode();
+		gameStartTime = gameObject.getOpenDate();
 	}
 	
 	public String getId()
 	{
-		return gameObj.getId();
+		return gameId;
 	}
 	
 	public String getCountryCode()
 	{
-		return gameObj.getCountryCode();
+		return countryCode;
 	}
 	
 	public String getName()
 	{
-		return gameObj.getName();
+		return gameName;
 	}
 	
-	public String getStartTime()
+	public Date getStartTime()
 	{
-		return gameObj.getOpenDate().toString();
+		return gameStartTime;
 	}
 	
 	@Override

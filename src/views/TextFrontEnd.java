@@ -96,7 +96,7 @@ public class TextFrontEnd
 		System.out.println("MARKETS");
 		for (int i = 0; i < gameMarkets.size(); i++)
 		{
-			System.out.println("NO: " + i + gameMarkets.get(i));
+			System.out.println("NO: " + i + " " + gameMarkets.get(i));
 
 		}
 		while (true)
