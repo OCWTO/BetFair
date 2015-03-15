@@ -10,6 +10,17 @@ import java.util.Observable;
  */
 public class DataAnalysis extends Observable //implements BetFairDataUtiliser
 {
+	private GameRecorder recorder;
+	private ProgramOptions options;
+	private PredictionModel predictionModel;
+	
+	public DataAnalysis(ProgramOptions options)
+	{
+		recorder = new GameRecorder(options);
+		this.options = options;
+		predictionModel = PredictionModelFactory.getModel(options.getEventTypeId());
+	}
+	
 	/*TASKS
 	 * On creation it gets programoptions 
 	 * switch eventtype on factory class to get relevant model
