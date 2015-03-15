@@ -145,8 +145,6 @@ public class BetFairCore implements IBetFairCore
 
 		try
 		{
-			// TODO add unix support here
-			System.out.println(separator);
 			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + separator + "certs" + separator + "client-2048.p12")),
 					filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
@@ -370,7 +368,9 @@ public class BetFairCore implements IBetFairCore
 		}
 
 		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketCatalogueContainer.class);
-
+		
+		if(container == null)
+			System.out.println("Timeout...");
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
 

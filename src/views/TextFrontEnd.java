@@ -12,6 +12,7 @@ import model.BetFairMarketObject;
 import model.BetFairSportObject;
 import model.GameRecorder;
 import model.ISimpleBetFair;
+import model.ProgramOptions;
 import model.SimpleBetFairCore;
 import exceptions.CryptoException;
 
@@ -69,8 +70,15 @@ public class TextFrontEnd
 
 			
 			//THIS CODE starts a recorder so we want to do the same sort of stuff except observe it too
-			recorder = new GameRecorder(betFair, marketId);
-			System.out.println(marketId.get(0));
+			ProgramOptions options = new ProgramOptions();
+			options.setUserDetails("0ocwto0", "2014Project", "project");
+			options.addMarketIds(marketId);
+			options.setEventId(gameId);
+			options.setEventTypeId(sportId);
+			options.addBetFair(betFair);
+			
+			
+			recorder = new GameRecorder(options);
 			Timer timer = new Timer();
 			timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
 			
@@ -121,8 +129,7 @@ public class TextFrontEnd
 							.parseInt(inputTokens[inputTokens.length - 1]));
 					System.out.println("Adding market: "
 							+ selectedMarket.getName() + " to list");
-					selectedMarkets.add(gameId + ","
-							+ selectedMarket.getId());
+					selectedMarkets.add(selectedMarket.getId());
 				}
 				else
 				{

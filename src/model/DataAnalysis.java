@@ -10,6 +10,14 @@ import java.util.Observable;
  */
 public class DataAnalysis extends Observable //implements BetFairDataUtiliser
 {
+	/*TASKS
+	 * On creation it gets programoptions 
+	 * switch eventtype on factory class to get relevant model
+	 * create gamerecorder with parameters
+	 * make this observe that and this is observed by the view
+	 * 
+	 * 
+	 */
 	// TODO multi thread?
 	// TODO add timertask
 	//@Override

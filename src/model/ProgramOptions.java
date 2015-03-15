@@ -8,7 +8,7 @@ public class ProgramOptions
 	private String programOption;
 	private String eventTypeId;
 	private String eventId;
-	private List<Integer> marketIds;
+	private List<String> marketIds;
 	private ISimpleBetFair betFair;
 	private boolean debugMode;
 	private boolean collectionMode;
@@ -16,7 +16,7 @@ public class ProgramOptions
 	
 	public ProgramOptions()
 	{
-		marketIds = new ArrayList<Integer>();
+		marketIds = new ArrayList<String>();
 		debugMode = false;
 		collectionMode = false;
 		userCredentials = new String[3];
@@ -94,14 +94,19 @@ public class ProgramOptions
 		this.eventId = option;
 	}
 
-	public List<Integer> getMarketIds()
+	public List<String> getMarketIds()
 	{
 		return this.marketIds;
 	}
 
-	public void addMarketId(Integer option)
+	public void addMarketId(String option)
 	{
 		this.marketIds.add(option);
+	}
+	
+	public void addMarketIds(List<String> options)
+	{
+		this.marketIds.addAll(options);
 	}
 
 	public String getProgramOption()
