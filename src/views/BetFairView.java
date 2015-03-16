@@ -37,6 +37,7 @@ public abstract class BetFairView
 		mainContainer = guiFrame.getContentPane();
 		mainContainer.setLayout(new BoxLayout(mainContainer, BoxLayout.Y_AXIS));
 		guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		//setupAndDisplay();	figure out 
 	}
 	
 	protected void setupAndDisplay()

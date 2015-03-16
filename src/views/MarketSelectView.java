@@ -1,5 +1,6 @@
 package views;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.BoxLayout;
@@ -82,9 +83,15 @@ public class MarketSelectView extends BetFairView
 	@Override
 	public ProgramOptions getOptions()
 	{
-		if(marketListTable.getSelectedRow() != -1)
-			super.getOptions().setEventTypeId(availableMarkets.get(marketListTable.getSelectedRow()).getId());
-		
+		if(marketListTable.getSelectedRows().length > 0)
+		{
+			List<String> selectedMarketIds = new ArrayList<String>();
+			for(int selectedRow: marketListTable.getSelectedRows())
+			{
+				selectedMarketIds.add(availableMarkets.get(selectedRow).getId());
+			}
+		}
+			
 		return super.getOptions();
 	}
 }

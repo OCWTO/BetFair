@@ -7,10 +7,7 @@ import javax.swing.JOptionPane;
 
 import model.ProgramOptions;
 import views.BetFairView;
-import views.GameRecordView;
-import views.GameSelectView;
-import views.MarketSelectView;
-import views.SportSelectView;
+import views.GameAnalysisView;
 
 public class MarketSelectController implements ActionListener
 {
@@ -26,12 +23,14 @@ public class MarketSelectController implements ActionListener
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
+		options = view.getOptions();
+		
 		if(e.getActionCommand().equals("next"))
 		{
 			if(options.getMarketIds() != null)
 			{
 				view.closeView();
-				BetFairView sportSelectView = new GameRecordView(options);
+				BetFairView analysisView = new GameAnalysisView(options);
 			}	
 			else
 				JOptionPane.showMessageDialog(view.getFrame(), "Please select one or more market(s)");	
@@ -39,10 +38,6 @@ public class MarketSelectController implements ActionListener
 		else if(e.getActionCommand().equals("back"))
 		{
 			System.out.println("b");
-		}
-		else
-		{
-			System.out.println(e.getActionCommand());
 		}
 	}
 }

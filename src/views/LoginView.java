@@ -41,7 +41,6 @@ public class LoginView extends BetFairView
 		super(frameTitle, options, null);
 		super.setSize(new Dimension(xSize, ySize));
 		super.viewListener = new LoginController(this);
-		
 		setupAndDisplay();
 	}
 	

@@ -28,21 +28,21 @@ public class GameSelectController implements ActionListener
 		options = view.getOptions();
 
 		if(e.getActionCommand().equals("next"))
-		{
-			if(options.getEventId() != null)
+		{ 
+			if(options.getMarketIds() != null)
 			{
 				view.closeView();
 				
-				if(options.getCollectionMode())
-				{
-					System.out.println("collect mode so pick markets");
+				//if(options.getCollectionMode())
+				//{
+				//	System.out.println("collect mode so pick markets");
 					BetFairView marketSelectView = new MarketSelectView(options);
-				}
-				else
-				{
-					System.out.println("not in collect so go to game analysis");
-					BetFairView gameAnalysisView = new GameAnalysisView(options);
-				}
+				//}
+//				else
+//				{
+//					System.out.println("not in collect so go to game analysis");
+//					BetFairView gameAnalysisView = new GameAnalysisView(options);
+//				}
 			}
 			else
 			{

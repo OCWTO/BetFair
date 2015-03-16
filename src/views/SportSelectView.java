@@ -82,6 +82,7 @@ public class SportSelectView extends BetFairView
 	@Override
 	public ProgramOptions getOptions()
 	{
+		//TODO add code to stop multiple selections
 		if(sportListTable.getSelectedRow() != -1)
 			super.getOptions().setEventTypeId(availableSports.get(sportListTable.getSelectedRow()).getId());
 		
