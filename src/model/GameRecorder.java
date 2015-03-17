@@ -44,7 +44,7 @@ import enums.BetFairMarketStatus;
 
 
 
-public class GameRecorder extends TimerTask
+public class GameRecorder extends TimerTask implements Observable
 {
 	// Game IDS mapped to the market IDS (those being tracked)
 	// private Map<String, List<String>> gameToMarkets;
@@ -64,6 +64,7 @@ public class GameRecorder extends TimerTask
 	private String separator = File.separator;
 	private List<String> jsonMarketBookReplies; // put in manager
 	private List<String> marketCatalogueActivity; // put in manager
+	private List<Observer> observers;
 
 	/**
 	 * @param gameAndMarkets
@@ -79,6 +80,7 @@ public class GameRecorder extends TimerTask
 
 	public GameRecorder(ProgramOptions options)
 	{
+		observers = new ArrayList<Observer>();
 		manager = new DataManager(options);
 		counter = 1;
 		betFair = options.getBetFair();
@@ -160,6 +162,7 @@ public class GameRecorder extends TimerTask
 				}
 			}
 			gameData.add(marketData);
+			//NOTIFY HERE
 		}
 	}
 
@@ -250,7 +253,7 @@ public class GameRecorder extends TimerTask
 		BetFairMarketData currentBook;
 		String[] metaDataTokens;
 
-		String gameId = manager.getGameId();
+		//String gameId = manager.getGameId();
 		trackedMarkets = manager.getMarkets();
 		marketData = betFair.getMarketInformation(trackedMarkets);
 		// TODO modify this method to avoid too much data responses.
@@ -304,6 +307,7 @@ public class GameRecorder extends TimerTask
 							saveData(gameData.remove(i));
 						}
 						break;
+						//NOTIFY HERE
 					} else
 					{
 						// Look for a match to the markets name, resolved by
@@ -319,6 +323,15 @@ public class GameRecorder extends TimerTask
 			}
 
 		}
+		//NOTIFY HERE
+		//Need to pass up probabilities + runner names + timestamps for each market
+		//store runner data does probabilities so i need to decouple areas again
+		//So List of Market object with runner names + values
+		//get io to do all the saving, have a method there that returns a list of market objects
+		//so it passes that data in, calls the method to get an object out, once it has that then
+		//it notifys observers with that object
+		////Need start time, home and away, market objects
+		//market objects can get runner objects of name and probabilities
 		System.out.println("Iteration " + counter + " complete!");
 		counter++;
 	}
@@ -550,5 +563,24 @@ public class GameRecorder extends TimerTask
 						+ individual.getEx().getAvailableToLay().get(i).getSize() + ")\n");
 			}
 		}
+	}
+
+	@Override
+	public void addObserver(Observer obs)
+	{
+		observers.add(obs);
+	}
+
+	@Override
+	public void removeObserver(Observer obs)
+	{
+		observers.remove(obs);
+	}
+
+	@Override
+	public void notifyObservers(Object event)
+	{
+		for(Observer obs: observers)
+			obs.update(event);
 	}
 }
