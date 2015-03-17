@@ -65,6 +65,7 @@ public class GameRecorder extends TimerTask implements Observable
 	private List<String> jsonMarketBookReplies; // put in manager
 	private List<String> marketCatalogueActivity; // put in manager
 	private List<Observer> observers;
+	private DataIO io;
 
 	/**
 	 * @param gameAndMarkets
@@ -88,6 +89,9 @@ public class GameRecorder extends TimerTask implements Observable
 		jsonMarketBookReplies = new ArrayList<String>();
 		marketCatalogueActivity = new ArrayList<String>();
 		initiliseCollections();
+		System.out.println("RECORDER " + gameData.get(0).get(0));
+		io = new DataIO(manager);
+		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
 	}
 
 	public long getStartDelayInMS()
@@ -118,7 +122,7 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		List<String> markets;
 		List<BetFairMarketObject> marketCatalogue;
-		List<Long> gameStartTimes = new ArrayList<Long>();
+		//List<Long> gameStartTimes = new ArrayList<Long>();
 		// runnerIds = new HashMap<Long, String>();
 		// For each individual game
 		String gameId = manager.getGameId();
@@ -141,7 +145,7 @@ public class GameRecorder extends TimerTask implements Observable
 				// If the market ids match
 				if (marketCatalogue.get(j).getId().equals(markets.get(i)))
 				{
-					gameStartTimes.add(marketCatalogue.get(j).getOpenDate().getTime());
+					//gameStartTimes.add(marketCatalogue.get(j).getOpenDate().getTime());
 					// addToRunnerMap(marketCatalogue.get(j).getRunners());
 
 					// Index 0 of all market data lists are
@@ -150,6 +154,8 @@ public class GameRecorder extends TimerTask implements Observable
 					ArrayList<String> singleMarketData = new ArrayList<String>();
 					singleMarketData.add(marketCatalogue.get(j).getMarketEvent().getName() + "_" + marketCatalogue.get(j).getName() + "_"
 							+ marketCatalogue.get(j).getOpenDate().getTime());
+					System.out.println("ITS MAKING  " + marketCatalogue.get(j).getMarketEvent().getName());
+					System.out.println(marketCatalogue.get(j).getName() + " Aasa");
 					marketData.add(singleMarketData);
 					// Generate Index 0 data for each runner we track that's
 					// informative...ish
