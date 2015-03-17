@@ -1,4 +1,10 @@
-import model.BetFairCore;
+import java.util.ArrayList;
+import java.util.List;
+
+import model.BetFairGameObject;
+import model.BetFairMarketObject;
+import model.ISimpleBetFair;
+import model.SimpleBetFairCore;
 import views.TextFrontEnd;
 
 /**
@@ -16,12 +22,43 @@ public class Main
 	
 	public static void main2(String[] args)
 	{
-		BetFairCore core = new BetFairCore(true);
-		core.login("0ocwto0", "2014Project", "project");
-
+		ISimpleBetFair betFair = new SimpleBetFairCore(true);
+		betFair.login("0ocwto0", "2014Project", "project");
+		betFair.getSupportedSportList();
+		List<BetFairGameObject> games = betFair.getGameListForSport("1");
+//		List<String> gameIds = new ArrayList<String>();
+//		for(int i = 0; i < games.size(); i++)
+//		{
+//			System.out.println(games.get(i).getId());
+//			gameIds.add(games.get(i).getId());
+//		}
+//		
+//		//get market list for game in in
+//		List<String> marketIds = new ArrayList<String>();
+//		List<BetFairMarketObject> marketList = betFair.getMarketsForGame(gameIds.get(0));
+//		for(int i = 0; i < marketList.size(); i++)
+//		{
+//			marketIds.add(marketList.get(i).getId());
+//		}
 		
-		core.getGames("101153190");
-		core.getMarketBook("1.01153190");
+		//cost of this is 	5*no of markets
+		//betFair.getMarketInformation(marketIds);
+		
+		
+		
+		//betFair.getMarketInformation(marketIds);
+//		List<MarketCatalogue> catalogue = new ArrayList<MarketCatalogue>();
+//		catalogue = betFair.getGames("1");
+//		List<String> ids = new ArrayList<String>();
+//		
+//		for(int i = 0; i < catalogue.size(); i++)
+//		{
+//			System.out.println(catalogue.get(i).getMarketId());
+//			ids.add(catalogue.get(i).getMarketId());
+//		}
+//		betFair.getMarketBook(ids);
+		//core.getGames("101153190");
+		//core.getMarketBook("1.01153190");
 		//List<String> temp = new ArrayList<String>();
 		//temp.add("1.117517592");
 		//List<MarketBook> t2 = core.getMarketBook("1.117517592");
