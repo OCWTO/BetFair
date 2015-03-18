@@ -21,11 +21,10 @@ public class DataAnalysis implements Observer, Observable
 	
 	public DataAnalysis(ProgramOptions options)
 	{
+		this.options = options;
 		observers = new ArrayList<Observer>();
 		recorder = new GameRecorder(options);
-		this.options = options;
 		predictionModel = PredictionModelFactory.getModel(options.getEventTypeId());
-		recorder = new GameRecorder(options);
 	}
 	
 	/*TASKS
@@ -36,6 +35,9 @@ public class DataAnalysis implements Observer, Observable
 	 * 
 	 * 
 	 */
+	
+	
+	//This class receives events, throws data into analysis and throws old events and new ones generated up
 
 
 	@Override
