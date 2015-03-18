@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 import model.ProgramOptions;
 import views.BetFairView;
-import views.GameAnalysisView;
+import views.AnalysisView;
 import views.GameSelectView;
 import views.MarketSelectView;
 //TODO make 

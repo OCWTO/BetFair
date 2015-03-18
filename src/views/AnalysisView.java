@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 import model.DataAnalysis;
 import model.ProgramOptions;
 
-public class GameAnalysisView extends BetFairView
+public class AnalysisView extends BetFairView
 {
 	private static final String frameTitle = "BetFair Game View";
 	private JLabel homeTeamName;
@@ -20,7 +20,7 @@ public class GameAnalysisView extends BetFairView
 	private JLabel gameScore;
 	private DataAnalysis analysis;
 	
-	public GameAnalysisView(ProgramOptions options)
+	public AnalysisView(ProgramOptions options)
 	{
 		super(frameTitle, options, null);
 		//super.viewListener = new LoginController(this);

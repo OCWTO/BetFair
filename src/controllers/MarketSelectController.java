@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
 import model.ProgramOptions;
 import views.BetFairView;
-import views.GameAnalysisView;
+import views.AnalysisView;
 
 public class MarketSelectController implements ActionListener
 {
@@ -30,7 +30,7 @@ public class MarketSelectController implements ActionListener
 			if(options.getMarketIds() != null)
 			{
 				view.closeView();
-				BetFairView analysisView = new GameAnalysisView(options);
+				BetFairView analysisView = new AnalysisView(options);
 			}	
 			else
 				JOptionPane.showMessageDialog(view.getFrame(), "Please select one or more market(s)");	
