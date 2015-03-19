@@ -13,6 +13,7 @@ public class DataManager
 	private Map<String,String> marketIdToName;
 	private Map<Long, String> runnerIdToName;
 	private long timeToStart;
+	private long actualStartTime;
 	
 	public DataManager(ProgramOptions options)
 	{
@@ -75,12 +76,22 @@ public class DataManager
 				timeToStart = marketObj.getOpenDate().getTime();
 		}
 		
+		actualStartTime = timeToStart;
+		
+		//Get difference between start time and current time
 		timeToStart = timeToStart - System.currentTimeMillis();
+		
+		//If already started then we just return 0
 		if(timeToStart < 0)
 			timeToStart = 0;
 	}
 	
 	public long getStartTime()
+	{
+		return actualStartTime;
+	}
+	
+	public long getStartDelay()
 	{
 		System.out.println("Starting in: " + timeToStart + " ms" + "(" + timeToStart/1000.0/60 + " mins)");
 		return timeToStart;

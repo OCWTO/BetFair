@@ -2,6 +2,7 @@ package model;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Timer;
 
 /**
  * This class receives data from IBetFairCore and analyses it. If patterns in
@@ -25,6 +26,12 @@ public class DataAnalysis implements Observer, Observable
 		observers = new ArrayList<Observer>();
 		recorder = new GameRecorder(options);
 		predictionModel = PredictionModelFactory.getModel(options.getEventTypeId());
+	}
+	
+	public void start()
+	{
+		Timer timer = new Timer();
+		timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
 	}
 	
 	/*TASKS
@@ -62,6 +69,7 @@ public class DataAnalysis implements Observer, Observable
 	@Override
 	public void update(Object obj)
 	{
+		System.out.println("getting updated");
 		//THIS is when data is received
 		//current idea is for each market passed up we update
 		//if its not passed up then we assume its closed but problem

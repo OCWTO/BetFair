@@ -10,6 +10,7 @@ import java.util.Timer;
 import model.BetFairGameObject;
 import model.BetFairMarketObject;
 import model.BetFairSportObject;
+import model.DataAnalysis;
 import model.GameRecorder;
 import model.ISimpleBetFair;
 import model.ProgramOptions;
@@ -27,7 +28,7 @@ public class TextFrontEnd
 {
 	private Scanner userInput;
 	private ISimpleBetFair betFair;
-	private GameRecorder recorder;
+	private DataAnalysis recorder;
 
 	/**
 	 * 
@@ -78,11 +79,8 @@ public class TextFrontEnd
 			options.addBetFair(betFair);
 			
 			
-			recorder = new GameRecorder(options);
-			Timer timer = new Timer();
-			timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
-			
-			
+			recorder = new DataAnalysis(options);
+			recorder.start();			
 			//timer runs on its own thread so i can do whatever after
 		}
 	}

@@ -108,7 +108,8 @@ public class DataIO
 						// Grab our market list for the current game from the
 						// map
 						List<String> currentMarketList = manager.getMarkets();
-
+						System.out.println("REMOVING AN ITEM");
+						System.out.println("SIZE IN IO " + manager.getMarkets().size());
 						// Remove the market id from its list
 						currentMarketList.remove(currentMarketList.indexOf(currentBook.getId()));
 						// TODO throw event here instead
@@ -434,24 +435,44 @@ public class DataIO
 			activeIndex.add(timer + " , " + ((workingBack + workingLay) / 2) + "\n");
 			// TODO code to track probabilitiy goes here
 			// need timestamp,runner name, market name and value
-			System.out.println("Writing " + timer + " , " + ((workingBack + workingLay) / 2) + manager.getRunnerName(trackedRunner.getSelectionId())); // +"\n"
+			System.out.println("Writing " + timer + " , " + ((workingBack + workingLay) / 2) + " " + manager.getRunnerName(trackedRunner.getSelectionId())); // +"\n"
+		}
+		else
+		{
+			//1 is the lowest value possible from actual data so 0 is used to display no data.
+			activeIndex.add(timer + " , " + 0 + "\n");
 		}
 	}
 	
-	public void getRecentData()
+	//Working with the idea that home market is always first
+	public List<BetFairMarketItem> getRecentData()
 	{
-		//HOME IS ALWAYS FIRST
-		//so its easy, grab all the data, match the ids to names and create objects with
-		//name to value
-		//also return home team team (first index in gamedata for match odds)
-		//(0 is all data, 1 is runner2,2 is runner2, 3 is runner3
+		//Create collection to hold all markets information
+		List<BetFairMarketItem> marketInformation = new ArrayList<BetFairMarketItem>();
 		
 		
-		//for each market
-		//locate the probabilitiy index
-		//find out the runner name
-		//make object from name + probability
-		//return whole object also get timestamp
+		//For each market we're tracking
+		for(int i = 0; i < gameData.size(); i++)
+		{
+			//Create a market item for it.
+			BetFairMarketItem marketItem = new BetFairMarketItem(gameData.get(i).get(0).get(0).split("_")[1]);
+
+			//Get each runners data for this market, remember index 0 is alldata, 1-x is timestamp + probabilitiy for each iter
+			for(int j = 1; j < gameData.get(i).size(); j++)
+			{
+				List<String> currentDataIndex = gameData.get(i).get(j);
+				
+				//Get most recently added values
+				System.out.println(currentDataIndex.size() + " SIZE");
+				String[] currentDataIndexTokens = currentDataIndex.get(currentDataIndex.size()-1).split(",");
+				String timeStamp = currentDataIndexTokens[0];
+				String probabilityValue = currentDataIndexTokens[1];
+				String runnerName = gameData.get(i).get(j).get(0).split("_")[0];
+				marketItem.addRunnerProbability(new BetFairProbabilityItem(timeStamp, runnerName, probabilityValue));	
+			}
+			marketInformation.add(marketItem);
+		}
+		return marketInformation;
 	}
 
 	private void storeAllGameData(List<Runner> runners, List<String> activeIndex)

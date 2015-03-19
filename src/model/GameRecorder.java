@@ -3,6 +3,7 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TimerTask;
+import java.util.stream.Collectors;
 
 
 /**
@@ -44,7 +45,7 @@ public class GameRecorder extends TimerTask implements Observable
 	private ISimpleBetFair betFair;
 	private List<Observer> observers;
 	private DataIO io;
-
+	private List<String> marketList;
 	/**
 	 * @param gameAndMarkets
 	 *            An array of game IDs and market IDs in the form of
@@ -63,53 +64,67 @@ public class GameRecorder extends TimerTask implements Observable
 		manager = new DataManager(options);
 		betFair = options.getBetFair();
 		io = new DataIO(manager);
+		marketList = manager.getMarkets();
 		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
 	}
-
-	public long getStartDelayInMS()
+	
+	public long getStartTime()
 	{
 		return manager.getStartTime();
 	}
 
-	/**
-	 * Create the map from Market Id to market name, required for storing data,
-	 * since marketbook loses all notion of marketname and only knows of id. So
-	 * we need to know what id corresponds to what name, because of our method
-	 * for storing our metadata
-	 */
-
-	/**
-	 * This method is used to find the time (in ms from 1st January 1970) that
-	 * the next game to be tracked starts.
-	 * 
-	 * @return A value in ms representing how long until the next game to be
-	 *         tracked starts
-	 */
-
-	/**
-	 * Set the initial state of collections holding data, required for
-	 * meaningful data outputs.
-	 */
+	public long getStartDelayInMS()
+	{
+		return manager.getStartDelay();
+	}
 
 	
-	/**
-	 * Method overwritten from TimerTask. In this case it starts method calls
-	 * that adds new data to the collections from the BetFair API.
-	 */
 	@Override
 	public void run()
 	{
 		io.addData(betFair.getMarketInformation(manager.getMarkets()));
 		
-		io.getRecentData();
-		//from here we throw our data out (markets closing, probabilities, initial values).
+		//Get the relevant information from our utilised objects
+		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
+		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
 		
-		
-		//We need objects out of market name, runner name + probabiltities + timestamp for all
-		//Also events such as markets shutting, can this be detected? Need to look into the data
-		//I output for market shutting and market having not enough data.
+		EventList gameEvents = new EventList(mostRecentData, closedMarketList);	
+		notifyObservers(gameEvents);
 	}
 
+
+	private List<String> checkForClosedMarkets(List<BetFairMarketItem> mostRecentData)
+	{
+		//If we received less data for markets than expected
+		if(marketList.size() != mostRecentData.size())
+		{
+			if(mostRecentData.size() == 0)
+			{
+				System.out.println("All markets finished so shutting down.");
+				//Need to throw custom stuff up?
+			}
+			
+			//Resolve the list of market ids to their names
+			List<String> marketNames = new ArrayList<String>();
+			for(String marketId: marketList)
+			{
+				marketNames.add(manager.getMarketName(marketId));
+			}
+			
+			//Convert List of BetFairMarketItems to a list of their marketNames
+			List<String> recentMarketIds = mostRecentData.stream().map(BetFairMarketItem::getMarketName).collect(Collectors.toList());
+			
+			//Remove all common elements, thus whats left is market names we received no data for
+			marketNames.removeAll(recentMarketIds);
+
+			//If there's markets we received no data for
+			if(marketNames.size() != 0)
+			{
+				return marketNames;
+			}
+		}
+		return null;
+	}
 
 	private List<BetFairMarketData> getAllGameMarketInformation()
 	{
