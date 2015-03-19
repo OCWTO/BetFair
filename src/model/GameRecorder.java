@@ -101,6 +101,7 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		io.addData(betFair.getMarketInformation(manager.getMarkets()));
 		
+		io.getRecentData();
 		//from here we throw our data out (markets closing, probabilities, initial values).
 		
 		

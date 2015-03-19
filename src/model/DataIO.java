@@ -434,8 +434,24 @@ public class DataIO
 			activeIndex.add(timer + " , " + ((workingBack + workingLay) / 2) + "\n");
 			// TODO code to track probabilitiy goes here
 			// need timestamp,runner name, market name and value
-			System.out.println("Writing " + timer + " , " + ((workingBack + workingLay) / 2)); // +"\n"
+			System.out.println("Writing " + timer + " , " + ((workingBack + workingLay) / 2) + manager.getRunnerName(trackedRunner.getSelectionId())); // +"\n"
 		}
+	}
+	
+	public void getRecentData()
+	{
+		//HOME IS ALWAYS FIRST
+		//so its easy, grab all the data, match the ids to names and create objects with
+		//name to value
+		//also return home team team (first index in gamedata for match odds)
+		//(0 is all data, 1 is runner2,2 is runner2, 3 is runner3
+		
+		
+		//for each market
+		//locate the probabilitiy index
+		//find out the runner name
+		//make object from name + probability
+		//return whole object also get timestamp
 	}
 
 	private void storeAllGameData(List<Runner> runners, List<String> activeIndex)
