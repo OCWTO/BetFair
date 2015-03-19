@@ -25,6 +25,7 @@ public class DataAnalysis implements Observer, Observable
 		this.options = options;
 		observers = new ArrayList<Observer>();
 		recorder = new GameRecorder(options);
+		recorder.addObserver(this);
 		predictionModel = PredictionModelFactory.getModel(options.getEventTypeId());
 	}
 	

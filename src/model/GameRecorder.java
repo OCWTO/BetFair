@@ -64,7 +64,7 @@ public class GameRecorder extends TimerTask implements Observable
 		manager = new DataManager(options);
 		betFair = options.getBetFair();
 		io = new DataIO(manager);
-		marketList = manager.getMarkets();
+		marketList = new ArrayList<String>(manager.getMarkets());
 		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
 	}
 	
@@ -96,11 +96,14 @@ public class GameRecorder extends TimerTask implements Observable
 	private List<String> checkForClosedMarkets(List<BetFairMarketItem> mostRecentData)
 	{
 		//If we received less data for markets than expected
+		System.out.println(mostRecentData.size() + " MOST RECET");
+		System.out.println(marketList.size() + " MARKETLIST");
 		if(marketList.size() != mostRecentData.size())
 		{
 			if(mostRecentData.size() == 0)
 			{
 				System.out.println("All markets finished so shutting down.");
+				this.cancel();
 				//Need to throw custom stuff up?
 			}
 			
