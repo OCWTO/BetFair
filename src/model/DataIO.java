@@ -13,6 +13,7 @@ import java.util.List;
 //method for save (marketname)
 //needs to recognise when to stop tracking
 
+
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
@@ -186,7 +187,7 @@ public class DataIO
 	{
 		// Market names/runners can sometimes have invalid characters for
 		// filenames so we have to remove them
-		String fileNameRegex = "[^\\p{Alpha}]+";
+		String fileNameRegex = "[^\\p{Alnum}]+";
 		makeBaseDirectory(closedMarketData);
 
 		File closedMarketDir;
