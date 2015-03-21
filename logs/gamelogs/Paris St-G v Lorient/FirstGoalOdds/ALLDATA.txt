@@ -1,0 +1,1049 @@
+Paris St-G v Lorient_First Goal Odds_1426879800000ENTRY: 1
+	TIME: 19:30:08.197
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:4.5,SIZE:23.56)
+			BACK: (PRICE:4.4,SIZE:86.17)
+			BACK: (PRICE:4.1,SIZE:2.02)
+			LAY: (PRICE:5.1,SIZE:676.67)
+			LAY: (PRICE:5.8,SIZE:14.0)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:4.8,SIZE:10.32)
+			BACK: (PRICE:4.7,SIZE:15.54)
+			BACK: (PRICE:4.6,SIZE:315.75)
+			LAY: (PRICE:6.2,SIZE:2.0)
+			LAY: (PRICE:6.4,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:6.2,SIZE:21.45)
+			BACK: (PRICE:6.0,SIZE:142.78)
+			BACK: (PRICE:5.9,SIZE:88.3)
+			LAY: (PRICE:8.4,SIZE:15.26)
+			LAY: (PRICE:8.6,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.8,SIZE:7.6)
+			BACK: (PRICE:8.6,SIZE:82.22)
+			BACK: (PRICE:8.2,SIZE:12.2)
+			LAY: (PRICE:11.5,SIZE:10.0)
+			LAY: (PRICE:12.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:11.5,SIZE:7.48)
+			BACK: (PRICE:11.0,SIZE:62.45)
+			BACK: (PRICE:10.5,SIZE:9.52)
+			LAY: (PRICE:14.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:16.0,SIZE:4.18)
+			BACK: (PRICE:15.5,SIZE:6.45)
+			BACK: (PRICE:15.0,SIZE:44.75)
+			LAY: (PRICE:19.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:23.0,SIZE:2.9)
+			BACK: (PRICE:22.0,SIZE:2.8)
+			BACK: (PRICE:21.0,SIZE:3.18)
+			LAY: (PRICE:28.0,SIZE:8.68)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 71 - 80 Minutes
+			BACK: (PRICE:30.0,SIZE:2.04)
+			BACK: (PRICE:27.0,SIZE:2.74)
+			BACK: (PRICE:26.0,SIZE:42.29)
+			LAY: (PRICE:40.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 81 - Full Time
+			BACK: (PRICE:32.0,SIZE:6.11)
+			BACK: (PRICE:30.0,SIZE:14.92)
+			BACK: (PRICE:27.0,SIZE:24.46)
+			LAY: (PRICE:50.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: No Goal
+			BACK: (PRICE:19.5,SIZE:4.84)
+			BACK: (PRICE:18.5,SIZE:25.1)
+			BACK: (PRICE:16.0,SIZE:41.63)
+			LAY: (PRICE:27.0,SIZE:18.99)
+			LAY: (PRICE:28.0,SIZE:20.0)
+			LAY: (PRICE:29.0,SIZE:10.85)
+ENTRY: 2
+	TIME: 19:30:12.525
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:4.5,SIZE:23.56)
+			BACK: (PRICE:4.4,SIZE:86.17)
+			BACK: (PRICE:4.1,SIZE:2.02)
+			LAY: (PRICE:5.1,SIZE:676.67)
+			LAY: (PRICE:5.8,SIZE:14.0)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:4.8,SIZE:10.32)
+			BACK: (PRICE:4.7,SIZE:15.54)
+			BACK: (PRICE:4.6,SIZE:315.75)
+			LAY: (PRICE:6.2,SIZE:2.0)
+			LAY: (PRICE:6.4,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:6.2,SIZE:21.45)
+			BACK: (PRICE:6.0,SIZE:142.78)
+			BACK: (PRICE:5.9,SIZE:88.3)
+			LAY: (PRICE:8.4,SIZE:15.26)
+			LAY: (PRICE:8.6,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.8,SIZE:7.6)
+			BACK: (PRICE:8.6,SIZE:82.22)
+			BACK: (PRICE:8.2,SIZE:12.2)
+			LAY: (PRICE:11.5,SIZE:10.0)
+			LAY: (PRICE:12.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:11.5,SIZE:7.48)
+			BACK: (PRICE:11.0,SIZE:62.45)
+			BACK: (PRICE:10.5,SIZE:9.52)
+			LAY: (PRICE:14.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:16.0,SIZE:4.18)
+			BACK: (PRICE:15.5,SIZE:6.45)
+			BACK: (PRICE:15.0,SIZE:44.75)
+			LAY: (PRICE:19.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:23.0,SIZE:2.9)
+			BACK: (PRICE:22.0,SIZE:2.8)
+			BACK: (PRICE:21.0,SIZE:3.18)
+			LAY: (PRICE:28.0,SIZE:8.68)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 71 - 80 Minutes
+			BACK: (PRICE:30.0,SIZE:2.04)
+			BACK: (PRICE:27.0,SIZE:2.74)
+			BACK: (PRICE:26.0,SIZE:42.29)
+			LAY: (PRICE:40.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 81 - Full Time
+			BACK: (PRICE:32.0,SIZE:6.11)
+			BACK: (PRICE:30.0,SIZE:14.92)
+			BACK: (PRICE:27.0,SIZE:24.46)
+			LAY: (PRICE:50.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: No Goal
+			BACK: (PRICE:19.5,SIZE:4.84)
+			BACK: (PRICE:18.5,SIZE:25.1)
+			BACK: (PRICE:16.0,SIZE:41.63)
+			LAY: (PRICE:27.0,SIZE:18.99)
+			LAY: (PRICE:28.0,SIZE:20.0)
+			LAY: (PRICE:29.0,SIZE:10.85)
+ENTRY: 3
+	TIME: 19:30:27.219
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:4.5,SIZE:23.56)
+			BACK: (PRICE:4.4,SIZE:86.17)
+			BACK: (PRICE:4.1,SIZE:2.02)
+			LAY: (PRICE:5.1,SIZE:676.67)
+			LAY: (PRICE:5.8,SIZE:14.0)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:4.8,SIZE:10.32)
+			BACK: (PRICE:4.7,SIZE:15.54)
+			BACK: (PRICE:4.6,SIZE:315.75)
+			LAY: (PRICE:6.2,SIZE:2.0)
+			LAY: (PRICE:6.4,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:6.2,SIZE:21.45)
+			BACK: (PRICE:6.0,SIZE:142.78)
+			BACK: (PRICE:5.9,SIZE:88.3)
+			LAY: (PRICE:8.4,SIZE:15.26)
+			LAY: (PRICE:8.6,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.8,SIZE:7.6)
+			BACK: (PRICE:8.6,SIZE:82.22)
+			BACK: (PRICE:8.2,SIZE:12.2)
+			LAY: (PRICE:11.5,SIZE:10.0)
+			LAY: (PRICE:12.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:11.5,SIZE:7.48)
+			BACK: (PRICE:11.0,SIZE:62.45)
+			BACK: (PRICE:10.5,SIZE:9.52)
+			LAY: (PRICE:14.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:16.0,SIZE:4.18)
+			BACK: (PRICE:15.5,SIZE:6.45)
+			BACK: (PRICE:15.0,SIZE:44.75)
+			LAY: (PRICE:19.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:23.0,SIZE:2.9)
+			BACK: (PRICE:22.0,SIZE:2.8)
+			BACK: (PRICE:21.0,SIZE:3.18)
+			LAY: (PRICE:28.0,SIZE:8.68)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 71 - 80 Minutes
+			BACK: (PRICE:30.0,SIZE:2.04)
+			BACK: (PRICE:27.0,SIZE:2.74)
+			BACK: (PRICE:26.0,SIZE:42.29)
+			LAY: (PRICE:40.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 81 - Full Time
+			BACK: (PRICE:32.0,SIZE:6.11)
+			BACK: (PRICE:30.0,SIZE:14.92)
+			BACK: (PRICE:27.0,SIZE:24.46)
+			LAY: (PRICE:50.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: No Goal
+			BACK: (PRICE:19.5,SIZE:4.84)
+			BACK: (PRICE:18.5,SIZE:25.1)
+			BACK: (PRICE:16.0,SIZE:41.63)
+			LAY: (PRICE:27.0,SIZE:18.99)
+			LAY: (PRICE:28.0,SIZE:20.0)
+			LAY: (PRICE:29.0,SIZE:10.85)
+ENTRY: 4
+	TIME: 19:30:31.794
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:4.5,SIZE:23.56)
+			BACK: (PRICE:4.4,SIZE:86.17)
+			BACK: (PRICE:4.1,SIZE:2.02)
+			LAY: (PRICE:5.1,SIZE:676.67)
+			LAY: (PRICE:5.8,SIZE:14.0)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:4.8,SIZE:10.32)
+			BACK: (PRICE:4.7,SIZE:15.54)
+			BACK: (PRICE:4.6,SIZE:315.75)
+			LAY: (PRICE:6.2,SIZE:2.0)
+			LAY: (PRICE:6.4,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:6.2,SIZE:21.45)
+			BACK: (PRICE:6.0,SIZE:142.78)
+			BACK: (PRICE:5.9,SIZE:88.3)
+			LAY: (PRICE:8.4,SIZE:15.26)
+			LAY: (PRICE:8.6,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.8,SIZE:7.6)
+			BACK: (PRICE:8.6,SIZE:82.22)
+			BACK: (PRICE:8.2,SIZE:12.2)
+			LAY: (PRICE:11.5,SIZE:10.0)
+			LAY: (PRICE:12.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:11.5,SIZE:7.48)
+			BACK: (PRICE:11.0,SIZE:62.45)
+			BACK: (PRICE:10.5,SIZE:9.52)
+			LAY: (PRICE:14.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:16.0,SIZE:4.18)
+			BACK: (PRICE:15.5,SIZE:6.45)
+			BACK: (PRICE:15.0,SIZE:44.75)
+			LAY: (PRICE:19.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:23.0,SIZE:2.9)
+			BACK: (PRICE:22.0,SIZE:2.8)
+			BACK: (PRICE:21.0,SIZE:3.18)
+			LAY: (PRICE:28.0,SIZE:8.68)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 71 - 80 Minutes
+			BACK: (PRICE:30.0,SIZE:2.04)
+			BACK: (PRICE:27.0,SIZE:2.74)
+			BACK: (PRICE:26.0,SIZE:42.29)
+			LAY: (PRICE:40.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 81 - Full Time
+			BACK: (PRICE:32.0,SIZE:6.11)
+			BACK: (PRICE:30.0,SIZE:14.92)
+			BACK: (PRICE:27.0,SIZE:24.46)
+			LAY: (PRICE:50.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: No Goal
+			BACK: (PRICE:19.5,SIZE:4.84)
+			BACK: (PRICE:18.5,SIZE:25.1)
+			BACK: (PRICE:16.0,SIZE:41.63)
+			LAY: (PRICE:27.0,SIZE:18.99)
+			LAY: (PRICE:28.0,SIZE:20.0)
+			LAY: (PRICE:29.0,SIZE:10.85)
+ENTRY: 5
+	TIME: 19:30:36.397
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:4.5,SIZE:23.56)
+			BACK: (PRICE:4.4,SIZE:86.17)
+			BACK: (PRICE:4.1,SIZE:2.02)
+			LAY: (PRICE:5.1,SIZE:676.67)
+			LAY: (PRICE:5.8,SIZE:14.0)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 11 - 20 Minutes
+			BACK: (PRICE:4.8,SIZE:10.32)
+			BACK: (PRICE:4.7,SIZE:15.54)
+			BACK: (PRICE:4.6,SIZE:315.75)
+			LAY: (PRICE:6.2,SIZE:2.0)
+			LAY: (PRICE:6.4,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 21 - 30 Minutes
+			BACK: (PRICE:6.2,SIZE:21.45)
+			BACK: (PRICE:6.0,SIZE:142.78)
+			BACK: (PRICE:5.9,SIZE:88.3)
+			LAY: (PRICE:8.4,SIZE:15.26)
+			LAY: (PRICE:8.6,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 31 - 40 Minutes
+			BACK: (PRICE:8.8,SIZE:7.6)
+			BACK: (PRICE:8.6,SIZE:82.22)
+			BACK: (PRICE:8.2,SIZE:12.2)
+			LAY: (PRICE:11.5,SIZE:10.0)
+			LAY: (PRICE:12.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 41 - 50 Minutes
+			BACK: (PRICE:11.5,SIZE:7.48)
+			BACK: (PRICE:11.0,SIZE:62.45)
+			BACK: (PRICE:10.5,SIZE:9.52)
+			LAY: (PRICE:14.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 51 - 60 Minutes
+			BACK: (PRICE:16.0,SIZE:4.18)
+			BACK: (PRICE:15.5,SIZE:6.45)
+			BACK: (PRICE:15.0,SIZE:44.75)
+			LAY: (PRICE:19.5,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 61 - 70 Minutes
+			BACK: (PRICE:23.0,SIZE:2.9)
+			BACK: (PRICE:22.0,SIZE:2.8)
+			BACK: (PRICE:21.0,SIZE:3.18)
+			LAY: (PRICE:28.0,SIZE:8.68)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 71 - 80 Minutes
+			BACK: (PRICE:30.0,SIZE:2.04)
+			BACK: (PRICE:27.0,SIZE:2.74)
+			BACK: (PRICE:26.0,SIZE:42.29)
+			LAY: (PRICE:40.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: 81 - Full Time
+			BACK: (PRICE:32.0,SIZE:6.11)
+			BACK: (PRICE:30.0,SIZE:14.92)
+			BACK: (PRICE:27.0,SIZE:24.46)
+			LAY: (PRICE:50.0,SIZE:10.85)
+			LAY: (PRICE:1000.0,SIZE:4.4)
+		RUNNER: No Goal
+			BACK: (PRICE:19.5,SIZE:4.84)
+			BACK: (PRICE:18.5,SIZE:25.1)
+			BACK: (PRICE:16.0,SIZE:41.63)
+			LAY: (PRICE:27.0,SIZE:18.99)
+			LAY: (PRICE:28.0,SIZE:20.0)
+			LAY: (PRICE:29.0,SIZE:10.85)
+ENTRY: 6
+	TIME: 19:30:40.453
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 7
+	TIME: 19:30:46.324
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 8
+	TIME: 19:30:50.923
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 9
+	TIME: 19:30:54.208
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 10
+	TIME: 19:31:00.600
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 11
+	TIME: 19:31:05.676
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 12
+	TIME: 19:31:09.518
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 13
+	TIME: 19:31:17.750
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 14
+	TIME: 19:31:24.266
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 15
+	TIME: 19:31:28.628
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 16
+	TIME: 19:31:32.448
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 17
+	TIME: 19:31:36.440
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 18
+	TIME: 19:31:44.162
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 19
+	TIME: 19:31:48.252
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 20
+	TIME: 19:31:52.091
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 21
+	TIME: 19:32:01.907
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 22
+	TIME: 19:32:05.579
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 23
+	TIME: 19:32:15.297
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 24
+	TIME: 19:32:18.759
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 25
+	TIME: 19:32:23.835
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 26
+	TIME: 19:32:29.378
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 27
+	TIME: 19:32:34.194
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 28
+	TIME: 19:33:08.347
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 29
+	TIME: 19:33:13.587
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 30
+	TIME: 19:33:16.842
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 31
+	TIME: 19:33:21.880
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 32
+	TIME: 19:33:26.333
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 33
+	TIME: 19:33:30.885
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 34
+	TIME: 19:33:38.357
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 35
+	TIME: 19:33:41.297
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 36
+	TIME: 19:33:48.742
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 37
+	TIME: 19:33:59.666
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 38
+	TIME: 19:34:05.086
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 39
+	TIME: 19:34:10.925
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 40
+	TIME: 19:34:14.049
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 41
+	TIME: 19:34:22.091
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 42
+	TIME: 19:34:27.847
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 43
+	TIME: 19:34:31.816
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 44
+	TIME: 19:34:36.894
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 45
+	TIME: 19:34:44.172
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 46
+	TIME: 19:34:49.060
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 47
+	TIME: 19:34:52.959
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 48
+	TIME: 19:34:57.727
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 49
+	TIME: 19:35:02.628
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 50
+	TIME: 19:35:19.398
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 51
+	TIME: 19:35:22.850
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 52
+	TIME: 19:35:30.209
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 53
+	TIME: 19:35:32.441
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 54
+	TIME: 19:35:38.014
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 55
+	TIME: 19:35:45.096
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)
+ENTRY: 56
+	TIME: 19:35:47.015
+		RUNNER: 0 - 10 Minutes
+			BACK: (PRICE:3.7,SIZE:333.0)
+		RUNNER: 11 - 20 Minutes
+		RUNNER: 21 - 30 Minutes
+		RUNNER: 31 - 40 Minutes
+		RUNNER: 41 - 50 Minutes
+		RUNNER: 51 - 60 Minutes
+		RUNNER: 61 - 70 Minutes
+		RUNNER: 71 - 80 Minutes
+		RUNNER: 81 - Full Time
+		RUNNER: No Goal
+			LAY: (PRICE:28.0,SIZE:20.0)

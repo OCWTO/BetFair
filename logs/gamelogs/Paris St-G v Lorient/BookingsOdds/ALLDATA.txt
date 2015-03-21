@@ -1,0 +1,5980 @@
+Paris St-G v Lorient_Bookings Odds_1426879800000ENTRY: 1
+	TIME: 19:30:08.197
+		RUNNER: 25pts and Under
+			BACK: (PRICE:2.6,SIZE:6.13)
+			BACK: (PRICE:2.14,SIZE:132.0)
+			BACK: (PRICE:2.12,SIZE:23.26)
+			LAY: (PRICE:6.0,SIZE:50.0)
+		RUNNER: 30 - 40pts
+			BACK: (PRICE:2.54,SIZE:3.68)
+			BACK: (PRICE:2.52,SIZE:106.37)
+			BACK: (PRICE:2.5,SIZE:88.0)
+			LAY: (PRICE:2.84,SIZE:200.0)
+			LAY: (PRICE:3.95,SIZE:51.0)
+		RUNNER: 45pts and Over
+			BACK: (PRICE:3.2,SIZE:22.47)
+			BACK: (PRICE:3.15,SIZE:323.91)
+			LAY: (PRICE:4.5,SIZE:86.0)
+			LAY: (PRICE:6.4,SIZE:5.78)
+ENTRY: 2
+	TIME: 19:30:12.525
+		RUNNER: 25pts and Under
+			BACK: (PRICE:2.6,SIZE:6.13)
+			BACK: (PRICE:2.14,SIZE:132.0)
+			BACK: (PRICE:2.12,SIZE:23.26)
+			LAY: (PRICE:6.0,SIZE:50.0)
+		RUNNER: 30 - 40pts
+			BACK: (PRICE:2.54,SIZE:3.68)
+			BACK: (PRICE:2.52,SIZE:106.37)
+			BACK: (PRICE:2.5,SIZE:88.0)
+			LAY: (PRICE:2.84,SIZE:200.0)
+			LAY: (PRICE:3.95,SIZE:51.0)
+		RUNNER: 45pts and Over
+			BACK: (PRICE:3.2,SIZE:22.47)
+			BACK: (PRICE:3.15,SIZE:323.91)
+			LAY: (PRICE:4.5,SIZE:86.0)
+			LAY: (PRICE:6.4,SIZE:5.78)
+ENTRY: 3
+	TIME: 19:30:27.219
+		RUNNER: 25pts and Under
+			BACK: (PRICE:2.6,SIZE:6.13)
+			BACK: (PRICE:2.14,SIZE:132.0)
+			BACK: (PRICE:2.12,SIZE:23.26)
+			LAY: (PRICE:6.0,SIZE:50.0)
+		RUNNER: 30 - 40pts
+			BACK: (PRICE:2.54,SIZE:3.68)
+			BACK: (PRICE:2.52,SIZE:106.37)
+			BACK: (PRICE:2.5,SIZE:88.0)
+			LAY: (PRICE:2.84,SIZE:200.0)
+			LAY: (PRICE:3.95,SIZE:51.0)
+		RUNNER: 45pts and Over
+			BACK: (PRICE:3.2,SIZE:22.47)
+			BACK: (PRICE:3.15,SIZE:323.91)
+			LAY: (PRICE:4.5,SIZE:86.0)
+			LAY: (PRICE:6.4,SIZE:5.78)
+ENTRY: 4
+	TIME: 19:30:31.794
+		RUNNER: 25pts and Under
+			BACK: (PRICE:2.6,SIZE:6.13)
+			BACK: (PRICE:2.14,SIZE:132.0)
+			BACK: (PRICE:2.12,SIZE:23.26)
+			LAY: (PRICE:6.0,SIZE:50.0)
+		RUNNER: 30 - 40pts
+			BACK: (PRICE:2.54,SIZE:3.68)
+			BACK: (PRICE:2.52,SIZE:106.37)
+			BACK: (PRICE:2.5,SIZE:88.0)
+			LAY: (PRICE:2.84,SIZE:200.0)
+			LAY: (PRICE:3.95,SIZE:51.0)
+		RUNNER: 45pts and Over
+			BACK: (PRICE:3.2,SIZE:22.47)
+			BACK: (PRICE:3.15,SIZE:323.91)
+			LAY: (PRICE:4.5,SIZE:86.0)
+			LAY: (PRICE:6.4,SIZE:5.78)
+ENTRY: 5
+	TIME: 19:30:36.397
+		RUNNER: 25pts and Under
+			BACK: (PRICE:2.6,SIZE:6.13)
+			BACK: (PRICE:2.14,SIZE:132.0)
+			BACK: (PRICE:2.12,SIZE:23.26)
+			LAY: (PRICE:6.0,SIZE:50.0)
+		RUNNER: 30 - 40pts
+			BACK: (PRICE:2.54,SIZE:3.68)
+			BACK: (PRICE:2.52,SIZE:106.37)
+			BACK: (PRICE:2.5,SIZE:88.0)
+			LAY: (PRICE:2.84,SIZE:200.0)
+			LAY: (PRICE:3.95,SIZE:51.0)
+		RUNNER: 45pts and Over
+			BACK: (PRICE:3.2,SIZE:22.47)
+			BACK: (PRICE:3.15,SIZE:323.91)
+			LAY: (PRICE:4.5,SIZE:86.0)
+			LAY: (PRICE:6.4,SIZE:5.78)
+ENTRY: 6
+	TIME: 19:30:40.453
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 7
+	TIME: 19:30:46.324
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 8
+	TIME: 19:30:50.923
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 9
+	TIME: 19:30:54.208
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 10
+	TIME: 19:31:00.600
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 11
+	TIME: 19:31:05.676
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 12
+	TIME: 19:31:09.518
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 13
+	TIME: 19:31:17.750
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 14
+	TIME: 19:31:24.266
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 15
+	TIME: 19:31:28.628
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 16
+	TIME: 19:31:32.448
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 17
+	TIME: 19:31:36.440
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 18
+	TIME: 19:31:44.162
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 19
+	TIME: 19:31:48.252
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 20
+	TIME: 19:31:52.091
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 21
+	TIME: 19:32:01.907
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 22
+	TIME: 19:32:05.579
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 23
+	TIME: 19:32:15.297
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 24
+	TIME: 19:32:18.759
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 25
+	TIME: 19:32:23.835
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 26
+	TIME: 19:32:29.378
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 27
+	TIME: 19:32:34.194
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 28
+	TIME: 19:33:08.347
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 29
+	TIME: 19:33:13.587
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 30
+	TIME: 19:33:16.842
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 31
+	TIME: 19:33:21.880
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 32
+	TIME: 19:33:26.333
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 33
+	TIME: 19:33:30.885
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 34
+	TIME: 19:33:38.357
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 35
+	TIME: 19:33:41.297
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 36
+	TIME: 19:33:48.742
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 37
+	TIME: 19:33:59.666
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 38
+	TIME: 19:34:05.086
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 39
+	TIME: 19:34:10.925
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 40
+	TIME: 19:34:14.049
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 41
+	TIME: 19:34:22.091
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 42
+	TIME: 19:34:27.847
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 43
+	TIME: 19:34:31.816
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 44
+	TIME: 19:34:36.894
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 45
+	TIME: 19:34:44.172
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 46
+	TIME: 19:34:49.060
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 47
+	TIME: 19:34:52.959
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 48
+	TIME: 19:34:57.727
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 49
+	TIME: 19:35:02.628
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 50
+	TIME: 19:35:19.398
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 51
+	TIME: 19:35:22.850
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 52
+	TIME: 19:35:30.209
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 53
+	TIME: 19:35:32.441
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 54
+	TIME: 19:35:38.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 55
+	TIME: 19:35:45.096
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 56
+	TIME: 19:35:47.015
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 57
+	TIME: 19:35:52.714
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 58
+	TIME: 19:35:57.812
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 59
+	TIME: 19:36:01.450
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 60
+	TIME: 19:36:07.010
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 61
+	TIME: 19:36:11.255
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 62
+	TIME: 19:36:17.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 63
+	TIME: 19:36:22.664
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 64
+	TIME: 19:36:27.027
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 65
+	TIME: 19:36:32.879
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 66
+	TIME: 19:36:36.367
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 67
+	TIME: 19:36:42.231
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 68
+	TIME: 19:36:46.441
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 69
+	TIME: 19:36:50.958
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 70
+	TIME: 19:36:55.801
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 71
+	TIME: 19:37:01.067
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 72
+	TIME: 19:37:05.738
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 73
+	TIME: 19:37:11.061
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 74
+	TIME: 19:37:15.767
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 75
+	TIME: 19:37:20.703
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 76
+	TIME: 19:37:25.715
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 77
+	TIME: 19:37:30.705
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 78
+	TIME: 19:37:35.732
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 79
+	TIME: 19:37:40.746
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 80
+	TIME: 19:37:46.265
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 81
+	TIME: 19:37:50.751
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 82
+	TIME: 19:37:55.813
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 83
+	TIME: 19:38:00.788
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 84
+	TIME: 19:38:05.774
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 85
+	TIME: 19:38:10.783
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 86
+	TIME: 19:38:15.807
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 87
+	TIME: 19:38:20.808
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 88
+	TIME: 19:38:25.869
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 89
+	TIME: 19:38:30.809
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 90
+	TIME: 19:38:36.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 91
+	TIME: 19:38:40.825
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 92
+	TIME: 19:38:45.812
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 93
+	TIME: 19:38:50.863
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 94
+	TIME: 19:38:55.833
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 95
+	TIME: 19:39:00.894
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 96
+	TIME: 19:39:05.858
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 97
+	TIME: 19:39:10.868
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 98
+	TIME: 19:39:15.891
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 99
+	TIME: 19:39:20.878
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 100
+	TIME: 19:39:25.909
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 101
+	TIME: 19:39:30.956
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 102
+	TIME: 19:39:35.897
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 103
+	TIME: 19:39:40.902
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 104
+	TIME: 19:39:45.914
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 105
+	TIME: 19:39:50.924
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 106
+	TIME: 19:39:55.918
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 107
+	TIME: 19:40:00.918
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 108
+	TIME: 19:40:05.928
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 109
+	TIME: 19:40:10.937
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 110
+	TIME: 19:40:15.996
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 111
+	TIME: 19:40:21.010
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 112
+	TIME: 19:40:25.975
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 113
+	TIME: 19:40:31.021
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 114
+	TIME: 19:40:35.990
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 115
+	TIME: 19:40:41.009
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 116
+	TIME: 19:40:46.039
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 117
+	TIME: 19:40:51.046
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 118
+	TIME: 19:40:56.022
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 119
+	TIME: 19:41:01.034
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 120
+	TIME: 19:41:06.052
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 121
+	TIME: 19:41:11.043
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 122
+	TIME: 19:41:16.071
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 123
+	TIME: 19:41:21.135
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 124
+	TIME: 19:41:26.088
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 125
+	TIME: 19:41:31.060
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 126
+	TIME: 19:41:36.349
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 127
+	TIME: 19:41:41.112
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 128
+	TIME: 19:41:46.106
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 129
+	TIME: 19:41:51.123
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 130
+	TIME: 19:41:56.169
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 131
+	TIME: 19:42:01.125
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 132
+	TIME: 19:42:06.146
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 133
+	TIME: 19:42:11.120
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 134
+	TIME: 19:42:16.137
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 135
+	TIME: 19:42:21.200
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 136
+	TIME: 19:42:26.275
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 137
+	TIME: 19:42:31.220
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 138
+	TIME: 19:42:36.176
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 139
+	TIME: 19:42:41.193
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 140
+	TIME: 19:42:46.179
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 141
+	TIME: 19:42:51.196
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 142
+	TIME: 19:42:56.181
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 143
+	TIME: 19:43:01.203
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 144
+	TIME: 19:43:06.229
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 145
+	TIME: 19:43:11.223
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 146
+	TIME: 19:43:16.235
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 147
+	TIME: 19:43:21.245
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 148
+	TIME: 19:43:26.259
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 149
+	TIME: 19:43:31.272
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 150
+	TIME: 19:43:36.281
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 151
+	TIME: 19:43:41.304
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 152
+	TIME: 19:43:46.290
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 153
+	TIME: 19:43:51.294
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 154
+	TIME: 19:43:56.302
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 155
+	TIME: 19:44:01.343
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 156
+	TIME: 19:44:06.315
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 157
+	TIME: 19:44:11.326
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 158
+	TIME: 19:44:16.329
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 159
+	TIME: 19:44:21.365
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 160
+	TIME: 19:44:26.344
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 161
+	TIME: 19:44:31.366
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 162
+	TIME: 19:44:36.426
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 163
+	TIME: 19:44:41.380
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 164
+	TIME: 19:44:46.761
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 165
+	TIME: 19:44:51.436
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 166
+	TIME: 19:44:56.412
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 167
+	TIME: 19:45:01.396
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 168
+	TIME: 19:45:06.382
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 169
+	TIME: 19:45:11.500
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 170
+	TIME: 19:45:16.436
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 171
+	TIME: 19:45:21.470
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 172
+	TIME: 19:45:26.428
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 173
+	TIME: 19:45:31.432
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 174
+	TIME: 19:45:36.915
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 175
+	TIME: 19:45:41.458
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 176
+	TIME: 19:45:46.460
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 177
+	TIME: 19:45:51.446
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 178
+	TIME: 19:45:56.486
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 179
+	TIME: 19:46:01.479
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 180
+	TIME: 19:46:06.487
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 181
+	TIME: 19:46:11.507
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 182
+	TIME: 19:46:16.498
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 183
+	TIME: 19:46:21.527
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 184
+	TIME: 19:46:26.629
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 185
+	TIME: 19:46:31.558
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 186
+	TIME: 19:46:36.530
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 187
+	TIME: 19:46:41.516
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 188
+	TIME: 19:46:46.542
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 189
+	TIME: 19:46:51.530
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 190
+	TIME: 19:46:56.581
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 191
+	TIME: 19:47:01.572
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 192
+	TIME: 19:47:06.559
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 193
+	TIME: 19:47:11.581
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 194
+	TIME: 19:47:16.569
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 195
+	TIME: 19:47:21.588
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 196
+	TIME: 19:47:26.591
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 197
+	TIME: 19:47:31.603
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 198
+	TIME: 19:47:36.588
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 199
+	TIME: 19:47:41.625
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 200
+	TIME: 19:47:46.600
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 201
+	TIME: 19:47:51.633
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 202
+	TIME: 19:47:56.637
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 203
+	TIME: 19:48:01.651
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 204
+	TIME: 19:48:06.618
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 205
+	TIME: 19:48:11.637
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 206
+	TIME: 19:48:16.670
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 207
+	TIME: 19:48:21.652
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 208
+	TIME: 19:48:26.657
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 209
+	TIME: 19:48:31.671
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 210
+	TIME: 19:48:36.659
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 211
+	TIME: 19:48:41.717
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 212
+	TIME: 19:48:46.719
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 213
+	TIME: 19:48:51.737
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 214
+	TIME: 19:48:57.685
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 215
+	TIME: 19:49:01.712
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 216
+	TIME: 19:49:06.706
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 217
+	TIME: 19:49:11.746
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 218
+	TIME: 19:49:16.714
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 219
+	TIME: 19:49:21.733
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 220
+	TIME: 19:49:26.722
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 221
+	TIME: 19:49:31.740
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 222
+	TIME: 19:49:36.757
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 223
+	TIME: 19:49:41.783
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 224
+	TIME: 19:49:46.759
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 225
+	TIME: 19:49:51.767
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 226
+	TIME: 19:49:56.779
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 227
+	TIME: 19:50:01.788
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 228
+	TIME: 19:50:06.842
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 229
+	TIME: 19:50:11.812
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 230
+	TIME: 19:50:16.814
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 231
+	TIME: 19:50:21.831
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 232
+	TIME: 19:50:26.929
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 233
+	TIME: 19:50:31.821
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 234
+	TIME: 19:50:36.848
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 235
+	TIME: 19:50:41.848
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 236
+	TIME: 19:50:46.827
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 237
+	TIME: 19:50:51.860
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 238
+	TIME: 19:50:56.883
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 239
+	TIME: 19:51:01.851
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 240
+	TIME: 19:51:06.884
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 241
+	TIME: 19:51:11.879
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 242
+	TIME: 19:51:16.898
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 243
+	TIME: 19:51:21.889
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 244
+	TIME: 19:51:27.108
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 245
+	TIME: 19:51:31.920
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 246
+	TIME: 19:51:36.892
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 247
+	TIME: 19:51:41.940
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 248
+	TIME: 19:51:46.926
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 249
+	TIME: 19:51:51.923
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 250
+	TIME: 19:51:56.924
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 251
+	TIME: 19:52:01.931
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 252
+	TIME: 19:52:06.907
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 253
+	TIME: 19:52:11.923
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 254
+	TIME: 19:52:16.908
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 255
+	TIME: 19:52:21.949
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 256
+	TIME: 19:52:26.924
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 257
+	TIME: 19:52:31.943
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 258
+	TIME: 19:52:36.960
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 259
+	TIME: 19:52:41.999
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 260
+	TIME: 19:52:46.997
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 261
+	TIME: 19:52:51.968
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 262
+	TIME: 19:52:57.004
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 263
+	TIME: 19:53:01.958
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 264
+	TIME: 19:53:06.974
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 265
+	TIME: 19:53:12.003
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 266
+	TIME: 19:53:16.992
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 267
+	TIME: 19:53:21.994
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 268
+	TIME: 19:53:27.002
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 269
+	TIME: 19:53:32.008
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 270
+	TIME: 19:53:37.039
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 271
+	TIME: 19:53:42.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 272
+	TIME: 19:53:47.016
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 273
+	TIME: 19:53:52.043
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 274
+	TIME: 19:53:57.065
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 275
+	TIME: 19:54:02.319
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 276
+	TIME: 19:54:07.258
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 277
+	TIME: 19:54:12.049
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 278
+	TIME: 19:54:19.082
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 279
+	TIME: 19:54:22.973
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 280
+	TIME: 19:54:28.433
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 281
+	TIME: 19:54:32.232
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 282
+	TIME: 19:54:37.106
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 283
+	TIME: 19:54:42.724
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 284
+	TIME: 19:54:47.340
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 285
+	TIME: 19:54:52.295
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 286
+	TIME: 19:54:57.551
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 287
+	TIME: 19:55:02.137
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 288
+	TIME: 19:55:07.200
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 289
+	TIME: 19:55:12.224
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 290
+	TIME: 19:55:17.148
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 291
+	TIME: 19:55:22.166
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 292
+	TIME: 19:55:27.166
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 293
+	TIME: 19:55:32.231
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 294
+	TIME: 19:55:37.187
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 295
+	TIME: 19:55:42.180
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 296
+	TIME: 19:55:47.208
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 297
+	TIME: 19:55:52.245
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 298
+	TIME: 19:55:57.236
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 299
+	TIME: 19:56:02.216
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 300
+	TIME: 19:56:07.272
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 301
+	TIME: 19:56:12.252
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 302
+	TIME: 19:56:17.254
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 303
+	TIME: 19:56:22.255
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 304
+	TIME: 19:56:27.270
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 305
+	TIME: 19:56:32.286
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 306
+	TIME: 19:56:37.288
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 307
+	TIME: 19:56:42.297
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 308
+	TIME: 19:56:47.282
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 309
+	TIME: 19:56:52.284
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 310
+	TIME: 19:56:57.312
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 311
+	TIME: 19:57:02.281
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 312
+	TIME: 19:57:07.331
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 313
+	TIME: 19:57:12.311
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 314
+	TIME: 19:57:17.322
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 315
+	TIME: 19:57:22.308
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 316
+	TIME: 19:57:27.366
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 317
+	TIME: 19:57:32.344
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 318
+	TIME: 19:57:37.330
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 319
+	TIME: 19:57:42.346
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 320
+	TIME: 19:57:47.354
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 321
+	TIME: 19:57:52.355
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 322
+	TIME: 19:57:57.374
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 323
+	TIME: 19:58:02.391
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 324
+	TIME: 19:58:07.424
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 325
+	TIME: 19:58:12.424
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 326
+	TIME: 19:58:17.407
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 327
+	TIME: 19:58:22.409
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 328
+	TIME: 19:58:27.427
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 329
+	TIME: 19:58:32.762
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 330
+	TIME: 19:58:37.501
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 331
+	TIME: 19:58:43.024
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 332
+	TIME: 19:58:47.472
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 333
+	TIME: 19:58:52.443
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 334
+	TIME: 19:58:57.488
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 335
+	TIME: 19:59:02.544
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 336
+	TIME: 19:59:07.521
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 337
+	TIME: 19:59:12.509
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 338
+	TIME: 19:59:17.495
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 339
+	TIME: 19:59:22.466
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 340
+	TIME: 19:59:27.531
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 341
+	TIME: 19:59:32.529
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 342
+	TIME: 19:59:37.504
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 343
+	TIME: 19:59:42.509
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 344
+	TIME: 19:59:47.539
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 345
+	TIME: 19:59:52.525
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 346
+	TIME: 19:59:57.545
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 347
+	TIME: 20:00:02.561
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 348
+	TIME: 20:00:08.428
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 349
+	TIME: 20:00:12.609
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 350
+	TIME: 20:00:17.554
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 351
+	TIME: 20:00:22.557
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 352
+	TIME: 20:00:27.568
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 353
+	TIME: 20:00:32.573
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 354
+	TIME: 20:00:37.637
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 355
+	TIME: 20:00:42.922
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 356
+	TIME: 20:00:47.580
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 357
+	TIME: 20:00:52.595
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 358
+	TIME: 20:00:57.726
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 359
+	TIME: 20:01:02.605
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 360
+	TIME: 20:01:07.654
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 361
+	TIME: 20:01:12.616
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 362
+	TIME: 20:01:17.628
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 363
+	TIME: 20:01:22.655
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 364
+	TIME: 20:01:27.675
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 365
+	TIME: 20:01:32.652
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 366
+	TIME: 20:01:38.077
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 367
+	TIME: 20:01:42.664
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 368
+	TIME: 20:01:47.679
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 369
+	TIME: 20:01:52.697
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 370
+	TIME: 20:01:57.701
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 371
+	TIME: 20:02:02.715
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 372
+	TIME: 20:02:07.710
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 373
+	TIME: 20:02:12.766
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 374
+	TIME: 20:02:17.721
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 375
+	TIME: 20:02:22.732
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 376
+	TIME: 20:02:27.769
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 377
+	TIME: 20:02:32.851
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 378
+	TIME: 20:02:38.370
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 379
+	TIME: 20:02:43.492
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 380
+	TIME: 20:02:48.275
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 381
+	TIME: 20:02:52.777
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 382
+	TIME: 20:02:57.875
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 383
+	TIME: 20:03:02.790
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 384
+	TIME: 20:03:07.855
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 385
+	TIME: 20:03:12.786
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 386
+	TIME: 20:03:17.836
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 387
+	TIME: 20:03:22.807
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 388
+	TIME: 20:03:27.808
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 389
+	TIME: 20:03:32.836
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 390
+	TIME: 20:03:37.823
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 391
+	TIME: 20:03:42.829
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 392
+	TIME: 20:03:47.840
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 393
+	TIME: 20:03:52.840
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 394
+	TIME: 20:03:57.892
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 395
+	TIME: 20:04:03.008
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 396
+	TIME: 20:04:07.885
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 397
+	TIME: 20:04:12.909
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 398
+	TIME: 20:04:17.881
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 399
+	TIME: 20:04:22.899
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 400
+	TIME: 20:04:27.910
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 401
+	TIME: 20:04:33.070
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 402
+	TIME: 20:04:37.901
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 403
+	TIME: 20:04:42.939
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 404
+	TIME: 20:04:47.917
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 405
+	TIME: 20:04:52.951
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 406
+	TIME: 20:04:58.061
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 407
+	TIME: 20:05:02.928
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 408
+	TIME: 20:05:07.931
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 409
+	TIME: 20:05:12.974
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 410
+	TIME: 20:05:17.976
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 411
+	TIME: 20:05:23.674
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 412
+	TIME: 20:05:28.026
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 413
+	TIME: 20:05:32.992
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 414
+	TIME: 20:05:37.962
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 415
+	TIME: 20:05:43.003
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 416
+	TIME: 20:05:48.039
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 417
+	TIME: 20:05:52.994
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 418
+	TIME: 20:05:58.009
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 419
+	TIME: 20:06:03.023
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 420
+	TIME: 20:06:08.017
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 421
+	TIME: 20:06:13.030
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 422
+	TIME: 20:06:18.019
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 423
+	TIME: 20:06:23.047
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 424
+	TIME: 20:06:28.072
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 425
+	TIME: 20:06:33.077
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 426
+	TIME: 20:06:38.064
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 427
+	TIME: 20:06:43.057
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 428
+	TIME: 20:06:48.107
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 429
+	TIME: 20:06:53.085
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 430
+	TIME: 20:06:58.082
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 431
+	TIME: 20:07:03.109
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 432
+	TIME: 20:07:08.111
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 433
+	TIME: 20:07:13.155
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 434
+	TIME: 20:07:18.136
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 435
+	TIME: 20:07:23.169
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 436
+	TIME: 20:07:28.171
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 437
+	TIME: 20:07:33.127
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 438
+	TIME: 20:07:38.145
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 439
+	TIME: 20:07:43.154
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 440
+	TIME: 20:07:48.190
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 441
+	TIME: 20:07:53.162
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 442
+	TIME: 20:07:58.163
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 443
+	TIME: 20:08:03.168
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 444
+	TIME: 20:08:08.186
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 445
+	TIME: 20:08:13.156
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 446
+	TIME: 20:08:18.189
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 447
+	TIME: 20:08:23.191
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 448
+	TIME: 20:08:28.200
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 449
+	TIME: 20:08:33.214
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 450
+	TIME: 20:08:38.201
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 451
+	TIME: 20:08:43.227
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 452
+	TIME: 20:08:48.211
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 453
+	TIME: 20:08:53.214
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 454
+	TIME: 20:08:58.223
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 455
+	TIME: 20:09:03.219
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 456
+	TIME: 20:09:08.273
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 457
+	TIME: 20:09:13.243
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 458
+	TIME: 20:09:18.256
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 459
+	TIME: 20:09:23.258
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 460
+	TIME: 20:09:28.247
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 461
+	TIME: 20:09:33.282
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 462
+	TIME: 20:09:38.268
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 463
+	TIME: 20:09:43.321
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 464
+	TIME: 20:09:48.453
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 465
+	TIME: 20:09:53.314
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 466
+	TIME: 20:09:58.292
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 467
+	TIME: 20:10:03.999
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 468
+	TIME: 20:10:08.845
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 469
+	TIME: 20:10:14.468
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 470
+	TIME: 20:10:18.383
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 471
+	TIME: 20:10:23.364
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 472
+	TIME: 20:10:28.353
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 473
+	TIME: 20:10:33.386
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 474
+	TIME: 20:10:39.222
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 475
+	TIME: 20:10:43.499
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 476
+	TIME: 20:10:48.388
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 477
+	TIME: 20:10:53.423
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 478
+	TIME: 20:10:58.400
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 479
+	TIME: 20:11:03.420
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 480
+	TIME: 20:11:08.406
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 481
+	TIME: 20:11:13.392
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 482
+	TIME: 20:11:18.458
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 483
+	TIME: 20:11:23.456
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 484
+	TIME: 20:11:28.444
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 485
+	TIME: 20:11:33.421
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 486
+	TIME: 20:11:38.450
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 487
+	TIME: 20:11:43.484
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 488
+	TIME: 20:11:48.484
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 489
+	TIME: 20:11:53.469
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 490
+	TIME: 20:11:58.466
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 491
+	TIME: 20:12:03.501
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 492
+	TIME: 20:12:08.500
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 493
+	TIME: 20:12:13.498
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 494
+	TIME: 20:12:18.517
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 495
+	TIME: 20:12:23.527
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 496
+	TIME: 20:12:28.513
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 497
+	TIME: 20:12:33.519
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 498
+	TIME: 20:12:38.521
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 499
+	TIME: 20:12:43.543
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 500
+	TIME: 20:12:48.530
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 501
+	TIME: 20:12:53.533
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 502
+	TIME: 20:12:58.640
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 503
+	TIME: 20:13:03.606
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 504
+	TIME: 20:13:08.570
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 505
+	TIME: 20:13:13.684
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 506
+	TIME: 20:13:18.598
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 507
+	TIME: 20:13:23.585
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 508
+	TIME: 20:13:28.590
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 509
+	TIME: 20:13:33.591
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 510
+	TIME: 20:13:38.602
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 511
+	TIME: 20:13:43.637
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 512
+	TIME: 20:13:48.623
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 513
+	TIME: 20:13:53.646
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 514
+	TIME: 20:13:59.221
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 515
+	TIME: 20:14:03.653
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 516
+	TIME: 20:14:08.656
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 517
+	TIME: 20:14:13.663
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 518
+	TIME: 20:14:18.665
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 519
+	TIME: 20:14:23.635
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 520
+	TIME: 20:14:28.665
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 521
+	TIME: 20:14:33.692
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 522
+	TIME: 20:14:38.682
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 523
+	TIME: 20:14:43.717
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 524
+	TIME: 20:14:48.672
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 525
+	TIME: 20:14:53.675
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 526
+	TIME: 20:14:58.698
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 527
+	TIME: 20:15:03.728
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 528
+	TIME: 20:15:08.778
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 529
+	TIME: 20:15:13.723
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 530
+	TIME: 20:15:18.710
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 531
+	TIME: 20:15:23.805
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 532
+	TIME: 20:15:28.783
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 533
+	TIME: 20:15:33.744
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 534
+	TIME: 20:15:38.793
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 535
+	TIME: 20:15:43.837
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 536
+	TIME: 20:15:48.828
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 537
+	TIME: 20:15:53.800
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 538
+	TIME: 20:15:58.773
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 539
+	TIME: 20:16:03.791
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 540
+	TIME: 20:16:08.814
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 541
+	TIME: 20:16:13.788
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 542
+	TIME: 20:16:18.795
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 543
+	TIME: 20:16:23.808
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 544
+	TIME: 20:16:28.810
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 545
+	TIME: 20:16:33.835
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 546
+	TIME: 20:16:38.848
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 547
+	TIME: 20:16:43.828
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 548
+	TIME: 20:16:48.909
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 549
+	TIME: 20:16:53.896
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 550
+	TIME: 20:16:58.897
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 551
+	TIME: 20:17:03.890
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 552
+	TIME: 20:17:08.907
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 553
+	TIME: 20:17:13.866
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 554
+	TIME: 20:17:18.900
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 555
+	TIME: 20:17:23.887
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 556
+	TIME: 20:17:28.881
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 557
+	TIME: 20:17:33.900
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 558
+	TIME: 20:17:38.879
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 559
+	TIME: 20:17:43.985
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 560
+	TIME: 20:17:48.910
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 561
+	TIME: 20:17:53.902
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 562
+	TIME: 20:17:58.946
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 563
+	TIME: 20:18:03.916
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 564
+	TIME: 20:18:08.978
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 565
+	TIME: 20:18:13.973
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 566
+	TIME: 20:18:18.991
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 567
+	TIME: 20:18:24.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 568
+	TIME: 20:18:28.997
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 569
+	TIME: 20:18:34.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 570
+	TIME: 20:18:38.996
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 571
+	TIME: 20:18:44.123
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 572
+	TIME: 20:18:49.141
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 573
+	TIME: 20:18:54.086
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 574
+	TIME: 20:18:59.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 575
+	TIME: 20:19:04.036
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 576
+	TIME: 20:19:09.035
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 577
+	TIME: 20:19:14.041
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 578
+	TIME: 20:19:19.027
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 579
+	TIME: 20:19:24.062
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 580
+	TIME: 20:19:29.064
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 581
+	TIME: 20:19:34.069
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 582
+	TIME: 20:19:39.069
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 583
+	TIME: 20:19:44.071
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 584
+	TIME: 20:19:49.074
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 585
+	TIME: 20:19:54.107
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 586
+	TIME: 20:19:59.074
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 587
+	TIME: 20:20:04.092
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 588
+	TIME: 20:20:09.117
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 589
+	TIME: 20:20:14.130
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 590
+	TIME: 20:20:19.085
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 591
+	TIME: 20:20:24.141
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 592
+	TIME: 20:20:29.102
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 593
+	TIME: 20:20:34.120
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 594
+	TIME: 20:20:39.120
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 595
+	TIME: 20:20:44.130
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 596
+	TIME: 20:20:49.147
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 597
+	TIME: 20:20:54.224
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 598
+	TIME: 20:20:59.161
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 599
+	TIME: 20:21:04.159
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 600
+	TIME: 20:21:09.207
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 601
+	TIME: 20:21:14.175
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 602
+	TIME: 20:21:19.192
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 603
+	TIME: 20:21:24.195
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 604
+	TIME: 20:21:29.219
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 605
+	TIME: 20:21:34.191
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 606
+	TIME: 20:21:39.224
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 607
+	TIME: 20:21:44.227
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 608
+	TIME: 20:21:49.231
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 609
+	TIME: 20:21:54.250
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 610
+	TIME: 20:21:59.224
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 611
+	TIME: 20:22:04.254
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 612
+	TIME: 20:22:09.256
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 613
+	TIME: 20:22:14.253
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 614
+	TIME: 20:22:19.318
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 615
+	TIME: 20:22:24.259
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 616
+	TIME: 20:22:29.285
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 617
+	TIME: 20:22:34.333
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 618
+	TIME: 20:22:39.294
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 619
+	TIME: 20:22:44.300
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 620
+	TIME: 20:22:49.289
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 621
+	TIME: 20:22:54.292
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 622
+	TIME: 20:22:59.321
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 623
+	TIME: 20:23:04.344
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 624
+	TIME: 20:23:09.331
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 625
+	TIME: 20:23:14.352
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 626
+	TIME: 20:23:19.354
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 627
+	TIME: 20:23:24.344
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 628
+	TIME: 20:23:29.353
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 629
+	TIME: 20:23:34.392
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 630
+	TIME: 20:23:39.362
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 631
+	TIME: 20:23:44.384
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 632
+	TIME: 20:23:49.384
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 633
+	TIME: 20:23:54.386
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 634
+	TIME: 20:23:59.399
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 635
+	TIME: 20:24:04.422
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 636
+	TIME: 20:24:09.434
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 637
+	TIME: 20:24:14.396
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 638
+	TIME: 20:24:19.429
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 639
+	TIME: 20:24:24.445
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 640
+	TIME: 20:24:29.431
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 641
+	TIME: 20:24:34.427
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 642
+	TIME: 20:24:39.445
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 643
+	TIME: 20:24:44.436
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 644
+	TIME: 20:24:49.439
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 645
+	TIME: 20:24:54.471
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 646
+	TIME: 20:24:59.440
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 647
+	TIME: 20:25:04.466
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 648
+	TIME: 20:25:09.533
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 649
+	TIME: 20:25:14.500
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 650
+	TIME: 20:25:19.542
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 651
+	TIME: 20:25:24.496
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 652
+	TIME: 20:25:29.520
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 653
+	TIME: 20:25:34.514
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 654
+	TIME: 20:25:39.500
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 655
+	TIME: 20:25:44.579
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 656
+	TIME: 20:25:49.574
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 657
+	TIME: 20:25:54.530
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 658
+	TIME: 20:25:59.602
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 659
+	TIME: 20:26:04.577
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 660
+	TIME: 20:26:09.575
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 661
+	TIME: 20:26:14.750
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 662
+	TIME: 20:26:19.630
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 663
+	TIME: 20:26:24.709
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 664
+	TIME: 20:26:29.621
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 665
+	TIME: 20:26:34.615
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 666
+	TIME: 20:26:39.617
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 667
+	TIME: 20:26:44.654
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 668
+	TIME: 20:26:49.632
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 669
+	TIME: 20:26:54.654
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 670
+	TIME: 20:26:59.665
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 671
+	TIME: 20:27:04.650
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 672
+	TIME: 20:27:09.659
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 673
+	TIME: 20:27:14.686
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 674
+	TIME: 20:27:19.660
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 675
+	TIME: 20:27:24.693
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 676
+	TIME: 20:27:29.701
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 677
+	TIME: 20:27:34.690
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 678
+	TIME: 20:27:39.724
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 679
+	TIME: 20:27:44.695
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 680
+	TIME: 20:27:49.726
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 681
+	TIME: 20:27:54.713
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 682
+	TIME: 20:27:59.861
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 683
+	TIME: 20:28:04.762
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 684
+	TIME: 20:28:09.749
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 685
+	TIME: 20:28:14.764
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 686
+	TIME: 20:28:19.779
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 687
+	TIME: 20:28:24.794
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 688
+	TIME: 20:28:29.833
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 689
+	TIME: 20:28:34.830
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 690
+	TIME: 20:28:39.841
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 691
+	TIME: 20:28:44.880
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 692
+	TIME: 20:28:49.833
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 693
+	TIME: 20:28:54.897
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 694
+	TIME: 20:28:59.837
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 695
+	TIME: 20:29:04.846
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 696
+	TIME: 20:29:09.852
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 697
+	TIME: 20:29:14.871
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 698
+	TIME: 20:29:19.846
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 699
+	TIME: 20:29:24.863
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 700
+	TIME: 20:29:29.854
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 701
+	TIME: 20:29:34.891
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 702
+	TIME: 20:29:39.861
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 703
+	TIME: 20:29:44.876
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 704
+	TIME: 20:29:49.901
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 705
+	TIME: 20:29:54.873
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 706
+	TIME: 20:29:59.912
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 707
+	TIME: 20:30:04.927
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 708
+	TIME: 20:30:09.898
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 709
+	TIME: 20:30:14.937
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 710
+	TIME: 20:30:20.872
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 711
+	TIME: 20:30:24.905
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 712
+	TIME: 20:30:29.925
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 713
+	TIME: 20:30:34.988
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 714
+	TIME: 20:30:40.005
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 715
+	TIME: 20:30:44.981
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 716
+	TIME: 20:30:49.950
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 717
+	TIME: 20:30:54.945
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 718
+	TIME: 20:31:00.284
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 719
+	TIME: 20:31:04.990
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 720
+	TIME: 20:31:09.992
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 721
+	TIME: 20:31:15.002
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 722
+	TIME: 20:31:19.989
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 723
+	TIME: 20:31:25.031
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 724
+	TIME: 20:31:30.004
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 725
+	TIME: 20:31:35.001
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 726
+	TIME: 20:31:40.006
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 727
+	TIME: 20:31:45.019
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 728
+	TIME: 20:31:50.022
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 729
+	TIME: 20:31:55.039
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 730
+	TIME: 20:32:00.073
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 731
+	TIME: 20:32:05.043
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 732
+	TIME: 20:32:10.107
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 733
+	TIME: 20:32:15.090
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 734
+	TIME: 20:32:20.077
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 735
+	TIME: 20:32:25.073
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 736
+	TIME: 20:32:30.080
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 737
+	TIME: 20:32:35.083
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 738
+	TIME: 20:32:40.093
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 739
+	TIME: 20:32:45.083
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 740
+	TIME: 20:32:50.115
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 741
+	TIME: 20:32:55.162
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 742
+	TIME: 20:33:00.160
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 743
+	TIME: 20:33:05.187
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 744
+	TIME: 20:33:10.141
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 745
+	TIME: 20:33:15.311
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 746
+	TIME: 20:33:20.215
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 747
+	TIME: 20:33:25.155
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 748
+	TIME: 20:33:30.212
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 749
+	TIME: 20:33:35.198
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 750
+	TIME: 20:33:40.237
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 751
+	TIME: 20:33:45.192
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 752
+	TIME: 20:33:50.185
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 753
+	TIME: 20:33:55.212
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 754
+	TIME: 20:34:00.227
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 755
+	TIME: 20:34:05.220
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 756
+	TIME: 20:34:10.347
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 757
+	TIME: 20:34:15.226
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 758
+	TIME: 20:34:20.854
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 759
+	TIME: 20:34:25.277
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 760
+	TIME: 20:34:30.262
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 761
+	TIME: 20:34:35.234
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 762
+	TIME: 20:34:40.241
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 763
+	TIME: 20:34:45.252
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 764
+	TIME: 20:34:50.253
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 765
+	TIME: 20:34:55.272
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 766
+	TIME: 20:35:00.370
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 767
+	TIME: 20:35:05.297
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 768
+	TIME: 20:35:10.279
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 769
+	TIME: 20:35:15.306
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 770
+	TIME: 20:35:20.275
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 771
+	TIME: 20:35:25.292
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 772
+	TIME: 20:35:30.315
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 773
+	TIME: 20:35:35.300
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 774
+	TIME: 20:35:40.303
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 775
+	TIME: 20:35:45.350
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 776
+	TIME: 20:35:50.337
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 777
+	TIME: 20:35:55.353
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 778
+	TIME: 20:36:00.354
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 779
+	TIME: 20:36:05.434
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 780
+	TIME: 20:36:10.382
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 781
+	TIME: 20:36:15.414
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 782
+	TIME: 20:36:20.961
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 783
+	TIME: 20:36:25.371
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 784
+	TIME: 20:36:30.391
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 785
+	TIME: 20:36:35.393
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 786
+	TIME: 20:36:40.364
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 787
+	TIME: 20:36:45.392
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 788
+	TIME: 20:36:50.415
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 789
+	TIME: 20:36:55.408
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 790
+	TIME: 20:37:00.434
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 791
+	TIME: 20:37:05.421
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 792
+	TIME: 20:37:10.408
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 793
+	TIME: 20:37:15.467
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 794
+	TIME: 20:37:20.438
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 795
+	TIME: 20:37:25.456
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 796
+	TIME: 20:37:30.450
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 797
+	TIME: 20:37:35.452
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 798
+	TIME: 20:37:40.450
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 799
+	TIME: 20:37:45.512
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 800
+	TIME: 20:37:50.469
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 801
+	TIME: 20:37:55.487
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 802
+	TIME: 20:38:00.495
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 803
+	TIME: 20:38:05.499
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 804
+	TIME: 20:38:10.520
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 805
+	TIME: 20:38:15.681
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 806
+	TIME: 20:38:20.497
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 807
+	TIME: 20:38:25.499
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 808
+	TIME: 20:38:30.517
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 809
+	TIME: 20:38:35.518
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 810
+	TIME: 20:38:40.536
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 811
+	TIME: 20:38:45.564
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 812
+	TIME: 20:38:50.629
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 813
+	TIME: 20:38:55.962
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 814
+	TIME: 20:39:00.619
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 815
+	TIME: 20:39:05.555
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 816
+	TIME: 20:39:10.557
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 817
+	TIME: 20:39:15.714
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 818
+	TIME: 20:39:20.588
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 819
+	TIME: 20:39:25.602
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 820
+	TIME: 20:39:30.610
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 821
+	TIME: 20:39:35.623
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 822
+	TIME: 20:39:40.624
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 823
+	TIME: 20:39:45.620
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 824
+	TIME: 20:39:50.637
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 825
+	TIME: 20:39:55.656
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 826
+	TIME: 20:40:00.664
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 827
+	TIME: 20:40:05.649
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 828
+	TIME: 20:40:10.650
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 829
+	TIME: 20:40:16.170
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 830
+	TIME: 20:40:20.675
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 831
+	TIME: 20:40:26.254
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 832
+	TIME: 20:40:30.685
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 833
+	TIME: 20:40:35.862
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 834
+	TIME: 20:40:40.740
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 835
+	TIME: 20:40:45.709
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 836
+	TIME: 20:40:50.720
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 837
+	TIME: 20:40:55.726
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 838
+	TIME: 20:41:00.725
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 839
+	TIME: 20:41:05.712
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 840
+	TIME: 20:41:10.776
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 841
+	TIME: 20:41:15.776
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 842
+	TIME: 20:41:20.716
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 843
+	TIME: 20:41:26.046
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 844
+	TIME: 20:41:30.723
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 845
+	TIME: 20:41:35.753
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 846
+	TIME: 20:41:40.771
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 847
+	TIME: 20:41:45.782
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 848
+	TIME: 20:41:50.768
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 849
+	TIME: 20:41:55.801
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 850
+	TIME: 20:42:00.803
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 851
+	TIME: 20:42:05.810
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 852
+	TIME: 20:42:10.797
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 853
+	TIME: 20:42:15.815
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 854
+	TIME: 20:42:20.818
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 855
+	TIME: 20:42:25.809
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 856
+	TIME: 20:42:30.826
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 857
+	TIME: 20:42:35.798
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 858
+	TIME: 20:42:41.969
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 859
+	TIME: 20:42:45.827
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 860
+	TIME: 20:42:50.830
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 861
+	TIME: 20:42:55.816
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 862
+	TIME: 20:43:00.818
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 863
+	TIME: 20:43:05.867
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 864
+	TIME: 20:43:10.840
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 865
+	TIME: 20:43:15.876
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 866
+	TIME: 20:43:20.862
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 867
+	TIME: 20:43:25.857
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 868
+	TIME: 20:43:30.954
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 869
+	TIME: 20:43:35.868
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 870
+	TIME: 20:43:40.880
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 871
+	TIME: 20:43:45.892
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 872
+	TIME: 20:43:51.152
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 873
+	TIME: 20:43:56.001
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 874
+	TIME: 20:44:00.896
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 875
+	TIME: 20:44:05.899
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 876
+	TIME: 20:44:11.386
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 877
+	TIME: 20:44:15.965
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 878
+	TIME: 20:44:20.919
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 879
+	TIME: 20:44:25.961
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 880
+	TIME: 20:44:30.932
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 881
+	TIME: 20:44:35.950
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 882
+	TIME: 20:44:40.961
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 883
+	TIME: 20:44:46.006
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 884
+	TIME: 20:44:50.975
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 885
+	TIME: 20:44:55.993
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 886
+	TIME: 20:45:01.010
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 887
+	TIME: 20:45:06.050
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 888
+	TIME: 20:45:11.059
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 889
+	TIME: 20:45:16.028
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 890
+	TIME: 20:45:21.014
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 891
+	TIME: 20:45:26.047
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 892
+	TIME: 20:45:31.073
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 893
+	TIME: 20:45:36.518
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 894
+	TIME: 20:45:41.042
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 895
+	TIME: 20:45:46.047
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 896
+	TIME: 20:45:51.062
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 897
+	TIME: 20:45:56.062
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 898
+	TIME: 20:46:01.081
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 899
+	TIME: 20:46:06.114
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 900
+	TIME: 20:46:11.128
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 901
+	TIME: 20:46:16.163
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 902
+	TIME: 20:46:21.103
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 903
+	TIME: 20:46:26.137
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 904
+	TIME: 20:46:31.103
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 905
+	TIME: 20:46:36.112
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 906
+	TIME: 20:46:41.119
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 907
+	TIME: 20:46:46.116
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 908
+	TIME: 20:46:51.147
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 909
+	TIME: 20:46:56.241
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 910
+	TIME: 20:47:01.173
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 911
+	TIME: 20:47:06.206
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 912
+	TIME: 20:47:11.164
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 913
+	TIME: 20:47:16.216
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 914
+	TIME: 20:47:21.183
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 915
+	TIME: 20:47:26.223
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 916
+	TIME: 20:47:31.221
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 917
+	TIME: 20:47:36.241
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 918
+	TIME: 20:47:41.242
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 919
+	TIME: 20:47:46.215
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 920
+	TIME: 20:47:51.248
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 921
+	TIME: 20:47:56.219
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 922
+	TIME: 20:48:01.264
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 923
+	TIME: 20:48:06.258
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 924
+	TIME: 20:48:11.259
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 925
+	TIME: 20:48:16.285
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 926
+	TIME: 20:48:21.756
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 927
+	TIME: 20:48:26.258
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 928
+	TIME: 20:48:31.279
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 929
+	TIME: 20:48:36.295
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 930
+	TIME: 20:48:41.290
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 931
+	TIME: 20:48:46.321
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 932
+	TIME: 20:48:51.370
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 933
+	TIME: 20:48:56.353
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 934
+	TIME: 20:49:01.340
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 935
+	TIME: 20:49:06.342
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 936
+	TIME: 20:49:11.355
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 937
+	TIME: 20:49:16.382
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 938
+	TIME: 20:49:21.368
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 939
+	TIME: 20:49:26.385
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 940
+	TIME: 20:49:31.395
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 941
+	TIME: 20:49:36.374
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 942
+	TIME: 20:49:41.421
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 943
+	TIME: 20:49:46.409
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 944
+	TIME: 20:49:51.411
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 945
+	TIME: 20:49:56.417
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 946
+	TIME: 20:50:01.418
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 947
+	TIME: 20:50:06.437
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 948
+	TIME: 20:50:11.456
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 949
+	TIME: 20:50:16.453
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 950
+	TIME: 20:50:21.468
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 951
+	TIME: 20:50:26.430
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 952
+	TIME: 20:50:31.445
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 953
+	TIME: 20:50:36.489
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 954
+	TIME: 20:50:41.475
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 955
+	TIME: 20:50:46.476
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 956
+	TIME: 20:50:51.510
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 957
+	TIME: 20:50:56.482
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 958
+	TIME: 20:51:01.558
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 959
+	TIME: 20:51:06.716
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 960
+	TIME: 20:51:11.507
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 961
+	TIME: 20:51:16.545
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 962
+	TIME: 20:51:21.588
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 963
+	TIME: 20:51:26.562
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 964
+	TIME: 20:51:31.554
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 965
+	TIME: 20:51:36.531
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 966
+	TIME: 20:51:41.762
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 967
+	TIME: 20:51:46.562
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 968
+	TIME: 20:51:51.564
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 969
+	TIME: 20:51:56.571
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 970
+	TIME: 20:52:01.620
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 971
+	TIME: 20:52:06.581
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 972
+	TIME: 20:52:11.656
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 973
+	TIME: 20:52:16.594
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 974
+	TIME: 20:52:21.594
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 975
+	TIME: 20:52:26.596
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 976
+	TIME: 20:52:31.585
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 977
+	TIME: 20:52:36.588
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 978
+	TIME: 20:52:41.606
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 979
+	TIME: 20:52:46.638
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 980
+	TIME: 20:52:51.610
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 981
+	TIME: 20:52:56.739
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 982
+	TIME: 20:53:01.821
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 983
+	TIME: 20:53:06.620
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 984
+	TIME: 20:53:11.682
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 985
+	TIME: 20:53:16.692
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 986
+	TIME: 20:53:21.624
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 987
+	TIME: 20:53:26.661
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 988
+	TIME: 20:53:31.652
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 989
+	TIME: 20:53:36.672
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 990
+	TIME: 20:53:41.678
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 991
+	TIME: 20:53:46.649
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 992
+	TIME: 20:53:51.682
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 993
+	TIME: 20:53:56.699
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 994
+	TIME: 20:54:01.712
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 995
+	TIME: 20:54:06.699
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 996
+	TIME: 20:54:11.716
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 997
+	TIME: 20:54:16.730
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 998
+	TIME: 20:54:21.701
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 999
+	TIME: 20:54:26.764
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1000
+	TIME: 20:54:31.689
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1001
+	TIME: 20:54:36.708
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1002
+	TIME: 20:54:41.741
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1003
+	TIME: 20:54:46.711
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1004
+	TIME: 20:54:51.698
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1005
+	TIME: 20:54:56.715
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1006
+	TIME: 20:55:01.711
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1007
+	TIME: 20:55:06.713
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1008
+	TIME: 20:55:11.729
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1009
+	TIME: 20:55:17.056
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1010
+	TIME: 20:55:21.761
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1011
+	TIME: 20:55:26.760
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1012
+	TIME: 20:55:31.770
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1013
+	TIME: 20:55:36.776
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1014
+	TIME: 20:55:41.785
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1015
+	TIME: 20:55:46.788
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1016
+	TIME: 20:55:51.806
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1017
+	TIME: 20:55:56.792
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1018
+	TIME: 20:56:01.834
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1019
+	TIME: 20:56:06.823
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1020
+	TIME: 20:56:11.810
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1021
+	TIME: 20:56:16.818
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1022
+	TIME: 20:56:21.823
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1023
+	TIME: 20:56:26.912
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1024
+	TIME: 20:56:31.833
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1025
+	TIME: 20:56:36.834
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1026
+	TIME: 20:56:41.837
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1027
+	TIME: 20:56:46.916
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1028
+	TIME: 20:56:51.871
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1029
+	TIME: 20:56:56.903
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1030
+	TIME: 20:57:01.928
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1031
+	TIME: 20:57:06.898
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1032
+	TIME: 20:57:11.889
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1033
+	TIME: 20:57:16.875
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1034
+	TIME: 20:57:21.896
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1035
+	TIME: 20:57:26.899
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1036
+	TIME: 20:57:31.894
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1037
+	TIME: 20:57:36.899
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1038
+	TIME: 20:57:41.899
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1039
+	TIME: 20:57:46.900
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1040
+	TIME: 20:57:51.910
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1041
+	TIME: 20:57:56.927
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1042
+	TIME: 20:58:01.911
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1043
+	TIME: 20:58:06.911
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1044
+	TIME: 20:58:11.940
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1045
+	TIME: 20:58:16.926
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1046
+	TIME: 20:58:21.945
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1047
+	TIME: 20:58:27.066
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1048
+	TIME: 20:58:31.984
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1049
+	TIME: 20:58:37
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1050
+	TIME: 20:58:42.067
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1051
+	TIME: 20:58:46.999
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1052
+	TIME: 20:58:51.992
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1053
+	TIME: 20:58:57.065
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1054
+	TIME: 20:59:01.988
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1055
+	TIME: 20:59:07.002
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1056
+	TIME: 20:59:12.060
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1057
+	TIME: 20:59:16.990
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1058
+	TIME: 20:59:22.106
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1059
+	TIME: 20:59:27.063
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1060
+	TIME: 20:59:32.011
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1061
+	TIME: 20:59:37.011
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1062
+	TIME: 20:59:42.058
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1063
+	TIME: 20:59:47.041
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1064
+	TIME: 20:59:52.033
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1065
+	TIME: 20:59:57.103
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1066
+	TIME: 21:00:02.063
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1067
+	TIME: 21:00:07.080
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1068
+	TIME: 21:00:12.094
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1069
+	TIME: 21:00:17.076
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1070
+	TIME: 21:00:22.078
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1071
+	TIME: 21:00:27.080
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1072
+	TIME: 21:00:32.063
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1073
+	TIME: 21:00:37.073
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1074
+	TIME: 21:00:42.104
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1075
+	TIME: 21:00:47.092
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1076
+	TIME: 21:00:52.103
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1077
+	TIME: 21:00:57.115
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1078
+	TIME: 21:01:02.079
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1079
+	TIME: 21:01:07.096
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1080
+	TIME: 21:01:12.116
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1081
+	TIME: 21:01:17.114
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1082
+	TIME: 21:01:22.148
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1083
+	TIME: 21:01:27.128
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1084
+	TIME: 21:01:32.169
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1085
+	TIME: 21:01:37.124
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1086
+	TIME: 21:01:42.218
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1087
+	TIME: 21:01:47.158
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1088
+	TIME: 21:01:52.156
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1089
+	TIME: 21:01:57.161
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1090
+	TIME: 21:02:02.156
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1091
+	TIME: 21:02:07.172
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1092
+	TIME: 21:02:12.235
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1093
+	TIME: 21:02:17.206
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1094
+	TIME: 21:02:22.161
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1095
+	TIME: 21:02:27.250
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1096
+	TIME: 21:02:32.170
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1097
+	TIME: 21:02:37.170
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1098
+	TIME: 21:02:42.166
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1099
+	TIME: 21:02:47.878
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1100
+	TIME: 21:02:52.255
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1101
+	TIME: 21:02:57.251
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1102
+	TIME: 21:03:02.183
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1103
+	TIME: 21:03:07.198
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1104
+	TIME: 21:03:12.258
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1105
+	TIME: 21:03:17.170
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1106
+	TIME: 21:03:22.300
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1107
+	TIME: 21:03:27.193
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1108
+	TIME: 21:03:32.196
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1109
+	TIME: 21:03:37.224
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1110
+	TIME: 21:03:42.283
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1111
+	TIME: 21:03:47.238
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1112
+	TIME: 21:03:52.209
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1113
+	TIME: 21:03:57.307
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1114
+	TIME: 21:04:02.309
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1115
+	TIME: 21:04:07.232
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1116
+	TIME: 21:04:12.296
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1117
+	TIME: 21:04:17.282
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1118
+	TIME: 21:04:22.255
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1119
+	TIME: 21:04:27.296
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1120
+	TIME: 21:04:32.277
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1121
+	TIME: 21:04:37.247
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1122
+	TIME: 21:04:42.289
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1123
+	TIME: 21:04:47.269
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1124
+	TIME: 21:04:52.273
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1125
+	TIME: 21:04:57.303
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1126
+	TIME: 21:05:02.277
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1127
+	TIME: 21:05:07.308
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1128
+	TIME: 21:05:12.335
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1129
+	TIME: 21:05:17.282
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1130
+	TIME: 21:05:22.301
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1131
+	TIME: 21:05:27.316
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1132
+	TIME: 21:05:32.299
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1133
+	TIME: 21:05:37.284
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1134
+	TIME: 21:05:42.348
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1135
+	TIME: 21:05:47.379
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1136
+	TIME: 21:05:52.357
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1137
+	TIME: 21:05:57.343
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1138
+	TIME: 21:06:02.360
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1139
+	TIME: 21:06:07.338
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1140
+	TIME: 21:06:12.383
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1141
+	TIME: 21:06:17.361
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1142
+	TIME: 21:06:22.349
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1143
+	TIME: 21:06:27.358
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1144
+	TIME: 21:06:32.365
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1145
+	TIME: 21:06:37.436
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1146
+	TIME: 21:06:42.367
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1147
+	TIME: 21:06:47.631
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1148
+	TIME: 21:06:52.418
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1149
+	TIME: 21:06:57.465
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1150
+	TIME: 21:07:02.383
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1151
+	TIME: 21:07:07.399
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1152
+	TIME: 21:07:12.456
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1153
+	TIME: 21:07:17.406
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1154
+	TIME: 21:07:22.416
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1155
+	TIME: 21:07:27.460
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1156
+	TIME: 21:07:32.416
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1157
+	TIME: 21:07:37.607
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1158
+	TIME: 21:07:42.478
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1159
+	TIME: 21:07:47.439
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1160
+	TIME: 21:07:52.459
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1161
+	TIME: 21:07:57.482
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1162
+	TIME: 21:08:02.444
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1163
+	TIME: 21:08:07.445
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1164
+	TIME: 21:08:12.492
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1165
+	TIME: 21:08:17.464
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1166
+	TIME: 21:08:22.450
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1167
+	TIME: 21:08:27.495
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1168
+	TIME: 21:08:32.523
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1169
+	TIME: 21:08:37.460
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1170
+	TIME: 21:08:42.521
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1171
+	TIME: 21:08:47.495
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1172
+	TIME: 21:08:52.482
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1173
+	TIME: 21:08:57.547
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1174
+	TIME: 21:09:02.507
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1175
+	TIME: 21:09:07.507
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1176
+	TIME: 21:09:12.547
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1177
+	TIME: 21:09:17.493
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1178
+	TIME: 21:09:22.499
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1179
+	TIME: 21:09:27.512
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1180
+	TIME: 21:09:32.507
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1181
+	TIME: 21:09:37.539
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1182
+	TIME: 21:09:42.551
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
+ENTRY: 1183
+	TIME: 21:09:47.509
+		RUNNER: 25pts and Under
+		RUNNER: 30 - 40pts
+		RUNNER: 45pts and Over
