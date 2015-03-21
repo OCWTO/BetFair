@@ -1,12 +1,15 @@
 package model;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class PredictionModel
 {
-	//knows nothing of BetFair, only gets a market name and values
-	//examines the last 4 values and looks for changes in gradient between all
-	
-	//receives data, makes predictions, if prediction made it causes some kind of event
-	//it will work in terms of game time so 
+	private String marketName;
+	private List<String[]> timeStamps;
+	private List<double[]> probabilities;
+	private static final int previousPointTrackCount = 6;
+	private String[] runnerNames;
 	
 	/**
 	 * Gui exists, observes predictionmodel. Predictionmodel is referred to by the gui and gamerecorder
@@ -15,15 +18,39 @@ public class PredictionModel
 	 * maybe make a new class to feed data
 	 * feed it events every timer tick? so it knows game time and when stuff occurs
 	 */
-	public PredictionModel()
+	public PredictionModel(String marketName)
 	{
-		
+		this.marketName = marketName;
+		timeStamps = new ArrayList<String[]>();
+		probabilities = new ArrayList<double[]>();
 	}
 	
-	public void addData(String market, double time, double probability)
+	public void addData(List<BetFairProbabilityItem> probabilites)
 	{
+		for(BetFairProbabilityItem probability : probabilites)
+		{
+			
+		}
+	}
+
+	public void init(List<BetFairProbabilityItem> probabilities2)
+	{
+		runnerNames =  new String[probabilities2.size()];
 		
+		for(int i = 0; i < probabilities2.size(); i ++)
+		{
+			double[] probabilitiesArr = new double[previousPointTrackCount];
+			probabilitiesArr[0] = Double.parseDouble(probabilities2.get(i).getProbability());
+			probabilities.add(probabilitiesArr);
+			
+			String[] timeStampsArr = new String[previousPointTrackCount];
+			timeStampsArr[0] = probabilities2.get(i).getTimeStamp();
+			timeStamps.add(timeStampsArr);
+			
+			runnerNames[i] = probabilities2.get(i).getRunnerName();
+		}	
 	}
 }
-
+//Maintain a number of arrays for each runner. All data is always passed in the same order so no need to remmeber
+//names?
 
