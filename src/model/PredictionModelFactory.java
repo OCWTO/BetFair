@@ -8,11 +8,11 @@ public class PredictionModelFactory
 	{
 		if(eventTypeId.equalsIgnoreCase(BetFairEventTypes.FOOTBALL_ID.toString()))
 		{
-			return new PredictionModel();
+			return new PredictionModel("");
 		}
 		else
 		{
-			return new PredictionModel();	
+			return new PredictionModel("");	
 		}
 	}
 	//TODO implement model, fix interfaces

@@ -20,6 +20,11 @@ public class BetFairMarketItem
 		runnerProbability.add(value);
 	}
 	
+	public List<BetFairProbabilityItem> getProbabilities()
+	{
+		return runnerProbability;
+	}
+	
 	public String getMarketName()
 	{
 		return marketName;

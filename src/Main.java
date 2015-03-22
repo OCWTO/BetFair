@@ -12,6 +12,9 @@ import views.TextFrontEnd;
  * @author Craig Thomson
  *
  */
+//TODO convert to javafx
+//TODO work on report
+//TODO connect front end
 public class Main
 {
 	//TODO test out marketprojection? parameters to see if the maps are necessary, see what data is available whilst getting market books
