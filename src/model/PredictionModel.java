@@ -2,7 +2,9 @@ package model;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+ * This needs to be passed in closed market list and probability data.
+ */
 public class PredictionModel
 {
 	private String marketName;
@@ -25,14 +27,21 @@ public class PredictionModel
 		probabilities = new ArrayList<double[]>();
 	}
 	
+	//if val is 0 then we just ignore
 	public void addData(List<BetFairProbabilityItem> probabilites)
 	{
+		//Add new probability data, if this is 0 then it means themarket is shut
 		for(BetFairProbabilityItem probability : probabilites)
 		{
 			
 		}
 	}
 
+	public String getMarketName()
+	{
+		return marketName;
+	}
+	
 	public void init(List<BetFairProbabilityItem> probabilities2)
 	{
 		runnerNames =  new String[probabilities2.size()];
