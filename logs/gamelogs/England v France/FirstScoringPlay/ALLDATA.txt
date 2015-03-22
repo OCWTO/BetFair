@@ -1,0 +1,511 @@
+England v France_First Scoring Play_1426957200000ENTRY: 1
+	TIME: 17:00:01.172
+		RUNNER: England Try
+			BACK: (PRICE:4.6,SIZE:31.0)
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:567.96)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.54,SIZE:34.0)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:9.2,SIZE:5.28)
+			BACK: (PRICE:8.8,SIZE:6.0)
+			BACK: (PRICE:8.6,SIZE:111.57)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.7,SIZE:71.02)
+			BACK: (PRICE:3.5,SIZE:40.35)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:65.18)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 2
+	TIME: 17:00:05.982
+		RUNNER: England Try
+			BACK: (PRICE:4.6,SIZE:31.0)
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:567.96)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.54,SIZE:34.0)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:9.2,SIZE:5.28)
+			BACK: (PRICE:8.8,SIZE:6.0)
+			BACK: (PRICE:8.6,SIZE:111.57)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.7,SIZE:71.02)
+			BACK: (PRICE:3.5,SIZE:40.35)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:65.18)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 3
+	TIME: 17:00:10.962
+		RUNNER: England Try
+			BACK: (PRICE:4.6,SIZE:28.0)
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:517.96)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.54,SIZE:34.0)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:9.2,SIZE:5.28)
+			BACK: (PRICE:8.8,SIZE:6.0)
+			BACK: (PRICE:8.6,SIZE:111.57)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.7,SIZE:71.02)
+			BACK: (PRICE:3.5,SIZE:40.35)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:65.18)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 4
+	TIME: 17:00:16.015
+		RUNNER: England Try
+			BACK: (PRICE:4.6,SIZE:18.0)
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:517.96)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.54,SIZE:34.0)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:9.2,SIZE:5.28)
+			BACK: (PRICE:8.8,SIZE:6.0)
+			BACK: (PRICE:8.6,SIZE:111.57)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.7,SIZE:71.02)
+			BACK: (PRICE:3.5,SIZE:40.35)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:65.18)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 5
+	TIME: 17:00:20.978
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:478.72)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.54,SIZE:19.0)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:111.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.7,SIZE:44.51)
+			BACK: (PRICE:3.5,SIZE:40.35)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 6
+	TIME: 17:00:25.954
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:459.72)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:106.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.7,SIZE:44.51)
+			BACK: (PRICE:3.5,SIZE:40.35)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 7
+	TIME: 17:00:31.053
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.5,SIZE:439.72)
+			BACK: (PRICE:2.46,SIZE:34.0)
+			BACK: (PRICE:2.44,SIZE:3.79)
+			LAY: (PRICE:2.56,SIZE:19.4)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:106.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.5,SIZE:4.87)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			BACK: (PRICE:2.9,SIZE:446.29)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 8
+	TIME: 17:00:36.098
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.58,SIZE:85.6)
+			BACK: (PRICE:2.52,SIZE:10.0)
+			BACK: (PRICE:2.5,SIZE:434.72)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:106.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:3.5,SIZE:4.87)
+			BACK: (PRICE:3.05,SIZE:2.67)
+			BACK: (PRICE:2.9,SIZE:446.29)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 9
+	TIME: 17:00:40.993
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.58,SIZE:85.6)
+			BACK: (PRICE:2.52,SIZE:10.0)
+			BACK: (PRICE:2.5,SIZE:434.72)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:106.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:2.9,SIZE:428.83)
+			BACK: (PRICE:2.88,SIZE:4.42)
+			BACK: (PRICE:2.86,SIZE:48.44)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 10
+	TIME: 17:00:45.963
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.58,SIZE:83.6)
+			BACK: (PRICE:2.52,SIZE:10.0)
+			BACK: (PRICE:2.5,SIZE:434.72)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:106.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:2.9,SIZE:428.83)
+			BACK: (PRICE:2.88,SIZE:4.42)
+			BACK: (PRICE:2.86,SIZE:48.44)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 11
+	TIME: 17:00:50.986
+		RUNNER: England Try
+			BACK: (PRICE:4.3,SIZE:29.78)
+			BACK: (PRICE:3.65,SIZE:83.86)
+			BACK: (PRICE:3.6,SIZE:4.46)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.58,SIZE:83.6)
+			BACK: (PRICE:2.52,SIZE:10.0)
+			BACK: (PRICE:2.5,SIZE:434.72)
+			LAY: (PRICE:2.64,SIZE:46.18)
+		RUNNER: France Try
+			BACK: (PRICE:8.6,SIZE:106.94)
+			BACK: (PRICE:8.2,SIZE:5.0)
+			BACK: (PRICE:8.0,SIZE:14.0)
+		RUNNER: France Penalty
+			BACK: (PRICE:2.9,SIZE:428.83)
+			BACK: (PRICE:2.88,SIZE:4.42)
+			BACK: (PRICE:2.86,SIZE:48.44)
+			LAY: (PRICE:4.0,SIZE:10.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:30.0,SIZE:61.91)
+			BACK: (PRICE:21.0,SIZE:9.82)
+			BACK: (PRICE:19.5,SIZE:2.61)
+			LAY: (PRICE:95.0,SIZE:2.0)
+ENTRY: 12
+	TIME: 17:00:55.983
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 13
+	TIME: 17:01:00.953
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 14
+	TIME: 17:01:05.964
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 15
+	TIME: 17:01:10.984
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 16
+	TIME: 17:01:16.005
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 17
+	TIME: 17:01:21.013
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 18
+	TIME: 17:01:25.971
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 19
+	TIME: 17:01:30.997
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 20
+	TIME: 17:01:35.961
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 21
+	TIME: 17:01:41.010
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 22
+	TIME: 17:01:45.999
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 23
+	TIME: 17:01:56.343
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 24
+	TIME: 17:02:06.266
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 25
+	TIME: 17:02:10.708
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 26
+	TIME: 17:02:12.253
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 27
+	TIME: 17:02:16.709
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 28
+	TIME: 17:02:21.719
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 29
+	TIME: 17:02:26.711
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 30
+	TIME: 17:02:31.687
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 31
+	TIME: 17:02:36.694
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 32
+	TIME: 17:02:41.735
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 33
+	TIME: 17:02:46.702
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 34
+	TIME: 17:02:52.761
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 35
+	TIME: 17:02:56.712
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 36
+	TIME: 17:03:01.694
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 37
+	TIME: 17:03:06.709
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 38
+	TIME: 17:03:11.800
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 39
+	TIME: 17:03:16.771
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 40
+	TIME: 17:03:21.927
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 41
+	TIME: 17:03:26.677
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 42
+	TIME: 17:03:31.713
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 43
+	TIME: 17:03:36.721
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: France Try
+		RUNNER: France Penalty
+		RUNNER: Drop Goal (either team)

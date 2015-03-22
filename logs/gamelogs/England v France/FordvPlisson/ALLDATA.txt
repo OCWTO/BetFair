@@ -1,0 +1,7263 @@
+England v France_Ford v Plisson_1426957200000ENTRY: 1
+	TIME: 17:00:01.173
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 2
+	TIME: 17:00:05.983
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 3
+	TIME: 17:00:10.963
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 4
+	TIME: 17:00:16.016
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 5
+	TIME: 17:00:20.978
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 6
+	TIME: 17:00:25.954
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 7
+	TIME: 17:00:31.053
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 8
+	TIME: 17:00:36.098
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 9
+	TIME: 17:00:40.993
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 10
+	TIME: 17:00:45.963
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 11
+	TIME: 17:00:50.986
+		RUNNER: George Ford
+			LAY: (PRICE:2.98,SIZE:25.0)
+		RUNNER: Jules Plisson
+			BACK: (PRICE:1.41,SIZE:54.34)
+		RUNNER: Tie
+			BACK: (PRICE:2.02,SIZE:109.34)
+ENTRY: 12
+	TIME: 17:00:55.983
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 13
+	TIME: 17:01:00.953
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 14
+	TIME: 17:01:05.965
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 15
+	TIME: 17:01:10.985
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 16
+	TIME: 17:01:16.005
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 17
+	TIME: 17:01:21.013
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 18
+	TIME: 17:01:25.971
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 19
+	TIME: 17:01:30.997
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 20
+	TIME: 17:01:35.961
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 21
+	TIME: 17:01:41.010
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 22
+	TIME: 17:01:45.999
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 23
+	TIME: 17:01:56.343
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 24
+	TIME: 17:02:06.266
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 25
+	TIME: 17:02:10.708
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 26
+	TIME: 17:02:12.253
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 27
+	TIME: 17:02:16.709
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 28
+	TIME: 17:02:21.719
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 29
+	TIME: 17:02:26.711
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 30
+	TIME: 17:02:31.687
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 31
+	TIME: 17:02:36.694
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 32
+	TIME: 17:02:41.735
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 33
+	TIME: 17:02:46.702
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 34
+	TIME: 17:02:52.761
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 35
+	TIME: 17:02:56.712
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 36
+	TIME: 17:03:01.694
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 37
+	TIME: 17:03:06.709
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 38
+	TIME: 17:03:11.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 39
+	TIME: 17:03:16.771
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 40
+	TIME: 17:03:21.927
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 41
+	TIME: 17:03:26.677
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 42
+	TIME: 17:03:31.713
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 43
+	TIME: 17:03:36.721
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 44
+	TIME: 17:03:41.767
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 45
+	TIME: 17:03:46.740
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 46
+	TIME: 17:03:51.701
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 47
+	TIME: 17:03:56.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 48
+	TIME: 17:04:01.719
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 49
+	TIME: 17:04:06.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 50
+	TIME: 17:04:11.709
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 51
+	TIME: 17:04:16.956
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 52
+	TIME: 17:04:21.791
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 53
+	TIME: 17:04:26.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 54
+	TIME: 17:04:31.740
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 55
+	TIME: 17:04:36.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 56
+	TIME: 17:04:41.767
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 57
+	TIME: 17:04:46.960
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 58
+	TIME: 17:04:51.718
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 59
+	TIME: 17:04:56.682
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 60
+	TIME: 17:05:01.760
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 61
+	TIME: 17:05:07.389
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 62
+	TIME: 17:05:11.868
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 63
+	TIME: 17:05:16.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 64
+	TIME: 17:05:21.724
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 65
+	TIME: 17:05:26.704
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 66
+	TIME: 17:05:31.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 67
+	TIME: 17:05:36.826
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 68
+	TIME: 17:05:42.117
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 69
+	TIME: 17:05:46.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 70
+	TIME: 17:05:51.712
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 71
+	TIME: 17:05:56.699
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 72
+	TIME: 17:06:01.796
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 73
+	TIME: 17:06:06.813
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 74
+	TIME: 17:06:11.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 75
+	TIME: 17:06:16.749
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 76
+	TIME: 17:06:21.745
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 77
+	TIME: 17:06:26.694
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 78
+	TIME: 17:06:31.759
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 79
+	TIME: 17:06:36.705
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 80
+	TIME: 17:06:41.744
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 81
+	TIME: 17:06:46.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 82
+	TIME: 17:06:51.723
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 83
+	TIME: 17:06:56.722
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 84
+	TIME: 17:07:01.711
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 85
+	TIME: 17:07:06.784
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 86
+	TIME: 17:07:11.713
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 87
+	TIME: 17:07:16.740
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 88
+	TIME: 17:07:21.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 89
+	TIME: 17:07:26.800
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 90
+	TIME: 17:07:31.890
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 91
+	TIME: 17:07:36.691
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 92
+	TIME: 17:07:41.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 93
+	TIME: 17:07:46.734
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 94
+	TIME: 17:07:51.725
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 95
+	TIME: 17:07:56.703
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 96
+	TIME: 17:08:01.714
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 97
+	TIME: 17:08:06.708
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 98
+	TIME: 17:08:11.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 99
+	TIME: 17:08:16.702
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 100
+	TIME: 17:08:21.708
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 101
+	TIME: 17:08:26.721
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 102
+	TIME: 17:08:31.722
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 103
+	TIME: 17:08:36.838
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 104
+	TIME: 17:08:41.744
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 105
+	TIME: 17:08:47.214
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 106
+	TIME: 17:08:51.816
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 107
+	TIME: 17:08:56.820
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 108
+	TIME: 17:09:01.726
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 109
+	TIME: 17:09:06.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 110
+	TIME: 17:09:11.727
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 111
+	TIME: 17:09:16.718
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 112
+	TIME: 17:09:21.754
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 113
+	TIME: 17:09:26.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 114
+	TIME: 17:09:31.773
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 115
+	TIME: 17:09:36.717
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 116
+	TIME: 17:09:41.820
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 117
+	TIME: 17:09:46.882
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 118
+	TIME: 17:09:51.737
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 119
+	TIME: 17:09:56.714
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 120
+	TIME: 17:10:01.861
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 121
+	TIME: 17:10:06.750
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 122
+	TIME: 17:10:11.859
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 123
+	TIME: 17:10:16.854
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 124
+	TIME: 17:10:21.789
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 125
+	TIME: 17:10:26.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 126
+	TIME: 17:10:31.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 127
+	TIME: 17:10:36.732
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 128
+	TIME: 17:10:41.738
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 129
+	TIME: 17:10:46.749
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 130
+	TIME: 17:10:51.770
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 131
+	TIME: 17:10:56.732
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 132
+	TIME: 17:11:01.748
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 133
+	TIME: 17:11:06.723
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 134
+	TIME: 17:11:11.744
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 135
+	TIME: 17:11:16.737
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 136
+	TIME: 17:11:21.720
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 137
+	TIME: 17:11:26.928
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 138
+	TIME: 17:11:32.084
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 139
+	TIME: 17:11:36.840
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 140
+	TIME: 17:11:41.975
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 141
+	TIME: 17:11:46.766
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 142
+	TIME: 17:11:51.718
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 143
+	TIME: 17:11:56.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 144
+	TIME: 17:12:01.750
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 145
+	TIME: 17:12:06.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 146
+	TIME: 17:12:11.874
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 147
+	TIME: 17:12:16.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 148
+	TIME: 17:12:21.833
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 149
+	TIME: 17:12:27.400
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 150
+	TIME: 17:12:31.931
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 151
+	TIME: 17:12:36.759
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 152
+	TIME: 17:12:41.798
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 153
+	TIME: 17:12:46.810
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 154
+	TIME: 17:12:51.778
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 155
+	TIME: 17:12:56.924
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 156
+	TIME: 17:13:01.819
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 157
+	TIME: 17:13:06.743
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 158
+	TIME: 17:13:11.749
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 159
+	TIME: 17:13:16.756
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 160
+	TIME: 17:13:21.749
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 161
+	TIME: 17:13:26.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 162
+	TIME: 17:13:31.761
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 163
+	TIME: 17:13:36.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 164
+	TIME: 17:13:41.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 165
+	TIME: 17:13:46.771
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 166
+	TIME: 17:13:51.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 167
+	TIME: 17:13:56.793
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 168
+	TIME: 17:14:01.757
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 169
+	TIME: 17:14:06.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 170
+	TIME: 17:14:11.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 171
+	TIME: 17:14:16.880
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 172
+	TIME: 17:14:21.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 173
+	TIME: 17:14:26.746
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 174
+	TIME: 17:14:31.862
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 175
+	TIME: 17:14:36.796
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 176
+	TIME: 17:14:41.756
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 177
+	TIME: 17:14:46.810
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 178
+	TIME: 17:14:51.768
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 179
+	TIME: 17:14:56.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 180
+	TIME: 17:15:01.774
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 181
+	TIME: 17:15:06.759
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 182
+	TIME: 17:15:11.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 183
+	TIME: 17:15:16.763
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 184
+	TIME: 17:15:21.776
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 185
+	TIME: 17:15:26.768
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 186
+	TIME: 17:15:31.839
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 187
+	TIME: 17:15:36.759
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 188
+	TIME: 17:15:41.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 189
+	TIME: 17:15:46.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 190
+	TIME: 17:15:51.870
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 191
+	TIME: 17:15:56.787
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 192
+	TIME: 17:16:01.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 193
+	TIME: 17:16:06.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 194
+	TIME: 17:16:11.811
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 195
+	TIME: 17:16:16.782
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 196
+	TIME: 17:16:23.222
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 197
+	TIME: 17:16:27.309
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 198
+	TIME: 17:16:31.763
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 199
+	TIME: 17:16:36.763
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 200
+	TIME: 17:16:41.770
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 201
+	TIME: 17:16:46.795
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 202
+	TIME: 17:16:51.769
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 203
+	TIME: 17:16:56.803
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 204
+	TIME: 17:17:01.878
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 205
+	TIME: 17:17:06.834
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 206
+	TIME: 17:17:11.802
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 207
+	TIME: 17:17:16.769
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 208
+	TIME: 17:17:21.756
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 209
+	TIME: 17:17:26.774
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 210
+	TIME: 17:17:31.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 211
+	TIME: 17:17:36.772
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 212
+	TIME: 17:17:41.805
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 213
+	TIME: 17:17:46.797
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 214
+	TIME: 17:17:51.809
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 215
+	TIME: 17:17:56.868
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 216
+	TIME: 17:18:01.847
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 217
+	TIME: 17:18:06.860
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 218
+	TIME: 17:18:11.792
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 219
+	TIME: 17:18:16.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 220
+	TIME: 17:18:22.078
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 221
+	TIME: 17:18:27.247
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 222
+	TIME: 17:18:32.255
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 223
+	TIME: 17:18:36.787
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 224
+	TIME: 17:18:41.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 225
+	TIME: 17:18:46.853
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 226
+	TIME: 17:18:51.766
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 227
+	TIME: 17:18:56.795
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 228
+	TIME: 17:19:01.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 229
+	TIME: 17:19:06.773
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 230
+	TIME: 17:19:11.795
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 231
+	TIME: 17:19:16.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 232
+	TIME: 17:19:21.772
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 233
+	TIME: 17:19:26.800
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 234
+	TIME: 17:19:31.793
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 235
+	TIME: 17:19:36.792
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 236
+	TIME: 17:19:41.808
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 237
+	TIME: 17:19:46.842
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 238
+	TIME: 17:19:51.983
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 239
+	TIME: 17:19:56.825
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 240
+	TIME: 17:20:01.776
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 241
+	TIME: 17:20:06.776
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 242
+	TIME: 17:20:11.782
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 243
+	TIME: 17:20:16.811
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 244
+	TIME: 17:20:21.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 245
+	TIME: 17:20:26.778
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 246
+	TIME: 17:20:31.781
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 247
+	TIME: 17:20:36.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 248
+	TIME: 17:20:41.875
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 249
+	TIME: 17:20:46.802
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 250
+	TIME: 17:20:51.793
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 251
+	TIME: 17:20:56.804
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 252
+	TIME: 17:21:01.829
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 253
+	TIME: 17:21:06.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 254
+	TIME: 17:21:11.714
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 255
+	TIME: 17:21:16.689
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 256
+	TIME: 17:21:21.680
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 257
+	TIME: 17:21:26.696
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 258
+	TIME: 17:21:31.673
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 259
+	TIME: 17:21:36.700
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 260
+	TIME: 17:21:41.686
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 261
+	TIME: 17:21:46.681
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 262
+	TIME: 17:21:51.690
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 263
+	TIME: 17:21:56.709
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 264
+	TIME: 17:22:01.716
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 265
+	TIME: 17:22:06.714
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 266
+	TIME: 17:22:11.699
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 267
+	TIME: 17:22:16.705
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 268
+	TIME: 17:22:21.708
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 269
+	TIME: 17:22:26.866
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 270
+	TIME: 17:22:31.786
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 271
+	TIME: 17:22:36.811
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 272
+	TIME: 17:22:41.723
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 273
+	TIME: 17:22:46.711
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 274
+	TIME: 17:22:51.808
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 275
+	TIME: 17:22:56.800
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 276
+	TIME: 17:23:02.189
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 277
+	TIME: 17:23:06.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 278
+	TIME: 17:23:11.714
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 279
+	TIME: 17:23:16.734
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 280
+	TIME: 17:23:21.695
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 281
+	TIME: 17:23:26.697
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 282
+	TIME: 17:23:31.702
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 283
+	TIME: 17:23:36.766
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 284
+	TIME: 17:23:41.765
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 285
+	TIME: 17:23:46.752
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 286
+	TIME: 17:23:51.825
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 287
+	TIME: 17:23:56.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 288
+	TIME: 17:24:01.866
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 289
+	TIME: 17:24:06.734
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 290
+	TIME: 17:24:11.708
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 291
+	TIME: 17:24:16.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 292
+	TIME: 17:24:21.698
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 293
+	TIME: 17:24:26.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 294
+	TIME: 17:24:31.713
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 295
+	TIME: 17:24:36.706
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 296
+	TIME: 17:24:41.716
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 297
+	TIME: 17:24:46.722
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 298
+	TIME: 17:24:51.704
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 299
+	TIME: 17:24:56.712
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 300
+	TIME: 17:25:01.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 301
+	TIME: 17:25:06.705
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 302
+	TIME: 17:25:11.750
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 303
+	TIME: 17:25:16.950
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 304
+	TIME: 17:25:21.850
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 305
+	TIME: 17:25:26.723
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 306
+	TIME: 17:25:32.113
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 307
+	TIME: 17:25:36.728
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 308
+	TIME: 17:25:41.742
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 309
+	TIME: 17:25:46.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 310
+	TIME: 17:25:51.737
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 311
+	TIME: 17:25:56.752
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 312
+	TIME: 17:26:01.718
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 313
+	TIME: 17:26:06.742
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 314
+	TIME: 17:26:11.738
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 315
+	TIME: 17:26:16.720
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 316
+	TIME: 17:26:21.757
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 317
+	TIME: 17:26:27.267
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 318
+	TIME: 17:26:31.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 319
+	TIME: 17:26:36.752
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 320
+	TIME: 17:26:41.719
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 321
+	TIME: 17:26:46.948
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 322
+	TIME: 17:26:52.033
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 323
+	TIME: 17:26:56.723
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 324
+	TIME: 17:27:01.724
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 325
+	TIME: 17:27:06.771
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 326
+	TIME: 17:27:11.865
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 327
+	TIME: 17:27:16.760
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 328
+	TIME: 17:27:21.754
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 329
+	TIME: 17:27:26.742
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 330
+	TIME: 17:27:31.759
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 331
+	TIME: 17:27:36.733
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 332
+	TIME: 17:27:41.734
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 333
+	TIME: 17:27:46.752
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 334
+	TIME: 17:27:51.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 335
+	TIME: 17:27:56.769
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 336
+	TIME: 17:28:01.769
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 337
+	TIME: 17:28:06.903
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 338
+	TIME: 17:28:11.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 339
+	TIME: 17:28:16.800
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 340
+	TIME: 17:28:21.771
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 341
+	TIME: 17:28:26.726
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 342
+	TIME: 17:28:31.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 343
+	TIME: 17:28:36.790
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 344
+	TIME: 17:28:41.734
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 345
+	TIME: 17:28:46.750
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 346
+	TIME: 17:28:51.793
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 347
+	TIME: 17:28:56.737
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 348
+	TIME: 17:29:01.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 349
+	TIME: 17:29:06.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 350
+	TIME: 17:29:11.745
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 351
+	TIME: 17:29:16.739
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 352
+	TIME: 17:29:21.743
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 353
+	TIME: 17:29:26.752
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 354
+	TIME: 17:29:31.889
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 355
+	TIME: 17:29:36.735
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 356
+	TIME: 17:29:41.741
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 357
+	TIME: 17:29:46.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 358
+	TIME: 17:29:51.776
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 359
+	TIME: 17:29:56.753
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 360
+	TIME: 17:30:01.745
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 361
+	TIME: 17:30:06.772
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 362
+	TIME: 17:30:11.765
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 363
+	TIME: 17:30:16.751
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 364
+	TIME: 17:30:21.763
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 365
+	TIME: 17:30:26.752
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 366
+	TIME: 17:30:31.753
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 367
+	TIME: 17:30:36.774
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 368
+	TIME: 17:30:41.747
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 369
+	TIME: 17:30:46.990
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 370
+	TIME: 17:30:51.851
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 371
+	TIME: 17:30:56.961
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 372
+	TIME: 17:31:01.748
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 373
+	TIME: 17:31:07.057
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 374
+	TIME: 17:31:11.791
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 375
+	TIME: 17:31:16.778
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 376
+	TIME: 17:31:21.794
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 377
+	TIME: 17:31:26.804
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 378
+	TIME: 17:31:31.806
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 379
+	TIME: 17:31:36.783
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 380
+	TIME: 17:31:41.776
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 381
+	TIME: 17:31:46.783
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 382
+	TIME: 17:31:51.781
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 383
+	TIME: 17:31:56.863
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 384
+	TIME: 17:32:01.754
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 385
+	TIME: 17:32:06.782
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 386
+	TIME: 17:32:11.976
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 387
+	TIME: 17:32:16.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 388
+	TIME: 17:32:22.023
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 389
+	TIME: 17:32:26.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 390
+	TIME: 17:32:31.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 391
+	TIME: 17:32:36.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 392
+	TIME: 17:32:41.773
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 393
+	TIME: 17:32:46.792
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 394
+	TIME: 17:32:51.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 395
+	TIME: 17:32:56.790
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 396
+	TIME: 17:33:01.781
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 397
+	TIME: 17:33:06.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 398
+	TIME: 17:33:11.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 399
+	TIME: 17:33:16.766
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 400
+	TIME: 17:33:21.763
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 401
+	TIME: 17:33:26.773
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 402
+	TIME: 17:33:31.821
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 403
+	TIME: 17:33:37.081
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 404
+	TIME: 17:33:41.890
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 405
+	TIME: 17:33:46.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 406
+	TIME: 17:33:51.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 407
+	TIME: 17:33:56.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 408
+	TIME: 17:34:01.812
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 409
+	TIME: 17:34:06.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 410
+	TIME: 17:34:11.766
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 411
+	TIME: 17:34:16.774
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 412
+	TIME: 17:34:21.790
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 413
+	TIME: 17:34:26.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 414
+	TIME: 17:34:31.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 415
+	TIME: 17:34:36.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 416
+	TIME: 17:34:41.776
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 417
+	TIME: 17:34:46.949
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 418
+	TIME: 17:34:51.772
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 419
+	TIME: 17:34:57.183
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 420
+	TIME: 17:35:01.834
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 421
+	TIME: 17:35:06.901
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 422
+	TIME: 17:35:11.784
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 423
+	TIME: 17:35:16.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 424
+	TIME: 17:35:21.798
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 425
+	TIME: 17:35:26.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 426
+	TIME: 17:35:31.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 427
+	TIME: 17:35:36.780
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 428
+	TIME: 17:35:41.791
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 429
+	TIME: 17:35:46.821
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 430
+	TIME: 17:35:51.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 431
+	TIME: 17:35:56.782
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 432
+	TIME: 17:36:01.858
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 433
+	TIME: 17:36:06.777
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 434
+	TIME: 17:36:11.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 435
+	TIME: 17:36:16.808
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 436
+	TIME: 17:36:21.997
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 437
+	TIME: 17:36:26.872
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 438
+	TIME: 17:36:32.082
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 439
+	TIME: 17:36:36.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 440
+	TIME: 17:36:41.803
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 441
+	TIME: 17:36:46.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 442
+	TIME: 17:36:51.816
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 443
+	TIME: 17:36:56.789
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 444
+	TIME: 17:37:01.906
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 445
+	TIME: 17:37:06.781
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 446
+	TIME: 17:37:11.802
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 447
+	TIME: 17:37:16.789
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 448
+	TIME: 17:37:21.809
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 449
+	TIME: 17:37:26.793
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 450
+	TIME: 17:37:31.797
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 451
+	TIME: 17:37:36.774
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 452
+	TIME: 17:37:41.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 453
+	TIME: 17:37:46.885
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 454
+	TIME: 17:37:52.018
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 455
+	TIME: 17:37:56.805
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 456
+	TIME: 17:38:01.783
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 457
+	TIME: 17:38:06.793
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 458
+	TIME: 17:38:11.805
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 459
+	TIME: 17:38:16.820
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 460
+	TIME: 17:38:21.807
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 461
+	TIME: 17:38:26.787
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 462
+	TIME: 17:38:31.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 463
+	TIME: 17:38:36.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 464
+	TIME: 17:38:41.804
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 465
+	TIME: 17:38:46.800
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 466
+	TIME: 17:38:51.842
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 467
+	TIME: 17:38:56.796
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 468
+	TIME: 17:39:01.812
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 469
+	TIME: 17:39:07.084
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 470
+	TIME: 17:39:11.876
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 471
+	TIME: 17:39:16.930
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 472
+	TIME: 17:39:21.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 473
+	TIME: 17:39:26.811
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 474
+	TIME: 17:39:31.798
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 475
+	TIME: 17:39:36.828
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 476
+	TIME: 17:39:41.860
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 477
+	TIME: 17:39:46.833
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 478
+	TIME: 17:39:51.844
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 479
+	TIME: 17:39:56.811
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 480
+	TIME: 17:40:01.786
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 481
+	TIME: 17:40:06.794
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 482
+	TIME: 17:40:11.845
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 483
+	TIME: 17:40:16.796
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 484
+	TIME: 17:40:21.830
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 485
+	TIME: 17:40:26.804
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 486
+	TIME: 17:40:31.883
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 487
+	TIME: 17:40:36.857
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 488
+	TIME: 17:40:41.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 489
+	TIME: 17:40:46.814
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 490
+	TIME: 17:40:51.814
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 491
+	TIME: 17:40:56.796
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 492
+	TIME: 17:41:01.858
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 493
+	TIME: 17:41:06.892
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 494
+	TIME: 17:41:11.819
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 495
+	TIME: 17:41:16.822
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 496
+	TIME: 17:41:21.845
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 497
+	TIME: 17:41:26.815
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 498
+	TIME: 17:41:31.813
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 499
+	TIME: 17:41:36.836
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 500
+	TIME: 17:41:41.827
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 501
+	TIME: 17:41:46.838
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 502
+	TIME: 17:41:51.812
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 503
+	TIME: 17:41:56.932
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 504
+	TIME: 17:42:01.913
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 505
+	TIME: 17:42:06.961
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 506
+	TIME: 17:42:11.819
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 507
+	TIME: 17:42:16.875
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 508
+	TIME: 17:42:21.818
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 509
+	TIME: 17:42:26.880
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 510
+	TIME: 17:42:31.810
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 511
+	TIME: 17:42:36.840
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 512
+	TIME: 17:42:41.813
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 513
+	TIME: 17:42:46.851
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 514
+	TIME: 17:42:51.841
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 515
+	TIME: 17:42:56.822
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 516
+	TIME: 17:43:01.852
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 517
+	TIME: 17:43:06.860
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 518
+	TIME: 17:43:11.826
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 519
+	TIME: 17:43:16.837
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 520
+	TIME: 17:43:21.818
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 521
+	TIME: 17:43:26.910
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 522
+	TIME: 17:43:31.984
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 523
+	TIME: 17:43:36.846
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 524
+	TIME: 17:43:41.827
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 525
+	TIME: 17:43:46.833
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 526
+	TIME: 17:43:51.843
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 527
+	TIME: 17:43:56.835
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 528
+	TIME: 17:44:01.851
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 529
+	TIME: 17:44:06.833
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 530
+	TIME: 17:44:11.854
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 531
+	TIME: 17:44:16.833
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 532
+	TIME: 17:44:22.062
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 533
+	TIME: 17:44:26.833
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 534
+	TIME: 17:44:31.829
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 535
+	TIME: 17:44:36.836
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 536
+	TIME: 17:44:41.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 537
+	TIME: 17:44:47.077
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 538
+	TIME: 17:44:51.857
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 539
+	TIME: 17:44:56.829
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 540
+	TIME: 17:45:01.827
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 541
+	TIME: 17:45:06.862
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 542
+	TIME: 17:45:11.831
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 543
+	TIME: 17:45:16.858
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 544
+	TIME: 17:45:21.839
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 545
+	TIME: 17:45:26.840
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 546
+	TIME: 17:45:31.841
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 547
+	TIME: 17:45:36.845
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 548
+	TIME: 17:45:41.858
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 549
+	TIME: 17:45:46.847
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 550
+	TIME: 17:45:51.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 551
+	TIME: 17:45:56.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 552
+	TIME: 17:46:01.839
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 553
+	TIME: 17:46:06.837
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 554
+	TIME: 17:46:11.947
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 555
+	TIME: 17:46:16.929
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 556
+	TIME: 17:46:21.847
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 557
+	TIME: 17:46:26.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 558
+	TIME: 17:46:31.901
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 559
+	TIME: 17:46:36.856
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 560
+	TIME: 17:46:41.874
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 561
+	TIME: 17:46:46.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 562
+	TIME: 17:46:51.879
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 563
+	TIME: 17:46:56.845
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 564
+	TIME: 17:47:01.847
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 565
+	TIME: 17:47:06.840
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 566
+	TIME: 17:47:11.843
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 567
+	TIME: 17:47:16.847
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 568
+	TIME: 17:47:21.873
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 569
+	TIME: 17:47:26.888
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 570
+	TIME: 17:47:31.918
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 571
+	TIME: 17:47:37.824
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 572
+	TIME: 17:47:44.462
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 573
+	TIME: 17:47:48.376
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 574
+	TIME: 17:47:55.508
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 575
+	TIME: 17:47:56.864
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 576
+	TIME: 17:48:01.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 577
+	TIME: 17:48:06.843
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 578
+	TIME: 17:48:11.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 579
+	TIME: 17:48:16.880
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 580
+	TIME: 17:48:21.850
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 581
+	TIME: 17:48:26.860
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 582
+	TIME: 17:48:32.027
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 583
+	TIME: 17:48:36.882
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 584
+	TIME: 17:48:41.900
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 585
+	TIME: 17:48:46.852
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 586
+	TIME: 17:48:51.941
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 587
+	TIME: 17:48:57.010
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 588
+	TIME: 17:49:01.934
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 589
+	TIME: 17:49:06.876
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 590
+	TIME: 17:49:11.857
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 591
+	TIME: 17:49:16.904
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 592
+	TIME: 17:49:21.854
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 593
+	TIME: 17:49:26.867
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 594
+	TIME: 17:49:31.855
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 595
+	TIME: 17:49:36.884
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 596
+	TIME: 17:49:41.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 597
+	TIME: 17:49:46.859
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 598
+	TIME: 17:49:51.897
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 599
+	TIME: 17:49:56.865
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 600
+	TIME: 17:50:01.882
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 601
+	TIME: 17:50:06.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 602
+	TIME: 17:50:11.972
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 603
+	TIME: 17:50:16.903
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 604
+	TIME: 17:50:21.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 605
+	TIME: 17:50:26.870
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 606
+	TIME: 17:50:31.877
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 607
+	TIME: 17:50:36.860
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 608
+	TIME: 17:50:41.874
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 609
+	TIME: 17:50:47.060
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 610
+	TIME: 17:50:51.879
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 611
+	TIME: 17:50:56.872
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 612
+	TIME: 17:51:01.892
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 613
+	TIME: 17:51:06.887
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 614
+	TIME: 17:51:11.886
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 615
+	TIME: 17:51:16.890
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 616
+	TIME: 17:51:21.917
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 617
+	TIME: 17:51:26.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 618
+	TIME: 17:51:31.873
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 619
+	TIME: 17:51:37.028
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 620
+	TIME: 17:51:42.015
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 621
+	TIME: 17:51:47.019
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 622
+	TIME: 17:51:51.901
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 623
+	TIME: 17:51:56.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 624
+	TIME: 17:52:01.877
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 625
+	TIME: 17:52:06.869
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 626
+	TIME: 17:52:11.923
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 627
+	TIME: 17:52:16.892
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 628
+	TIME: 17:52:21.923
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 629
+	TIME: 17:52:26.879
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 630
+	TIME: 17:52:31.875
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 631
+	TIME: 17:52:36.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 632
+	TIME: 17:52:41.882
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 633
+	TIME: 17:52:46.905
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 634
+	TIME: 17:52:51.881
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 635
+	TIME: 17:52:56.910
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 636
+	TIME: 17:53:01.956
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 637
+	TIME: 17:53:06.894
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 638
+	TIME: 17:53:11.916
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 639
+	TIME: 17:53:16.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 640
+	TIME: 17:53:21.894
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 641
+	TIME: 17:53:26.913
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 642
+	TIME: 17:53:31.881
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 643
+	TIME: 17:53:36.894
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 644
+	TIME: 17:53:41.908
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 645
+	TIME: 17:53:46.878
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 646
+	TIME: 17:53:51.875
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 647
+	TIME: 17:53:56.899
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 648
+	TIME: 17:54:01.926
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 649
+	TIME: 17:54:06.925
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 650
+	TIME: 17:54:11.888
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 651
+	TIME: 17:54:16.929
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 652
+	TIME: 17:54:21.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 653
+	TIME: 17:54:27.168
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 654
+	TIME: 17:54:31.957
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 655
+	TIME: 17:54:36.888
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 656
+	TIME: 17:54:41.895
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 657
+	TIME: 17:54:46.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 658
+	TIME: 17:54:51.929
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 659
+	TIME: 17:54:56.889
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 660
+	TIME: 17:55:01.925
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 661
+	TIME: 17:55:06.909
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 662
+	TIME: 17:55:11.890
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 663
+	TIME: 17:55:16.893
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 664
+	TIME: 17:55:21.900
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 665
+	TIME: 17:55:26.909
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 666
+	TIME: 17:55:31.890
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 667
+	TIME: 17:55:37.241
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 668
+	TIME: 17:55:42.008
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 669
+	TIME: 17:55:46.897
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 670
+	TIME: 17:55:52.032
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 671
+	TIME: 17:55:56.911
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 672
+	TIME: 17:56:01.898
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 673
+	TIME: 17:56:06.938
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 674
+	TIME: 17:56:12.529
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 675
+	TIME: 17:56:16.904
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 677
+	TIME: 17:56:27.168
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 678
+	TIME: 17:56:31.969
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 679
+	TIME: 17:56:37.651
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 680
+	TIME: 17:56:42.539
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 681
+	TIME: 17:56:48.006
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 682
+	TIME: 17:56:52.801
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 683
+	TIME: 17:56:57.773
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 684
+	TIME: 17:57:02.869
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 685
+	TIME: 17:57:07.515
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 686
+	TIME: 17:57:12.652
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 687
+	TIME: 17:57:19.126
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 688
+	TIME: 17:57:22.652
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 689
+	TIME: 17:57:27.706
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 690
+	TIME: 17:57:32.778
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 691
+	TIME: 17:57:37.421
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 692
+	TIME: 17:57:42.703
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 693
+	TIME: 17:57:47.952
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 694
+	TIME: 17:57:52.859
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 695
+	TIME: 17:57:58.290
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 696
+	TIME: 17:58:02.825
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 697
+	TIME: 17:58:08.210
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 698
+	TIME: 17:58:13.048
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 699
+	TIME: 17:58:17.442
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 700
+	TIME: 17:58:22.652
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 701
+	TIME: 17:58:26.911
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 702
+	TIME: 17:58:33.295
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 703
+	TIME: 17:58:37.565
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 704
+	TIME: 17:58:41.909
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 705
+	TIME: 17:58:47.726
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 706
+	TIME: 17:58:51.930
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 707
+	TIME: 17:58:57.231
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 708
+	TIME: 17:59:02.608
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 709
+	TIME: 17:59:06.918
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 710
+	TIME: 17:59:12.482
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 711
+	TIME: 17:59:17.442
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 712
+	TIME: 17:59:21.921
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 713
+	TIME: 17:59:27.903
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 714
+	TIME: 17:59:32.717
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 715
+	TIME: 17:59:37.733
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 716
+	TIME: 17:59:42.846
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 717
+	TIME: 17:59:47.818
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 718
+	TIME: 17:59:52.685
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 719
+	TIME: 17:59:58.054
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 720
+	TIME: 18:00:03.124
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 721
+	TIME: 18:00:07.837
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 722
+	TIME: 18:00:13.050
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 723
+	TIME: 18:00:17.567
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 724
+	TIME: 18:00:23.114
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 725
+	TIME: 18:00:28.016
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 726
+	TIME: 18:00:33.178
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 727
+	TIME: 18:00:38.513
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 728
+	TIME: 18:00:43.136
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 729
+	TIME: 18:00:47.971
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 730
+	TIME: 18:00:51.948
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 731
+	TIME: 18:00:57.717
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 732
+	TIME: 18:01:02.861
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 733
+	TIME: 18:01:06.954
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 734
+	TIME: 18:01:13.034
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 735
+	TIME: 18:01:17.684
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 736
+	TIME: 18:01:22.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 737
+	TIME: 18:01:28.038
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 738
+	TIME: 18:01:32.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 739
+	TIME: 18:01:37.911
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 740
+	TIME: 18:01:42.824
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 741
+	TIME: 18:01:47.824
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 742
+	TIME: 18:01:52.889
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 743
+	TIME: 18:01:57.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 744
+	TIME: 18:02:02.829
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 745
+	TIME: 18:02:07.909
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 746
+	TIME: 18:02:12.761
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 747
+	TIME: 18:02:17.944
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 748
+	TIME: 18:02:22.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 749
+	TIME: 18:02:28.267
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 750
+	TIME: 18:02:33.131
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 751
+	TIME: 18:02:38.014
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 752
+	TIME: 18:02:43.217
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 753
+	TIME: 18:02:48.330
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 754
+	TIME: 18:02:52.918
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 755
+	TIME: 18:02:58.218
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 756
+	TIME: 18:03:02.782
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 757
+	TIME: 18:03:07.447
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 758
+	TIME: 18:03:12.950
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 759
+	TIME: 18:03:17.790
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 760
+	TIME: 18:03:22.912
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 761
+	TIME: 18:03:27.975
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 762
+	TIME: 18:03:32.933
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 763
+	TIME: 18:03:37.751
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 764
+	TIME: 18:03:42.939
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 765
+	TIME: 18:03:48.125
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 766
+	TIME: 18:03:52.909
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 767
+	TIME: 18:03:57.539
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 768
+	TIME: 18:04:04.133
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 769
+	TIME: 18:04:07.895
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 770
+	TIME: 18:04:12.640
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 771
+	TIME: 18:04:17.331
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 772
+	TIME: 18:04:21.966
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 773
+	TIME: 18:04:27.512
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 774
+	TIME: 18:04:31.970
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 775
+	TIME: 18:04:37.044
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 776
+	TIME: 18:04:42.519
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 777
+	TIME: 18:04:48.047
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 778
+	TIME: 18:04:52.864
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 779
+	TIME: 18:04:57.477
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 780
+	TIME: 18:05:02.897
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 781
+	TIME: 18:05:07.407
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 782
+	TIME: 18:05:12.792
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 783
+	TIME: 18:05:17.530
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 784
+	TIME: 18:05:23.317
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 785
+	TIME: 18:05:28.120
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 786
+	TIME: 18:05:33.367
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 787
+	TIME: 18:05:38.650
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 788
+	TIME: 18:05:43.096
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 789
+	TIME: 18:05:48.351
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 790
+	TIME: 18:05:53.147
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 791
+	TIME: 18:05:58.245
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 792
+	TIME: 18:06:03.077
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 793
+	TIME: 18:06:08.106
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 794
+	TIME: 18:06:12.746
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 795
+	TIME: 18:06:17.656
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 796
+	TIME: 18:06:22.847
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 797
+	TIME: 18:06:29.391
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 798
+	TIME: 18:06:33.011
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 799
+	TIME: 18:06:38.051
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 800
+	TIME: 18:06:42.709
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 801
+	TIME: 18:06:47.719
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 802
+	TIME: 18:06:52.106
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 803
+	TIME: 18:06:56.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 804
+	TIME: 18:07:02.819
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 805
+	TIME: 18:07:07.612
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 806
+	TIME: 18:07:12.718
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 807
+	TIME: 18:07:16.981
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 808
+	TIME: 18:07:22.538
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 809
+	TIME: 18:07:27.288
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 810
+	TIME: 18:07:33.170
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 811
+	TIME: 18:07:36.996
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 812
+	TIME: 18:07:42.804
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 813
+	TIME: 18:07:47.896
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 814
+	TIME: 18:07:52.692
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 815
+	TIME: 18:07:57.507
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 816
+	TIME: 18:08:03.080
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 817
+	TIME: 18:08:08.272
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 818
+	TIME: 18:08:12.964
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 819
+	TIME: 18:08:18.209
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 820
+	TIME: 18:08:22.690
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 821
+	TIME: 18:08:28.344
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 822
+	TIME: 18:08:33.464
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 823
+	TIME: 18:08:37.997
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 824
+	TIME: 18:08:43.291
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 825
+	TIME: 18:08:48.429
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 826
+	TIME: 18:08:52.932
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 827
+	TIME: 18:08:58.464
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 828
+	TIME: 18:09:03.597
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 829
+	TIME: 18:09:08.017
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 830
+	TIME: 18:09:13.021
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 831
+	TIME: 18:09:18.168
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 832
+	TIME: 18:09:22.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 833
+	TIME: 18:09:28.213
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 834
+	TIME: 18:09:32.996
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 835
+	TIME: 18:09:38.091
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 836
+	TIME: 18:09:42.687
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 837
+	TIME: 18:09:47.115
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 838
+	TIME: 18:09:52.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 839
+	TIME: 18:09:57.015
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 840
+	TIME: 18:10:01.996
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 841
+	TIME: 18:10:07.332
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 842
+	TIME: 18:10:12.012
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 843
+	TIME: 18:10:16.985
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 844
+	TIME: 18:10:22.646
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 845
+	TIME: 18:10:27.359
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 846
+	TIME: 18:10:32.074
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 847
+	TIME: 18:10:37.448
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 848
+	TIME: 18:10:42.029
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 849
+	TIME: 18:10:47.046
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 850
+	TIME: 18:10:53.889
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 851
+	TIME: 18:10:57.163
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 852
+	TIME: 18:11:02.935
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 853
+	TIME: 18:11:07.636
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 854
+	TIME: 18:11:12.978
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 855
+	TIME: 18:11:16.996
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 856
+	TIME: 18:11:22.130
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 857
+	TIME: 18:11:27.032
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 858
+	TIME: 18:11:32.632
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 859
+	TIME: 18:11:37.021
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 860
+	TIME: 18:11:42.236
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 861
+	TIME: 18:11:46.982
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 862
+	TIME: 18:11:52.659
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 863
+	TIME: 18:11:58.240
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 864
+	TIME: 18:12:01.997
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 865
+	TIME: 18:12:07.652
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 866
+	TIME: 18:12:12.744
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 867
+	TIME: 18:12:19.538
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 868
+	TIME: 18:12:22.792
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 869
+	TIME: 18:12:27.857
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 870
+	TIME: 18:12:32.598
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 871
+	TIME: 18:12:37.987
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 872
+	TIME: 18:12:44.302
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 873
+	TIME: 18:12:47.976
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 874
+	TIME: 18:12:52.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 875
+	TIME: 18:12:58.109
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 876
+	TIME: 18:13:02.140
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 877
+	TIME: 18:13:07.019
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 878
+	TIME: 18:13:12.071
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 879
+	TIME: 18:13:17.710
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 880
+	TIME: 18:13:22.145
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 881
+	TIME: 18:13:27.461
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 882
+	TIME: 18:13:32.841
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 883
+	TIME: 18:13:37.080
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 884
+	TIME: 18:13:45.487
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 885
+	TIME: 18:13:47.686
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 886
+	TIME: 18:13:52.892
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 887
+	TIME: 18:13:57.737
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 888
+	TIME: 18:14:02.107
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 889
+	TIME: 18:14:08.006
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 890
+	TIME: 18:14:14.019
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 891
+	TIME: 18:14:17.904
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 892
+	TIME: 18:14:22.947
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 893
+	TIME: 18:14:27.707
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 894
+	TIME: 18:14:32.966
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 896
+	TIME: 18:14:42.920
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 897
+	TIME: 18:14:47.849
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 898
+	TIME: 18:14:52.773
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 899
+	TIME: 18:14:58.044
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 900
+	TIME: 18:15:03.039
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 901
+	TIME: 18:15:07.673
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 902
+	TIME: 18:15:12.971
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 903
+	TIME: 18:15:17.965
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 904
+	TIME: 18:15:22.746
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 905
+	TIME: 18:15:27.740
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 906
+	TIME: 18:15:32.496
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 907
+	TIME: 18:15:37.643
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 908
+	TIME: 18:15:42.010
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 909
+	TIME: 18:15:47.340
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 910
+	TIME: 18:15:52.011
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 911
+	TIME: 18:15:57.027
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 912
+	TIME: 18:16:03.045
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 913
+	TIME: 18:16:07.256
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 914
+	TIME: 18:16:12.471
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 915
+	TIME: 18:16:17.131
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 916
+	TIME: 18:16:22.108
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 917
+	TIME: 18:16:27.816
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 918
+	TIME: 18:16:32.292
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 919
+	TIME: 18:16:40.645
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 920
+	TIME: 18:16:42.094
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 921
+	TIME: 18:16:47.924
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 922
+	TIME: 18:16:52.608
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 923
+	TIME: 18:16:57.690
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 924
+	TIME: 18:17:02.638
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 925
+	TIME: 18:17:08.142
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 926
+	TIME: 18:17:13.041
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 927
+	TIME: 18:17:17.894
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 928
+	TIME: 18:17:22.607
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 929
+	TIME: 18:17:28.040
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 930
+	TIME: 18:17:32.948
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 931
+	TIME: 18:17:37.905
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 932
+	TIME: 18:17:42.731
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 933
+	TIME: 18:17:47.274
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 934
+	TIME: 18:17:53.031
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 935
+	TIME: 18:17:58.033
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 936
+	TIME: 18:18:02.900
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 937
+	TIME: 18:18:09.540
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 938
+	TIME: 18:18:12.553
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 939
+	TIME: 18:18:18.722
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 940
+	TIME: 18:18:22.972
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 941
+	TIME: 18:18:29.850
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 942
+	TIME: 18:18:32.818
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 943
+	TIME: 18:18:37.033
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 944
+	TIME: 18:18:42.708
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 945
+	TIME: 18:18:47.050
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 946
+	TIME: 18:18:52.440
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 947
+	TIME: 18:18:57.022
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 948
+	TIME: 18:19:02.532
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 949
+	TIME: 18:19:07.754
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 950
+	TIME: 18:19:13.250
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 951
+	TIME: 18:19:17.473
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 952
+	TIME: 18:19:22.469
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 953
+	TIME: 18:19:27.672
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 954
+	TIME: 18:19:33.048
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 955
+	TIME: 18:19:37.725
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 956
+	TIME: 18:19:42.032
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 957
+	TIME: 18:19:47.704
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 958
+	TIME: 18:19:52.477
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 959
+	TIME: 18:19:58.145
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 960
+	TIME: 18:20:03.348
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 961
+	TIME: 18:20:07.784
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 962
+	TIME: 18:20:13.046
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 963
+	TIME: 18:20:18.004
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 964
+	TIME: 18:20:22.927
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 965
+	TIME: 18:20:27.890
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 966
+	TIME: 18:20:32.184
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 967
+	TIME: 18:20:37.111
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 968
+	TIME: 18:20:43.019
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 969
+	TIME: 18:20:48.020
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 970
+	TIME: 18:20:53.025
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 971
+	TIME: 18:20:57.746
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 972
+	TIME: 18:21:02.196
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 973
+	TIME: 18:21:07.543
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 974
+	TIME: 18:21:12.240
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 975
+	TIME: 18:21:17.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 976
+	TIME: 18:21:24.972
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 977
+	TIME: 18:21:27.412
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 978
+	TIME: 18:21:32.822
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 979
+	TIME: 18:21:38.021
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 980
+	TIME: 18:21:42.165
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 981
+	TIME: 18:21:47.961
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 982
+	TIME: 18:21:52.125
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 983
+	TIME: 18:21:57.837
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 984
+	TIME: 18:22:02.533
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 985
+	TIME: 18:22:08.332
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 986
+	TIME: 18:22:12.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 987
+	TIME: 18:22:17.205
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 988
+	TIME: 18:22:22.069
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 989
+	TIME: 18:22:27.727
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 990
+	TIME: 18:22:32.598
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 991
+	TIME: 18:22:37.043
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 992
+	TIME: 18:22:42.431
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 993
+	TIME: 18:22:47.615
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 994
+	TIME: 18:22:52.265
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 995
+	TIME: 18:22:57.914
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 996
+	TIME: 18:23:02.406
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 997
+	TIME: 18:23:07.633
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 998
+	TIME: 18:23:12.355
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 999
+	TIME: 18:23:17.830
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1000
+	TIME: 18:23:22.110
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1001
+	TIME: 18:23:27.964
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1002
+	TIME: 18:23:32.135
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1003
+	TIME: 18:23:38.204
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1004
+	TIME: 18:23:42.664
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1005
+	TIME: 18:23:47.979
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1006
+	TIME: 18:23:52.169
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1007
+	TIME: 18:23:58.067
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1008
+	TIME: 18:24:02.081
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1009
+	TIME: 18:24:07.877
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1010
+	TIME: 18:24:12.644
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1011
+	TIME: 18:24:18.758
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1012
+	TIME: 18:24:23.117
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1013
+	TIME: 18:24:27.081
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1014
+	TIME: 18:24:33.189
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1015
+	TIME: 18:24:37.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1016
+	TIME: 18:24:42.983
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1017
+	TIME: 18:24:47.509
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1018
+	TIME: 18:24:53.020
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1019
+	TIME: 18:24:58.204
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1020
+	TIME: 18:25:02.859
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1021
+	TIME: 18:25:07.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1022
+	TIME: 18:25:12.961
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1023
+	TIME: 18:25:18.058
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1024
+	TIME: 18:25:22.738
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1025
+	TIME: 18:25:29.455
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1026
+	TIME: 18:25:32.876
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1027
+	TIME: 18:25:37.089
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1028
+	TIME: 18:25:42.093
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1029
+	TIME: 18:25:47.452
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1030
+	TIME: 18:25:52.727
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1031
+	TIME: 18:25:57.887
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1032
+	TIME: 18:26:03.051
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1033
+	TIME: 18:26:08.205
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1034
+	TIME: 18:26:12.745
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1035
+	TIME: 18:26:18.036
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1036
+	TIME: 18:26:22.082
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1037
+	TIME: 18:26:27.799
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1038
+	TIME: 18:26:32.070
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1039
+	TIME: 18:26:37.073
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1040
+	TIME: 18:26:42.264
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1041
+	TIME: 18:26:47.840
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1042
+	TIME: 18:26:53.077
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1043
+	TIME: 18:26:57.075
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1044
+	TIME: 18:27:02.864
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1045
+	TIME: 18:27:08.225
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1046
+	TIME: 18:27:12.553
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1047
+	TIME: 18:27:18.275
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1048
+	TIME: 18:27:22.090
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1049
+	TIME: 18:27:27.147
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1050
+	TIME: 18:27:32.211
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1051
+	TIME: 18:27:37.906
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1052
+	TIME: 18:27:42.579
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1053
+	TIME: 18:27:48.090
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1054
+	TIME: 18:27:53.061
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1055
+	TIME: 18:27:57.924
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1056
+	TIME: 18:28:02.768
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1057
+	TIME: 18:28:07.894
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1058
+	TIME: 18:28:12.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1059
+	TIME: 18:28:17.094
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1060
+	TIME: 18:28:22.530
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1061
+	TIME: 18:28:28.148
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1062
+	TIME: 18:28:32.740
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1063
+	TIME: 18:28:37.954
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1064
+	TIME: 18:28:42.098
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1065
+	TIME: 18:28:47.122
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1066
+	TIME: 18:28:52.950
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1067
+	TIME: 18:28:58.178
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1068
+	TIME: 18:29:03.061
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1069
+	TIME: 18:29:08.224
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1070
+	TIME: 18:29:12.298
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1071
+	TIME: 18:29:17.091
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1072
+	TIME: 18:29:22.935
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1073
+	TIME: 18:29:27.114
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1074
+	TIME: 18:29:32.891
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1075
+	TIME: 18:29:38.189
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1076
+	TIME: 18:29:42.456
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1077
+	TIME: 18:29:47.984
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1078
+	TIME: 18:29:52.372
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1079
+	TIME: 18:29:57.512
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1080
+	TIME: 18:30:02.770
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1081
+	TIME: 18:30:07.438
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1082
+	TIME: 18:30:12.992
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1083
+	TIME: 18:30:17.133
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1084
+	TIME: 18:30:22.095
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1085
+	TIME: 18:30:27.989
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1086
+	TIME: 18:30:32.105
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1087
+	TIME: 18:30:37.094
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1088
+	TIME: 18:30:44.047
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1089
+	TIME: 18:30:47.733
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1090
+	TIME: 18:30:53.021
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1091
+	TIME: 18:30:57.975
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1092
+	TIME: 18:31:02.683
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1093
+	TIME: 18:31:07.104
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1094
+	TIME: 18:31:13.127
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1095
+	TIME: 18:31:17.748
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1096
+	TIME: 18:31:22.123
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1097
+	TIME: 18:31:27.802
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1098
+	TIME: 18:31:35.665
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1099
+	TIME: 18:31:37.862
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1100
+	TIME: 18:31:42.181
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1101
+	TIME: 18:31:47.376
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1102
+	TIME: 18:31:52.505
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1103
+	TIME: 18:31:57.852
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1104
+	TIME: 18:32:02.104
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1105
+	TIME: 18:32:07.173
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1106
+	TIME: 18:32:12.118
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1107
+	TIME: 18:32:17.115
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1108
+	TIME: 18:32:22.167
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1109
+	TIME: 18:32:28.128
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1110
+	TIME: 18:32:32.115
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1111
+	TIME: 18:32:37.657
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1112
+	TIME: 18:32:42.111
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1113
+	TIME: 18:32:48.220
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1114
+	TIME: 18:32:53.035
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1115
+	TIME: 18:32:58.133
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1116
+	TIME: 18:33:03.138
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1117
+	TIME: 18:33:07.515
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1118
+	TIME: 18:33:12.979
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1119
+	TIME: 18:33:18.114
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1120
+	TIME: 18:33:22.913
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1121
+	TIME: 18:33:28.018
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1122
+	TIME: 18:33:34.952
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1123
+	TIME: 18:33:37.593
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1124
+	TIME: 18:33:45.875
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1125
+	TIME: 18:33:47.672
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1126
+	TIME: 18:33:53.020
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1127
+	TIME: 18:33:57.750
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1128
+	TIME: 18:34:02.154
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1129
+	TIME: 18:34:08.665
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1130
+	TIME: 18:34:13.027
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1131
+	TIME: 18:34:18.439
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1132
+	TIME: 18:34:22.166
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1133
+	TIME: 18:34:27.735
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1134
+	TIME: 18:34:33.097
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1135
+	TIME: 18:34:37.952
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1136
+	TIME: 18:34:42.913
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1137
+	TIME: 18:34:47.329
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1138
+	TIME: 18:34:52.845
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1139
+	TIME: 18:34:57.924
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1140
+	TIME: 18:35:02.695
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1141
+	TIME: 18:35:07.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1142
+	TIME: 18:35:12.521
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1143
+	TIME: 18:35:17.139
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1144
+	TIME: 18:35:22.962
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1145
+	TIME: 18:35:28.032
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1146
+	TIME: 18:35:33.089
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1147
+	TIME: 18:35:39.469
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1148
+	TIME: 18:35:44.259
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1149
+	TIME: 18:35:49.571
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1150
+	TIME: 18:35:53.274
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1151
+	TIME: 18:36:00.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1152
+	TIME: 18:36:03.138
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1153
+	TIME: 18:36:07.340
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1154
+	TIME: 18:36:12.701
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1155
+	TIME: 18:36:17.845
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1156
+	TIME: 18:36:23.004
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1157
+	TIME: 18:36:28.261
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1158
+	TIME: 18:36:32.200
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1159
+	TIME: 18:36:37.177
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1160
+	TIME: 18:36:43.323
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1161
+	TIME: 18:36:47.998
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1162
+	TIME: 18:36:53.098
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1163
+	TIME: 18:36:58.077
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1164
+	TIME: 18:37:02.914
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1165
+	TIME: 18:37:07.381
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1166
+	TIME: 18:37:12.784
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1167
+	TIME: 18:37:18.061
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1168
+	TIME: 18:37:22.779
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1169
+	TIME: 18:37:27.204
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1170
+	TIME: 18:37:32.923
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1171
+	TIME: 18:37:38.051
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1172
+	TIME: 18:37:42.910
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1173
+	TIME: 18:37:48.045
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1174
+	TIME: 18:37:52.956
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1175
+	TIME: 18:37:57.150
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1176
+	TIME: 18:38:02.900
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1177
+	TIME: 18:38:09.870
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1178
+	TIME: 18:38:13.029
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1179
+	TIME: 18:38:17.939
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1180
+	TIME: 18:38:22.579
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1181
+	TIME: 18:38:28.296
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1182
+	TIME: 18:38:32.898
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1183
+	TIME: 18:38:38.497
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1184
+	TIME: 18:38:43.036
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1185
+	TIME: 18:38:48.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1186
+	TIME: 18:38:53.149
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1187
+	TIME: 18:38:57.427
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1188
+	TIME: 18:39:02.172
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1189
+	TIME: 18:39:07.727
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1190
+	TIME: 18:39:12.871
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1191
+	TIME: 18:39:17.151
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1192
+	TIME: 18:39:22.166
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1193
+	TIME: 18:39:27.605
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1194
+	TIME: 18:39:32.418
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1195
+	TIME: 18:39:38.114
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1196
+	TIME: 18:39:42.998
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1197
+	TIME: 18:39:48.093
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1198
+	TIME: 18:39:53.192
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1199
+	TIME: 18:39:58.086
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1200
+	TIME: 18:40:03.129
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1201
+	TIME: 18:40:08.113
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1202
+	TIME: 18:40:12.325
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1203
+	TIME: 18:40:17.692
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1204
+	TIME: 18:40:22.958
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1205
+	TIME: 18:40:27.981
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1206
+	TIME: 18:40:33.059
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1207
+	TIME: 18:40:38.138
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1208
+	TIME: 18:40:42.215
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1209
+	TIME: 18:40:47.911
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1210
+	TIME: 18:40:52.696
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1211
+	TIME: 18:40:58.243
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1212
+	TIME: 18:41:02.256
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1213
+	TIME: 18:41:07.672
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1214
+	TIME: 18:41:12.924
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1215
+	TIME: 18:41:17.397
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1216
+	TIME: 18:41:22.959
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1217
+	TIME: 18:41:27.715
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1218
+	TIME: 18:41:33.067
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1219
+	TIME: 18:41:38.154
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1220
+	TIME: 18:41:43.088
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1221
+	TIME: 18:41:47.985
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1222
+	TIME: 18:41:52.670
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1223
+	TIME: 18:41:57.348
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1224
+	TIME: 18:42:02.168
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1225
+	TIME: 18:42:07.267
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1226
+	TIME: 18:42:12.182
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1227
+	TIME: 18:42:17.862
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1228
+	TIME: 18:42:22.262
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1229
+	TIME: 18:42:27.762
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1230
+	TIME: 18:42:33.554
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1231
+	TIME: 18:42:37.478
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1232
+	TIME: 18:42:42.904
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1233
+	TIME: 18:42:47.934
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1234
+	TIME: 18:42:52.431
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1235
+	TIME: 18:42:57.414
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1236
+	TIME: 18:43:02.848
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1237
+	TIME: 18:43:08.125
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1238
+	TIME: 18:43:13.034
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1239
+	TIME: 18:43:17.458
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1240
+	TIME: 18:43:22.222
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1241
+	TIME: 18:43:27.178
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1242
+	TIME: 18:43:32.213
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1243
+	TIME: 18:43:37.577
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1244
+	TIME: 18:43:43.105
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1245
+	TIME: 18:43:47.342
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1246
+	TIME: 18:43:53.929
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1247
+	TIME: 18:43:57.955
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1248
+	TIME: 18:44:02.368
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1249
+	TIME: 18:44:07.191
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1250
+	TIME: 18:44:12.827
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1251
+	TIME: 18:44:17.556
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1252
+	TIME: 18:44:23.166
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1253
+	TIME: 18:44:28.604
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1254
+	TIME: 18:44:34.575
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1255
+	TIME: 18:44:37.518
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1256
+	TIME: 18:44:43.306
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1257
+	TIME: 18:44:48.229
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1258
+	TIME: 18:44:52.206
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1259
+	TIME: 18:44:58.315
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1260
+	TIME: 18:45:03.152
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1261
+	TIME: 18:45:07.191
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1262
+	TIME: 18:45:12.202
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1263
+	TIME: 18:45:17.843
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1264
+	TIME: 18:45:22.202
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1265
+	TIME: 18:45:28.129
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1266
+	TIME: 18:45:33.070
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1267
+	TIME: 18:45:40.816
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1268
+	TIME: 18:45:42.248
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1269
+	TIME: 18:45:47.834
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1270
+	TIME: 18:45:52.214
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1271
+	TIME: 18:45:57.915
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1272
+	TIME: 18:46:02.880
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1273
+	TIME: 18:46:07.205
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1274
+	TIME: 18:46:13.085
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1275
+	TIME: 18:46:17.207
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1276
+	TIME: 18:46:22.232
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1277
+	TIME: 18:46:27.211
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1278
+	TIME: 18:46:33.073
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1279
+	TIME: 18:46:37.569
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1280
+	TIME: 18:46:42.995
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1281
+	TIME: 18:46:47.342
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1282
+	TIME: 18:46:53.084
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1283
+	TIME: 18:46:57.342
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1284
+	TIME: 18:47:04.378
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1285
+	TIME: 18:47:08.228
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1286
+	TIME: 18:47:13.371
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1287
+	TIME: 18:47:17.997
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1288
+	TIME: 18:47:22.657
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1289
+	TIME: 18:47:27.807
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1290
+	TIME: 18:47:33.022
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1291
+	TIME: 18:47:37.916
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1292
+	TIME: 18:47:43.184
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1293
+	TIME: 18:47:48.079
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1294
+	TIME: 18:47:53.025
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1295
+	TIME: 18:47:57.929
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1296
+	TIME: 18:48:03.224
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1297
+	TIME: 18:48:08.066
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1298
+	TIME: 18:48:13.253
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1299
+	TIME: 18:48:17.226
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1300
+	TIME: 18:48:22.357
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1301
+	TIME: 18:48:27.862
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1302
+	TIME: 18:48:32.504
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1303
+	TIME: 18:48:38.105
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1304
+	TIME: 18:48:43.460
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1305
+	TIME: 18:48:47.962
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1306
+	TIME: 18:48:53.205
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1307
+	TIME: 18:48:57.736
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1308
+	TIME: 18:49:02.982
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1309
+	TIME: 18:49:07.210
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1310
+	TIME: 18:49:13.316
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1311
+	TIME: 18:49:17.252
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1312
+	TIME: 18:49:22.640
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1313
+	TIME: 18:49:27.235
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1314
+	TIME: 18:49:33.046
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1315
+	TIME: 18:49:38.088
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1316
+	TIME: 18:49:42.314
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1317
+	TIME: 18:49:47.698
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1318
+	TIME: 18:49:53.277
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1319
+	TIME: 18:50:01.179
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1320
+	TIME: 18:50:03.224
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1321
+	TIME: 18:50:08.071
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1322
+	TIME: 18:50:12.244
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1323
+	TIME: 18:50:17.224
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1324
+	TIME: 18:50:22.898
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1325
+	TIME: 18:50:27.228
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1326
+	TIME: 18:50:32.482
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1327
+	TIME: 18:50:37.446
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1328
+	TIME: 18:50:43.080
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1329
+	TIME: 18:50:48.113
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1330
+	TIME: 18:50:52.253
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1331
+	TIME: 18:50:59.398
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1332
+	TIME: 18:51:03.463
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1333
+	TIME: 18:51:08.263
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1334
+	TIME: 18:51:13.042
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1335
+	TIME: 18:51:17.234
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1336
+	TIME: 18:51:23.093
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1337
+	TIME: 18:51:28.012
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1338
+	TIME: 18:51:32.611
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1339
+	TIME: 18:51:37.811
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1340
+	TIME: 18:51:43.097
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1341
+	TIME: 18:51:48.234
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1342
+	TIME: 18:51:53.256
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1343
+	TIME: 18:51:57.229
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1344
+	TIME: 18:52:02.837
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1345
+	TIME: 18:52:08.026
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1346
+	TIME: 18:52:13.292
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1347
+	TIME: 18:52:17.957
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1348
+	TIME: 18:52:23.148
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1349
+	TIME: 18:52:27.846
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1350
+	TIME: 18:52:33.188
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1351
+	TIME: 18:52:37.255
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1352
+	TIME: 18:52:42.228
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1353
+	TIME: 18:52:47.283
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1354
+	TIME: 18:52:53.387
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1355
+	TIME: 18:52:57.723
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1356
+	TIME: 18:53:02.308
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1357
+	TIME: 18:53:07.916
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1358
+	TIME: 18:53:12.573
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1359
+	TIME: 18:53:18.193
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1360
+	TIME: 18:53:22.697
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1361
+	TIME: 18:53:27.230
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1362
+	TIME: 18:53:33.384
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1363
+	TIME: 18:53:37.260
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1364
+	TIME: 18:53:42.817
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1365
+	TIME: 18:53:47.816
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1366
+	TIME: 18:53:52.245
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1367
+	TIME: 18:53:58.052
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1368
+	TIME: 18:54:02.925
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1369
+	TIME: 18:54:07.363
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1370
+	TIME: 18:54:13.050
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1371
+	TIME: 18:54:18.033
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1372
+	TIME: 18:54:23.408
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1373
+	TIME: 18:54:28.292
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1374
+	TIME: 18:54:32.371
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1375
+	TIME: 18:54:38.428
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1376
+	TIME: 18:54:43.235
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1377
+	TIME: 18:54:48.269
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1378
+	TIME: 18:54:53.261
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1379
+	TIME: 18:55:00.670
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1380
+	TIME: 18:55:03.012
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1381
+	TIME: 18:55:07.729
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1382
+	TIME: 18:55:13.261
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1383
+	TIME: 18:55:18.211
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1384
+	TIME: 18:55:23.220
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1385
+	TIME: 18:55:27.978
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1386
+	TIME: 18:55:33.106
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1387
+	TIME: 18:55:38.473
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1388
+	TIME: 18:55:43.058
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1389
+	TIME: 18:55:47.825
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1390
+	TIME: 18:55:55.134
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1391
+	TIME: 18:55:57.483
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1392
+	TIME: 18:56:02.854
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1393
+	TIME: 18:56:07.268
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1394
+	TIME: 18:56:12.292
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1395
+	TIME: 18:56:18.053
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1396
+	TIME: 18:56:22.924
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1397
+	TIME: 18:56:28.299
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1398
+	TIME: 18:56:32.961
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1399
+	TIME: 18:56:38.319
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1400
+	TIME: 18:56:42.888
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1401
+	TIME: 18:56:48.110
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1402
+	TIME: 18:56:53.070
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1403
+	TIME: 18:56:57.256
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1404
+	TIME: 18:57:02.707
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1405
+	TIME: 18:57:07.295
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1406
+	TIME: 18:57:13.391
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1407
+	TIME: 18:57:18.343
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1408
+	TIME: 18:57:23.175
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1409
+	TIME: 18:57:27.705
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1410
+	TIME: 18:57:32.274
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1411
+	TIME: 18:57:37.994
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1412
+	TIME: 18:57:43.341
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1413
+	TIME: 18:57:47.885
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1414
+	TIME: 18:57:53.271
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1415
+	TIME: 18:57:58.067
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1416
+	TIME: 18:58:02.452
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1417
+	TIME: 18:58:07.916
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1418
+	TIME: 18:58:12.257
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1419
+	TIME: 18:58:17.270
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1420
+	TIME: 18:58:22.290
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1421
+	TIME: 18:58:28.203
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1422
+	TIME: 18:58:33.051
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1423
+	TIME: 18:58:37.302
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1424
+	TIME: 18:58:42.514
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1425
+	TIME: 18:58:47.703
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1426
+	TIME: 18:58:53.242
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1427
+	TIME: 18:58:57.798
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1428
+	TIME: 18:59:02.775
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1429
+	TIME: 18:59:08.286
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1430
+	TIME: 18:59:14.084
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1431
+	TIME: 18:59:18.230
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1432
+	TIME: 18:59:22.601
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1433
+	TIME: 18:59:28.216
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1434
+	TIME: 18:59:32.575
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1435
+	TIME: 18:59:38.008
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1436
+	TIME: 18:59:42.263
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1437
+	TIME: 18:59:47.267
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1438
+	TIME: 18:59:52.853
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1439
+	TIME: 18:59:58.298
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1440
+	TIME: 19:00:02.275
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1441
+	TIME: 19:00:07.981
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1442
+	TIME: 19:00:12.354
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1443
+	TIME: 19:00:18.177
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1444
+	TIME: 19:00:22.656
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1445
+	TIME: 19:00:28.251
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1446
+	TIME: 19:00:33.178
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1447
+	TIME: 19:00:38.249
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie
+ENTRY: 1448
+	TIME: 19:00:42.476
+		RUNNER: George Ford
+		RUNNER: Jules Plisson
+		RUNNER: Tie

@@ -197,7 +197,7 @@ public class DataIO
 
 		marketMetaDataTokens = closedMarketData.get(0).get(0).split("_");
 
-		String folderName = marketMetaDataTokens[1].replaceAll(fileNameRegex, "");
+		String folderName = marketMetaDataTokens[1].replaceAll(fileNameRegex, "_");
 
 		closedMarketDir = new File(baseDirectory.getPath() + separator + folderName);
 		closedMarketDir.mkdir();
@@ -215,7 +215,7 @@ public class DataIO
 				} else
 				{
 					outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator
-							+ individualMarketMetaDataTokens[individualMarketMetaDataTokens.length - 1].replaceAll(fileNameRegex, "") + ".csv"));
+							+ individualMarketMetaDataTokens[individualMarketMetaDataTokens.length - 1].replaceAll(fileNameRegex, "_") + ".csv"));
 				}
 				for (int a = 0; a < closedMarketData.get(j).size(); a++)
 				{
