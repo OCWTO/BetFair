@@ -1,0 +1,1439 @@
+England v France_Race To 10 Points_1426957200000ENTRY: 1
+	TIME: 17:00:01.181
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2666.93)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 2
+	TIME: 17:00:05.986
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2666.93)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 3
+	TIME: 17:00:10.966
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2666.93)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 4
+	TIME: 17:00:16.018
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2666.93)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 5
+	TIME: 17:00:20.981
+		RUNNER: England
+			BACK: (PRICE:1.38,SIZE:32.55)
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 6
+	TIME: 17:00:25.959
+		RUNNER: England
+			BACK: (PRICE:1.38,SIZE:32.55)
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 7
+	TIME: 17:00:31.061
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2649.84)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 8
+	TIME: 17:00:36.100
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2649.84)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 9
+	TIME: 17:00:40.995
+		RUNNER: England
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+			BACK: (PRICE:1.32,SIZE:2649.84)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:49.21)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:11.0)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 10
+	TIME: 17:00:45.964
+		RUNNER: England
+			BACK: (PRICE:1.47,SIZE:29.18)
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:48.59)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:10.97)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 11
+	TIME: 17:00:50.988
+		RUNNER: England
+			BACK: (PRICE:1.47,SIZE:29.18)
+			BACK: (PRICE:1.35,SIZE:96.99)
+			BACK: (PRICE:1.34,SIZE:942.56)
+		RUNNER: France
+			BACK: (PRICE:3.25,SIZE:48.59)
+			BACK: (PRICE:3.2,SIZE:385.43)
+			BACK: (PRICE:3.15,SIZE:103.36)
+		RUNNER: Neither Team
+			BACK: (PRICE:60.0,SIZE:10.97)
+			BACK: (PRICE:55.0,SIZE:100.0)
+			BACK: (PRICE:50.0,SIZE:17.31)
+ENTRY: 12
+	TIME: 17:00:55.984
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 13
+	TIME: 17:01:00.953
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 14
+	TIME: 17:01:05.965
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 15
+	TIME: 17:01:10.985
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 16
+	TIME: 17:01:16.006
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 17
+	TIME: 17:01:21.014
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 18
+	TIME: 17:01:25.971
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 19
+	TIME: 17:01:30.997
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 20
+	TIME: 17:01:35.962
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 21
+	TIME: 17:01:41.011
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 22
+	TIME: 17:01:45.999
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 23
+	TIME: 17:01:56.344
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 24
+	TIME: 17:02:06.267
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 25
+	TIME: 17:02:10.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 26
+	TIME: 17:02:12.254
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 27
+	TIME: 17:02:16.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 28
+	TIME: 17:02:21.720
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 29
+	TIME: 17:02:26.711
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 30
+	TIME: 17:02:31.688
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 31
+	TIME: 17:02:36.694
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 32
+	TIME: 17:02:41.736
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 33
+	TIME: 17:02:46.703
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 34
+	TIME: 17:02:52.761
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 35
+	TIME: 17:02:56.713
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 36
+	TIME: 17:03:01.694
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 37
+	TIME: 17:03:06.710
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 38
+	TIME: 17:03:11.801
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 39
+	TIME: 17:03:16.771
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 40
+	TIME: 17:03:21.929
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 41
+	TIME: 17:03:26.677
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 42
+	TIME: 17:03:31.713
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 43
+	TIME: 17:03:36.722
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 44
+	TIME: 17:03:41.768
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 45
+	TIME: 17:03:46.741
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 46
+	TIME: 17:03:51.705
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 47
+	TIME: 17:03:56.740
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 48
+	TIME: 17:04:01.719
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 49
+	TIME: 17:04:06.734
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 50
+	TIME: 17:04:11.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 51
+	TIME: 17:04:16.957
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 52
+	TIME: 17:04:21.792
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 53
+	TIME: 17:04:26.715
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 54
+	TIME: 17:04:31.740
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 55
+	TIME: 17:04:36.775
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 56
+	TIME: 17:04:41.767
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 57
+	TIME: 17:04:46.960
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 58
+	TIME: 17:04:51.720
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 59
+	TIME: 17:04:56.683
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 60
+	TIME: 17:05:01.761
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 61
+	TIME: 17:05:07.390
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 62
+	TIME: 17:05:11.869
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 63
+	TIME: 17:05:16.762
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 64
+	TIME: 17:05:21.724
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 65
+	TIME: 17:05:26.705
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 66
+	TIME: 17:05:31.716
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 67
+	TIME: 17:05:36.826
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 68
+	TIME: 17:05:42.117
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 69
+	TIME: 17:05:46.736
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 70
+	TIME: 17:05:51.713
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 71
+	TIME: 17:05:56.700
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 72
+	TIME: 17:06:01.796
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 73
+	TIME: 17:06:06.813
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 74
+	TIME: 17:06:11.731
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 75
+	TIME: 17:06:16.750
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 76
+	TIME: 17:06:21.745
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 77
+	TIME: 17:06:26.694
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 78
+	TIME: 17:06:31.760
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 79
+	TIME: 17:06:36.705
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 80
+	TIME: 17:06:41.744
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 81
+	TIME: 17:06:46.731
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 82
+	TIME: 17:06:51.724
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 83
+	TIME: 17:06:56.723
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 84
+	TIME: 17:07:01.711
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 85
+	TIME: 17:07:06.785
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 86
+	TIME: 17:07:11.714
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 87
+	TIME: 17:07:16.741
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 88
+	TIME: 17:07:21.739
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 89
+	TIME: 17:07:26.800
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 90
+	TIME: 17:07:31.890
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 91
+	TIME: 17:07:36.692
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 92
+	TIME: 17:07:41.736
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 93
+	TIME: 17:07:46.735
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 94
+	TIME: 17:07:51.725
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 95
+	TIME: 17:07:56.703
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 96
+	TIME: 17:08:01.714
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 97
+	TIME: 17:08:06.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 98
+	TIME: 17:08:11.796
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 99
+	TIME: 17:08:16.703
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 100
+	TIME: 17:08:21.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 101
+	TIME: 17:08:26.721
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 102
+	TIME: 17:08:31.722
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 103
+	TIME: 17:08:36.838
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 104
+	TIME: 17:08:41.744
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 105
+	TIME: 17:08:47.214
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 106
+	TIME: 17:08:51.816
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 107
+	TIME: 17:08:56.821
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 108
+	TIME: 17:09:01.726
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 109
+	TIME: 17:09:06.740
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 110
+	TIME: 17:09:11.728
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 111
+	TIME: 17:09:16.718
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 112
+	TIME: 17:09:21.754
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 113
+	TIME: 17:09:26.715
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 114
+	TIME: 17:09:31.774
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 115
+	TIME: 17:09:36.717
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 116
+	TIME: 17:09:41.821
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 117
+	TIME: 17:09:46.882
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 118
+	TIME: 17:09:51.738
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 119
+	TIME: 17:09:56.714
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 120
+	TIME: 17:10:01.861
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 121
+	TIME: 17:10:06.750
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 122
+	TIME: 17:10:11.860
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 123
+	TIME: 17:10:16.855
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 124
+	TIME: 17:10:21.789
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 125
+	TIME: 17:10:26.736
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 126
+	TIME: 17:10:31.759
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 127
+	TIME: 17:10:36.732
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 128
+	TIME: 17:10:41.738
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 129
+	TIME: 17:10:46.749
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 130
+	TIME: 17:10:51.770
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 131
+	TIME: 17:10:56.732
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 132
+	TIME: 17:11:01.748
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 133
+	TIME: 17:11:06.723
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 134
+	TIME: 17:11:11.744
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 135
+	TIME: 17:11:16.738
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 136
+	TIME: 17:11:21.720
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 137
+	TIME: 17:11:26.928
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 138
+	TIME: 17:11:32.084
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 139
+	TIME: 17:11:36.840
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 140
+	TIME: 17:11:41.976
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 141
+	TIME: 17:11:46.766
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 142
+	TIME: 17:11:51.718
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 143
+	TIME: 17:11:56.739
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 144
+	TIME: 17:12:01.750
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 145
+	TIME: 17:12:06.732
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 146
+	TIME: 17:12:11.874
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 147
+	TIME: 17:12:16.731
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 148
+	TIME: 17:12:21.834
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 149
+	TIME: 17:12:27.400
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 150
+	TIME: 17:12:31.932
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 151
+	TIME: 17:12:36.759
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 152
+	TIME: 17:12:41.798
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 153
+	TIME: 17:12:46.810
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 154
+	TIME: 17:12:51.778
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 155
+	TIME: 17:12:56.924
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 156
+	TIME: 17:13:01.820
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 157
+	TIME: 17:13:06.744
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 158
+	TIME: 17:13:11.750
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 159
+	TIME: 17:13:16.757
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 160
+	TIME: 17:13:21.750
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 161
+	TIME: 17:13:26.802
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 162
+	TIME: 17:13:31.761
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 163
+	TIME: 17:13:36.758
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 164
+	TIME: 17:13:41.758
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 165
+	TIME: 17:13:46.772
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 166
+	TIME: 17:13:51.763
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 167
+	TIME: 17:13:56.794
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 168
+	TIME: 17:14:01.757
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 169
+	TIME: 17:14:06.799
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 170
+	TIME: 17:14:11.759
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 171
+	TIME: 17:14:16.881
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 172
+	TIME: 17:14:21.849
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 173
+	TIME: 17:14:26.746
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 174
+	TIME: 17:14:31.863
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 175
+	TIME: 17:14:36.797
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 176
+	TIME: 17:14:41.756
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 177
+	TIME: 17:14:46.810
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 178
+	TIME: 17:14:51.768
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 179
+	TIME: 17:14:56.781
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 180
+	TIME: 17:15:01.774
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 181
+	TIME: 17:15:06.759
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 182
+	TIME: 17:15:11.781
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 183
+	TIME: 17:15:16.763
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 184
+	TIME: 17:15:21.777
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 185
+	TIME: 17:15:26.768
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 186
+	TIME: 17:15:31.839
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 187
+	TIME: 17:15:36.759
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 188
+	TIME: 17:15:41.800
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 189
+	TIME: 17:15:46.801
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 190
+	TIME: 17:15:51.870
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 191
+	TIME: 17:15:56.787
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 192
+	TIME: 17:16:01.759
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 193
+	TIME: 17:16:06.758
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 194
+	TIME: 17:16:11.811
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 195
+	TIME: 17:16:16.782
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 196
+	TIME: 17:16:23.222
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 197
+	TIME: 17:16:27.310
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 198
+	TIME: 17:16:31.763
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 199
+	TIME: 17:16:36.764
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 200
+	TIME: 17:16:41.770
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 201
+	TIME: 17:16:46.795
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 202
+	TIME: 17:16:51.769
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 203
+	TIME: 17:16:56.803
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 204
+	TIME: 17:17:01.878
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 205
+	TIME: 17:17:06.834
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 206
+	TIME: 17:17:11.802
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 207
+	TIME: 17:17:16.769
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 208
+	TIME: 17:17:21.757
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 209
+	TIME: 17:17:26.774
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 210
+	TIME: 17:17:31.762
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 211
+	TIME: 17:17:36.773
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 212
+	TIME: 17:17:41.806
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 213
+	TIME: 17:17:46.798
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 214
+	TIME: 17:17:51.809
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 215
+	TIME: 17:17:56.868
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 216
+	TIME: 17:18:01.847
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 217
+	TIME: 17:18:06.860
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 218
+	TIME: 17:18:11.793
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 219
+	TIME: 17:18:16.778
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 220
+	TIME: 17:18:22.078
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 221
+	TIME: 17:18:27.247
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 222
+	TIME: 17:18:32.255
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 223
+	TIME: 17:18:36.788
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 224
+	TIME: 17:18:41.777
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 225
+	TIME: 17:18:46.853
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 226
+	TIME: 17:18:51.766
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 227
+	TIME: 17:18:56.796
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 228
+	TIME: 17:19:01.763
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 229
+	TIME: 17:19:06.773
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 230
+	TIME: 17:19:11.795
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 231
+	TIME: 17:19:16.780
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 232
+	TIME: 17:19:21.772
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 233
+	TIME: 17:19:26.801
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 234
+	TIME: 17:19:31.793
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 235
+	TIME: 17:19:36.793
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 236
+	TIME: 17:19:41.809
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 237
+	TIME: 17:19:46.842
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 238
+	TIME: 17:19:51.983
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 239
+	TIME: 17:19:56.825
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 240
+	TIME: 17:20:01.777
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 241
+	TIME: 17:20:06.776
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 242
+	TIME: 17:20:11.782
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 243
+	TIME: 17:20:16.812
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 244
+	TIME: 17:20:21.775
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 245
+	TIME: 17:20:26.778
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 246
+	TIME: 17:20:31.781
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 247
+	TIME: 17:20:36.801
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 248
+	TIME: 17:20:41.875
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 249
+	TIME: 17:20:46.803
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 250
+	TIME: 17:20:51.793
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 251
+	TIME: 17:20:56.804
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 252
+	TIME: 17:21:01.829
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 253
+	TIME: 17:21:06.891
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 254
+	TIME: 17:21:11.715
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 255
+	TIME: 17:21:16.689
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 256
+	TIME: 17:21:21.680
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 257
+	TIME: 17:21:26.696
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 258
+	TIME: 17:21:31.673
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 259
+	TIME: 17:21:36.700
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 260
+	TIME: 17:21:41.687
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 261
+	TIME: 17:21:46.681
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 262
+	TIME: 17:21:51.692
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 263
+	TIME: 17:21:56.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 264
+	TIME: 17:22:01.717
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 265
+	TIME: 17:22:06.714
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 266
+	TIME: 17:22:11.699
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 267
+	TIME: 17:22:16.705
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
+ENTRY: 268
+	TIME: 17:22:21.709
+		RUNNER: England
+		RUNNER: France
+		RUNNER: Neither Team
