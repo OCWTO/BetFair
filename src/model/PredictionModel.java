@@ -4,9 +4,15 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
 import java.util.List;
+<<<<<<< HEAD
 
 //If a market is closed then we locate its last data
 
+=======
+/*
+ * This needs to be passed in closed market list and probability data.
+ */
+>>>>>>> 83cd284c55fd5e8cb9fb1c4cd8ec4ae5f4b55a1e
 public class PredictionModel
 {
 	private String marketName;
@@ -30,8 +36,10 @@ public class PredictionModel
 		marketStartTime = startTime;
 	}
 	
+	//if val is 0 then we just ignore
 	public void addData(List<BetFairProbabilityItem> probabilites)
 	{
+		//Add new probability data, if this is 0 then it means themarket is shut
 		for(BetFairProbabilityItem probability : probabilites)
 		{
 			

@@ -86,11 +86,34 @@ public class DataAnalysis implements Observer, Observable
 		
 		System.out.println("getting updated");
 	}
+<<<<<<< HEAD
 	
+=======
+
+	//Need to figure out markets that are closed
+>>>>>>> 83cd284c55fd5e8cb9fb1c4cd8ec4ae5f4b55a1e
 	private void addToExistingPredictionModel(List<BetFairMarketItem> marketProbabilities)
 	{
 		//For each market we're tracking
 		for(int i = 0; i < predictionModel.size(); i++)
+<<<<<<< HEAD
+=======
+		{
+			//For each market we're getting data for (active)
+			for(int j = 0; j < marketProbabilities.size(); j++)
+			{
+				//If the market names match
+				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
+				{
+					//adddata,break
+				}
+				//Code here for no match, pass in empty list so code in there can deal with it and throw output
+			}
+			//this means no match
+		}
+		
+		for(int i = 0; i < marketProbabilities.size(); i++)
+>>>>>>> 83cd284c55fd5e8cb9fb1c4cd8ec4ae5f4b55a1e
 		{
 			//For each market we just received data for
 			for(int j = 0; j < marketProbabilities.size(); j++)
