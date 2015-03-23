@@ -8,7 +8,6 @@ import javax.swing.JOptionPane;
 import model.ProgramOptions;
 import views.BetFairView;
 import views.GameSelectView;
-import views.MarketSelectView;
 import views.SportSelectView;
 
 public class SportSelectController implements ActionListener

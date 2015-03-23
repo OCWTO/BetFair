@@ -136,7 +136,7 @@ public class BetFairCore implements IBetFairCore
 	 *             If filePassword cannot successfully decrypt the certificate
 	 *             file.
 	 */
-	public LoginResponse login(String username, String password, String filePassword)
+	public LoginResponse login(String username, String password, String filePassword, File certificateFile)
 	{
 		LoginResponse responseObject = new LoginResponse();
 		HttpClient httpClient = null;

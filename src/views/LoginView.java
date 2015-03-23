@@ -27,12 +27,10 @@ public class LoginView extends BetFairView
 	private static final int xSize = 250;
 	private static final int ySize = 450;
 	private static final String frameTitle = "BetFair Login";
-	
 	private JTextField usernameEntry;
 	private JPasswordField passwordEntry;
 	private JPasswordField filePasswordEntry;
 	private JCheckBox debugCheckBox;
-	private JCheckBox collectionCheckBox;
 	/**
 	 * 
 	 */
@@ -99,6 +97,16 @@ public class LoginView extends BetFairView
 	private void setupOptionsPanel()
 	{
 		JPanel optionsPanel = new JPanel();
+		
+		JPanel certificateFilePanel = new JPanel();
+		JButton locateCertificateFile = new JButton("Select Certificate File");
+		locateCertificateFile.addActionListener(viewListener);
+		certificateFilePanel.add(locateCertificateFile, BorderLayout.EAST);
+		JLabel fileLocation = new JLabel("No file Selected");
+		optionsPanel.add(fileLocation);
+		optionsPanel.add(certificateFilePanel);
+
+		
 		optionsPanel.setLayout(new BoxLayout(optionsPanel, BoxLayout.Y_AXIS));
 		JPanel debugPanel = new JPanel();
 		debugCheckBox = new JCheckBox("Debug mode");
@@ -106,23 +114,11 @@ public class LoginView extends BetFairView
 		debugPanel.add(debugCheckBox, BorderLayout.EAST);
 		optionsPanel.add(debugPanel);
 		
-		JPanel collectionPanel = new JPanel();
-		collectionCheckBox = new JCheckBox("Collection mode");
-		collectionCheckBox.addActionListener(viewListener);
-		collectionPanel.add(collectionCheckBox, BorderLayout.EAST);
-		optionsPanel.add(collectionPanel);
-		
 		JButton loginButton = new JButton("Login");
 		loginButton.addActionListener(viewListener);
 		
 		mainContainer.add(optionsPanel);
 		mainContainer.add(loginButton);
-	}
-	
-	public static void main(String[] args)
-	{
-		@SuppressWarnings("unused")
-		LoginView gui = new LoginView(new ProgramOptions());
 	}
 
 	@Override
@@ -133,22 +129,23 @@ public class LoginView extends BetFairView
 		setupOptionsPanel();
 	}
 
-	@Override
-	void addMenus()
-	{
-		//File->exit, File->About, Help->?? user guide?
-	}
-
+	/**
+	 * Returns a ProgramOptions object. This object contains all of the important information that the user has entered on the LoginView UI. This includes
+	 * login name, password, file password.
+	 */
 	@Override
 	public ProgramOptions getOptions()
 	{
-		System.out.println("called here");
 		ProgramOptions currentOptions = new ProgramOptions();
-		currentOptions.setCollectionMode(collectionCheckBox.isSelected());
-		currentOptions.setDebugMode(collectionCheckBox.isSelected());
+		currentOptions.setDebugMode(debugCheckBox.isSelected());
 		currentOptions.addBetFair(new SimpleBetFairCore(currentOptions.getDebugMode()));
-		System.out.println("giving  " + usernameEntry.getText() + " " +  new String(passwordEntry.getPassword()) + " " + new String(filePasswordEntry.getPassword()));
 		currentOptions.setUserDetails(usernameEntry.getText(), new String(passwordEntry.getPassword()), new String(filePasswordEntry.getPassword()));
 		return currentOptions;
+	}
+	
+	public static void main(String[] args)
+	{
+		@SuppressWarnings("unused")
+		LoginView gui = new LoginView(new ProgramOptions());
 	}
 }

@@ -5,6 +5,7 @@
 
 package model;
 
+import java.io.File;
 import java.util.List;
 import java.util.Set;
 
@@ -103,7 +104,7 @@ public interface IBetFairCore
 	 * @return
 	 * @throws CryptoException if certificate file password is incorrect
 	 */
-	public LoginResponse login(String username, String password, String filePassword) throws CryptoException;
+	public LoginResponse login(String username, String password, String filePassword, File certificateFile);
 	
 	/**
 	 * NOT SUPPORTED

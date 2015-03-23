@@ -8,6 +8,7 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
+import javax.swing.ListSelectionModel;
 
 import model.BetFairSportObject;
 import model.ProgramOptions;
@@ -68,15 +69,10 @@ public class SportSelectView extends BetFairView
 		}
 
 		sportListTable = new JTable(rowData, columnNames);
+		sportListTable.getSelectionModel().setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 		tablePane = new JScrollPane(sportListTable);
 		sportSelectPanel.add(tablePane);
 		mainContainer.add(sportSelectPanel);
-	}
-
-	@Override
-	void addMenus()
-	{
-		// TODO Auto-generated method stub
 	}
 
 	@Override

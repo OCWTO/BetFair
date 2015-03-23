@@ -72,13 +72,6 @@ public class MarketSelectView extends BetFairView
 		
 		mainContainer.add(optionsPanel);
 	}
-
-	@Override
-	void addMenus()
-	{
-		// TODO Auto-generated method stub
-		
-	}
 	
 	@Override
 	public ProgramOptions getOptions()

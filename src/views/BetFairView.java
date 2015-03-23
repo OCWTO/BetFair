@@ -60,7 +60,10 @@ public abstract class BetFairView
 		guiFrame.setVisible(true);
 	}
 	
-	abstract void addMenus();
+	protected void addMenus()
+	{
+		//TODO implement menus
+	}
 	
 	public JFrame getFrame()
 	{

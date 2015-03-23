@@ -1,5 +1,6 @@
 package model;
 
+import java.io.File;
 import java.util.List;
 
 public interface ISimpleBetFair
@@ -11,7 +12,7 @@ public interface ISimpleBetFair
 	 * @param filePassowrd
 	 * @return
 	 */
-	public String login(String username, String password, String filePassowrd);
+	public String login(String username, String password, String certPassword, File certFile);
 	
 	/**
 	 * 

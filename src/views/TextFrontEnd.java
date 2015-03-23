@@ -1,17 +1,16 @@
 package views;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
-import java.util.Timer;
 
 import model.BetFairGameObject;
 import model.BetFairMarketObject;
 import model.BetFairSportObject;
 import model.DataAnalysis;
-import model.GameRecorder;
 import model.ISimpleBetFair;
 import model.ProgramOptions;
 import model.SimpleBetFairCore;
@@ -203,7 +202,7 @@ public class TextFrontEnd
 				try
 				{
 					response = betFair.login(inputTokens[0], inputTokens[1],
-							inputTokens[2]);
+							inputTokens[2], new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\certs\\client-2048.p12"));
 					if (response.equalsIgnoreCase("success"))
 					{
 						System.out.println("Successful login!");
@@ -228,6 +227,8 @@ public class TextFrontEnd
 		}
 	}
 
+	//TODO add support for comma separated values
+	
 	/**
 	 * 
 	 * @return

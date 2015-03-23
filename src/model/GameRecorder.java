@@ -88,7 +88,7 @@ public class GameRecorder extends TimerTask implements Observable
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
 		
-		EventList gameEvents = new EventList(mostRecentData, closedMarketList);	
+		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
 	}
 

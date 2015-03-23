@@ -78,11 +78,7 @@ public class GameSelectView extends BetFairView
 		mainContainer.add(optionsPanel);
 	}
 	
-	@Override 
-	void addMenus()
-	{
-		
-	}
+
 	
 	@Override
 	public ProgramOptions getOptions()

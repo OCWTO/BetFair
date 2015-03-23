@@ -1,5 +1,6 @@
 package model;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,6 +14,7 @@ public class ProgramOptions
 	private boolean debugMode;
 	private boolean collectionMode;
 	private String[] userCredentials;
+	private File certificateFile;
 	
 	public ProgramOptions()
 	{
@@ -32,6 +34,16 @@ public class ProgramOptions
 		userCredentials[0] = username;
 		userCredentials[1] = password;
 		userCredentials[2] = filePassword;
+	}
+	
+	public void setCertificateFile(File certFile)
+	{
+		certificateFile = certFile;
+	}
+	
+	public File getCertificateFile()
+	{
+		return certificateFile;
 	}
 	
 	public String getUsername()

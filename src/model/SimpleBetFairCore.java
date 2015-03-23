@@ -1,5 +1,6 @@
 package model;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -43,9 +44,9 @@ public class SimpleBetFairCore implements ISimpleBetFair
 	 * @return The attempted log ins status, either SUCCESS or Login failure with a reason.
 	 * @throws CryptoException if the p12 certificate file cannot be accessed with the given password.
 	 */
-	public String login(String username, String password, String certPassword)
+	public String login(String username, String password, String certPassword, File certFile)
 	{
-		LoginResponse result = betFair.login(username, password, certPassword);
+		LoginResponse result = betFair.login(username, password, certPassword, certFile);
 
 		if (result.getSessionToken() == null)
 			return "Login failure. Reason: " + result.getLoginStatus();

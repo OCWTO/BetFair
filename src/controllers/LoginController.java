@@ -2,8 +2,11 @@ package controllers;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 
+import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
+import javax.swing.filechooser.FileNameExtensionFilter;
 
 import model.ISimpleBetFair;
 import model.ProgramOptions;
@@ -14,6 +17,11 @@ import views.SportSelectView;
 import exceptions.BadLoginDetailsException;
 import exceptions.CryptoException;
 
+/**
+ * Listener class for LoginView
+ * @author Craig Thomson
+ *
+ */
 public class LoginController implements ActionListener
 {
 	private ISimpleBetFair betFair;
@@ -22,14 +30,12 @@ public class LoginController implements ActionListener
 	
 	/**
 	 * 
-	 * @param betFair2
-	 * @param loginView
+	 * @param loginView A reference to the view that created this project
 	 */
 	public LoginController(LoginView loginView)
 	{
 		betFair = new SimpleBetFairCore(false);
 		view = loginView;
-		//options = view.getOptions();
 	}
 
 	/**
@@ -42,8 +48,26 @@ public class LoginController implements ActionListener
 		{
 			loginPress();
 		}
+		else if(e.getActionCommand().equalsIgnoreCase("select certificate file"))
+		{
+			openFileLocator();
+		}
 	}
 	
+	private void openFileLocator()
+	{
+		options = view.getOptions();
+		
+		JFileChooser fileLocator = new JFileChooser();
+		fileLocator.setFileFilter(new FileNameExtensionFilter("Personal Information Exchange Files (*.p12)","p12"));
+		
+		if(fileLocator.showOpenDialog(view.getFrame()) == JFileChooser.APPROVE_OPTION)
+		{
+			File certificateFile = fileLocator.getSelectedFile();
+			options.setCertificateFile(certificateFile);
+		}
+	}
+
 	private void loginPress()
 	{
 		options = view.getOptions();
@@ -52,14 +76,14 @@ public class LoginController implements ActionListener
 		try
 		{
 			betFair.setDebug(options.getDebugMode());
-			String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword());
+			String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword(), options.getCertificateFile());
 
 			if(response.equalsIgnoreCase("success"))
 			{	
 					view.closeView();
 					BetFairView nextView = new SportSelectView(options);
 			}
-			//Anything other than success should throw an exception which is caught below.
+			//Anything other than success should throw an run time exception which is caught below.
 		} 
 		catch (CryptoException badCertPasswordException)
 		{

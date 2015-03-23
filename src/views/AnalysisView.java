@@ -121,7 +121,7 @@ public class AnalysisView extends BetFairView
 	}
 
 	@Override
-	void addMenus()
+	protected void addMenus()
 	{
 		
 	}

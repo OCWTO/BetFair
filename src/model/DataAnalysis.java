@@ -1,6 +1,7 @@
 package model;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Timer;
 
@@ -19,6 +20,7 @@ public class DataAnalysis implements Observer, Observable
 	private GameRecorder recorder;
 	private ProgramOptions options;
 	private List<PredictionModel> predictionModel;
+	private Date gameStartTime;
 	
 	public DataAnalysis(ProgramOptions options)
 	{
@@ -34,19 +36,77 @@ public class DataAnalysis implements Observer, Observable
 		Timer timer = new Timer();
 		timer.schedule(recorder, recorder.getStartDelayInMS(), 5000);
 	}
-	//TODO decide where to convert time to game time.
-	/*TASKS
-	 * On creation it gets programoptions 
-	 * switch eventtype on factory class to get relevant model
-	 * create gamerecorder with parameters
-	 * make this observe that and this is observed by the view
-	 * 
-	 * 
-	 */
 	
 	
 	//This class receives events, throws data into analysis and throws old events and new ones generated up
 
+	private void initPredictionModel(List<BetFairMarketItem> marketProbabilities)
+	{
+		//For each market we have
+		for(BetFairMarketItem marketProb : marketProbabilities)
+		{
+			//Create prediction model for the market
+			PredictionModel marketModel = new PredictionModel(marketProb.getMarketName(), gameStartTime);
+			
+			//add data for the market to the model
+			marketModel.init(marketProb.getProbabilities());
+			predictionModel.add(marketModel);
+		}
+	}
+	
+	/**
+	 * Update method for this Observer. It receives EventLists from GameRecorder, passes data from it
+	 * into the models. It then polls each model for any events and adds them to it's list if any
+	 * exist
+	 */
+	@Override
+	public void update(Object obj)
+	{
+		EventList events = (EventList) obj;
+		List<BetFairMarketItem> marketProbabilities = events.getProbabilites();
+		gameStartTime = events.getStartTime();
+		
+		//if not init then init and add data
+		if(predictionModel.size() == 0)
+		{
+			initPredictionModel(marketProbabilities);
+		}
+		else
+		{
+			addToExistingPredictionModel(marketProbabilities);
+		}
+		
+		List<String> predictedEvents = new ArrayList<String>();
+		
+		//Go through each markets model and poll for data
+		for(PredictionModel marketPredictionModel : predictionModel)
+		{
+			predictedEvents.addAll(marketPredictionModel.getPredictions());
+		}
+		
+		System.out.println("getting updated");
+	}
+	
+	private void addToExistingPredictionModel(List<BetFairMarketItem> marketProbabilities)
+	{
+		//For each market we're tracking
+		for(int i = 0; i < predictionModel.size(); i++)
+		{
+			//For each market we just received data for
+			for(int j = 0; j < marketProbabilities.size(); j++)
+			{
+				//If they have the same name
+				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
+				{
+					predictionModel.get(i).addData(marketProbabilities.get(j).getProbabilities());
+					//Add data
+					break;
+				}
+			}
+			//This hits if no match, thus the ith index is a closed market. So we pass in an empty list to it to signal that, afterwards it needs some way of knowing if its finished
+			predictionModel.get(i).addData(null);
+		}
+	}
 
 	@Override
 	public void addObserver(Observer obs)
@@ -67,47 +127,5 @@ public class DataAnalysis implements Observer, Observable
 			obs.update(event);
 	}
 	
-	private void initPredictionModel(List<BetFairMarketItem> marketProbabilities)
-	{
-		//For each market we have
-		for(BetFairMarketItem marketProb : marketProbabilities)
-		{
-			//Create prediction model for the market
-			PredictionModel marketModel = new PredictionModel(marketProb.getMarketName());
-			
-			//add data for the market to the model
-			marketModel.init(marketProb.getProbabilities());
-			predictionModel.add(marketModel);
-		}
-	}
-
-	@Override
-	public void update(Object obj)
-	{
-		EventList events = (EventList) obj;
-		List<BetFairMarketItem> marketProbabilities = events.getProbabilites();
-		
-		//if not init then init and add data
-		if(predictionModel.size() == 0)
-		{
-			initPredictionModel(marketProbabilities);
-		}
-		else
-		{
-			addToExistingPredictionModel(marketProbabilities);
-		}
-		//then get results from predictionModel
-		
-		//then add that to eventlist and update
-		System.out.println("getting updated");
-	}
-
-	private void addToExistingPredictionModel(List<BetFairMarketItem> marketProbabilities)
-	{
-		for(int i = 0; i < marketProbabilities.size(); i++)
-		{
-			predictionModel.get(i).addData(marketProbabilities.get(i).getProbabilities());
-		}
-	}
 }
 //TODO find a cut off value to decide an event? then event is decided by looking at the name and finding the mapping to it
