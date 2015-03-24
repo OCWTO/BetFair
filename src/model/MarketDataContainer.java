@@ -78,6 +78,7 @@ public class MarketDataContainer
 				return runnerContainer;
 			}
 		}
+		System.out.println("RETURNING NULL RUNNER");
 		return null;
 	}
 }

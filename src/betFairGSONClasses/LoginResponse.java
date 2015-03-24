@@ -1,7 +1,7 @@
 package betFairGSONClasses;
 
 /**
- * This class is used for GSON serialisation
+ * This class is used for GSON serialisation. It represents the object created from a login request.
  * 
  * @author Craig Thomson
  */

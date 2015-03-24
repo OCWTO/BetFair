@@ -7,51 +7,46 @@ import javax.swing.JOptionPane;
 
 import model.ProgramOptions;
 import views.BetFairView;
-import views.AnalysisView;
-import views.GameSelectView;
 import views.MarketSelectView;
-//TODO make 
+
+/**
+ * Controller class for GameSelectView objects
+ * @author Craig
+ *
+ */
 public class GameSelectController implements ActionListener
 {
-	private GameSelectView view;
+	private BetFairView gameSelectView;
 	private ProgramOptions options;
 	
-	public GameSelectController(ProgramOptions options, GameSelectView view)
+	public GameSelectController(ProgramOptions options, BetFairView view)
 	{
 		this.options = options;
-		this.view = view;
+		this.gameSelectView = view;
 	}
 	
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
-		options = view.getOptions();
+		//Grab the options object from the view that contains their selected settings
+		options = gameSelectView.getOptions();
 
 		if(e.getActionCommand().equals("next"))
 		{ 
+			//If market ids have been selected then transition
 			if(options.getMarketIds() != null)
 			{
-				view.closeView();
-				
-				//if(options.getCollectionMode())
-				//{
-				//	System.out.println("collect mode so pick markets");
-					BetFairView marketSelectView = new MarketSelectView(options);
-				//}
-//				else
-//				{
-//					System.out.println("not in collect so go to game analysis");
-//					BetFairView gameAnalysisView = new GameAnalysisView(options);
-//				}
+				gameSelectView.closeView();
+				BetFairView marketSelectView = new MarketSelectView(options);
 			}
 			else
 			{
-				JOptionPane.showMessageDialog(view.getFrame(), "Please select a game");
+				JOptionPane.showMessageDialog(gameSelectView.getFrame(), "Please select a game");
 			}
 		}
 		else if(e.getActionCommand().equals("back"))
 		{
-			System.out.println("b");
-		}	
+			//TODO implement back option
+		}
 	}
 }

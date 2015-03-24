@@ -79,8 +79,7 @@ public class TextFrontEnd
 			
 			
 			recorder = new DataAnalysis(options);
-			recorder.start();			
-			//timer runs on its own thread so i can do whatever after
+			recorder.start(5000);			
 		}
 	}
 

@@ -62,18 +62,15 @@ public class HttpUtil
 		}
 		catch (UnsupportedEncodingException e1)
 		{
-			// Do something
-
+			e1.printStackTrace();
 		}
 		catch (ClientProtocolException e2)
 		{
-			// Do something
-
+			e2.printStackTrace();
 		}
 		catch (IOException e3)
 		{
-			// Do something
-
+			e3.printStackTrace();
 		}
 		return resp;
 	}
@@ -85,6 +82,5 @@ public class HttpUtil
 
 		return sendPostRequest(param, operation, appKey, ssoToken, apiNgURL,
 				new JsonResponseHandler());
-
 	}
 }

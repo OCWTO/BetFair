@@ -46,6 +46,7 @@ public class GameRecorder extends TimerTask implements Observable
 	private List<Observer> observers;
 	private DataIO io;
 	private List<String> marketList;
+	private boolean finished;
 	/**
 	 * @param gameAndMarkets
 	 *            An array of game IDs and market IDs in the form of
@@ -60,6 +61,7 @@ public class GameRecorder extends TimerTask implements Observable
 
 	public GameRecorder(ProgramOptions options)
 	{
+		finished = false;
 		observers = new ArrayList<Observer>();
 		manager = new DataManager(options);
 		betFair = options.getBetFair();
@@ -90,41 +92,60 @@ public class GameRecorder extends TimerTask implements Observable
 		
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
+		System.out.println("finished loop");
+		
+		
+		if(finished)
+		{
+			System.out.println("canelling");
+			cancel();
+		}
 	}
 
+	public boolean isRunning()
+	{
+		return finished;
+	}
 
 	private List<String> checkForClosedMarkets(List<BetFairMarketItem> mostRecentData)
 	{
 		//If we received less data for markets than expected
 		System.out.println(mostRecentData.size() + " MOST RECET");
 		System.out.println(marketList.size() + " MARKETLIST");
+		
+		//If there's a mismatch between the number of markets we got data for and what we expect
 		if(marketList.size() != mostRecentData.size())
 		{
+			//If we received nothing then that means the game is over
 			if(mostRecentData.size() == 0)
 			{
 				System.out.println("All markets finished so shutting down.@@@@@");
-				this.cancel();
+				
+				//Cancel timertask so data requests stop
+				//System.out.println(this.cancel());
+				finished = true;
+			}
 				//Need to throw custom stuff up?
-			}
+				//Resolve the list of market ids to their names
+				List<String> marketNames = new ArrayList<String>();
+				for(String marketId: marketList)
+				{
+					marketNames.add(manager.getMarketName(marketId));
+				}
+				
+				//Convert List of BetFairMarketItems to a list of their marketNames
+				List<String> recentMarketIds = mostRecentData.stream().map(BetFairMarketItem::getMarketName).collect(Collectors.toList());
+				
+				//Remove all common elements, thus whats left is market names we received no data for
+				marketNames.removeAll(recentMarketIds);
+	
+				//If there's markets we received no data for
+				System.out.println("markets we got no data for " + marketNames.size());
+				if(marketNames.size() != 0)
+				{
+					return marketNames;
+				}
 			
-			//Resolve the list of market ids to their names
-			List<String> marketNames = new ArrayList<String>();
-			for(String marketId: marketList)
-			{
-				marketNames.add(manager.getMarketName(marketId));
-			}
-			
-			//Convert List of BetFairMarketItems to a list of their marketNames
-			List<String> recentMarketIds = mostRecentData.stream().map(BetFairMarketItem::getMarketName).collect(Collectors.toList());
-			
-			//Remove all common elements, thus whats left is market names we received no data for
-			marketNames.removeAll(recentMarketIds);
-
-			//If there's markets we received no data for
-			if(marketNames.size() != 0)
-			{
-				return marketNames;
-			}
 		}
 		return null;
 	}

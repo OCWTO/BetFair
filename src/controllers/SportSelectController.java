@@ -8,14 +8,18 @@ import javax.swing.JOptionPane;
 import model.ProgramOptions;
 import views.BetFairView;
 import views.GameSelectView;
-import views.SportSelectView;
 
+/**
+ * Controller class for SportSelectView objects
+ * @author Craig
+ *
+ */
 public class SportSelectController implements ActionListener
 {
-	private SportSelectView view;
+	private BetFairView view;
 	private ProgramOptions options;
 	
-	public SportSelectController(ProgramOptions options, SportSelectView view)
+	public SportSelectController(ProgramOptions options, BetFairView view)
 	{
 		this.options = options;
 		this.view = view;
@@ -39,17 +43,7 @@ public class SportSelectController implements ActionListener
 		}
 		else if(e.getActionCommand().equals("back"))
 		{
-			System.out.println("b");
+			//TODO implement back
 		}
-		else
-		{
-			System.out.println(e.getActionCommand());
-		}
-		//get selected sport from the option list, add that to the options...
-		//create new view and pass it in options
-			
-		//if next is pressed collapse old new, make new view and pass around betfair ref
-		
-		//if back is pressed then collapse all, remove betfair init and go back to login view
 	}
 }

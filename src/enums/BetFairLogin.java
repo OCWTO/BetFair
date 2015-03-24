@@ -1,5 +1,10 @@
 package enums;
 
+/**
+ * Enum for login responses
+ * @author Craig
+ *
+ */
 public enum BetFairLogin
 {
 	BADLOGINDETAILS("INVALID_USERNAME_OR_PASSWORD"),

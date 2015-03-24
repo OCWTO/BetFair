@@ -9,6 +9,11 @@ import model.ProgramOptions;
 import views.BetFairView;
 import views.AnalysisView;
 
+/**
+ * Controller class for MarketSelectView objects
+ * @author Craig
+ *
+ */
 public class MarketSelectController implements ActionListener
 {
 	private BetFairView view;
@@ -37,7 +42,7 @@ public class MarketSelectController implements ActionListener
 		}
 		else if(e.getActionCommand().equals("back"))
 		{
-			System.out.println("b");
+			//TODO implement back option
 		}
 	}
 }

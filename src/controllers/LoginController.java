@@ -18,7 +18,7 @@ import exceptions.BadLoginDetailsException;
 import exceptions.CryptoException;
 
 /**
- * Listener class for LoginView
+ * Controller class for LoginView objects
  * @author Craig Thomson
  *
  */
@@ -32,7 +32,7 @@ public class LoginController implements ActionListener
 	 * 
 	 * @param loginView A reference to the view that created this project
 	 */
-	public LoginController(LoginView loginView)
+	public LoginController(BetFairView loginView)
 	{
 		betFair = new SimpleBetFairCore(false);
 		view = loginView;
@@ -54,6 +54,9 @@ public class LoginController implements ActionListener
 		}
 	}
 	
+	/**
+	 * Brings up a file locator for .p12 certificate files.
+	 */
 	private void openFileLocator()
 	{
 		options = view.getOptions();
@@ -68,6 +71,9 @@ public class LoginController implements ActionListener
 		}
 	}
 
+	/**
+	 * Deals with the event of the log in button being pressed
+	 */
 	private void loginPress()
 	{
 		options = view.getOptions();

@@ -28,17 +28,26 @@ import com.google.gson.reflect.TypeToken;
 
 import enums.BetFairMarketStatus;
 
-//this class will only receive data and deal with it
+/**
+ * This class receives live betfair data and it collects and formats it. Once markets close
+ * it then saves its data collections for references.
+ * @author Craig
+ *
+ */
 public class DataIO
 {
 	private List<MarketDataContainer> storedMarketData;
-	private File baseDirectory;
 	private List<String> jsonMarketBookReplies;
 	private List<String> marketCatalogueActivity; 
-	private int counter;
 	private DataManager manager;
 	private String separator = File.separator;
+	private File baseDirectory;
+	private int counter;
 
+	/**
+	 * Create a dataIO object
+	 * @param manager DataManager object containing metadata required by DataIO.
+	 */
 	public DataIO(DataManager manager)
 	{
 		storedMarketData = new ArrayList<MarketDataContainer>();
@@ -48,8 +57,14 @@ public class DataIO
 		marketCatalogueActivity = new ArrayList<String>();
 	}
 
+	/**
+	 * Initilise this object, it initially creates objects which will store the live data
+	 * @param receivedMarketObjects
+	 */
 	public void initilise(List<BetFairMarketObject> receivedMarketObjects)
 	{
+		//TODO consider storing data here to test?
+		
 		//Get the list of markets that we're tracking
 		List<String> storedMarketList = manager.getMarkets();
 
@@ -82,11 +97,16 @@ public class DataIO
 		}
 	}
 
+	/**
+	 * Data live data from the betfair api to this classes collections
+	 * @param liveMarketData A list of BetFairMarketData objects representing the received data.
+	 */
 	public void addData(List<BetFairMarketData> liveMarketData)
 	{
 		List<String> trackedMarkets;
 		BetFairMarketData currentBook;
 
+		//Get the list of markets that we're tracking
 		trackedMarkets = manager.getMarkets();
 		storeJsonResults(liveMarketData);
 		//storeCatalogueActivity(liveAllMarkets);
@@ -95,21 +115,24 @@ public class DataIO
 		assert liveMarketData.size() == trackedMarkets.size();
 
 		//For each market we're tracking
-		for(MarketDataContainer currentMarketDataContainer : storedMarketData)
+		for(int j = 0; j < storedMarketData.size(); j++)
+		//for(MarketDataContainer currentMarketDataContainer : storedMarketData)
 		{
 			//Loop through the list of market data we received
 			for(int i = 0; i < liveMarketData.size(); i++)
 			{
-				System.out.println("comparing ids");
-				System.out.println(liveMarketData.get(i).getMarketId() + " VS " + currentMarketDataContainer.getMarketId());
-				if(liveMarketData.get(i).getMarketId().equalsIgnoreCase(currentMarketDataContainer.getMarketId()))
+				//If the live id matches the tracked
+				if(liveMarketData.get(i).getMarketId().equalsIgnoreCase(storedMarketData.get(j).getMarketId()))
 				{
-					System.out.println("id match");
+					//Grab the data
 					currentBook = liveMarketData.get(i);
 					
 					//If this markets status is closed
-					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
+					if(counter == 3)
+					//if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
+						if(baseDirectory == null)
+							makeBaseDirectory(storedMarketData.get(j).getGameName());
 						//Grab our list of ids we query for and removed the closed market from it
 						List<String> currentMarketList = manager.getMarkets();
 						currentMarketList.remove(currentMarketList.indexOf(currentBook.getMarketId()));
@@ -119,20 +142,22 @@ public class DataIO
 						{
 							storeFinalData();
 						}
+						//Else we throw the market list back to the manager.
 						else
 						{
 							manager.setMarkets(currentMarketList);
 						}
-						int currentContainerIndex = storedMarketData.indexOf(currentMarketDataContainer);
 						//Send our data container to be saved
-						saveData(storedMarketData.remove(currentContainerIndex));
+						saveData(storedMarketData.remove(j));
+						//decrement here so markets aren't missed out
+						j--;
 						break;
 					}
 					//Market isn't shut so we add more data
 					else
 					{
-						System.out.println("Adding data for market: " + currentMarketDataContainer.getMarketName());
-						gatherData(currentBook.getRunners(), currentMarketDataContainer);
+						System.out.println("Adding data for market: " + storedMarketData.get(j).getMarketName());
+						gatherData(currentBook.getRunners(), storedMarketData.get(j));
 					}
 				}			
 			}
@@ -141,15 +166,16 @@ public class DataIO
 		counter++;
 	}
 	
-
-	private void makeBaseDirectory(MarketDataContainer closedMarketData)
+	/**
+	 * Make base directory for all of this games market data to go in
+	 * @param closedMarketData
+	 */
+	private void makeBaseDirectory(String gameName)
 	{
-		if (baseDirectory != null)
-			return;
-
+		//Get the current path and create a directory containing the game name
 		String currentDir = System.getProperty("user.dir");
 		String destination = separator + "logs" + separator + "gamelogs" + separator;
-		String folderName = closedMarketData.getGameName();
+		String folderName = gameName;
 		baseDirectory = new File(currentDir + destination + folderName);
 		baseDirectory.mkdir();
 	}
@@ -159,34 +185,46 @@ public class DataIO
 	 */
 	private void saveData(MarketDataContainer closedMarketData)
 	{
-		//Remove "bad" characters from filename so no issues saving
+		System.out.println("SAVING");
+		//Regex for removing characters than can't go into file names
 		String fileNameRegex = "[^\\p{Alnum}]+";
-		makeBaseDirectory(closedMarketData);
+		
+		//If directory for this data to go into doesn't exist then make it.
+		if (baseDirectory == null)
+			makeBaseDirectory(closedMarketData.getGameName());
 
+		//File for the directory of this market (which is inside baseDirectory)
 		File closedMarketDir;
 		BufferedWriter outputWriter;
-
 		String folderName = closedMarketData.getMarketName().replaceAll(fileNameRegex, "_");
 
 		closedMarketDir = new File(baseDirectory.getPath() + separator + folderName);
 		closedMarketDir.mkdir();
 		
+		System.out.println("GETTING METADATA");
+		//Grab metadata line that will go in all saved files
 		String metaDataLine = closedMarketData.getGameName() + " " + closedMarketData.getMarketName() + " OPEN DATE: " + closedMarketData.getMarketOpenDate();
 		try
 		{
+			//Initially write the alldata array first and then each runners individual data.
 			List<String> allMarketData = closedMarketData.getAllMarketDataContainer();
 			outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator + "ALLDATA" + ".txt"));
 			
 			//Writing the meta data line, then all of its contents
-			outputWriter.write(metaDataLine + "\n");
+			outputWriter.write(metaDataLine + "\n\n");
+			System.out.println("ABOUT TO WRITE ALL " + allMarketData.size());
 			for(int i = 0; i < allMarketData.size(); i++)
 			{
 				outputWriter.write(allMarketData.get(i) +  "\n");
 			}
+			outputWriter.close();
 			
-			
+			System.out.println("ABOUT TO DO RUNNERS  " + closedMarketData.getAllRunnerData().size());
+			//For each runner, write their data to a file.
 			for(MarketRunnerDataContainer runner: closedMarketData.getAllRunnerData())
 			{
+				System.out.println("Storing data for runner: " + runner.getName());
+				
 				String fileName = runner.getName().replaceAll(fileNameRegex, "_");
 				outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator
 						+ fileName + ".csv"));
@@ -201,8 +239,9 @@ public class DataIO
 					format.format(instant);
 					outputWriter.write(format.format(instant) + "," + tokens[1] +  "\n");
 				}
+				outputWriter.close();
 			}
-			outputWriter.close();
+			//outputWriter.close();
 		} 
 		catch (IOException e)
 		{
@@ -212,7 +251,7 @@ public class DataIO
 
 	private void storeFinalData()
 	{
-		storeMarketData();
+		storeMarketMoneyData();
 		storeRawJson();
 	}
 
@@ -226,7 +265,7 @@ public class DataIO
 			outputWriter = new BufferedWriter(new FileWriter(filePath));
 			for (int a = 0; a < jsonMarketBookReplies.size(); a++)
 			{
-				outputWriter.write(jsonMarketBookReplies.get(a));
+				outputWriter.write(jsonMarketBookReplies.get(a) + "\n");
 			}
 			outputWriter.flush();
 			outputWriter.close();
@@ -236,7 +275,11 @@ public class DataIO
 		}
 	}
 
-	private void storeMarketData()
+	/**
+	 * Store all data for money matched during the game for every market
+	 */
+	//TODO look at this again
+	private void storeMarketMoneyData()
 	{
 		String filePath = baseDirectory.getPath() + separator + "marketMatchedData.txt";
 
@@ -256,14 +299,7 @@ public class DataIO
 		}
 	}
 
-	/**
-	 * Creates strings of timestamp and market info for games
-	 * 
-	 * @param list
-	 */
-	
-	//Need a list of marketdata for all markets
-	//need list of marketobject for all markets
+	//TODO look at this again
 	private void storeCatalogueActivity(List<BetFairMarketObject> list, List<BetFairMarketData> allMarkets)
 	{
 		List<String> marketIds = new ArrayList<String>();
@@ -292,6 +328,7 @@ public class DataIO
 		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
 	}
 
+	
 	private void storeJsonResults(List<BetFairMarketData> marketData)
 	{
 		String gsonNotationResults = convertToJson(marketData);
@@ -393,7 +430,7 @@ public class DataIO
 			}
 			long time = System.currentTimeMillis();
 			runnerDataContainer.addData(time, ((workingBack + workingLay) /2));
-			System.out.println("Writing " + time + " , " + ((workingBack + workingLay) / 2) + " " + manager.getRunnerName(trackedRunner.getSelectionId())); // +"\n"
+			System.out.println("Writing " + time + " , " + ((workingBack + workingLay) / 2) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); // +"\n"
 		}
 		else
 		{

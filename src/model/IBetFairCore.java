@@ -79,7 +79,7 @@ public interface IBetFairCore
 	 * @param locale
 	 * @return
 	 */
-	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection>marketProjection, MarketSort sort, int maxResults, String locale);
+	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResults);
 	
 	/**
 	 * NOT SUPPORTED

@@ -63,7 +63,8 @@ import exceptions.NotLoggedInException;
 
 /**
  * BetFairCore is a class that implements all the BetFair API methods in the
- * IBetFairCore interface. It is used for all BetFair method calls.
+ * IBetFairCore interface. It is used for all BetFair method calls. Currently
+ * it sits below an ISimpleBetFairObject
  * 
  * @author Craig Thomson
  *
@@ -77,11 +78,7 @@ public class BetFairCore implements IBetFairCore
 
 	// Created on log in, required for all other calls.
 	private String sessionToken;
-	//TODO fix the output so i get game name+market then newline then odds (csv)
-	//TODO implement the gui 
-	//TODO implement the observer/observable and test
-	//Other than that just clean up code.
-	//Take note of this https://site.sports.betfair.com/betting/WheresTheMoneyAction.do?eventTypeId=7511&sortId=2&timeZone=Europe/London&region=GBR&locale=en_GB&brand=betfair&currency=GBP&hybrid=
+
 	// Used to locate certs.
 	private String directoryPrefix;
 	private String separator;
@@ -90,7 +87,6 @@ public class BetFairCore implements IBetFairCore
 	// Class used for handling all (except login) http calls.
 	private HttpUtil httpRequester;
 
-	// Then separate methods for calls and dealing with filters
 
 	/**
 	 * Creates a new BetFairCore object.
@@ -144,6 +140,7 @@ public class BetFairCore implements IBetFairCore
 
 		try
 		{
+			//Dealing with certificate file
 			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + separator + "certs" + separator + "client-2048.p12")),
 					filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
@@ -161,6 +158,7 @@ public class BetFairCore implements IBetFairCore
 
 			builder.setConnectionManager(ccm);
 
+			//Creating a client with an encrypted connection
 			httpClient = builder.build();
 
 			// Making a post object
@@ -191,15 +189,18 @@ public class BetFairCore implements IBetFairCore
 				throw new BadLoginDetailsException(responseObject.getLoginStatus());
 
 			sessionToken = responseObject.getSessionToken();
-		} catch (Throwable e)
+		} 
+		catch (Throwable e)
 		{
 			if (e.getMessage().equals(BetFairLogin.BADLOGINDETAILS.toString()))
 			{
 				throw new BadLoginDetailsException(e.getMessage());
-			} else if (e.getCause().getClass().toString().contains("BadPaddingException"))
+			} 
+			else if (e.getCause().getClass().toString().contains("BadPaddingException"))
 			{
 				throw new CryptoException("Issue with given file/password. " + e.getMessage());
-			} else
+			} 
+			else
 			{
 				e.printStackTrace();
 			}
@@ -207,32 +208,48 @@ public class BetFairCore implements IBetFairCore
 		return responseObject;
 	}
 
-	protected String makeRequest(String operation, Map<String, Object> params, String appKey, String ssoToken) throws NotLoggedInException
+	/**
+	 * 
+	 * @param operation The operation name
+	 * @param params Request parameters
+	 * @param appKey The application key
+	 * @param ssoToken The current session token
+	 * @return
+	 * @throws NotLoggedInException
+	 */
+	private String makeRequest(String operation, Map<String, Object> params) throws NotLoggedInException
 	{
 		if (sessionToken == null)
 			throw new NotLoggedInException("You must be logged in to call makeRequest");
 
 		String requestString;
+		
 		// Handling the JSON-RPC request
 		JsonrpcRequest request = new JsonrpcRequest();
 		request.setId("1");
 		request.setMethod("SportsAPING/v1.0/" + operation);
 		request.setParams(params);
 
+		//Convert the request string to a JSON object to give to the API
 		requestString = JsonConverter.convertToJson(request);
 
 		if (debug)
 			System.out.println("\nRequest: " + requestString);
 
-		// We need to pass the "sendPostRequest" method a string in util format:
-		// requestString
-
-		String response = httpRequester.sendPostRequestJsonRpc(requestString, operation, appKey, sessionToken);
+		//Send the JSON string request line and get the response
+		String response = httpRequester.sendPostRequestJsonRpc(requestString, operation, liveAppKey, sessionToken);
 		if (debug)
 			System.out.println("\nResponse: " + response);
+		
+		//Return our json response line
 		return response;
 	}
 
+	/**
+	 * Request the market book for a given markets id
+	 * @param marketId The markets id
+	 * @return A list of marketbook objects for the id (of size 1)
+	 */
 	public List<MarketBook> getMarketBook(String marketId)
 	{
 		List<String> parameters = new ArrayList<String>();
@@ -240,101 +257,90 @@ public class BetFairCore implements IBetFairCore
 		return getMarketBook(parameters);
 	}
 
+	/**
+	 * Request a list of market books for a list of market ids
+	 * @param marketId The list of marketIds that data is being requested for
+	 * @return A lift of marketbook objects for the id
+	 */
 	public List<MarketBook> getMarketBook(List<String> marketId)
 	{
-		Set<String> eventCode = new HashSet<String>();
-		eventCode.add(Integer.toString(6423));
-
 		List<String> marketIds = new ArrayList<String>();
 		marketIds.addAll(marketId);
 
-		
-		
+		//Request the 3 best back and lay prices
 		Set<PriceData> priceData = new HashSet<PriceData>();
 		priceData.add(PriceData.EX_BEST_OFFERS);
 
+		//Priceprojection can hold other data but in this case only PriceData
 		PriceProjection priceProjection = new PriceProjection();
 		priceProjection.setPriceData(priceData);
-		// priceProjection.s
-		// Set<MarketProjection> marketProjection = new
-		// HashSet<MarketProjection>();
-		// List<MarketProjection> projs = new ArrayList<MarketProjection>();
-		// projs.add(MarketProjection.COMPETITION);
-		// // MarketProjection.
-		// projs.add(MarketProjection.EVENT);
-		// projs.add(MarketProjection.EVENT_TYPE);
-		// projs.add(MarketProjection.RUNNER_DESCRIPTION);
-		// projs.add(MarketProjection.RUNNER_METADATA);
-		// projs.add(MarketProjection.MARKET_START_TIME);
-		// marketProjection.add(MarketProjection.RUNNER_DESCRIPTION,
-		// MarketProjection.COMPETITION);
-		// marketProjection.addAll(projs);
 
 		return listMarketBook(marketIds, priceProjection, null);
 	}
-	
 
-	/**
-	 * @param filter
-	 * @param marketProjection
-	 *            removed**
-	 * @return
-	 */
+	//Doc in interface.
 	public List<MarketCatalogue> listEvents(MarketFilter filter)
 	{
+		//Create parameter map
 		Map<String, Object> parameters = new HashMap<String, Object>();
+		
+		//Populate parameters
 		parameters.put(BetFairParams.FILTER.toString(), filter);
 		parameters.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
-		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), null);// marketprojection
-																			// used
-																			// to
-																			// go
-																			// here.
+		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), null);
 
 		String jsonResultLine = null;
 
 		try
 		{
-			jsonResultLine = makeRequest(ApingOperation.LISTEVENTS.toString(), parameters, liveAppKey, sessionToken);
-		} catch (NotLoggedInException notLoggedIn)
+			//Get json result from api
+			jsonResultLine = makeRequest(ApingOperation.LISTEVENTS.toString(), parameters);
+		} 
+		catch (NotLoggedInException notLoggedIn)
 		{
 			notLoggedIn.printStackTrace();
 		}
 
+		//Convert the json result string to objects using GSON (in the JsonConverter class)
 		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketCatalogueContainer.class);
 
+		//Shouldn't happen...
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
 
 		return container.getResult();
 	}
 
+	//Doc in IBetFair interface
 	public List<MarketBook> listMarketBook(List<String> marketIds, PriceProjection priceProjection, OrderProjection orderProjection)
 	{
+		//Create parameter object for the request
 		Map<String, Object> params = new HashMap<String, Object>();
+		
+		//Populate with the market ids requested and priceprojection for format of received data.
 		params.put(BetFairParams.MARKET_IDS.toString(), marketIds);
 		params.put(BetFairParams.PRICE_PROJECTION.toString(), priceProjection);
-
 		params.put("currencyCode", null);
 
 		String jsonResultLine = null;
 		try
 		{
-			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, liveAppKey, sessionToken);
-		} catch (NotLoggedInException e)
+			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params);
+		} 
+		catch (NotLoggedInException e)
 		{
 			e.printStackTrace();
 		}
 
 		ListMarketBooksContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketBooksContainer.class);
 		
-		//Recursively call again, this occurs when null is returned so socket is timed out? not served etc.
+		//Recursively call again if it fails. Occassionally requests aren't served by the server, or timed out.
 		while(container == null)
 		{
-			System.out.println("No result returned, trying again");
-			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params, liveAppKey, sessionToken);
+			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params);
 			container = JsonConverter.convertFromJson(jsonResultLine, ListMarketBooksContainer.class);
 		}
+		
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
 	
@@ -343,15 +349,18 @@ public class BetFairCore implements IBetFairCore
 
 	/**
 	 * 
-	 * @param filter
-	 * @param marketProjection
-	 * @param sort
-	 * @param maxResults
-	 * @return
+	 * @param filter MarketFilter object
+	 * @param marketProjection MarketProjection object
+	 * @param sort Result sorting option
+	 * @param maxResults Number of results that can be received.
+	 * @return A list of MarketCatalogue objects for the request.
 	 */
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResults)
 	{
+		//Create http parameter object
 		Map<String, Object> parameters = new HashMap<String, Object>();
+		
+		//Populate...
 		parameters.put(BetFairParams.FILTER.toString(), filter);
 		parameters.put(BetFairParams.SORT.toString(), sort);
 		parameters.put(BetFairParams.MAX_RESULT.toString(), maxResults);
@@ -360,16 +369,17 @@ public class BetFairCore implements IBetFairCore
 		String jsonResultLine = null;
 		try
 		{
-			jsonResultLine = makeRequest(ApingOperation.LISTMARKETCATALOGUE.toString(), parameters, liveAppKey, sessionToken);
-		} catch (NotLoggedInException e)
+			//Get results in json form from api.
+			jsonResultLine = makeRequest(ApingOperation.LISTMARKETCATALOGUE.toString(), parameters);
+		} 
+		catch (NotLoggedInException e)
 		{
 			e.printStackTrace();
 		}
-
+		
+		//Convert from json to objects using gson.
 		ListMarketCatalogueContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketCatalogueContainer.class);
 		
-		if(container == null)
-			System.out.println("Timeout...");
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
 
@@ -377,19 +387,23 @@ public class BetFairCore implements IBetFairCore
 	}
 
 	/**
-	 * @param gameId
-	 * @return
+	 * @param marketId The market id that the requested market catalogue is for.
+	 * @return A list of marketCatalogue objects for the given market id, these represent the markets
+	 * available for betting with this game. 
 	 */
-	public List<MarketCatalogue> getMarketCatalogue(String gameId)
+	public List<MarketCatalogue> getMarketCatalogue(String marketId)
 	{
+		//Create a set of event Parameters, in this case the market id
 		Set<String> eventParams = new HashSet<String>();
-		eventParams.add(gameId);
+		eventParams.add(marketId);
 
 		MarketFilter marketFilter = new MarketFilter();
 		marketFilter.setEventIds(eventParams);
 
 		Set<MarketProjection> marketProjection = new HashSet<MarketProjection>();
 		List<MarketProjection> projections = new ArrayList<MarketProjection>();
+		
+		//Create a list of the requested data and add it to the parameters
 		projections.add(MarketProjection.COMPETITION);
 		projections.add(MarketProjection.EVENT);
 		projections.add(MarketProjection.EVENT_TYPE);
@@ -411,7 +425,10 @@ public class BetFairCore implements IBetFairCore
 	 */
 	public List<MarketCatalogue> getGames(String sportID)
 	{
-		// By default it's going to be from 2 hours ago to 1 day from now.
+		//For now it looks for games that started 2 hours into the past (so in play
+		//games can be found and 1 day ahead to see games that havent started yet.
+		//The range is a day so that games can be scheduled for recording some time
+		//ahead of their start (good for recording american sports).
 		TimeRange timeRange = new TimeRange();
 		timeRange.setFrom(new Date(new Date().getTime() - (120 * 60 * 1000)));
 		timeRange.setTo(new Date(new Date().getTime() + (24 * 60 * 60 * 1000)));
@@ -422,48 +439,43 @@ public class BetFairCore implements IBetFairCore
 
 		marketFilter.setEventTypeIds(eventCode);
 		marketFilter.setMarketStartTime(timeRange);
-		// marketFilter.setMarketCountries(countries);
 
-		// TODO look at market projections again
+
 		Set<MarketProjection> marketProjection = new HashSet<MarketProjection>();
 		marketProjection.add(MarketProjection.RUNNER_DESCRIPTION);
 
 		return listEvents(marketFilter);
 	}
 
-	/**
-	 * 
-	 */
+	//See IBetFairCore for doc
 	public List<EventTypeResult> listEventTypes(MarketFilter filter)
 	{
+		//Populate http params
 		Map<String, Object> parameters = new HashMap<String, Object>();
 		parameters.put("filter", filter);
 
 		String jsonResultLine = null;
 		try
 		{
-			jsonResultLine = makeRequest(ApingOperation.LISTEVENTTYPES.toString(), parameters, liveAppKey, sessionToken);
-		} catch (NotLoggedInException e)
+			//Get the result from the api is json form
+			jsonResultLine = makeRequest(ApingOperation.LISTEVENTTYPES.toString(), parameters);
+		} 
+		catch (NotLoggedInException e)
 		{
 			e.printStackTrace();
 		}
 
+		//Use gson to convert the json to objects
 		EventTypeResultContainer container = JsonConverter.convertFromJson(jsonResultLine, EventTypeResultContainer.class);
 
 		if (container.getError() != null)
 			System.out.println(container.getError().toString());
 
+		//Return the result.
 		return container.getResult();
 	}
 
-	/**
-	 * 
-	 * @param keyStoreType
-	 * @param keyStoreFile
-	 * @param keyStorePassword
-	 * @return
-	 * @throws Exception
-	 */
+	//Code for unpacking the certificate so the user can log in.
 	private KeyManager[] getKeyManagers(String keyStoreType, InputStream keyStoreFile, String keyStorePassword) throws Exception
 	{
 		KeyStore keyStore = KeyStore.getInstance(keyStoreType);
@@ -482,12 +494,5 @@ public class BetFairCore implements IBetFairCore
 	public void setDebug(Boolean state)
 	{
 		debug = state;
-	}
-
-	@Override
-	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, int maxResults,
-			String locale)
-	{
-		return null;
 	}
 }
