@@ -36,7 +36,6 @@ public class DataAnalysis implements Observer, Observable
 	 */
 	public void start(long queryTimeInMS)
 	{
-		//recorderTimer = new Timer();
 		recorderTimer.schedule(recorder, recorder.getStartDelayInMS(), queryTimeInMS);
 	}
 	

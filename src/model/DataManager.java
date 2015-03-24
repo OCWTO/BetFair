@@ -49,23 +49,16 @@ public class DataManager
 	private void generateMarketIdToNameMap(List<BetFairMarketObject> gameMarkets)
 	{
 		marketIdToName = new HashMap<String, String>();
-		List<String> gameMarketIds = options.getMarketIds();
 		
 		generateRunnerIdToNameMap(gameMarkets);
 		findStartTime(gameMarkets);
 		
 		for(BetFairMarketObject marketObj : gameMarkets)
 		{
-//			for(String marketId: gameMarketIds)
-//			{
-//				if(marketId.equals(marketObj.getMarketId()))
-//				{
 			System.out.println("PUTTING " + marketObj.getMarketId() + " " +  marketObj.getName());
-					marketIdToName.put(marketObj.getMarketId(), marketObj.getName());
-					//break;
-//				}
-			}
+			marketIdToName.put(marketObj.getMarketId(), marketObj.getName());
 		}
+	}
 	
 	
 	public List<String> getListOfAllMarketIds()

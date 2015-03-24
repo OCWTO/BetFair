@@ -80,12 +80,70 @@ public class GameRecorder extends TimerTask implements Observable
 		return manager.getStartDelay();
 	}
 
+	/**
+	 * BetFair only serves requests under a certain weight so if necessary this class breaks up the requests, performs then and then
+	 * returns their concatenated results.
+	 * @return
+	 */
+	private List<BetFairMarketData> getAllGamesMarketData()
+	{
+		List<String> allIds = manager.getListOfAllMarketIds();
+		int requestWeight = 5;
+		int requestLimit = 200;
+		int singleRequestMaxSize = requestLimit/requestWeight;
+		
+		List<ArrayList<String>> splitQueryMarketIds = new ArrayList<ArrayList<String>>();
+		//If the request weight is higher than what betfair allows
+		if(allIds.size() * requestWeight > 200)
+		{
+			//We create a list to contain the split ids that we use for the query
+			
+			int marketSizeLimit = requestLimit/requestWeight;
+			
+			//While the number of ids processed is less than the total
+			while(marketSizeLimit < allIds.size())
+			{
+				ArrayList<String> temporaryIds = new ArrayList<String>();
+				
+				for(int i = 0; i < marketSizeLimit-40; i++)
+				{
+					temporaryIds.add(i+"");
+				}
+				splitQueryMarketIds.add(temporaryIds);
+				marketSizeLimit+=40;
+			}
+			marketSizeLimit-=40;
+			
+			ArrayList<String> temporaryIds = new ArrayList<String>();
+			
+			//Get the remainder thats %40
+			for(int i = 0; marketSizeLimit < allIds.size(); i++)
+			{
+				temporaryIds.add(i + "");
+			}
+			splitQueryMarketIds.add(temporaryIds);
+			
+			
+			List<BetFairMarketData> allDataContainer = new ArrayList<BetFairMarketData>();
+			
+			//Execute the queries
+			for(int i = 0; i < splitQueryMarketIds.size(); i++)
+			{
+				allDataContainer.addAll(betFair.getMarketInformation(splitQueryMarketIds.get(i)));
+			}
+			return allDataContainer;
+		}
+		else
+		{
+			return betFair.getMarketInformation(allIds);
+		}
+	}
 	
 	@Override
 	public void run()
 	{
 		io.addData(betFair.getMarketInformation(manager.getMarkets()));
-		io.storeCatalogueActivity(betFair.getMarketInformation(manager.getListOfAllMarketIds()));
+		io.storeCatalogueActivity(getAllGamesMarketData());
 		//Get the relevant information from our utilised objects
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
