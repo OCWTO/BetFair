@@ -63,8 +63,8 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		finished = false;
 		observers = new ArrayList<Observer>();
-		manager = new DataManager(options);
 		betFair = options.getBetFair();
+		manager = new DataManager(options, betFair.getMarketsForGame(options.getEventId()));
 		io = new DataIO(manager);
 		marketList = new ArrayList<String>(manager.getMarkets());
 		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
@@ -85,7 +85,7 @@ public class GameRecorder extends TimerTask implements Observable
 	public void run()
 	{
 		io.addData(betFair.getMarketInformation(manager.getMarkets()));
-		
+		io.storeCatalogueActivity(betFair.getMarketInformation(manager.getListOfAllMarketIds()));
 		//Get the relevant information from our utilised objects
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);

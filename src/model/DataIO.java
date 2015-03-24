@@ -251,7 +251,7 @@ public class DataIO
 
 	private void storeFinalData()
 	{
-		storeMarketMoneyData();
+		saveMarketMoneyData();
 		storeRawJson();
 	}
 
@@ -279,7 +279,7 @@ public class DataIO
 	 * Store all data for money matched during the game for every market
 	 */
 	//TODO look at this again
-	private void storeMarketMoneyData()
+	private void saveMarketMoneyData()
 	{
 		String filePath = baseDirectory.getPath() + separator + "marketMatchedData.txt";
 
@@ -300,30 +300,31 @@ public class DataIO
 	}
 
 	//TODO look at this again
-	private void storeCatalogueActivity(List<BetFairMarketObject> list, List<BetFairMarketData> allMarkets)
+	public void storeCatalogueActivity(List<BetFairMarketData> allMarkets)
 	{
 		List<String> marketIds = new ArrayList<String>();
-		for (BetFairMarketObject catalogueItem : list)
-			marketIds.add(catalogueItem.getMarketId());
+		for (String catalogueItem : manager.getListOfAllMarketIds())
+			marketIds.add(catalogueItem);
 
 		StringBuilder catalogueInformationBuilder = new StringBuilder();
 
-		catalogueInformationBuilder.append("TIMESTAMP:" + LocalTime.now() + "\n");
+		catalogueInformationBuilder.append("TIMESTAMP: " + LocalTime.now() + "\n");
 
-
+		//TODO fix formatting.
 			for (BetFairMarketData bookItem : allMarkets)
 			{
-				for (int i = 0; i < list.size(); i++)
+				for (int i = 0; i < marketIds.size(); i++)
 				{
-					if (bookItem.getMarketId().equals(list.get(i).getMarketId()))
+					if (bookItem.getMarketId().equals(marketIds.get(i)))
 					{
-						catalogueInformationBuilder.append("\t{" + list.get(i).getName() + "," + bookItem.getMarketId() + ", matched: "
+						catalogueInformationBuilder.append("\t{" + manager.getMarketName(marketIds.get(i)) + "," + bookItem.getMarketId() + ", matched: "
 								+ bookItem.getMatchedAmount() + ", available: " + bookItem.getUnmatchedAmount() + ", TOTAL "
-								+ bookItem.getTotalAmount() + ",\n");
+								+ bookItem.getTotalAmount() + "}\n");
 					}
 				}
 			
-		}
+			}
+		catalogueInformationBuilder.append("}");
 		System.out.println("Adding " + catalogueInformationBuilder.toString());
 		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
 	}

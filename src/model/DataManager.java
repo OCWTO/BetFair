@@ -1,5 +1,6 @@
 package model;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -12,14 +13,15 @@ public class DataManager
 	private Map<String,List<String>> gameToMarketList;
 	private Map<String,String> marketIdToName;
 	private Map<Long, String> runnerIdToName;
+	private List<String> allMarketIds;
 	private long timeToStart;
 	private long actualStartTime;
 	
-	public DataManager(ProgramOptions options)
+	public DataManager(ProgramOptions options, List<BetFairMarketObject> allMarkets)
 	{
 		this.options = options;
 		generateGameToMarketMap();
-		generateMarketIdToNameMap();
+		generateMarketIdToNameMap(allMarkets);
 	}
 	
 	private void generateGameToMarketMap()
@@ -44,27 +46,46 @@ public class DataManager
 		return null;
 	}
 	
-	private void generateMarketIdToNameMap()
+	private void generateMarketIdToNameMap(List<BetFairMarketObject> gameMarkets)
 	{
 		marketIdToName = new HashMap<String, String>();
 		List<String> gameMarketIds = options.getMarketIds();
-		List<BetFairMarketObject> gameMarkets = options.getBetFair().getMarketsForGame(options.getEventId());
 		
 		generateRunnerIdToNameMap(gameMarkets);
 		findStartTime(gameMarkets);
 		
 		for(BetFairMarketObject marketObj : gameMarkets)
 		{
-			for(String marketId: gameMarketIds)
-			{
-				if(marketId.equals(marketObj.getMarketId()))
-				{
-					marketIdToName.put(marketId, marketObj.getName());
-					break;
-				}
+//			for(String marketId: gameMarketIds)
+//			{
+//				if(marketId.equals(marketObj.getMarketId()))
+//				{
+			System.out.println("PUTTING " + marketObj.getMarketId() + " " +  marketObj.getName());
+					marketIdToName.put(marketObj.getMarketId(), marketObj.getName());
+					//break;
+//				}
 			}
 		}
+	
+	
+	public List<String> getListOfAllMarketIds()
+	{
+		if(allMarketIds == null)
+		{
+			List<String> idList = new ArrayList<String>();
+			
+			for(String id : marketIdToName.keySet())
+			{
+				idList.add(id);
+			}
+			return idList;
+		}
+		else
+		{
+			return allMarketIds;
+		}	
 	}
+	
 	
 	private void findStartTime(List<BetFairMarketObject> gameMarkets)
 	{
