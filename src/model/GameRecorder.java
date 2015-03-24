@@ -102,7 +102,7 @@ public class GameRecorder extends TimerTask implements Observable
 		{
 			if(mostRecentData.size() == 0)
 			{
-				System.out.println("All markets finished so shutting down.");
+				System.out.println("All markets finished so shutting down.@@@@@");
 				this.cancel();
 				//Need to throw custom stuff up?
 			}

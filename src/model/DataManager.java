@@ -57,7 +57,7 @@ public class DataManager
 		{
 			for(String marketId: gameMarketIds)
 			{
-				if(marketId.equals(marketObj.getId()))
+				if(marketId.equals(marketObj.getMarketId()))
 				{
 					marketIdToName.put(marketId, marketObj.getName());
 					break;

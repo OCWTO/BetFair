@@ -19,7 +19,7 @@ public class BetFairGameObject implements BetFairDataObject
 		gameStartTime = gameObject.getOpenDate();
 	}
 	
-	public String getId()
+	public String getMarketId()
 	{
 		return gameId;
 	}
@@ -42,6 +42,6 @@ public class BetFairGameObject implements BetFairDataObject
 	@Override
 	public String toString()
 	{
-		return "NAME: " + getName() +". ID: " + getId() + ". COUNTRYCODE: " + getCountryCode() +". TIME: " + getStartTime();
+		return "NAME: " + getName() +". ID: " + getMarketId() + ". COUNTRYCODE: " + getCountryCode() +". TIME: " + getStartTime();
 	}
 }

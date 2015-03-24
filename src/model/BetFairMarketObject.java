@@ -40,12 +40,12 @@ public class BetFairMarketObject implements BetFairDataObject
 		return marketName;
 	}
 
-	public Event getMarketEvent()
+	public String getGamesName()
 	{
-		return marketEvent;
+		return marketEvent.getName();
 	}
 	
-	public String getId()
+	public String getMarketId()
 	{
 		return marketId;
 	}

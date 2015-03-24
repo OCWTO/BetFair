@@ -1,3 +1,6 @@
+import java.util.Date;
+
+import model.MarketDataContainer;
 import javafx.application.Application;
 import views.TextFrontEnd;
 
@@ -19,7 +22,7 @@ public class Main
 	
 	//TODO check that theres a v in the name, to filter out league wide markets I don't care about.
 	//print out names are in home vs away, not too relevant but maybe display it in gui
-	public static void main3(String[] args)
+	public static void main(String[] args)
 	{
 		TextFrontEnd textUi = new TextFrontEnd(true);
 		textUi.start();

@@ -5,8 +5,12 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Type;
+import java.time.Instant;
 import java.time.LocalTime;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 //need to check if started,
 //start the thing, it will init if not already then has a method for adddata
@@ -14,73 +18,74 @@ import java.util.List;
 //needs to recognise when to stop tracking
 
 
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-
-import enums.BetFairMarketStatus;
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
 import betFairGSONClasses.RunnerCatalog;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import enums.BetFairMarketStatus;
+
 //this class will only receive data and deal with it
 public class DataIO
 {
-	private List<ArrayList<ArrayList<String>>> gameData; // put in manager
-	private LocalTime timer;
+	private List<MarketDataContainer> storedMarketData;
 	private File baseDirectory;
-	private List<String> jsonMarketBookReplies; // put in manager
-	private List<String> marketCatalogueActivity; // put in manager
+	private List<String> jsonMarketBookReplies;
+	private List<String> marketCatalogueActivity; 
 	private int counter;
 	private DataManager manager;
 	private String separator = File.separator;
 
 	public DataIO(DataManager manager)
 	{
+		storedMarketData = new ArrayList<MarketDataContainer>();
 		this.manager = manager;
 		counter = 1;
-		gameData = new ArrayList<ArrayList<ArrayList<String>>>();
 		jsonMarketBookReplies = new ArrayList<String>();
 		marketCatalogueActivity = new ArrayList<String>();
 	}
 
 	public void initilise(List<BetFairMarketObject> receivedMarketObjects)
 	{
-		// String gameId = manager.getGameId();
+		//Get the list of markets that we're tracking
 		List<String> storedMarketList = manager.getMarkets();
 
 		// For each market that's going to be tracked
-		for (String marketId : storedMarketList)
+		for (String storedMarketId : storedMarketList)
 		{
-			ArrayList<ArrayList<String>> marketData = new ArrayList<ArrayList<String>>();
-
+			//Loop through our received market data
 			for (BetFairMarketObject receivedMarket : receivedMarketObjects)
 			{
-				if (receivedMarket.getId().equals(marketId))
+				//If the received id matches the tracked id
+				if (receivedMarket.getMarketId().equals(storedMarketId))
 				{
-					ArrayList<String> individualMarketData = new ArrayList<String>();
-					individualMarketData.add(receivedMarket.getMarketEvent().getName() + "_" + receivedMarket.getName() + "_"
-							+ receivedMarket.getOpenDate().getTime());
-					marketData.add(individualMarketData);
+					String marketName = receivedMarket.getName();
+					String marketId = receivedMarket.getMarketId();
+					String gameName = receivedMarket.getGamesName();
+					Date marketOpenDate = receivedMarket.getOpenDate();
+					
+					//Create a new data container for this market
+					MarketDataContainer currentMarketContainer = new MarketDataContainer(gameName, marketName, marketId, marketOpenDate);
 
+					//Loop through all of its runners and create collections for them. 
 					for (RunnerCatalog runner : receivedMarket.getRunners())
 					{
-						ArrayList<String> runnerData = new ArrayList<String>();
-						runnerData.add(individualMarketData.get(0) + "_" + runner.getRunnerName());
-						marketData.add(runnerData);
+						currentMarketContainer.addNewRunner(runner.getRunnerName());
 					}
+					//Add it to our list of market data containers
+					storedMarketData.add(currentMarketContainer);
 				}
 			}
-			gameData.add(marketData);
 		}
-		// TODO event here, init event so starttime, hometeam, awayteam
 	}
 
 	public void addData(List<BetFairMarketData> liveMarketData)
 	{
 		List<String> trackedMarkets;
 		BetFairMarketData currentBook;
-		String[] metaDataTokens;
 
 		trackedMarkets = manager.getMarkets();
 		storeJsonResults(liveMarketData);
@@ -89,142 +94,117 @@ public class DataIO
 		// Each index returned represents one market.
 		assert liveMarketData.size() == trackedMarkets.size();
 
-		// For each of of our lists of lists of game data
-		for (int i = 0; i < gameData.size(); i++)
+		//For each market we're tracking
+		for(MarketDataContainer currentMarketDataContainer : storedMarketData)
 		{
-			// Get metadata line from the ith markets (all data list index).
-			metaDataTokens = gameData.get(i).get(0).get(0).split("_");
-
-			// For each index of the list of data from the API
-			for (int j = 0; j < liveMarketData.size(); j++)
+			//Loop through the list of market data we received
+			for(int i = 0; i < liveMarketData.size(); i++)
 			{
-				// If its market id matches our current lists id
-				if (manager.getMarketName(liveMarketData.get(j).getId()).equalsIgnoreCase(metaDataTokens[1]))
+				System.out.println("comparing ids");
+				System.out.println(liveMarketData.get(i).getMarketId() + " VS " + currentMarketDataContainer.getMarketId());
+				if(liveMarketData.get(i).getMarketId().equalsIgnoreCase(currentMarketDataContainer.getMarketId()))
 				{
-					currentBook = liveMarketData.get(j);
-
-					// If the market is closed then we can stop tracking it
-					if (currentBook.getStatus().equalsIgnoreCase(BetFairMarketStatus.CLOSED_MARKET.toString()))
+					System.out.println("id match");
+					currentBook = liveMarketData.get(i);
+					
+					//If this markets status is closed
+					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
-						// Grab our market list for the current game from the
-						// map
+						//Grab our list of ids we query for and removed the closed market from it
 						List<String> currentMarketList = manager.getMarkets();
-						System.out.println("REMOVING AN ITEM");
-						System.out.println("SIZE IN IO " + manager.getMarkets().size());
-						// Remove the market id from its list
-						currentMarketList.remove(currentMarketList.indexOf(currentBook.getId()));
-						// TODO throw event here instead
-						System.out.println("Market: " + manager.getMarketName(currentBook.getId()) + " has closed." + currentMarketList.size()
-								+ " markets left.");
-
-						// If all the markets we've been tracking shuts then we
-						// stop
-						if (currentMarketList.isEmpty())
+						currentMarketList.remove(currentMarketList.indexOf(currentBook.getMarketId()));
+						
+						//If all markets are closed then we shut down.
+						if(currentMarketList.isEmpty())
 						{
-							System.out.println("Last market closed. Shutting down.");
-							saveData(gameData.remove(i));
 							storeFinalData();
-							
-							
-							//TODO throw event that cancels thread
-							// this.cancel();
-						} else
+						}
+						else
 						{
-							//TODO throw event to show closed market
 							manager.setMarkets(currentMarketList);
-							saveData(gameData.remove(i));
 						}
+						int currentContainerIndex = storedMarketData.indexOf(currentMarketDataContainer);
+						//Send our data container to be saved
+						saveData(storedMarketData.remove(currentContainerIndex));
 						break;
-						// NOTIFY HERE
-					} else
-					{
-						// Look for a match to the markets name, resolved by
-						// the map, to the market name in metadata
-						if (manager.getMarketName(currentBook.getId()).equalsIgnoreCase(metaDataTokens[1]))
-						{
-							System.out.println("Adding data for market: " + metaDataTokens[1]);
-							gatherData(currentBook.getRunners(), gameData.get(i));
-							System.out.println();
-						}
 					}
-				}
+					//Market isn't shut so we add more data
+					else
+					{
+						System.out.println("Adding data for market: " + currentMarketDataContainer.getMarketName());
+						gatherData(currentBook.getRunners(), currentMarketDataContainer);
+					}
+				}			
 			}
-
 		}
-		// NOTIFY HERE
-		// Need to pass up probabilities + runner names + timestamps for each
-		// market
-		// store runner data does probabilities so i need to decouple areas
-		// again
-		// So List of Market object with runner names + values
-		// get io to do all the saving, have a method there that returns a list
-		// of market objects
-		// so it passes that data in, calls the method to get an object out,
-		// once it has that then
-		// it notifys observers with that object
-		// //Need start time, home and away, market objects
-		// market objects can get runner objects of name and probabilities
 		System.out.println("Iteration " + counter + " complete!");
 		counter++;
 	}
+	
 
-	private void makeBaseDirectory(ArrayList<ArrayList<String>> closedMarketData)
+	private void makeBaseDirectory(MarketDataContainer closedMarketData)
 	{
 		if (baseDirectory != null)
 			return;
 
 		String currentDir = System.getProperty("user.dir");
 		String destination = separator + "logs" + separator + "gamelogs" + separator;
-		String metaDataTokens[] = closedMarketData.get(0).get(0).split("_");
-		baseDirectory = new File(currentDir + destination + metaDataTokens[0]);
+		String folderName = closedMarketData.getGameName();
+		baseDirectory = new File(currentDir + destination + folderName);
 		baseDirectory.mkdir();
 	}
 
 	/**
 	 * Save the recorded data to a set of files.
 	 */
-	private void saveData(ArrayList<ArrayList<String>> closedMarketData)
+	private void saveData(MarketDataContainer closedMarketData)
 	{
-		// Market names/runners can sometimes have invalid characters for
-		// filenames so we have to remove them
+		//Remove "bad" characters from filename so no issues saving
 		String fileNameRegex = "[^\\p{Alnum}]+";
 		makeBaseDirectory(closedMarketData);
 
 		File closedMarketDir;
-		String[] marketMetaDataTokens;
-		String[] individualMarketMetaDataTokens;
 		BufferedWriter outputWriter;
 
-		marketMetaDataTokens = closedMarketData.get(0).get(0).split("_");
-
-		String folderName = marketMetaDataTokens[1].replaceAll(fileNameRegex, "_");
+		String folderName = closedMarketData.getMarketName().replaceAll(fileNameRegex, "_");
 
 		closedMarketDir = new File(baseDirectory.getPath() + separator + folderName);
 		closedMarketDir.mkdir();
-
+		
+		String metaDataLine = closedMarketData.getGameName() + " " + closedMarketData.getMarketName() + " OPEN DATE: " + closedMarketData.getMarketOpenDate();
 		try
 		{
-			// Deal with inner lists
-			for (int j = 0; j < closedMarketData.size(); j++)
+			List<String> allMarketData = closedMarketData.getAllMarketDataContainer();
+			outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator + "ALLDATA" + ".txt"));
+			
+			//Writing the meta data line, then all of its contents
+			outputWriter.write(metaDataLine + "\n");
+			for(int i = 0; i < allMarketData.size(); i++)
 			{
-				individualMarketMetaDataTokens = closedMarketData.get(j).get(0).split("_");
-
-				if (individualMarketMetaDataTokens.length == 3)
-				{
-					outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator + "ALLDATA" + ".txt"));
-				} else
-				{
-					outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator
-							+ individualMarketMetaDataTokens[individualMarketMetaDataTokens.length - 1].replaceAll(fileNameRegex, "_") + ".csv"));
-				}
-				for (int a = 0; a < closedMarketData.get(j).size(); a++)
-				{
-					outputWriter.write(closedMarketData.get(j).get(a));
-				}
-				outputWriter.flush();
-				outputWriter.close();
+				outputWriter.write(allMarketData.get(i) +  "\n");
 			}
-		} catch (IOException e)
+			
+			
+			for(MarketRunnerDataContainer runner: closedMarketData.getAllRunnerData())
+			{
+				String fileName = runner.getName().replaceAll(fileNameRegex, "_");
+				outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator
+						+ fileName + ".csv"));
+				outputWriter.write(metaDataLine + " " + runner.getName() + "\n"); 
+				
+				List<String> runnerData = runner.getRunnerDataList();
+				for(int i = 0; i < runnerData.size(); i++)
+				{
+					String[] tokens = runnerData.get(i).split(",");		
+					DateTimeFormatter format = DateTimeFormatter.ofPattern("hh:mm:ss").withZone(ZoneId.systemDefault());
+					Instant instant = Instant.ofEpochMilli(new Long(tokens[0]));	
+					format.format(instant);
+					outputWriter.write(format.format(instant) + "," + tokens[1] +  "\n");
+				}
+			}
+			outputWriter.close();
+		} 
+		catch (IOException e)
 		{
 			e.printStackTrace();
 		}
@@ -288,7 +268,7 @@ public class DataIO
 	{
 		List<String> marketIds = new ArrayList<String>();
 		for (BetFairMarketObject catalogueItem : list)
-			marketIds.add(catalogueItem.getId());
+			marketIds.add(catalogueItem.getMarketId());
 
 		StringBuilder catalogueInformationBuilder = new StringBuilder();
 
@@ -299,9 +279,9 @@ public class DataIO
 			{
 				for (int i = 0; i < list.size(); i++)
 				{
-					if (bookItem.getId().equals(list.get(i).getId()))
+					if (bookItem.getMarketId().equals(list.get(i).getMarketId()))
 					{
-						catalogueInformationBuilder.append("\t{" + list.get(i).getName() + "," + bookItem.getId() + ", matched: "
+						catalogueInformationBuilder.append("\t{" + list.get(i).getName() + "," + bookItem.getMarketId() + ", matched: "
 								+ bookItem.getMatchedAmount() + ", available: " + bookItem.getUnmatchedAmount() + ", TOTAL "
 								+ bookItem.getTotalAmount() + ",\n");
 					}
@@ -310,7 +290,6 @@ public class DataIO
 		}
 		System.out.println("Adding " + catalogueInformationBuilder.toString());
 		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
-
 	}
 
 	private void storeJsonResults(List<BetFairMarketData> marketData)
@@ -364,26 +343,10 @@ public class DataIO
 	 * @param currentList
 	 *            A List of Lists representing data stored from the market
 	 */
-	private void gatherData(List<Runner> runners, List<ArrayList<String>> currentList)
+	private void gatherData(List<Runner> runners, MarketDataContainer currentMarketDataContainer)
 	{
-		// For each sub-list we have
-		for (int i = 0; i < currentList.size(); i++)
-		{
-			// Metadata is in index 0 of the sub-list
-			String[] metaDataTokens = currentList.get(i).get(0).split("_");
-
-			// 3 Tokens means all data is tracked
-			if (metaDataTokens.length == 3)
-			{
-				storeAllGameData(runners, currentList.get(i));
-			}
-			// 4 Tokens is all the information in the all data but with a runner
-			// name appended.
-			else if (metaDataTokens.length == 4)
-			{
-				storeSelectiveRunnerData(runners, currentList.get(i), metaDataTokens[metaDataTokens.length - 1]);
-			}
-		}
+		storeAllGameData(runners, currentMarketDataContainer.getAllMarketDataContainer());
+		storeSelectiveRunnerData(runners, currentMarketDataContainer);
 	}
 
 	/**
@@ -392,56 +355,50 @@ public class DataIO
 	 * @param activeIndex
 	 * @param token
 	 */
-	private void storeSelectiveRunnerData(List<Runner> runners, List<String> activeIndex, String token)
+	private void storeSelectiveRunnerData(List<Runner> runners, MarketDataContainer currentMarketDataContainer)
 	{
-		Runner trackedRunner;
-
-		for (int i = 0; i < runners.size(); i++)
+		//For each runner, get the list for that runner and add data to it
+		for(Runner marketRunner : runners)
 		{
-			if (manager.getRunnerName(runners.get(i).getSelectionId()).equalsIgnoreCase(token))
-			{
-				trackedRunner = runners.get(i);
-				storeRunnerData(trackedRunner, activeIndex);
-				break;
-			}
+			//Resolve the runners id to its actual name
+			String runnerName = manager.getRunnerName(marketRunner.getSelectionId());
+			MarketRunnerDataContainer marketRunnerContainer = currentMarketDataContainer.getContainerForRunner(runnerName);
+			storeRunnerData(marketRunner, marketRunnerContainer);
 		}
 	}
 
-	private void storeRunnerData(Runner trackedRunner, List<String> activeIndex)
+	private void storeRunnerData(Runner trackedRunner, MarketRunnerDataContainer runnerDataContainer)
 	{
 		double workingBack = Double.MIN_VALUE;
 		double workingLay = Double.MAX_VALUE;
 
+		//If the runner has some back and lay options available
 		if (trackedRunner.getEx().getAvailableToBack().size() > 0 && trackedRunner.getEx().getAvailableToLay().size() > 0)
 		{
-			// for each individual back option
+			//Calculate the "best" back value (biggest back)
 			for (PriceSize backOption : trackedRunner.getEx().getAvailableToBack())
 			{
-				// find the biggest back value
 				if (backOption.getPrice() > workingBack)
 				{
 					workingBack = backOption.getPrice();
 				}
 			}
-			// for each individual lay option
+			//Calculate the "best" lay value (lowest lay)
 			for (PriceSize layOption : trackedRunner.getEx().getAvailableToLay())
 			{
-				// find the smallest lay value
 				if (layOption.getPrice() < workingLay)
 				{
 					workingLay = layOption.getPrice();
 				}
 			}
-			timer = LocalTime.now();
-			activeIndex.add(timer + " , " + ((workingBack + workingLay) / 2) + "\n");
-			// TODO code to track probabilitiy goes here
-			// need timestamp,runner name, market name and value
-			System.out.println("Writing " + timer + " , " + ((workingBack + workingLay) / 2) + " " + manager.getRunnerName(trackedRunner.getSelectionId())); // +"\n"
+			long time = System.currentTimeMillis();
+			runnerDataContainer.addData(time, ((workingBack + workingLay) /2));
+			System.out.println("Writing " + time + " , " + ((workingBack + workingLay) / 2) + " " + manager.getRunnerName(trackedRunner.getSelectionId())); // +"\n"
 		}
 		else
 		{
-			//1 is the lowest value possible from actual data so 0 is used to display no data.
-			activeIndex.add(timer + " , " + 0 + "\n");
+			//Pass in 0 when there's not enough data, this is handled at a higher level elsewhere.
+			runnerDataContainer.addData(System.currentTimeMillis(), 0);
 		}
 	}
 	
@@ -451,35 +408,31 @@ public class DataIO
 		//Create collection to hold all markets information
 		List<BetFairMarketItem> marketInformation = new ArrayList<BetFairMarketItem>();
 		
-		
-		//For each market we're tracking
-		for(int i = 0; i < gameData.size(); i++)
+		for(MarketDataContainer marketData : storedMarketData)
 		{
-			//Create a market item for it.
-			BetFairMarketItem marketItem = new BetFairMarketItem(gameData.get(i).get(0).get(0).split("_")[1]);
-
-			//Get each runners data for this market, remember index 0 is alldata, 1-x is timestamp + probabilitiy for each iter
-			for(int j = 1; j < gameData.get(i).size(); j++)
+			BetFairMarketItem marketItem = new BetFairMarketItem(marketData.getMarketName());
+			
+			List<MarketRunnerDataContainer> runnerData = marketData.getAllRunnerData();
+			
+			for(MarketRunnerDataContainer runnerDataContainer : runnerData)
 			{
-				List<String> currentDataIndex = gameData.get(i).get(j);
+				String timeStamp = runnerDataContainer.getMostRecentTimeStamp();
+				String probability = runnerDataContainer.getMostRecentProbability();
+				String runnerName = runnerDataContainer.getName();
 				
-				//Get most recently added values
-				System.out.println(currentDataIndex.size() + " SIZE");
-				String[] currentDataIndexTokens = currentDataIndex.get(currentDataIndex.size()-1).split(",");
-				String timeStamp = currentDataIndexTokens[0];
-				String probabilityValue = currentDataIndexTokens[1];
-				String runnerName = gameData.get(i).get(j).get(0).split("_")[0];
-				marketItem.addRunnerProbability(new BetFairProbabilityItem(timeStamp, runnerName, probabilityValue));	
+				
+				marketItem.addRunnerProbability(new BetFairProbabilityItem(timeStamp, runnerName, probability));
 			}
 			marketInformation.add(marketItem);
 		}
 		return marketInformation;
 	}
 
+	
 	private void storeAllGameData(List<Runner> runners, List<String> activeIndex)
 	{
 		activeIndex.add("ENTRY: " + counter + "\n");
-		activeIndex.add("\tTIME: " + LocalTime.now().toString() + "\n");
+		activeIndex.add("\tTIME: " + LocalTime.now().format(DateTimeFormatter.ofPattern("hh:mm:ss")) + "\n");
 
 		for (Runner individual : runners)
 		{

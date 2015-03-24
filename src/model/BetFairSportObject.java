@@ -16,7 +16,7 @@ public class BetFairSportObject implements BetFairDataObject
 		return this.sportName;
 	}
 	
-	public String getId()
+	public String getMarketId()
 	{
 		return this.sportId;
 	}

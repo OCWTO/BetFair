@@ -84,7 +84,7 @@ public class GameSelectView extends BetFairView
 	public ProgramOptions getOptions()
 	{
 		if(gameListTable.getSelectedRow() != -1)
-			super.getOptions().setEventId(availableGames.get(gameListTable.getSelectedRow()).getId());
+			super.getOptions().setEventId(availableGames.get(gameListTable.getSelectedRow()).getMarketId());
 		
 		return super.getOptions();
 	}

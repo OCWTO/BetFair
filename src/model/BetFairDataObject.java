@@ -4,7 +4,7 @@ public interface BetFairDataObject
 {
 	public String getName();
 	
-	public String getId();
+	public String getMarketId();
 
 	@Override
 	public String toString();

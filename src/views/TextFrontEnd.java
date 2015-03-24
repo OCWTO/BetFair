@@ -60,7 +60,7 @@ public class TextFrontEnd
 		if (loginPrompt())
 		{
 			// If successful login then prompt for selected sport
-			sportId = sportPrompt().getId();
+			sportId = sportPrompt().getMarketId();
 
 			// If sport successfully selected then prompt for game
 			gameId = gamePrompt(sportId);
@@ -126,7 +126,7 @@ public class TextFrontEnd
 							.parseInt(inputTokens[inputTokens.length - 1]));
 					System.out.println("Adding market: "
 							+ selectedMarket.getName() + " to list");
-					selectedMarkets.add(selectedMarket.getId());
+					selectedMarkets.add(selectedMarket.getMarketId());
 				}
 				else
 				{
@@ -173,7 +173,7 @@ public class TextFrontEnd
 				selectedGame = gameList.get(Integer
 						.parseInt(inputTokens[inputTokens.length - 1]));
 				System.out.println("Selected game: " + selectedGame.getName());
-				return selectedGame.getId();
+				return selectedGame.getMarketId();
 			}
 			else
 				System.out.println("Invalid number of tokens. Try again!");

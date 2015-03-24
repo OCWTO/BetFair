@@ -64,6 +64,7 @@ public class DataAnalysis implements Observer, Observable
 	{
 		EventList events = (EventList) obj;
 		List<BetFairMarketItem> marketProbabilities = events.getProbabilites();
+		System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
 		gameStartTime = events.getStartTime();
 		
 		//if not init then init and add data
@@ -83,51 +84,40 @@ public class DataAnalysis implements Observer, Observable
 		{
 			predictedEvents.addAll(marketPredictionModel.getPredictions());
 		}
-		
 		System.out.println("getting updated");
+		
 	}
-<<<<<<< HEAD
-	
-=======
 
 	//Need to figure out markets that are closed
->>>>>>> 83cd284c55fd5e8cb9fb1c4cd8ec4ae5f4b55a1e
+
 	private void addToExistingPredictionModel(List<BetFairMarketItem> marketProbabilities)
 	{
 		//For each market we're tracking
+		System.out.println(predictionModel.size() + " IS PRED SIZE");
+		System.out.println(marketProbabilities.size() + " IS PROP SIZE");
+		
+		
 		for(int i = 0; i < predictionModel.size(); i++)
-<<<<<<< HEAD
-=======
 		{
 			//For each market we're getting data for (active)
 			for(int j = 0; j < marketProbabilities.size(); j++)
 			{
-				//If the market names match
+				//If the market names match, give it the relevant data and break
+				System.out.println("TOP LEVEL ITERATION");
 				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
 				{
-					//adddata,break
-				}
-				//Code here for no match, pass in empty list so code in there can deal with it and throw output
-			}
-			//this means no match
-		}
-		
-		for(int i = 0; i < marketProbabilities.size(); i++)
->>>>>>> 83cd284c55fd5e8cb9fb1c4cd8ec4ae5f4b55a1e
-		{
-			//For each market we just received data for
-			for(int j = 0; j < marketProbabilities.size(); j++)
-			{
-				//If they have the same name
-				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
-				{
+					System.out.println("FOUND  MATCH");
 					predictionModel.get(i).addData(marketProbabilities.get(j).getProbabilities());
-					//Add data
 					break;
 				}
+				else
+				{
+					//No match so no data for this market was received, thus it's closed. Null tells it that its closed.
+					System.out.println("null pass");
+					predictionModel.get(i).addData(null);
+				}
+				System.out.println("NO MATCH");
 			}
-			//This hits if no match, thus the ith index is a closed market. So we pass in an empty list to it to signal that, afterwards it needs some way of knowing if its finished
-			predictionModel.get(i).addData(null);
 		}
 	}
 

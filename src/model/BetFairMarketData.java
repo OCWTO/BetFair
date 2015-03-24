@@ -62,7 +62,7 @@ public class BetFairMarketData implements BetFairDataObject
 	}
 
 	@Override
-	public String getId()
+	public String getMarketId()
 	{
 		return marketId;
 	}

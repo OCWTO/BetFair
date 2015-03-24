@@ -80,7 +80,7 @@ public class SportSelectView extends BetFairView
 	{
 		//TODO add code to stop multiple selections
 		if(sportListTable.getSelectedRow() != -1)
-			super.getOptions().setEventTypeId(availableSports.get(sportListTable.getSelectedRow()).getId());
+			super.getOptions().setEventTypeId(availableSports.get(sportListTable.getSelectedRow()).getMarketId());
 		
 		return super.getOptions();
 	}

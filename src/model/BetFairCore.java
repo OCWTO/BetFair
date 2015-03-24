@@ -120,7 +120,6 @@ public class BetFairCore implements IBetFairCore
 		httpRequester = new HttpUtil();
 	}
 
-	// File not found will be avoided using the ui to locate the key thingy
 	/**
 	 * Logs the user into BetFair so that further requests can be made.
 	 * 
