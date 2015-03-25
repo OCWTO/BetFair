@@ -18,7 +18,6 @@ public class BetFairMarketObject implements BetFairDataObject
 	public BetFairMarketObject(MarketCatalogue market)
 	{
 		marketName = market.getMarketName();
-		System.out.println(market.getEvent().getName() + " AXLALXAS " + marketName);
 		marketId = market.getMarketId();
 		marketRunners = market.getRunners();
 		marketOpenDate = market.getEvent().getOpenDate();

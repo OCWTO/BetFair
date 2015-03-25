@@ -41,6 +41,8 @@ public class PredictionModel
 	//if val is 0 then we just ignore
 	public void addData(List<BetFairProbabilityItem> newProbabilites)
 	{
+		System.out.println();
+		System.out.println();
 		//This  means that the market has closed, so we try make our predictions.
 		if(newProbabilites == null)
 		{	

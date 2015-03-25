@@ -79,19 +79,32 @@ public class DataAnalysis implements Observer, Observable
 		System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
 		//Store the game start time (used later to tell prediction models when the game starts.
 		gameStartTime = events.getStartTime();
-		
 		//Add data to the prediction models
 		addDataToPredictors(marketProbabilities);
+		informClosedPredictors(events.getClosedMarkets());
 		
 		//Get predicted events
 		List<String> predictedEvents = getPredictedEvents();
 		
 		//Analyse the events (remove unnecessary ones)
-		System.out.println("UPDATE DONE");
 		
 		if(recorder.isRunning())
 		{
 			recorderTimer.cancel();
+		}
+	}
+	
+	private void informClosedPredictors(List<String> closedMarkets)
+	{
+		for(String closedMarketId: closedMarkets)
+		{
+			for(PredictionModel model : predictionModel)
+			{
+				if(model.getMarketName().equals(closedMarketId))
+				{
+					model.addData(null);
+				}
+			}
 		}
 	}
 	
@@ -134,6 +147,7 @@ public class DataAnalysis implements Observer, Observable
 		//For each market we're tracking (this can include closed markets)
 		for(int i = 0; i < predictionModel.size(); i++)
 		{
+			System.out.println("iter through market " + i);
 			//For each market we're getting data for (active)
 			for(int j = 0; j < marketProbabilities.size(); j++)
 			{
@@ -143,12 +157,6 @@ public class DataAnalysis implements Observer, Observable
 					System.out.println("Adding data for " + marketProbabilities.get(j).getMarketName());
 					predictionModel.get(i).addData(marketProbabilities.get(j).getProbabilities());
 					break;
-				}
-				else
-				{
-					//No match so no data for this market was received, thus it's closed. Null tells it that its closed.
-					System.out.println("Found dead market " + marketProbabilities.get(j).getMarketName());
-					predictionModel.get(i).addData(null);
 				}
 			}
 		}
@@ -172,5 +180,4 @@ public class DataAnalysis implements Observer, Observable
 		for(Observer obs : observers)
 			obs.update(event);
 	}
-	
 }

@@ -99,15 +99,15 @@ public class GameRecorder extends TimerTask implements Observable
 			//We create a list to contain the split ids that we use for the query
 			
 			int marketSizeLimit = requestLimit/requestWeight;
-			
+			System.out.println(marketSizeLimit);
 			//While the number of ids processed is less than the total
 			while(marketSizeLimit < allIds.size())
 			{
 				ArrayList<String> temporaryIds = new ArrayList<String>();
 				
-				for(int i = 0; i < marketSizeLimit-40; i++)
+				for(int i = marketSizeLimit-40; i < marketSizeLimit; i++)
 				{
-					temporaryIds.add(i+"");
+					temporaryIds.add(allIds.get(i));
 				}
 				splitQueryMarketIds.add(temporaryIds);
 				marketSizeLimit+=40;
@@ -117,13 +117,12 @@ public class GameRecorder extends TimerTask implements Observable
 			ArrayList<String> temporaryIds = new ArrayList<String>();
 			
 			//Get the remainder thats %40
-			for(int i = 0; marketSizeLimit < allIds.size(); i++)
+			for(int i = marketSizeLimit; i < allIds.size(); i++)
 			{
-				temporaryIds.add(i + "");
+				temporaryIds.add(allIds.get(i));
 			}
 			splitQueryMarketIds.add(temporaryIds);
-			
-			
+
 			List<BetFairMarketData> allDataContainer = new ArrayList<BetFairMarketData>();
 			
 			//Execute the queries
@@ -143,9 +142,12 @@ public class GameRecorder extends TimerTask implements Observable
 	public void run()
 	{
 		io.addData(betFair.getMarketInformation(manager.getMarkets()));
+		System.out.println("added all new data");
 		io.storeCatalogueActivity(getAllGamesMarketData());
+		System.out.println("storing activity");
 		//Get the relevant information from our utilised objects
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
+		System.out.println("getting data");
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
 		
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	

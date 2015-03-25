@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 import betFairGSONClasses.RunnerCatalog;
-
+//TODO consider method here to remove markets from both allMarketIds and 
 public class DataManager
 {
 	private ProgramOptions options;
@@ -14,8 +14,10 @@ public class DataManager
 	private Map<String,String> marketIdToName;
 	private Map<Long, String> runnerIdToName;
 	private List<String> allMarketIds;
+	private List<String> trackedMarketIds;
 	private long timeToStart;
 	private long actualStartTime;
+	private String gameId;
 	
 	public DataManager(ProgramOptions options, List<BetFairMarketObject> allMarkets)
 	{
@@ -32,18 +34,41 @@ public class DataManager
 	
 	public String getGameId()
 	{		
-		for(String key: gameToMarketList.keySet())
-			return key;
-		return null;
+		if(gameId == null)
+		{
+			for(String key: gameToMarketList.keySet())
+				gameId = key;
+		}
+		return gameId;
 	}
 	
 	public List<String> getMarkets()
 	{
-		for(String key: gameToMarketList.keySet())
+		if(trackedMarketIds == null)
 		{
-			return gameToMarketList.get(key);
+			trackedMarketIds = new ArrayList<String>();
+			for(String key: gameToMarketList.keySet())
+			{
+				trackedMarketIds.addAll(gameToMarketList.get(key));
+			}
 		}
-		return null;
+		return trackedMarketIds;
+	}
+	
+	public int numberOfActiveMarkets()
+	{
+		return trackedMarketIds.size();
+	}
+	
+	public void stopTrackingMarket(String marketId)
+	{
+		trackedMarketIds.remove(marketId);
+		
+		//This is done to stop requests for data of non existing markets and avoiding exceptions
+		allMarketIds.remove(marketId);
+		
+		//Take old markets id from the list of tracked ids
+		gameToMarketList.replace(getGameId(), trackedMarketIds);
 	}
 	
 	private void generateMarketIdToNameMap(List<BetFairMarketObject> gameMarkets)
@@ -55,9 +80,9 @@ public class DataManager
 		
 		for(BetFairMarketObject marketObj : gameMarkets)
 		{
-			System.out.println("PUTTING " + marketObj.getMarketId() + " " +  marketObj.getName());
 			marketIdToName.put(marketObj.getMarketId(), marketObj.getName());
 		}
+		System.out.println("generated map");
 	}
 	
 	
@@ -65,20 +90,15 @@ public class DataManager
 	{
 		if(allMarketIds == null)
 		{
-			List<String> idList = new ArrayList<String>();
+			allMarketIds = new ArrayList<String>();
 			
 			for(String id : marketIdToName.keySet())
 			{
-				idList.add(id);
+				allMarketIds.add(id);
 			}
-			return idList;
 		}
-		else
-		{
 			return allMarketIds;
-		}	
 	}
-	
 	
 	private void findStartTime(List<BetFairMarketObject> gameMarkets)
 	{

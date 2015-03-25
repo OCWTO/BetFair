@@ -17,7 +17,6 @@ import java.util.List;
 //method for save (marketname)
 //needs to recognise when to stop tracking
 
-
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
@@ -25,8 +24,6 @@ import betFairGSONClasses.RunnerCatalog;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-
-import enums.BetFairMarketStatus;
 
 /**
  * This class receives live betfair data and it collects and formats it. Once markets close
@@ -128,24 +125,19 @@ public class DataIO
 					currentBook = liveMarketData.get(i);
 					
 					//If this markets status is closed
-					if(counter == 3)
+					if(counter == 150)
 					//if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
 						if(baseDirectory == null)
 							makeBaseDirectory(storedMarketData.get(j).getGameName());
 						//Grab our list of ids we query for and removed the closed market from it
-						List<String> currentMarketList = manager.getMarkets();
-						currentMarketList.remove(currentMarketList.indexOf(currentBook.getMarketId()));
-						
+
+						manager.stopTrackingMarket(currentBook.getMarketId());
 						//If all markets are closed then we shut down.
-						if(currentMarketList.isEmpty())
+						if(manager.getMarkets().size() == 0)
 						{
+							//Call method to store all of the json and financial data
 							storeFinalData();
-						}
-						//Else we throw the market list back to the manager.
-						else
-						{
-							manager.setMarkets(currentMarketList);
 						}
 						//Send our data container to be saved
 						saveData(storedMarketData.remove(j));
@@ -162,7 +154,7 @@ public class DataIO
 				}			
 			}
 		}
-		System.out.println("Iteration " + counter + " complete!");
+		System.out.println("\t\tIteration " + counter + " complete!");
 		counter++;
 	}
 	
@@ -185,7 +177,6 @@ public class DataIO
 	 */
 	private void saveData(MarketDataContainer closedMarketData)
 	{
-		System.out.println("SAVING");
 		//Regex for removing characters than can't go into file names
 		String fileNameRegex = "[^\\p{Alnum}]+";
 		
@@ -201,7 +192,6 @@ public class DataIO
 		closedMarketDir = new File(baseDirectory.getPath() + separator + folderName);
 		closedMarketDir.mkdir();
 		
-		System.out.println("GETTING METADATA");
 		//Grab metadata line that will go in all saved files
 		String metaDataLine = closedMarketData.getGameName() + " " + closedMarketData.getMarketName() + " OPEN DATE: " + closedMarketData.getMarketOpenDate();
 		try
@@ -212,19 +202,15 @@ public class DataIO
 			
 			//Writing the meta data line, then all of its contents
 			outputWriter.write(metaDataLine + "\n\n");
-			System.out.println("ABOUT TO WRITE ALL " + allMarketData.size());
 			for(int i = 0; i < allMarketData.size(); i++)
 			{
 				outputWriter.write(allMarketData.get(i) +  "\n");
 			}
 			outputWriter.close();
 			
-			System.out.println("ABOUT TO DO RUNNERS  " + closedMarketData.getAllRunnerData().size());
 			//For each runner, write their data to a file.
 			for(MarketRunnerDataContainer runner: closedMarketData.getAllRunnerData())
-			{
-				System.out.println("Storing data for runner: " + runner.getName());
-				
+			{	
 				String fileName = runner.getName().replaceAll(fileNameRegex, "_");
 				outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator
 						+ fileName + ".csv"));
@@ -241,7 +227,6 @@ public class DataIO
 				}
 				outputWriter.close();
 			}
-			//outputWriter.close();
 		} 
 		catch (IOException e)
 		{
@@ -325,7 +310,6 @@ public class DataIO
 			
 			}
 		catalogueInformationBuilder.append("}");
-		System.out.println("Adding " + catalogueInformationBuilder.toString());
 		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
 	}
 
@@ -430,12 +414,13 @@ public class DataIO
 				}
 			}
 			long time = System.currentTimeMillis();
-			runnerDataContainer.addData(time, ((workingBack + workingLay) /2));
-			System.out.println("Writing " + time + " , " + ((workingBack + workingLay) / 2) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); // +"\n"
+			runnerDataContainer.addData(time, (1/((workingBack + workingLay) /2)));
+			System.out.println("Writing " + time + " , " + (1/((workingBack + workingLay) / 2)) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName());
 		}
 		else
 		{
 			//Pass in 0 when there's not enough data, this is handled at a higher level elsewhere.
+			System.out.println("Writing " + System.currentTimeMillis() + " , " + (1/((workingBack + workingLay) / 2)) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); 
 			runnerDataContainer.addData(System.currentTimeMillis(), 0);
 		}
 	}

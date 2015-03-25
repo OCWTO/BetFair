@@ -1,0 +1,45 @@
+TIMESTAMP: 19:36:26.061
+	{Over/Under 7.5 Goals,1.117880827, matched: 18430.39, available: 1289.42, TOTAL 19719.809999999998}
+	{Over/Under 8.5 Goals,1.117880828, matched: 4360.27, available: 13.26, TOTAL 4373.530000000001}
+	{Correct Score 2 Home,1.117880830, matched: 3809.05, available: 447.19, TOTAL 4256.24}
+	{Mali +1,1.117880831, matched: 6082.22, available: 59.18, TOTAL 6141.400000000001}
+	{Double Chance,1.117880832, matched: 9269.73, available: 127.9, TOTAL 9397.63}
+	{Gabon +1,1.117880833, matched: 9212.19, available: 29.36, TOTAL 9241.550000000001}
+	{Gabon Total Goals,1.117880836, matched: 1690.25, available: 0.0, TOTAL 1690.25}
+	{DRAW NO BET,1.117880848, matched: 1371.01, available: 240.69, TOTAL 1611.7}
+	{Next Goal,1.117880849, matched: 6180.29, available: 226.31, TOTAL 6406.6}
+	{Total Goals,1.117880853, matched: 8923.2, available: 655.06, TOTAL 9578.26}
+	{Correct Score,1.117880863, matched: 27107.65, available: 11536.13, TOTAL 38643.78}
+	{Half Time/Full Time,1.117880865, matched: 856.9, available: 375.25, TOTAL 1232.15}
+	{Match Odds,1.117880867, matched: 81415.87, available: 104158.58, TOTAL 185574.45}
+	{Sending Off?,1.117880868, matched: 443.33, available: 0.0, TOTAL 443.33}
+	{Hat-trick Scored?,1.117880871, matched: 0.0, available: 0.02, TOTAL 0.02}
+	{Odd or Even,1.117880872, matched: 10026.93, available: 4.42, TOTAL 10031.35}
+	{Penalty Taken?,1.117880873, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 5.5 Goals,1.117880874, matched: 23480.48, available: 12941.51, TOTAL 36421.99}
+	{Over/Under 6.5 Goals,1.117880875, matched: 18613.65, available: 2786.1, TOTAL 21399.75}
+	{Mali Total Goals,1.117880876, matched: 2124.42, available: 0.0, TOTAL 2124.42}
+	{Asian Handicap,1.117880885, matched: 55503.58, available: 1123.13, TOTAL 56626.71}
+}TIMESTAMP: 19:36:31.044
+	{Over/Under 7.5 Goals,1.117880827, matched: 18454.5, available: 1289.42, TOTAL 19743.92}
+	{Over/Under 8.5 Goals,1.117880828, matched: 4362.27, available: 13.26, TOTAL 4375.530000000001}
+	{Correct Score 2 Home,1.117880830, matched: 3803.7, available: 447.19, TOTAL 4250.889999999999}
+	{Mali +1,1.117880831, matched: 6123.75, available: 59.18, TOTAL 6182.93}
+	{Double Chance,1.117880832, matched: 9264.14, available: 127.9, TOTAL 9392.039999999999}
+	{Gabon +1,1.117880833, matched: 9212.19, available: 29.36, TOTAL 9241.550000000001}
+	{Gabon Total Goals,1.117880836, matched: 1324.63, available: 0.0, TOTAL 1324.63}
+	{DRAW NO BET,1.117880848, matched: 1371.01, available: 240.69, TOTAL 1611.7}
+	{Next Goal,1.117880849, matched: 6069.72, available: 226.31, TOTAL 6296.030000000001}
+	{Total Goals,1.117880853, matched: 9000.78, available: 655.06, TOTAL 9655.84}
+	{Correct Score,1.117880863, matched: 26413.87, available: 11536.13, TOTAL 37950.0}
+	{Half Time/Full Time,1.117880865, matched: 856.9, available: 375.25, TOTAL 1232.15}
+	{Match Odds,1.117880867, matched: 81437.18, available: 104173.75, TOTAL 185610.93}
+	{Sending Off?,1.117880868, matched: 443.33, available: 0.0, TOTAL 443.33}
+	{Hat-trick Scored?,1.117880871, matched: 0.0, available: 0.02, TOTAL 0.02}
+	{Odd or Even,1.117880872, matched: 9918.61, available: 4.42, TOTAL 9923.03}
+	{Penalty Taken?,1.117880873, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 5.5 Goals,1.117880874, matched: 24259.93, available: 13124.36, TOTAL 37384.29}
+	{Over/Under 6.5 Goals,1.117880875, matched: 20057.21, available: 2786.1, TOTAL 22843.309999999998}
+	{Mali Total Goals,1.117880876, matched: 2118.53, available: 0.0, TOTAL 2118.53}
+	{Asian Handicap,1.117880885, matched: 55610.48, available: 1123.13, TOTAL 56733.61}
+}

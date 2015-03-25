@@ -1,0 +1,202 @@
+Scotland v Northern Ireland Shown a card? OPEN DATE: 07:45:00
+
+ENTRY: 1
+
+	TIME: 08:01:17
+
+		RUNNER: Steven Fletcher
+
+		RUNNER: Steven Naismith
+
+		RUNNER: Ross McCormack
+
+		RUNNER: Jordan Rhodes
+
+		RUNNER: Steve May
+
+		RUNNER: Shaun Maloney
+
+		RUNNER: Johnny Russell
+
+		RUNNER: James Forrest
+
+		RUNNER: Ikechi Anya
+
+		RUNNER: Matt Ritchie
+
+		RUNNER: James Morrison
+
+		RUNNER: Scott Brown
+
+		RUNNER: Andy Robertson
+
+		RUNNER: Barry Bannan
+
+		RUNNER: James McArthur
+
+		RUNNER: Christophe Berra
+
+		RUNNER: Darren Fletcher
+
+		RUNNER: Steven Whittaker
+
+		RUNNER: Mark Reynolds
+
+		RUNNER: Gordon Greer
+
+		RUNNER: Craig Forsyth
+
+		RUNNER: Russell Martin
+
+		RUNNER: Alan Hutton
+
+		RUNNER: Kyle Lafferty
+
+		RUNNER: Billy McKay
+
+		RUNNER: Niall McGinn
+
+		RUNNER: Jamie Ward
+
+		RUNNER: Will Grigg
+
+		RUNNER: Josh Magennis
+
+		RUNNER: Ben Reeves
+
+		RUNNER: Patrick McCourt
+
+		RUNNER: Stuart Dallas
+
+		RUNNER: Chris Brunt
+
+		RUNNER: Oliver Norwood
+
+		RUNNER: Steven Davis
+
+		RUNNER: Gareth McAuley
+
+		RUNNER: Corry Evans
+
+		RUNNER: Chris Baird
+
+		RUNNER: Ryan McLaughlin
+
+		RUNNER: Patrick McNair
+
+		RUNNER: Jonny Evans
+
+		RUNNER: Craig Cathcart
+
+		RUNNER: Daniel Lafferty
+
+		RUNNER: Aaron Hughes
+
+		RUNNER: Conor McLaughlin
+
+		RUNNER: Luke McCullough
+
+		RUNNER: Lee Hodson
+
+		RUNNER: Paul Paton
+
+ENTRY: 2
+
+	TIME: 08:01:22
+
+		RUNNER: Steven Fletcher
+
+		RUNNER: Steven Naismith
+
+		RUNNER: Ross McCormack
+
+		RUNNER: Jordan Rhodes
+
+		RUNNER: Steve May
+
+		RUNNER: Shaun Maloney
+
+		RUNNER: Johnny Russell
+
+		RUNNER: James Forrest
+
+		RUNNER: Ikechi Anya
+
+		RUNNER: Matt Ritchie
+
+		RUNNER: James Morrison
+
+		RUNNER: Scott Brown
+
+		RUNNER: Andy Robertson
+
+		RUNNER: Barry Bannan
+
+		RUNNER: James McArthur
+
+		RUNNER: Christophe Berra
+
+		RUNNER: Darren Fletcher
+
+		RUNNER: Steven Whittaker
+
+		RUNNER: Mark Reynolds
+
+		RUNNER: Gordon Greer
+
+		RUNNER: Craig Forsyth
+
+		RUNNER: Russell Martin
+
+		RUNNER: Alan Hutton
+
+		RUNNER: Kyle Lafferty
+
+		RUNNER: Billy McKay
+
+		RUNNER: Niall McGinn
+
+		RUNNER: Jamie Ward
+
+		RUNNER: Will Grigg
+
+		RUNNER: Josh Magennis
+
+		RUNNER: Ben Reeves
+
+		RUNNER: Patrick McCourt
+
+		RUNNER: Stuart Dallas
+
+		RUNNER: Chris Brunt
+
+		RUNNER: Oliver Norwood
+
+		RUNNER: Steven Davis
+
+		RUNNER: Gareth McAuley
+
+		RUNNER: Corry Evans
+
+		RUNNER: Chris Baird
+
+		RUNNER: Ryan McLaughlin
+
+		RUNNER: Patrick McNair
+
+		RUNNER: Jonny Evans
+
+		RUNNER: Craig Cathcart
+
+		RUNNER: Daniel Lafferty
+
+		RUNNER: Aaron Hughes
+
+		RUNNER: Conor McLaughlin
+
+		RUNNER: Luke McCullough
+
+		RUNNER: Lee Hodson
+
+		RUNNER: Paul Paton
+
