@@ -430,7 +430,7 @@ public class BetFairCore implements IBetFairCore
 		//The range is a day so that games can be scheduled for recording some time
 		//ahead of their start (good for recording american sports).
 		TimeRange timeRange = new TimeRange();
-		timeRange.setFrom(new Date(new Date().getTime() - (120 * 60 * 1000)));
+		timeRange.setFrom(new Date(new Date().getTime() - (180 * 60 * 1000)));
 		timeRange.setTo(new Date(new Date().getTime() + (24 * 60 * 60 * 1000)));
 
 		MarketFilter marketFilter = new MarketFilter();

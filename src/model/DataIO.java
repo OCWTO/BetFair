@@ -6,16 +6,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.lang.reflect.Type;
 import java.time.Instant;
+import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-//need to check if started,
-//start the thing, it will init if not already then has a method for adddata
-//method for save (marketname)
-//needs to recognise when to stop tracking
+
 
 
 import betFairGSONClasses.MarketBook;
@@ -63,10 +61,8 @@ public class DataIO
 	 */
 	public void initilise(List<BetFairMarketObject> receivedMarketObjects)
 	{
-		//TODO consider storing data here to test?
-		
 		//Get the list of markets that we're tracking
-		List<String> storedMarketList = manager.getMarkets();
+		List<String> storedMarketList = manager.getTrackedMarketIds();
 
 		// For each market that's going to be tracked
 		for (String storedMarketId : storedMarketList)
@@ -96,50 +92,70 @@ public class DataIO
 			}
 		}
 	}
+	
+	private List<BetFairMarketData> getTrackedMarketData(List<BetFairMarketData> allMarketData)
+	{
+		//Get the list of ids that we want to track
+		List<String> trackedMarkets = manager.getTrackedMarketIds();
+		
+		List<BetFairMarketData> matchedMarketData = new ArrayList<BetFairMarketData>();
+		
+		for(BetFairMarketData marketObj : allMarketData)
+		{
+			if(trackedMarkets.contains(marketObj.getMarketId()))
+			{
+				matchedMarketData.add(marketObj);
+			}
+		}
+		return matchedMarketData;
+	}
 
 	/**
-	 * Data live data from the betfair api to this classes collections
+	 * add live data received from the betfair api to this classes collections
 	 * @param liveMarketData A list of BetFairMarketData objects representing the received data.
 	 */
 	public void addData(List<BetFairMarketData> liveMarketData)
-	{
-		List<String> trackedMarkets;
+	{		
+		System.out.println("ADDING FOR " + liveMarketData.size() + " MARKETS");
+		//Filter out the market data we want from what we receive (all market data)
+		List<BetFairMarketData> trackedMarketData = getTrackedMarketData(liveMarketData);
+		System.out.println("TRACKED SIZE " + trackedMarketData.size());
 		BetFairMarketData currentBook;
+		
+		storeJsonResults(liveMarketData);	//TODO json here stored
 
-		//Get the list of markets that we're tracking
-		trackedMarkets = manager.getMarkets();
-		storeJsonResults(liveMarketData);
-		//storeCatalogueActivity(liveAllMarkets);
-
-		// Each index returned represents one market.
-		assert liveMarketData.size() == trackedMarkets.size();
-
+		//Assert that we filtered correctly and we initially got enough results.
+		assert liveMarketData.size() == manager.getAllMarketIds().size();
+		assert trackedMarketData.size() == manager.getTrackedMarketIds().size();
+		
 		//For each market we're tracking
 		for(int j = 0; j < storedMarketData.size(); j++)
-		//for(MarketDataContainer currentMarketDataContainer : storedMarketData)
 		{
 			//Loop through the list of market data we received
-			for(int i = 0; i < liveMarketData.size(); i++)
+			for(int i = 0; i < trackedMarketData.size(); i++)
 			{
 				//If the live id matches the tracked
-				if(liveMarketData.get(i).getMarketId().equalsIgnoreCase(storedMarketData.get(j).getMarketId()))
+				if(trackedMarketData.get(i).getMarketId().equalsIgnoreCase(storedMarketData.get(j).getMarketId()))
 				{
 					//Grab the data
-					currentBook = liveMarketData.get(i);
+					currentBook = trackedMarketData.get(i);
 					
 					//If this markets status is closed
 					//if(counter == 150)
 					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
+						System.out.println("STOPPING TRACKING " + currentBook.getMarketId());
 						if(baseDirectory == null)
 							makeBaseDirectory(storedMarketData.get(j).getGameName());
 						//Grab our list of ids we query for and removed the closed market from it
 
-						manager.stopTrackingMarket(currentBook.getMarketId());
+						manager.stopTrackingMarketId(currentBook.getMarketId());
 						//If all markets are closed then we shut down.
-						if(manager.getMarkets().size() == 0)
+						
+						if(manager.getTrackedMarketIds().size() == 0)
 						{
 							//Call method to store all of the json and financial data
+							//finished = true;
 							storeFinalData();
 						}
 						//Send our data container to be saved
@@ -266,7 +282,6 @@ public class DataIO
 	/**
 	 * Store all data for money matched during the game for every market
 	 */
-	//TODO look at this again
 	private void saveMarketMoneyData()
 	{
 		String filePath = baseDirectory.getPath() + separator + "marketMatchedData.txt";
@@ -281,42 +296,50 @@ public class DataIO
 			}
 			outputWriter.flush();
 			outputWriter.close();
-		} catch (IOException e)
+		} 
+		catch (IOException e)
 		{
 			e.printStackTrace();
 		}
 	}
 
-	//TODO look at this again
+	/**
+	 * Store the financial activity for all active markets
+	 * @param allMarkets MarketData objects representing active markets
+	 */
 	public void storeCatalogueActivity(List<BetFairMarketData> allMarkets)
 	{
-		List<String> marketIds = new ArrayList<String>();
-		for (String catalogueItem : manager.getListOfAllMarketIds())
-			marketIds.add(catalogueItem);
+		List<String> marketIds = manager.getAllMarketIds();
 
 		StringBuilder catalogueInformationBuilder = new StringBuilder();
+		catalogueInformationBuilder.append("TIMESTAMP: " + LocalDateTime.now() + "\n");
 
-		catalogueInformationBuilder.append("TIMESTAMP: " + LocalTime.now() + "\n");
-
-		//TODO fix formatting.
-			for (BetFairMarketData bookItem : allMarkets)
+		for (BetFairMarketData bookItem : allMarkets)
+		{
+			for (int i = 0; i < marketIds.size(); i++)
 			{
-				for (int i = 0; i < marketIds.size(); i++)
+				if (bookItem.getMarketId().equals(marketIds.get(i)))
 				{
-					if (bookItem.getMarketId().equals(marketIds.get(i)))
+					if(bookItem.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
-						catalogueInformationBuilder.append("\t{" + manager.getMarketName(marketIds.get(i)) + "," + bookItem.getMarketId() + ", matched: "
-								+ bookItem.getMatchedAmount() + ", available: " + bookItem.getUnmatchedAmount() + ", TOTAL "
-								+ bookItem.getTotalAmount() + "}\n");
+						System.out.println("STOPPING TRACk");
+						System.out.println("OF ID " + bookItem.getMarketId());
+						manager.stopTrackingMarketId(bookItem.getMarketId());
+						break;
+					}
+					else
+					{	catalogueInformationBuilder.append("\t{" + manager.getMarketName(marketIds.get(i)) + "," + bookItem.getMarketId() + ", matched: "
+							+ bookItem.getMatchedAmount() + ", available: " + bookItem.getUnmatchedAmount() + ", TOTAL "
+							+ bookItem.getTotalAmount() + "}\n");
+						break;
 					}
 				}
-			
-			}
-		catalogueInformationBuilder.append("}");
+			}	
+		}
 		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
 	}
 
-	
+	//TODO look at gson.tojosn and compare the outputs
 	private void storeJsonResults(List<BetFairMarketData> marketData)
 	{
 		String gsonNotationResults = convertToJson(marketData);
@@ -335,9 +358,7 @@ public class DataIO
 	private String convertToJson(List<BetFairMarketData> marketData)
 	{
 		Gson gsonConvertor = new Gson();
-		Type sourceType = new TypeToken<MarketBook>()
-		{
-		}.getType();
+		Type sourceType = new TypeToken<MarketBook>(){}.getType();
 
 		StringBuilder jsonStringBuilder = new StringBuilder();
 		jsonStringBuilder.append("{\"jsonrpc\":\"2.0\",\"result\":[");

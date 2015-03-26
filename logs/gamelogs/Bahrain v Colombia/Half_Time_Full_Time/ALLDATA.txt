@@ -1,0 +1,3266 @@
+Bahrain v Colombia Half Time/Full Time OPEN DATE: 05:00:00
+
+ENTRY: 1
+
+	TIME: 06:57:19
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 2
+
+	TIME: 06:57:24
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 3
+
+	TIME: 06:57:28
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 4
+
+	TIME: 06:57:34
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 5
+
+	TIME: 06:57:39
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 6
+
+	TIME: 06:57:43
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 7
+
+	TIME: 06:57:50
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 8
+
+	TIME: 06:57:54
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 9
+
+	TIME: 06:58:01
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 10
+
+	TIME: 06:58:05
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 11
+
+	TIME: 06:58:08
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 12
+
+	TIME: 06:58:13
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 13
+
+	TIME: 06:58:18
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 14
+
+	TIME: 06:58:23
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 15
+
+	TIME: 06:58:28
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 16
+
+	TIME: 06:58:33
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 17
+
+	TIME: 06:58:39
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 18
+
+	TIME: 06:58:43
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 19
+
+	TIME: 06:58:48
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 20
+
+	TIME: 06:58:55
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 21
+
+	TIME: 06:59:03
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 22
+
+	TIME: 06:59:05
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 23
+
+	TIME: 06:59:11
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 24
+
+	TIME: 06:59:16
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 25
+
+	TIME: 06:59:21
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 26
+
+	TIME: 06:59:27
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 27
+
+	TIME: 06:59:37
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 28
+
+	TIME: 06:59:40
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 29
+
+	TIME: 06:59:45
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 30
+
+	TIME: 06:59:49
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 31
+
+	TIME: 06:59:56
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 32
+
+	TIME: 07:00:04
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 33
+
+	TIME: 07:00:07
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 34
+
+	TIME: 07:00:13
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 35
+
+	TIME: 07:00:24
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 36
+
+	TIME: 07:00:30
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 37
+
+	TIME: 07:00:35
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 38
+
+	TIME: 07:00:45
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 39
+
+	TIME: 07:00:54
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 40
+
+	TIME: 07:01:01
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 41
+
+	TIME: 07:01:06
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 42
+
+	TIME: 07:01:15
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 43
+
+	TIME: 07:01:23
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 44
+
+	TIME: 07:01:28
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 45
+
+	TIME: 07:01:42
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 46
+
+	TIME: 07:01:48
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 47
+
+	TIME: 07:01:51
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+
+ENTRY: 48
+
+	TIME: 07:02:03
+
+		RUNNER: Bahrain/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.0)
+
+			BACK: (PRICE:12.0,SIZE:300.0)
+
+			BACK: (PRICE:4.8,SIZE:15.26)
+
+		RUNNER: Bahrain/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Bahrain/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:20.0,SIZE:3.66)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Bahrain
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:13.0,SIZE:5.63)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:297.8)
+
+			BACK: (PRICE:9.0,SIZE:8.14)
+
+		RUNNER: Draw/Colombia
+
+			BACK: (PRICE:1000.0,SIZE:2.2)
+
+			BACK: (PRICE:12.0,SIZE:303.9)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Colombia/Bahrain
+
+			BACK: (PRICE:1.01,SIZE:4.41)
+
+		RUNNER: Colombia/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Colombia/Colombia
+
+			LAY: (PRICE:1.01,SIZE:1788.06)
+
+			LAY: (PRICE:1.02,SIZE:100.0)
+
+			LAY: (PRICE:2.0,SIZE:10.99)
+

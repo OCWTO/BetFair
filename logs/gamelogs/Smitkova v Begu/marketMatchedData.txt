@@ -1,0 +1,671 @@
+TIMESTAMP: 2015-03-26T17:19:29.589
+	{Match Odds,1.117906895, matched: 25895.83, available: 371215.76, TOTAL 397111.59}
+	{Set Betting,1.117906896, matched: 17786.98, available: 701.71, TOTAL 18488.69}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:19:34.530
+	{Match Odds,1.117906895, matched: 23576.12, available: 372864.83, TOTAL 396440.95}
+	{Set Betting,1.117906896, matched: 17786.98, available: 701.71, TOTAL 18488.69}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:19:39.543
+	{Match Odds,1.117906895, matched: 25827.88, available: 372864.83, TOTAL 398692.71}
+	{Set Betting,1.117906896, matched: 17786.98, available: 701.71, TOTAL 18488.69}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:19:44.560
+	{Match Odds,1.117906895, matched: 51720.39, available: 373145.77, TOTAL 424866.16000000003}
+	{Set Betting,1.117906896, matched: 17786.98, available: 701.71, TOTAL 18488.69}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:19:49.529
+	{Match Odds,1.117906895, matched: 42804.36, available: 373313.55, TOTAL 416117.91}
+	{Set Betting,1.117906896, matched: 17597.98, available: 701.71, TOTAL 18299.69}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:19:54.539
+	{Match Odds,1.117906895, matched: 47464.02, available: 375580.01, TOTAL 423044.03}
+	{Set Betting,1.117906896, matched: 15120.98, available: 701.71, TOTAL 15822.689999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:19:59.541
+	{Match Odds,1.117906895, matched: 39888.62, available: 375649.96, TOTAL 415538.58}
+	{Set Betting,1.117906896, matched: 15120.98, available: 701.71, TOTAL 15822.689999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:20:04.564
+	{Match Odds,1.117906895, matched: 39414.87, available: 375666.12, TOTAL 415080.99}
+	{Set Betting,1.117906896, matched: 15120.98, available: 701.71, TOTAL 15822.689999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:20:09.540
+	{Match Odds,1.117906895, matched: 51646.33, available: 375692.16, TOTAL 427338.49}
+	{Set Betting,1.117906896, matched: 15120.98, available: 701.71, TOTAL 15822.689999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:20:14.631
+	{Match Odds,1.117906895, matched: 51047.12, available: 375714.33, TOTAL 426761.45}
+	{Set Betting,1.117906896, matched: 15930.38, available: 701.71, TOTAL 16632.09}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 109.56, available: 0.0, TOTAL 109.56}
+	{6-0 Set?,1.117906904, matched: 67.59, available: 49.2, TOTAL 116.79}
+TIMESTAMP: 2015-03-26T17:20:19.597
+	{Match Odds,1.117906895, matched: 49827.92, available: 376826.53, TOTAL 426654.45}
+	{Set Betting,1.117906896, matched: 15757.38, available: 701.71, TOTAL 16459.09}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:24.547
+	{Match Odds,1.117906895, matched: 37687.58, available: 376860.17, TOTAL 414547.75}
+	{Set Betting,1.117906896, matched: 13634.68, available: 701.71, TOTAL 14336.39}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 121.0, available: 0.0, TOTAL 121.0}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:29.535
+	{Match Odds,1.117906895, matched: 37117.66, available: 378039.41, TOTAL 415157.06999999995}
+	{Set Betting,1.117906896, matched: 13634.68, available: 701.71, TOTAL 14336.39}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 121.0, available: 0.0, TOTAL 121.0}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:34.541
+	{Match Odds,1.117906895, matched: 37386.73, available: 378039.41, TOTAL 415426.13999999996}
+	{Set Betting,1.117906896, matched: 13634.68, available: 701.71, TOTAL 14336.39}
+	{Smitkova +3.5 Games,1.117906897, matched: 535.38, available: 0.0, TOTAL 535.38}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 121.0, available: 0.0, TOTAL 121.0}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:39.540
+	{Match Odds,1.117906895, matched: 48024.75, available: 379327.18, TOTAL 427351.93}
+	{Set Betting,1.117906896, matched: 13634.68, available: 701.71, TOTAL 14336.39}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 121.0, available: 0.0, TOTAL 121.0}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:44.531
+	{Match Odds,1.117906895, matched: 49850.32, available: 379426.78, TOTAL 429277.10000000003}
+	{Set Betting,1.117906896, matched: 14649.78, available: 701.71, TOTAL 15351.490000000002}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 121.0, available: 0.0, TOTAL 121.0}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:49.543
+	{Match Odds,1.117906895, matched: 48235.57, available: 381085.41, TOTAL 429320.98}
+	{Set Betting,1.117906896, matched: 14581.78, available: 701.71, TOTAL 15283.490000000002}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 121.0, available: 0.0, TOTAL 121.0}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:54.542
+	{Match Odds,1.117906895, matched: 49425.64, available: 381648.34, TOTAL 431073.98000000004}
+	{Set Betting,1.117906896, matched: 14581.78, available: 701.71, TOTAL 15283.490000000002}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:20:59.532
+	{Match Odds,1.117906895, matched: 41969.26, available: 381648.34, TOTAL 423617.60000000003}
+	{Set Betting,1.117906896, matched: 14581.78, available: 701.71, TOTAL 15283.490000000002}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 167.48, available: 0.0, TOTAL 167.48}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:04.587
+	{Match Odds,1.117906895, matched: 40333.36, available: 381648.34, TOTAL 421981.7}
+	{Set Betting,1.117906896, matched: 12895.88, available: 701.71, TOTAL 13597.59}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 167.48, available: 0.0, TOTAL 167.48}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:09.540
+	{Match Odds,1.117906895, matched: 48764.26, available: 385374.43, TOTAL 434138.69}
+	{Set Betting,1.117906896, matched: 12898.98, available: 701.71, TOTAL 13600.689999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 167.48, available: 0.0, TOTAL 167.48}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:14.532
+	{Match Odds,1.117906895, matched: 50380.39, available: 385684.43, TOTAL 436064.82}
+	{Set Betting,1.117906896, matched: 14099.88, available: 725.71, TOTAL 14825.59}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 167.48, available: 0.0, TOTAL 167.48}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:19.539
+	{Match Odds,1.117906895, matched: 47394.53, available: 386068.11, TOTAL 433462.64}
+	{Set Betting,1.117906896, matched: 14086.34, available: 725.71, TOTAL 14812.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:24.565
+	{Match Odds,1.117906895, matched: 49479.78, available: 386072.51, TOTAL 435552.29000000004}
+	{Set Betting,1.117906896, matched: 13968.34, available: 725.71, TOTAL 14694.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:29.549
+	{Match Odds,1.117906895, matched: 49474.78, available: 386082.51, TOTAL 435557.29000000004}
+	{Set Betting,1.117906896, matched: 13968.34, available: 725.71, TOTAL 14694.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:34.548
+	{Match Odds,1.117906895, matched: 40251.34, available: 387125.15, TOTAL 427376.49}
+	{Set Betting,1.117906896, matched: 13968.34, available: 725.71, TOTAL 14694.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:39.555
+	{Match Odds,1.117906895, matched: 40059.38, available: 387635.45, TOTAL 427694.83}
+	{Set Betting,1.117906896, matched: 13968.34, available: 725.71, TOTAL 14694.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:44.614
+	{Match Odds,1.117906895, matched: 40047.38, available: 387649.16, TOTAL 427696.54}
+	{Set Betting,1.117906896, matched: 13968.34, available: 725.71, TOTAL 14694.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:49.809
+	{Match Odds,1.117906895, matched: 39780.5, available: 387771.54, TOTAL 427552.04}
+	{Set Betting,1.117906896, matched: 13968.34, available: 725.71, TOTAL 14694.05}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:21:54.546
+	{Match Odds,1.117906895, matched: 52162.38, available: 387973.34, TOTAL 440135.72000000003}
+	{Set Betting,1.117906896, matched: 12445.54, available: 725.71, TOTAL 13171.25}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:00.080
+	{Match Odds,1.117906895, matched: 44110.3, available: 388728.44, TOTAL 432838.74}
+	{Set Betting,1.117906896, matched: 10817.74, available: 725.71, TOTAL 11543.45}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 223.98, available: 0.0, TOTAL 223.98}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:04.551
+	{Match Odds,1.117906895, matched: 46518.84, available: 389487.74, TOTAL 436006.57999999996}
+	{Set Betting,1.117906896, matched: 10933.74, available: 725.71, TOTAL 11659.45}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:10.179
+	{Match Odds,1.117906895, matched: 50068.08, available: 390548.44, TOTAL 440616.52}
+	{Set Betting,1.117906896, matched: 10920.25, available: 725.71, TOTAL 11645.96}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:14.551
+	{Match Odds,1.117906895, matched: 48073.08, available: 393243.5, TOTAL 441316.58}
+	{Set Betting,1.117906896, matched: 11087.07, available: 725.71, TOTAL 11812.779999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:19.556
+	{Match Odds,1.117906895, matched: 48520.99, available: 394051.14, TOTAL 442572.13}
+	{Set Betting,1.117906896, matched: 11032.39, available: 725.71, TOTAL 11758.099999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:24.551
+	{Match Odds,1.117906895, matched: 49557.66, available: 394454.74, TOTAL 444012.4}
+	{Set Betting,1.117906896, matched: 11032.39, available: 725.71, TOTAL 11758.099999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:29.555
+	{Match Odds,1.117906895, matched: 49557.66, available: 394454.74, TOTAL 444012.4}
+	{Set Betting,1.117906896, matched: 11032.39, available: 725.71, TOTAL 11758.099999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:34.544
+	{Match Odds,1.117906895, matched: 48770.95, available: 395495.36, TOTAL 444266.31}
+	{Set Betting,1.117906896, matched: 10957.39, available: 725.71, TOTAL 11683.099999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:39.543
+	{Match Odds,1.117906895, matched: 49495.85, available: 395503.43, TOTAL 444999.27999999997}
+	{Set Betting,1.117906896, matched: 10957.39, available: 725.71, TOTAL 11683.099999999999}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:44.544
+	{Match Odds,1.117906895, matched: 49706.24, available: 395742.81, TOTAL 445449.05}
+	{Set Betting,1.117906896, matched: 10800.36, available: 725.71, TOTAL 11526.07}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:49.544
+	{Match Odds,1.117906895, matched: 45765.68, available: 401088.06, TOTAL 446853.74}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:54.585
+	{Match Odds,1.117906895, matched: 49990.19, available: 401130.06, TOTAL 451120.25}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:22:59.542
+	{Match Odds,1.117906895, matched: 50314.55, available: 401236.06, TOTAL 451550.61}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:04.556
+	{Match Odds,1.117906895, matched: 50029.95, available: 401241.86, TOTAL 451271.81}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:09.626
+	{Match Odds,1.117906895, matched: 49858.98, available: 401583.79, TOTAL 451442.76999999996}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:14.558
+	{Match Odds,1.117906895, matched: 49537.12, available: 401730.7, TOTAL 451267.82}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:19.551
+	{Match Odds,1.117906895, matched: 49439.95, available: 401954.78, TOTAL 451394.73000000004}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:24.548
+	{Match Odds,1.117906895, matched: 41538.67, available: 401980.34, TOTAL 443519.01}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 292.69, available: 0.0, TOTAL 292.69}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:29.545
+	{Match Odds,1.117906895, matched: 40526.38, available: 401986.9, TOTAL 442513.28}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:34.558
+	{Match Odds,1.117906895, matched: 40262.61, available: 402002.27, TOTAL 442264.88}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:39.549
+	{Match Odds,1.117906895, matched: 48649.81, available: 402002.27, TOTAL 450652.08}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:44.617
+	{Match Odds,1.117906895, matched: 40336.06, available: 402033.17, TOTAL 442369.23}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:49.544
+	{Match Odds,1.117906895, matched: 46745.17, available: 402033.17, TOTAL 448778.33999999997}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:54.556
+	{Match Odds,1.117906895, matched: 39661.73, available: 402569.54, TOTAL 442231.26999999996}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:23:59.547
+	{Match Odds,1.117906895, matched: 38224.69, available: 403670.26, TOTAL 441894.95}
+	{Set Betting,1.117906896, matched: 11476.19, available: 725.71, TOTAL 12201.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:04.551
+	{Match Odds,1.117906895, matched: 31870.19, available: 403670.26, TOTAL 435540.45}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:09.552
+	{Match Odds,1.117906895, matched: 31830.86, available: 403748.93, TOTAL 435579.79}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:14.554
+	{Match Odds,1.117906895, matched: 31946.97, available: 403974.72, TOTAL 435921.68999999994}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:19.553
+	{Match Odds,1.117906895, matched: 42847.35, available: 403974.72, TOTAL 446822.06999999995}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:24.567
+	{Match Odds,1.117906895, matched: 40909.67, available: 403994.9, TOTAL 444904.57}
+	{Set Betting,1.117906896, matched: 11464.19, available: 725.71, TOTAL 12189.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:29.679
+	{Match Odds,1.117906895, matched: 40109.15, available: 404511.44, TOTAL 444620.59}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:34.590
+	{Match Odds,1.117906895, matched: 40378.45, available: 404643.66, TOTAL 445022.11}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:39.566
+	{Match Odds,1.117906895, matched: 31604.16, available: 404974.04, TOTAL 436578.19999999995}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:44.593
+	{Match Odds,1.117906895, matched: 32064.6, available: 405333.62, TOTAL 437398.22}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:49.562
+	{Match Odds,1.117906895, matched: 42336.77, available: 405348.38, TOTAL 447685.15}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:54.550
+	{Match Odds,1.117906895, matched: 40064.57, available: 405390.08, TOTAL 445454.65}
+	{Set Betting,1.117906896, matched: 11489.19, available: 725.71, TOTAL 12214.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:24:59.552
+	{Match Odds,1.117906895, matched: 40291.13, available: 405791.58, TOTAL 446082.71}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:04.595
+	{Match Odds,1.117906895, matched: 30906.82, available: 405798.53, TOTAL 436705.35000000003}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:09.562
+	{Match Odds,1.117906895, matched: 30682.55, available: 405832.88, TOTAL 436515.43}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:14.556
+	{Match Odds,1.117906895, matched: 43095.49, available: 408216.62, TOTAL 451312.11}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:19.558
+	{Match Odds,1.117906895, matched: 19433.2, available: 409399.94, TOTAL 428833.14}
+	{Set Betting,1.117906896, matched: 11786.19, available: 725.71, TOTAL 12511.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:24.557
+	{Match Odds,1.117906895, matched: 14291.51, available: 410421.26, TOTAL 424712.77}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:29.553
+	{Match Odds,1.117906895, matched: 12148.56, available: 413179.15, TOTAL 425327.71}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:34.561
+	{Match Odds,1.117906895, matched: 3998.82, available: 413328.99, TOTAL 417327.81}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:39.596
+	{Match Odds,1.117906895, matched: 22171.65, available: 414151.67, TOTAL 436323.32}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:44.573
+	{Match Odds,1.117906895, matched: 13969.75, available: 414737.67, TOTAL 428707.42}
+	{Set Betting,1.117906896, matched: 11477.19, available: 725.71, TOTAL 12202.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:49.555
+	{Match Odds,1.117906895, matched: 14586.4, available: 414868.33, TOTAL 429454.73000000004}
+	{Set Betting,1.117906896, matched: 11477.19, available: 725.71, TOTAL 12202.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:54.698
+	{Match Odds,1.117906895, matched: 8412.7, available: 421459.5, TOTAL 429872.2}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:25:59.619
+	{Match Odds,1.117906895, matched: 12376.57, available: 422321.78, TOTAL 434698.35000000003}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 54.47, available: 0.0, TOTAL 54.47}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:04.694
+	{Match Odds,1.117906895, matched: 8266.23, available: 422467.27, TOTAL 430733.5}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:09.557
+	{Match Odds,1.117906895, matched: 26516.47, available: 422467.27, TOTAL 448983.74}
+	{Set Betting,1.117906896, matched: 11361.19, available: 725.71, TOTAL 12086.900000000001}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:14.565
+	{Match Odds,1.117906895, matched: 1937.37, available: 422467.27, TOTAL 424404.64}
+	{Set Betting,1.117906896, matched: 11288.49, available: 725.71, TOTAL 12014.2}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:19.560
+	{Match Odds,1.117906895, matched: 1937.37, available: 422467.27, TOTAL 424404.64}
+	{Set Betting,1.117906896, matched: 11288.49, available: 725.71, TOTAL 12014.2}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:24.565
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Set Betting,1.117906896, matched: 10498.52, available: 725.71, TOTAL 11224.23}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:29.557
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Set Betting,1.117906896, matched: 10498.52, available: 725.71, TOTAL 11224.23}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:34.571
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Set Betting,1.117906896, matched: 10498.52, available: 725.71, TOTAL 11224.23}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:39.594
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Set Betting,1.117906896, matched: 10498.52, available: 725.71, TOTAL 11224.23}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:44.588
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+	{Tie Break Played?,1.117906903, matched: 27.23, available: 0.0, TOTAL 27.23}
+	{6-0 Set?,1.117906904, matched: 13089.16, available: 49.2, TOTAL 13138.36}
+TIMESTAMP: 2015-03-26T17:26:49.581
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:26:54.575
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:26:59.578
+	{Match Odds,1.117906895, matched: 102.57, available: 422467.27, TOTAL 422569.84}
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:04.617
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:09.574
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:14.573
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:19.762
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:24.679
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:29.591
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:34.578
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:39.590
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:44.585
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:49.582
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:54.585
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:27:59.730
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+	{Total Games,1.117906898, matched: 13752.94, available: 250.64, TOTAL 14003.58}
+TIMESTAMP: 2015-03-26T17:28:04.588
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+TIMESTAMP: 2015-03-26T17:28:09.584
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+TIMESTAMP: 2015-03-26T17:28:14.577
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}
+TIMESTAMP: 2015-03-26T17:28:19.637
+	{Smitkova +3.5 Games,1.117906897, matched: 13556.95, available: 0.0, TOTAL 13556.95}

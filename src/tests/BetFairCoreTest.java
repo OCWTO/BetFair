@@ -3,6 +3,7 @@ package tests;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
 
+import java.io.File;
 import java.lang.reflect.Method;
 
 import model.BetFairCore;
@@ -23,10 +24,13 @@ import exceptions.CryptoException;
  */
 public class BetFairCoreTest
 {
-	private static final boolean debug = true;
-	private static final String userName = "0ocwto0";
-	private static final String password = "2014Project";
-	private static final String filePassword = "project";
+	private final boolean debug = true;
+	private final String userName = "0ocwto0";
+	private final String password = "2014Project";
+	private final String filePassword = "project";
+	private final String sep = File.separator;
+	private final String filePath = "certs" + sep + "client-2048.p12";
+	private final File certFile = new File(filePath);
 	private BetFairCore betFair;
 
 	/**
@@ -46,7 +50,7 @@ public class BetFairCoreTest
 	{
 		try
 		{
-			betFair.login(userName, password, filePassword + "A");
+			betFair.login(userName, password, filePassword + "A", certFile);
 			fail("CryptoException expected in testLoginBadFilePassword()");
 		}
 		catch (CryptoException expectedException)
@@ -63,7 +67,7 @@ public class BetFairCoreTest
 	{
 		try
 		{
-			betFair.login(userName + "A", password, filePassword);
+			betFair.login(userName + "A", password, filePassword, certFile);
 			fail("CryptoException expected in testLoginBadUsername()");
 		}
 		catch (BadLoginDetailsException expectedException)
@@ -80,7 +84,7 @@ public class BetFairCoreTest
 	{
 		try
 		{
-			betFair.login(userName, password + "A", filePassword);
+			betFair.login(userName, password + "A", filePassword, certFile);
 			fail("CryptoException expected in testLoginBadPassword()");
 		}
 		catch (BadLoginDetailsException expectedException)
@@ -98,7 +102,7 @@ public class BetFairCoreTest
 		try
 		{
 			LoginResponse response = betFair.login(userName, password,
-					filePassword);
+					filePassword, certFile);
 			assertEquals(response.getLoginStatus(), "SUCCESS");
 		}
 		catch (CryptoException expectedException)
@@ -117,12 +121,11 @@ public class BetFairCoreTest
 	{
 		try
 		{
-			betFair.login(userName, password, filePassword);
+			betFair.login(userName, password, filePassword, certFile);
 			fail();
 		}
 		catch (Exception expectedException)
 		{
-			// expected
 		}
 	}
 	//TODO look into using reflection for testing http://stackoverflow.com/questions/34571/how-to-test-a-class-that-has-private-methods-fields-or-inner-classes
@@ -134,5 +137,6 @@ public class BetFairCoreTest
 	// TODO test event fired
 	// TODO test markets closing
 	// TODO test debug?
+	//TODO test file location wrong
 
 }
