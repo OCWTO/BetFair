@@ -1,0 +1,288 @@
+Audax SP v Capivariano Match Odds OPEN DATE: 10:30:00
+
+ENTRY: 1
+
+	TIME: 12:19:12
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 2
+
+	TIME: 12:19:17
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 3
+
+	TIME: 12:19:22
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 4
+
+	TIME: 12:19:27
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 5
+
+	TIME: 12:19:32
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 6
+
+	TIME: 12:19:37
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 7
+
+	TIME: 12:19:42
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 8
+
+	TIME: 12:19:47
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 9
+
+	TIME: 12:19:52
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 10
+
+	TIME: 12:19:57
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 11
+
+	TIME: 12:20:02
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 12
+
+	TIME: 12:20:07
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+
+ENTRY: 13
+
+	TIME: 12:20:12
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.04,SIZE:20.24)
+
+			BACK: (PRICE:1.03,SIZE:29.01)
+
+			BACK: (PRICE:1.02,SIZE:18.08)
+

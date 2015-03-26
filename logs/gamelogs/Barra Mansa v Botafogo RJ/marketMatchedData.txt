@@ -1,0 +1,944 @@
+TIMESTAMP: 00:23:56.960
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 550.04, available: 522.75, TOTAL 1072.79}
+	{Botafogo RJ +1,1.117820284, matched: 34.73, available: 210.51, TOTAL 245.23999999999998}
+	{Asian Handicap,1.117820285, matched: 172.19, available: 13964.0, TOTAL 14136.19}
+	{DRAW NO BET,1.117820321, matched: 67.24, available: 507.63, TOTAL 574.87}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4756.86, available: 21457.49, TOTAL 26214.350000000002}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 4413.95, available: 13150.13, TOTAL 17564.079999999998}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1649.56, available: 18285.36, TOTAL 19934.920000000002}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4256.78, available: 118100.69, TOTAL 122357.47}
+}TIMESTAMP: 00:24:01.996
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 508.31, available: 522.75, TOTAL 1031.06}
+	{Botafogo RJ +1,1.117820284, matched: 34.73, available: 210.51, TOTAL 245.23999999999998}
+	{Asian Handicap,1.117820285, matched: 156.88, available: 13964.0, TOTAL 14120.88}
+	{DRAW NO BET,1.117820321, matched: 34.62, available: 507.63, TOTAL 542.25}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2209.68, available: 13150.13, TOTAL 15359.81}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1434.34, available: 18348.81, TOTAL 19783.15}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4340.2, available: 118314.13, TOTAL 122654.33}
+}TIMESTAMP: 00:24:06.913
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 502.0, available: 522.75, TOTAL 1024.75}
+	{Botafogo RJ +1,1.117820284, matched: 34.73, available: 210.51, TOTAL 245.23999999999998}
+	{Asian Handicap,1.117820285, matched: 165.82, available: 13964.0, TOTAL 14129.82}
+	{DRAW NO BET,1.117820321, matched: 3.67, available: 521.25, TOTAL 524.92}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1945.6, available: 13150.13, TOTAL 15095.73}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1286.96, available: 18348.81, TOTAL 19635.77}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4998.54, available: 118651.96, TOTAL 123650.5}
+}TIMESTAMP: 00:24:11.932
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 568.23, available: 522.75, TOTAL 1090.98}
+	{Botafogo RJ +1,1.117820284, matched: 34.73, available: 210.51, TOTAL 245.23999999999998}
+	{Asian Handicap,1.117820285, matched: 184.84, available: 13964.0, TOTAL 14148.84}
+	{DRAW NO BET,1.117820321, matched: 21.0, available: 521.25, TOTAL 542.25}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2091.5, available: 13153.08, TOTAL 15244.58}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1385.83, available: 18348.81, TOTAL 19734.64}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4754.78, available: 119055.17, TOTAL 123809.95}
+}TIMESTAMP: 00:24:16.902
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 633.23, available: 522.75, TOTAL 1155.98}
+	{Botafogo RJ +1,1.117820284, matched: 34.73, available: 210.51, TOTAL 245.23999999999998}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 50.72, available: 521.25, TOTAL 571.97}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2186.86, available: 13153.08, TOTAL 15339.94}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1503.99, available: 18366.56, TOTAL 19870.550000000003}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4499.62, available: 119881.95, TOTAL 124381.56999999999}
+}TIMESTAMP: 00:24:21.892
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 607.35, available: 522.75, TOTAL 1130.1}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 47.05, available: 521.25, TOTAL 568.3}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2186.86, available: 13153.08, TOTAL 15339.94}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1470.54, available: 18366.56, TOTAL 19837.100000000002}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 5390.8, available: 120049.18, TOTAL 125439.98}
+}TIMESTAMP: 00:24:26.938
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 627.39, available: 522.75, TOTAL 1150.1399999999999}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 45.08, available: 521.25, TOTAL 566.33}
+	{Next Goal,1.117820322, matched: 128.48, available: 154.03, TOTAL 282.51}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2335.54, available: 13153.08, TOTAL 15488.619999999999}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1721.96, available: 18366.56, TOTAL 20088.52}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4952.07, available: 120337.93, TOTAL 125290.0}
+}TIMESTAMP: 00:24:31.920
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 522.04, available: 522.75, TOTAL 1044.79}
+	{Botafogo RJ +1,1.117820284, matched: 461.73, available: 210.51, TOTAL 672.24}
+	{Asian Handicap,1.117820285, matched: 185.04, available: 13980.86, TOTAL 14165.900000000001}
+	{DRAW NO BET,1.117820321, matched: 32.34, available: 521.25, TOTAL 553.59}
+	{Next Goal,1.117820322, matched: 118.78, available: 171.82, TOTAL 290.6}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2245.22, available: 13153.08, TOTAL 15398.3}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1723.43, available: 18366.56, TOTAL 20089.99}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3979.26, available: 122273.78, TOTAL 126253.04}
+}TIMESTAMP: 00:24:37.516
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 524.35, available: 522.75, TOTAL 1047.1}
+	{Botafogo RJ +1,1.117820284, matched: 461.73, available: 210.51, TOTAL 672.24}
+	{Asian Handicap,1.117820285, matched: 184.84, available: 13980.86, TOTAL 14165.7}
+	{DRAW NO BET,1.117820321, matched: 2.63, available: 521.25, TOTAL 523.88}
+	{Next Goal,1.117820322, matched: 124.07, available: 171.82, TOTAL 295.89}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2050.14, available: 13173.1, TOTAL 15223.24}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1717.14, available: 18379.73, TOTAL 20096.87}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3258.23, available: 122681.46, TOTAL 125939.69}
+}TIMESTAMP: 00:24:41.931
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 550.23, available: 522.75, TOTAL 1072.98}
+	{Botafogo RJ +1,1.117820284, matched: 461.73, available: 210.51, TOTAL 672.24}
+	{Asian Handicap,1.117820285, matched: 184.84, available: 13980.86, TOTAL 14165.7}
+	{DRAW NO BET,1.117820321, matched: 2.63, available: 521.25, TOTAL 523.88}
+	{Next Goal,1.117820322, matched: 124.07, available: 171.82, TOTAL 295.89}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2033.75, available: 13173.1, TOTAL 15206.85}
+	{Over/Under 2.5 Goals,1.117820337, matched: 2098.42, available: 18967.35, TOTAL 21065.769999999997}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3604.99, available: 122753.78, TOTAL 126358.77}
+}TIMESTAMP: 00:24:47.237
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 561.07, available: 522.75, TOTAL 1083.8200000000002}
+	{Botafogo RJ +1,1.117820284, matched: 496.73, available: 210.51, TOTAL 707.24}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 62.41, available: 521.25, TOTAL 583.66}
+	{Next Goal,1.117820322, matched: 129.51, available: 171.82, TOTAL 301.33}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 2069.69, available: 19004.19, TOTAL 21073.879999999997}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3509.45, available: 122855.18, TOTAL 126364.62999999999}
+}TIMESTAMP: 00:24:51.984
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 544.98, available: 522.75, TOTAL 1067.73}
+	{Botafogo RJ +1,1.117820284, matched: 496.73, available: 210.51, TOTAL 707.24}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 62.41, available: 521.25, TOTAL 583.66}
+	{Next Goal,1.117820322, matched: 138.27, available: 171.82, TOTAL 310.09000000000003}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1533.97, available: 19898.41, TOTAL 21432.38}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3502.17, available: 122863.44, TOTAL 126365.61}
+}TIMESTAMP: 00:24:57.050
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 570.87, available: 522.75, TOTAL 1093.62}
+	{Botafogo RJ +1,1.117820284, matched: 462.0, available: 210.51, TOTAL 672.51}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 59.78, available: 521.25, TOTAL 581.03}
+	{Next Goal,1.117820322, matched: 129.51, available: 171.82, TOTAL 301.33}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2033.75, available: 13173.1, TOTAL 15206.85}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1188.21, available: 20150.13, TOTAL 21338.34}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3498.94, available: 122886.75, TOTAL 126385.69}
+}TIMESTAMP: 00:25:01.908
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 979.67, available: 522.75, TOTAL 1502.42}
+	{Botafogo RJ +1,1.117820284, matched: 496.73, available: 210.51, TOTAL 707.24}
+	{Asian Handicap,1.117820285, matched: 214.55, available: 13980.86, TOTAL 14195.41}
+	{DRAW NO BET,1.117820321, matched: 40.57, available: 540.46, TOTAL 581.0300000000001}
+	{Next Goal,1.117820322, matched: 138.27, available: 171.82, TOTAL 310.09000000000003}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 851.36, available: 20189.93, TOTAL 21041.29}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3600.01, available: 122972.81, TOTAL 126572.81999999999}
+}TIMESTAMP: 00:25:06.906
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 474.98, available: 522.75, TOTAL 997.73}
+	{Botafogo RJ +1,1.117820284, matched: 708.73, available: 210.51, TOTAL 919.24}
+	{Asian Handicap,1.117820285, matched: 185.04, available: 13980.86, TOTAL 14165.900000000001}
+	{DRAW NO BET,1.117820321, matched: 29.71, available: 540.46, TOTAL 570.1700000000001}
+	{Next Goal,1.117820322, matched: 138.27, available: 171.82, TOTAL 310.09000000000003}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4630.95, available: 21722.75, TOTAL 26353.7}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1901.3, available: 20189.93, TOTAL 22091.23}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3605.29, available: 123027.07, TOTAL 126632.36}
+}TIMESTAMP: 00:25:11.974
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 58.02, available: 522.75, TOTAL 580.77}
+	{Botafogo RJ +1,1.117820284, matched: 493.73, available: 210.51, TOTAL 704.24}
+	{Asian Handicap,1.117820285, matched: 90.23, available: 13980.86, TOTAL 14071.09}
+	{DRAW NO BET,1.117820321, matched: 43.2, available: 540.46, TOTAL 583.6600000000001}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1260.91, available: 20506.78, TOTAL 21767.69}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3924.68, available: 123027.07, TOTAL 126951.75}
+}TIMESTAMP: 00:25:17.307
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 61.61, available: 522.75, TOTAL 584.36}
+	{Botafogo RJ +1,1.117820284, matched: 493.73, available: 210.51, TOTAL 704.24}
+	{Asian Handicap,1.117820285, matched: 135.17, available: 13980.86, TOTAL 14116.03}
+	{DRAW NO BET,1.117820321, matched: 29.21, available: 543.09, TOTAL 572.3000000000001}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 530.93, available: 20518.13, TOTAL 21049.06}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3706.15, available: 123109.28, TOTAL 126815.43}
+}TIMESTAMP: 00:25:21.909
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 61.61, available: 522.75, TOTAL 584.36}
+	{Botafogo RJ +1,1.117820284, matched: 493.73, available: 210.51, TOTAL 704.24}
+	{Asian Handicap,1.117820285, matched: 60.52, available: 14012.13, TOTAL 14072.65}
+	{DRAW NO BET,1.117820321, matched: 25.08, available: 543.09, TOTAL 568.1700000000001}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 651.24, available: 20655.1, TOTAL 21306.34}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3769.52, available: 124278.04, TOTAL 128047.56}
+}TIMESTAMP: 00:25:26.955
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 474.53, available: 522.75, TOTAL 997.28}
+	{Botafogo RJ +1,1.117820284, matched: 523.73, available: 210.51, TOTAL 734.24}
+	{Asian Handicap,1.117820285, matched: 74.19, available: 14012.13, TOTAL 14086.32}
+	{DRAW NO BET,1.117820321, matched: 30.83, available: 543.09, TOTAL 573.9200000000001}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1412.33, available: 20804.89, TOTAL 22217.22}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4142.57, available: 124278.04, TOTAL 128420.60999999999}
+}TIMESTAMP: 00:25:31.902
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 524.66, available: 522.75, TOTAL 1047.4099999999999}
+	{Botafogo RJ +1,1.117820284, matched: 489.0, available: 210.51, TOTAL 699.51}
+	{Asian Handicap,1.117820285, matched: 141.51, available: 14012.13, TOTAL 14153.64}
+	{DRAW NO BET,1.117820321, matched: 54.45, available: 543.09, TOTAL 597.5400000000001}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1499.61, available: 20804.89, TOTAL 22304.5}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3961.01, available: 124308.19, TOTAL 128269.2}
+}TIMESTAMP: 00:25:36.957
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 521.07, available: 522.75, TOTAL 1043.8200000000002}
+	{Botafogo RJ +1,1.117820284, matched: 523.73, available: 210.51, TOTAL 734.24}
+	{Asian Handicap,1.117820285, matched: 613.67, available: 14032.83, TOTAL 14646.5}
+	{DRAW NO BET,1.117820321, matched: 44.1, available: 559.77, TOTAL 603.87}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1996.9, available: 13173.1, TOTAL 15170.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1480.88, available: 20805.11, TOTAL 22285.99}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3782.68, available: 124450.79, TOTAL 128233.46999999999}
+}TIMESTAMP: 00:25:41.918
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 462.19, available: 522.75, TOTAL 984.94}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 624.5, available: 14032.83, TOTAL 14657.33}
+	{DRAW NO BET,1.117820321, matched: 44.1, available: 559.77, TOTAL 603.87}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2010.35, available: 13173.1, TOTAL 15183.45}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1692.16, available: 20805.11, TOTAL 22497.27}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4046.95, available: 124450.79, TOTAL 128497.73999999999}
+}TIMESTAMP: 00:25:46.906
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 491.66, available: 522.75, TOTAL 1014.4100000000001}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 613.67, available: 14032.83, TOTAL 14646.5}
+	{DRAW NO BET,1.117820321, matched: 44.1, available: 559.77, TOTAL 603.87}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2092.43, available: 13173.1, TOTAL 15265.53}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1582.88, available: 20805.52, TOTAL 22388.4}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3841.82, available: 124661.05, TOTAL 128502.87000000001}
+}TIMESTAMP: 00:25:51.935
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 491.66, available: 522.75, TOTAL 1014.4100000000001}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 633.16, available: 14032.83, TOTAL 14665.99}
+	{DRAW NO BET,1.117820321, matched: 48.12, available: 559.77, TOTAL 607.89}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2092.43, available: 13173.1, TOTAL 15265.53}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1589.45, available: 20808.95, TOTAL 22398.4}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3557.65, available: 125106.33, TOTAL 128663.98}
+}TIMESTAMP: 00:25:56.928
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 491.66, available: 522.75, TOTAL 1014.4100000000001}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 581.31, available: 14032.83, TOTAL 14614.14}
+	{DRAW NO BET,1.117820321, matched: 42.7, available: 559.77, TOTAL 602.47}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2120.88, available: 13173.1, TOTAL 15293.98}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1651.32, available: 20809.37, TOTAL 22460.69}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4386.51, available: 125183.42, TOTAL 129569.93}
+}TIMESTAMP: 00:26:01.937
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 488.07, available: 522.75, TOTAL 1010.8199999999999}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 619.38, available: 14032.83, TOTAL 14652.21}
+	{DRAW NO BET,1.117820321, matched: 54.96, available: 561.54, TOTAL 616.5}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 2120.88, available: 13173.1, TOTAL 15293.98}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1659.89, available: 20809.37, TOTAL 22469.26}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 4137.48, available: 125202.91, TOTAL 129340.39}
+}TIMESTAMP: 00:26:06.959
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 488.07, available: 522.75, TOTAL 1010.8199999999999}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 646.83, available: 14032.83, TOTAL 14679.66}
+	{DRAW NO BET,1.117820321, matched: 55.97, available: 561.54, TOTAL 617.51}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1929.61, available: 13173.1, TOTAL 15102.710000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1549.36, available: 20809.37, TOTAL 22358.73}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3040.2, available: 126487.55, TOTAL 129527.75}
+}TIMESTAMP: 00:26:12.146
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 507.19, available: 522.75, TOTAL 1029.94}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 648.17, available: 14032.83, TOTAL 14681.0}
+	{DRAW NO BET,1.117820321, matched: 47.21, available: 561.54, TOTAL 608.75}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1929.08, available: 13173.1, TOTAL 15102.18}
+	{Over/Under 2.5 Goals,1.117820337, matched: 865.15, available: 20865.51, TOTAL 21730.66}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3425.84, available: 126509.92, TOTAL 129935.76}
+}TIMESTAMP: 00:26:17.191
+	{Over/Under 5.5 Goals,1.117820276, matched: 2726.33, available: 2489.7, TOTAL 5216.03}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 509.82, available: 522.75, TOTAL 1032.57}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 679.43, available: 14032.83, TOTAL 14712.26}
+	{DRAW NO BET,1.117820321, matched: 58.5, available: 561.54, TOTAL 620.04}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1941.3, available: 13274.36, TOTAL 15215.66}
+	{Over/Under 2.5 Goals,1.117820337, matched: 1503.18, available: 20865.51, TOTAL 22368.69}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3477.68, available: 126509.92, TOTAL 129987.59999999999}
+}TIMESTAMP: 00:26:21.899
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 535.7, available: 522.75, TOTAL 1058.45}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 662.33, available: 14032.83, TOTAL 14695.16}
+	{DRAW NO BET,1.117820321, matched: 37.76, available: 561.54, TOTAL 599.3}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4624.22, available: 21722.75, TOTAL 26346.97}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1830.77, available: 13274.36, TOTAL 15105.130000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 7568.84, available: 21305.27, TOTAL 28874.11}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3480.19, available: 126518.16, TOTAL 129998.35}
+}TIMESTAMP: 00:26:26.956
+	{Over/Under 5.5 Goals,1.117820276, matched: 2757.91, available: 2489.7, TOTAL 5247.61}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 535.7, available: 522.75, TOTAL 1058.45}
+	{Botafogo RJ +1,1.117820284, matched: 526.73, available: 210.51, TOTAL 737.24}
+	{Asian Handicap,1.117820285, matched: 662.33, available: 14032.83, TOTAL 14695.16}
+	{DRAW NO BET,1.117820321, matched: 54.67, available: 561.54, TOTAL 616.2099999999999}
+	{Next Goal,1.117820322, matched: 127.53, available: 171.82, TOTAL 299.35}
+	{Over/Under 3.5 Goals,1.117820324, matched: 4655.8, available: 21722.75, TOTAL 26378.55}
+	{Over/Under 4.5 Goals,1.117820325, matched: 3495.91, available: 5893.43, TOTAL 9389.34}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1770.87, available: 13274.36, TOTAL 15045.23}
+	{Over/Under 2.5 Goals,1.117820337, matched: 7029.39, available: 21305.27, TOTAL 28334.66}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3509.06, available: 126545.05, TOTAL 130054.11}
+}TIMESTAMP: 00:26:31.911
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 34.73, available: 210.51, TOTAL 245.23999999999998}
+	{Asian Handicap,1.117820285, matched: 160.33, available: 14032.83, TOTAL 14193.16}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1937.88, available: 21722.75, TOTAL 23660.63}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1837.92, available: 13274.36, TOTAL 15112.28}
+	{Over/Under 2.5 Goals,1.117820337, matched: 6918.86, available: 21305.27, TOTAL 28224.13}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3406.96, available: 126618.73, TOTAL 130025.69}
+}TIMESTAMP: 00:26:36.956
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 160.33, available: 14032.83, TOTAL 14193.16}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1937.88, available: 21722.75, TOTAL 23660.63}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 1821.53, available: 13274.36, TOTAL 15095.890000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 52.92, available: 21305.27, TOTAL 21358.19}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 3406.96, available: 126618.73, TOTAL 130025.69}
+}TIMESTAMP: 00:26:41.937
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1937.88, available: 21722.75, TOTAL 23660.63}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 52.92, available: 21305.27, TOTAL 21358.19}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 132.53, available: 126618.73, TOTAL 126751.26}
+}TIMESTAMP: 00:26:46.928
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 132.53, available: 126618.73, TOTAL 126751.26}
+}TIMESTAMP: 00:26:51.907
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:26:57.029
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:01.916
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:06.923
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:11.975
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:16.923
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:21.897
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:26.939
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:31.922
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 561.54, TOTAL 561.54}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:37.197
+	{Over/Under 5.5 Goals,1.117820276, matched: 1905.72, available: 2489.7, TOTAL 4395.42}
+	{Over/Under 6.5 Goals,1.117820277, matched: 1582.97, available: 1614.1, TOTAL 3197.0699999999997}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 522.75, TOTAL 522.75}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 14032.83, TOTAL 14032.83}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 1912.09, available: 21722.75, TOTAL 23634.84}
+	{Over/Under 4.5 Goals,1.117820325, matched: 1905.72, available: 5893.43, TOTAL 7799.150000000001}
+	{Total Goals,1.117820326, matched: 0.0, available: 4388.93, TOTAL 4388.93}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 120.22, available: 388.21, TOTAL 508.42999999999995}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:42.185
+	{Over/Under 5.5 Goals,1.117820276, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820277, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820278, matched: 1571.27, available: 53.7, TOTAL 1624.97}
+	{Over/Under 8.5 Goals,1.117820279, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 180.48, TOTAL 180.48}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 210.51, TOTAL 210.51}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820322, matched: 0.0, available: 171.82, TOTAL 171.82}
+	{Over/Under 3.5 Goals,1.117820324, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820325, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820326, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117820336, matched: 842.6, available: 13274.36, TOTAL 14116.960000000001}
+	{Over/Under 2.5 Goals,1.117820337, matched: 18.28, available: 21305.27, TOTAL 21323.55}
+	{Half Time/Full Time,1.117820338, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:47.029
+	{Over/Under 5.5 Goals,1.117820276, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820277, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820278, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820279, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820322, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820324, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820325, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820326, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117820336, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:51.931
+	{Over/Under 5.5 Goals,1.117820276, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820277, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820278, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820279, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820322, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820324, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820325, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820326, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:27:56.918
+	{Over/Under 5.5 Goals,1.117820276, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820277, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820278, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820279, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820322, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820324, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820325, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820326, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820339, matched: 129.83, available: 126618.73, TOTAL 126748.56}
+}TIMESTAMP: 00:28:01.939
+	{Over/Under 5.5 Goals,1.117820276, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820277, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820278, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820279, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820280, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117820281, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Barra Mansa +1,1.117820282, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Botafogo RJ +1,1.117820284, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820285, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820321, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820322, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820324, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820325, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820326, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117820337, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820339, matched: 0.0, available: 0.0, TOTAL 0.0}
+}

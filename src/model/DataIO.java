@@ -17,6 +17,7 @@ import java.util.List;
 //method for save (marketname)
 //needs to recognise when to stop tracking
 
+
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
@@ -24,6 +25,8 @@ import betFairGSONClasses.RunnerCatalog;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+
+import enums.BetFairMarketStatus;
 
 /**
  * This class receives live betfair data and it collects and formats it. Once markets close
@@ -125,8 +128,8 @@ public class DataIO
 					currentBook = liveMarketData.get(i);
 					
 					//If this markets status is closed
-					if(counter == 150)
-					//if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
+					//if(counter == 150)
+					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
 						if(baseDirectory == null)
 							makeBaseDirectory(storedMarketData.get(j).getGameName());
@@ -148,7 +151,7 @@ public class DataIO
 					//Market isn't shut so we add more data
 					else
 					{
-						System.out.println("Adding data for market: " + storedMarketData.get(j).getMarketName());
+						System.out.println("w data for market: " + storedMarketData.get(j).getMarketName());
 						gatherData(currentBook.getRunners(), storedMarketData.get(j));
 					}
 				}			
@@ -420,7 +423,7 @@ public class DataIO
 		else
 		{
 			//Pass in 0 when there's not enough data, this is handled at a higher level elsewhere.
-			System.out.println("Writing " + System.currentTimeMillis() + " , " + (1/((workingBack + workingLay) / 2)) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); 
+			System.out.println("Writing " + System.currentTimeMillis() + " , " + 0 + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); 
 			runnerDataContainer.addData(System.currentTimeMillis(), 0);
 		}
 	}

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
 import betFairGSONClasses.RunnerCatalog;
 //TODO consider method here to remove markets from both allMarketIds and 
@@ -32,6 +33,17 @@ public class DataManager
 		gameToMarketList.put(options.getEventId(), options.getMarketIds());
 	}
 	
+	public String getMarketIdForName(String marketName)
+	{
+		 for (Entry<String, String> entry : marketIdToName.entrySet()) {
+		        if (marketName.equals(entry.getValue())) {
+		        	return entry.getKey();
+		        }
+		    }
+		 System.out.println("this shouldnt happen");
+		 return null;
+	}
+	
 	public String getGameId()
 	{		
 		if(gameId == null)
@@ -53,11 +65,6 @@ public class DataManager
 			}
 		}
 		return trackedMarketIds;
-	}
-	
-	public int numberOfActiveMarkets()
-	{
-		return trackedMarketIds.size();
 	}
 	
 	public void stopTrackingMarket(String marketId)

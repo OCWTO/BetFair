@@ -15,7 +15,7 @@ public class EventList
 	public EventList(List<BetFairMarketItem> data, List<String> closedMarketsList, long marketStartDate)
 	{
 		probabilityData = data;
-		closedMarketsList = closedMarkets;
+		closedMarkets = closedMarketsList;
 		events = new ArrayList<String>();
 		startTime = new Date(marketStartDate);
 	}

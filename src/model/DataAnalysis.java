@@ -1,10 +1,12 @@
 package model;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Timer;
-
+//TODO add code so that the all market checker doesnt remove market data for what we're querying for
+//ALSO but it needs to stop tracking markets it finds are closed
 /**
  * This class is an intermediary class for data analysis. It receives data from gameRecorder
  * using the Observer pattern and throws that data into PredictionModel objects. It then grabs
@@ -31,12 +33,31 @@ public class DataAnalysis implements Observer, Observable
 	}
 	
 	/**
+	 * Constructor for DataAnalysis in test mode
+	 * @param options
+	 * @param testFile
+	 */
+	public DataAnalysis(ProgramOptions options, File testFile)
+	{
+		started = false;
+		observers = new ArrayList<Observer>();
+		recorder = new GameRecorder(options, testFile);
+		recorder.addObserver(this);
+		predictionModel = new ArrayList<PredictionModel>();
+	}
+	
+	/**
 	 * Schedule the GameRecorder class to start getting data. It will
 	 * start once the game has started.
 	 */
 	public void start(long queryTimeInMS)
 	{
 		recorderTimer.schedule(recorder, recorder.getStartDelayInMS(), queryTimeInMS);
+	}
+	
+	public void start()
+	{
+		recorderTimer.schedule(recorder, 0);
 	}
 	
 	
@@ -96,6 +117,7 @@ public class DataAnalysis implements Observer, Observable
 	
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
+		System.out.println(closedMarkets == null);
 		for(String closedMarketId: closedMarkets)
 		{
 			for(PredictionModel model : predictionModel)

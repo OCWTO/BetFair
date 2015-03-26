@@ -1,5 +1,6 @@
 package model;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TimerTask;
@@ -47,6 +48,8 @@ public class GameRecorder extends TimerTask implements Observable
 	private DataIO io;
 	private List<String> marketList;
 	private boolean finished;
+	private boolean testMode;
+	
 	/**
 	 * @param gameAndMarkets
 	 *            An array of game IDs and market IDs in the form of
@@ -70,6 +73,23 @@ public class GameRecorder extends TimerTask implements Observable
 		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
 	}
 	
+	public GameRecorder(ProgramOptions options, File testFile)
+	{
+		finished = false;
+		testMode = true;
+		observers = new ArrayList<Observer>();
+		betFair = options.getBetFair();
+		//here we just swap that call for 1st element from the storage
+		manager = new DataManager(options, betFair.getMarketsForGame(options.getEventId()));
+		System.out.println(options.getEventId() + " OPTS");
+		io = new DataIO(manager);
+		marketList = new ArrayList<String>(manager.getMarkets());
+		
+		//we swap this data out too
+		System.out.println(manager.getGameId() + " MAN");
+		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
+	}
+	
 	public long getStartTime()
 	{
 		return manager.getStartTime();
@@ -90,15 +110,13 @@ public class GameRecorder extends TimerTask implements Observable
 		List<String> allIds = manager.getListOfAllMarketIds();
 		int requestWeight = 5;
 		int requestLimit = 200;
-		int singleRequestMaxSize = requestLimit/requestWeight;
+		int marketSizeLimit = requestLimit/requestWeight;
 		
 		List<ArrayList<String>> splitQueryMarketIds = new ArrayList<ArrayList<String>>();
 		//If the request weight is higher than what betfair allows
 		if(allIds.size() * requestWeight > 200)
 		{
 			//We create a list to contain the split ids that we use for the query
-			
-			int marketSizeLimit = requestLimit/requestWeight;
 			System.out.println(marketSizeLimit);
 			//While the number of ids processed is less than the total
 			while(marketSizeLimit < allIds.size())
@@ -138,40 +156,74 @@ public class GameRecorder extends TimerTask implements Observable
 		}
 	}
 	
+//	TODO if test mode then lets just not save the data
 	@Override
 	public void run()
 	{
+		if(testMode)
+		{
+			System.out.println("test mode on");
+			io.addData(betFair.getMarketInformation(manager.getMarkets()));
+			System.out.println("added all new data");
+			//io.storeCatalogueActivity(getAllGamesMarketData());		dont want this
+			System.out.println("storing activity");
+			//Get the relevant information from our utilised objects
+			List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
+			System.out.println("getting data");
+			List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
+			
+			EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
+			notifyObservers(gameEvents);
+			System.out.println("finished loop");
+		}
+		else
+		{
+			runNormalMode();
+		}
+		
+		if(finished)
+		{
+			System.out.println("cancelling");
+			cancel();
+		}
+	}
+
+	private void runNormalMode()
+	{
+		//Add new data to the IO class, that's just been taken from API
 		io.addData(betFair.getMarketInformation(manager.getMarkets()));
 		System.out.println("added all new data");
-		io.storeCatalogueActivity(getAllGamesMarketData());
+		//Store catalogue activity for purely history purposes
+		io.storeCatalogueActivity(getAllGamesMarketData());			//????????
 		System.out.println("storing activity");
-		//Get the relevant information from our utilised objects
+		/*Get the relevant new data from the IO class, essentially a 
+		 *parsed version of what we passed in earlier
+		 */
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
 		System.out.println("getting data");
+		
+		//Check to see if any markets have closed this iteration
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
 		
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
 		System.out.println("finished loop");
-		
-		
-		if(finished)
-		{
-			System.out.println("canelling");
-			cancel();
-		}
 	}
-
+	
 	public boolean isRunning()
 	{
 		return finished;
 	}
 
+	/**
+	 * This method checks the received data to see if any markets have been closed.
+	 * @param mostRecentData
+	 * @return A list of the market names that have been closed this iteration
+	 */
 	private List<String> checkForClosedMarkets(List<BetFairMarketItem> mostRecentData)
 	{
-		//If we received less data for markets than expected
-		System.out.println(mostRecentData.size() + " MOST RECET");
-		System.out.println(marketList.size() + " MARKETLIST");
+		System.out.println(mostRecentData.size() + " RECEIVED SIZE");
+		System.out.println(marketList.size() + " MARKETLIST SIZE");
 		
 		//If there's a mismatch between the number of markets we got data for and what we expect
 		if(marketList.size() != mostRecentData.size())
@@ -179,51 +231,42 @@ public class GameRecorder extends TimerTask implements Observable
 			//If we received nothing then that means the game is over
 			if(mostRecentData.size() == 0)
 			{
-				System.out.println("All markets finished so shutting down.@@@@@");
-				
-				//Cancel timertask so data requests stop
-				//System.out.println(this.cancel());
+				System.out.println("All markets finished so shutting down.");
 				finished = true;
 			}
-				//Need to throw custom stuff up?
-				//Resolve the list of market ids to their names
+				//Resolve our list of market ids to their names.
 				List<String> marketNames = new ArrayList<String>();
 				for(String marketId: marketList)
 				{
 					marketNames.add(manager.getMarketName(marketId));
 				}
 				
-				//Convert List of BetFairMarketItems to a list of their marketNames
+				//Convert the received List of BetFairMarketItems to a list of their marketNames
 				List<String> recentMarketIds = mostRecentData.stream().map(BetFairMarketItem::getMarketName).collect(Collectors.toList());
 				
-				//Remove all common elements, thus whats left is market names we received no data for
+				//Remove all common elements, thus what's left is market names we received no data for
 				marketNames.removeAll(recentMarketIds);
-	
+				
+				//Stop tracking those we received no data for.
+				//I think we need ids to remove from so either store indexes or convert
+				
+				for(String x : marketNames)
+				{
+					System.out.println("trying a removal");
+					System.out.println("x is " + x + ". " + manager.getMarketIdForName(x));
+					if(marketList.indexOf(manager.getMarketIdForName(x)) >= 0)
+					{
+						System.out.println(marketList.remove(marketList.indexOf(manager.getMarketIdForName(x))));
+						
+					}
+				}
+				//marketList.removeAll(marketNames);	//TODO problems might come from here
 				//If there's markets we received no data for
 				System.out.println("markets we got no data for " + marketNames.size());
-				if(marketNames.size() != 0)
-				{
-					return marketNames;
-				}
-			
-		}
-		return null;
-	}
 
-	private List<BetFairMarketData> getAllGameMarketInformation()
-	{
-		List<BetFairMarketData> allGameMarkets = new ArrayList<BetFairMarketData>();
-		
-		//Get lists of ids to request due to data request limitations
-		//List<List<String>> allGameMarketIds = getMarketIdList(manager.getGameId());
-		
-//		for(int i = 0; i < allGameMarketIds.size(); i++)
-//		{
-//			allGameMarkets.addAll(betFair.getMarketInformation(allGameMarketIds.get(i)));
-//			//betFair.g
-//		}
-		
-		return allGameMarkets;
+				return marketNames;
+		}
+		return new ArrayList<String>();
 	}
 
 	@Override

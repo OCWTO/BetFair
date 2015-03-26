@@ -1,0 +1,102 @@
+Audax SP v Capivariano Next Goal OPEN DATE: 10:30:00
+
+ENTRY: 1
+
+	TIME: 12:19:12
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 2
+
+	TIME: 12:19:17
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 3
+
+	TIME: 12:19:22
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 4
+
+	TIME: 12:19:27
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 5
+
+	TIME: 12:19:32
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 6
+
+	TIME: 12:19:37
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 7
+
+	TIME: 12:19:42
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 8
+
+	TIME: 12:19:47
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 9
+
+	TIME: 12:19:52
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
+ENTRY: 10
+
+	TIME: 12:19:57
+
+		RUNNER: Audax SP
+
+		RUNNER: Capivariano
+
+		RUNNER: No Goal
+
