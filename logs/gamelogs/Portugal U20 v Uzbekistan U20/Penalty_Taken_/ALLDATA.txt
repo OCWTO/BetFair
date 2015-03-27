@@ -1,0 +1,4170 @@
+Portugal U20 v Uzbekistan U20 Penalty Taken? OPEN DATE: 04:00:00
+
+ENTRY: 1
+
+	TIME: 05:08:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 2
+
+	TIME: 05:08:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 3
+
+	TIME: 05:08:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 4
+
+	TIME: 05:08:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 5
+
+	TIME: 05:08:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 6
+
+	TIME: 05:08:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 7
+
+	TIME: 05:08:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 8
+
+	TIME: 05:08:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 9
+
+	TIME: 05:08:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 10
+
+	TIME: 05:08:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 11
+
+	TIME: 05:09:00
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 12
+
+	TIME: 05:09:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 13
+
+	TIME: 05:09:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 14
+
+	TIME: 05:09:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 15
+
+	TIME: 05:09:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 16
+
+	TIME: 05:09:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 17
+
+	TIME: 05:09:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 18
+
+	TIME: 05:09:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 19
+
+	TIME: 05:09:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 20
+
+	TIME: 05:09:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 21
+
+	TIME: 05:09:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 22
+
+	TIME: 05:09:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 23
+
+	TIME: 05:09:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 24
+
+	TIME: 05:10:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 25
+
+	TIME: 05:10:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 26
+
+	TIME: 05:10:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 27
+
+	TIME: 05:10:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 28
+
+	TIME: 05:10:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 29
+
+	TIME: 05:10:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 30
+
+	TIME: 05:10:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 31
+
+	TIME: 05:10:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 32
+
+	TIME: 05:10:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 33
+
+	TIME: 05:10:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 34
+
+	TIME: 05:10:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 35
+
+	TIME: 05:10:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 36
+
+	TIME: 05:11:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 37
+
+	TIME: 05:11:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 38
+
+	TIME: 05:11:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 39
+
+	TIME: 05:11:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 40
+
+	TIME: 05:11:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 41
+
+	TIME: 05:11:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 42
+
+	TIME: 05:11:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 43
+
+	TIME: 05:11:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 44
+
+	TIME: 05:11:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 45
+
+	TIME: 05:11:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 46
+
+	TIME: 05:11:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 47
+
+	TIME: 05:11:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 48
+
+	TIME: 05:12:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 49
+
+	TIME: 05:12:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 50
+
+	TIME: 05:12:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 51
+
+	TIME: 05:12:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 52
+
+	TIME: 05:12:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 53
+
+	TIME: 05:12:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 54
+
+	TIME: 05:12:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 55
+
+	TIME: 05:12:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 56
+
+	TIME: 05:12:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 57
+
+	TIME: 05:12:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 58
+
+	TIME: 05:12:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 59
+
+	TIME: 05:12:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 60
+
+	TIME: 05:13:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 61
+
+	TIME: 05:13:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 62
+
+	TIME: 05:13:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 63
+
+	TIME: 05:13:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 64
+
+	TIME: 05:13:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 65
+
+	TIME: 05:13:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 66
+
+	TIME: 05:13:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 67
+
+	TIME: 05:13:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 68
+
+	TIME: 05:13:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 69
+
+	TIME: 05:13:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 70
+
+	TIME: 05:13:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 71
+
+	TIME: 05:13:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 72
+
+	TIME: 05:14:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 73
+
+	TIME: 05:14:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 74
+
+	TIME: 05:14:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 75
+
+	TIME: 05:14:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 76
+
+	TIME: 05:14:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 77
+
+	TIME: 05:14:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 78
+
+	TIME: 05:14:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 79
+
+	TIME: 05:14:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 80
+
+	TIME: 05:14:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 81
+
+	TIME: 05:14:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 82
+
+	TIME: 05:14:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 83
+
+	TIME: 05:14:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 84
+
+	TIME: 05:15:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 85
+
+	TIME: 05:15:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 86
+
+	TIME: 05:15:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 87
+
+	TIME: 05:15:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 88
+
+	TIME: 05:15:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 89
+
+	TIME: 05:15:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 90
+
+	TIME: 05:15:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 91
+
+	TIME: 05:15:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 92
+
+	TIME: 05:15:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 93
+
+	TIME: 05:15:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 94
+
+	TIME: 05:15:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 95
+
+	TIME: 05:15:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 96
+
+	TIME: 05:16:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 97
+
+	TIME: 05:16:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 98
+
+	TIME: 05:16:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 99
+
+	TIME: 05:16:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 100
+
+	TIME: 05:16:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 101
+
+	TIME: 05:16:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 102
+
+	TIME: 05:16:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 103
+
+	TIME: 05:16:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 104
+
+	TIME: 05:16:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 105
+
+	TIME: 05:16:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 106
+
+	TIME: 05:16:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 107
+
+	TIME: 05:16:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 108
+
+	TIME: 05:17:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 109
+
+	TIME: 05:17:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 110
+
+	TIME: 05:17:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 111
+
+	TIME: 05:17:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 112
+
+	TIME: 05:17:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 113
+
+	TIME: 05:17:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 114
+
+	TIME: 05:17:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 115
+
+	TIME: 05:17:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 116
+
+	TIME: 05:17:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 117
+
+	TIME: 05:17:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 118
+
+	TIME: 05:17:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 119
+
+	TIME: 05:17:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 120
+
+	TIME: 05:18:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 121
+
+	TIME: 05:18:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 122
+
+	TIME: 05:18:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 123
+
+	TIME: 05:18:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 124
+
+	TIME: 05:18:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 125
+
+	TIME: 05:18:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 126
+
+	TIME: 05:18:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 127
+
+	TIME: 05:18:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 128
+
+	TIME: 05:18:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 129
+
+	TIME: 05:18:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 130
+
+	TIME: 05:18:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 131
+
+	TIME: 05:18:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 132
+
+	TIME: 05:19:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 133
+
+	TIME: 05:19:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 134
+
+	TIME: 05:19:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 135
+
+	TIME: 05:19:22
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 136
+
+	TIME: 05:19:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 137
+
+	TIME: 05:19:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 138
+
+	TIME: 05:19:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 139
+
+	TIME: 05:19:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 140
+
+	TIME: 05:19:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 141
+
+	TIME: 05:19:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 142
+
+	TIME: 05:19:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 143
+
+	TIME: 05:19:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 144
+
+	TIME: 05:20:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 145
+
+	TIME: 05:20:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 146
+
+	TIME: 05:20:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 147
+
+	TIME: 05:20:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 148
+
+	TIME: 05:20:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 149
+
+	TIME: 05:20:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 150
+
+	TIME: 05:20:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 151
+
+	TIME: 05:20:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 152
+
+	TIME: 05:20:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 153
+
+	TIME: 05:20:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 154
+
+	TIME: 05:20:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 155
+
+	TIME: 05:20:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 156
+
+	TIME: 05:21:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 157
+
+	TIME: 05:21:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 158
+
+	TIME: 05:21:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 159
+
+	TIME: 05:21:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 160
+
+	TIME: 05:21:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 161
+
+	TIME: 05:21:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 162
+
+	TIME: 05:21:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 163
+
+	TIME: 05:21:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 164
+
+	TIME: 05:21:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 165
+
+	TIME: 05:21:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 166
+
+	TIME: 05:21:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 167
+
+	TIME: 05:21:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 168
+
+	TIME: 05:22:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 169
+
+	TIME: 05:22:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 170
+
+	TIME: 05:22:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 171
+
+	TIME: 05:22:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 172
+
+	TIME: 05:22:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 173
+
+	TIME: 05:22:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 174
+
+	TIME: 05:22:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 175
+
+	TIME: 05:22:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 176
+
+	TIME: 05:22:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 177
+
+	TIME: 05:22:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 178
+
+	TIME: 05:22:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 179
+
+	TIME: 05:22:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 180
+
+	TIME: 05:23:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 181
+
+	TIME: 05:23:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 182
+
+	TIME: 05:23:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 183
+
+	TIME: 05:23:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 184
+
+	TIME: 05:23:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 185
+
+	TIME: 05:23:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 186
+
+	TIME: 05:23:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 187
+
+	TIME: 05:23:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 188
+
+	TIME: 05:23:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 189
+
+	TIME: 05:23:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 190
+
+	TIME: 05:23:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 191
+
+	TIME: 05:23:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 192
+
+	TIME: 05:24:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 193
+
+	TIME: 05:24:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 194
+
+	TIME: 05:24:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 195
+
+	TIME: 05:24:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 196
+
+	TIME: 05:24:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 197
+
+	TIME: 05:24:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 198
+
+	TIME: 05:24:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 199
+
+	TIME: 05:24:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 200
+
+	TIME: 05:24:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 201
+
+	TIME: 05:24:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 202
+
+	TIME: 05:24:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 203
+
+	TIME: 05:24:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 204
+
+	TIME: 05:25:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 205
+
+	TIME: 05:25:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 206
+
+	TIME: 05:25:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 207
+
+	TIME: 05:25:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 208
+
+	TIME: 05:25:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 209
+
+	TIME: 05:25:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 210
+
+	TIME: 05:25:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 211
+
+	TIME: 05:25:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 212
+
+	TIME: 05:25:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 213
+
+	TIME: 05:25:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 214
+
+	TIME: 05:25:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 215
+
+	TIME: 05:25:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 216
+
+	TIME: 05:26:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 217
+
+	TIME: 05:26:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 218
+
+	TIME: 05:26:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 219
+
+	TIME: 05:26:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 220
+
+	TIME: 05:26:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 221
+
+	TIME: 05:26:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 222
+
+	TIME: 05:26:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 223
+
+	TIME: 05:26:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 224
+
+	TIME: 05:26:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 225
+
+	TIME: 05:26:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 226
+
+	TIME: 05:26:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 227
+
+	TIME: 05:26:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 228
+
+	TIME: 05:27:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 229
+
+	TIME: 05:27:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 230
+
+	TIME: 05:27:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 231
+
+	TIME: 05:27:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 232
+
+	TIME: 05:27:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 233
+
+	TIME: 05:27:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 234
+
+	TIME: 05:27:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 235
+
+	TIME: 05:27:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 236
+
+	TIME: 05:27:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 237
+
+	TIME: 05:27:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 238
+
+	TIME: 05:27:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 239
+
+	TIME: 05:27:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 240
+
+	TIME: 05:28:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 241
+
+	TIME: 05:28:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 242
+
+	TIME: 05:28:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 243
+
+	TIME: 05:28:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 244
+
+	TIME: 05:28:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 245
+
+	TIME: 05:28:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 246
+
+	TIME: 05:28:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 247
+
+	TIME: 05:28:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 248
+
+	TIME: 05:28:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 249
+
+	TIME: 05:28:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 250
+
+	TIME: 05:28:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 251
+
+	TIME: 05:28:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 252
+
+	TIME: 05:29:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 253
+
+	TIME: 05:29:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 254
+
+	TIME: 05:29:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 255
+
+	TIME: 05:29:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 256
+
+	TIME: 05:29:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 257
+
+	TIME: 05:29:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 258
+
+	TIME: 05:29:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 259
+
+	TIME: 05:29:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 260
+
+	TIME: 05:29:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 261
+
+	TIME: 05:29:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 262
+
+	TIME: 05:29:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 263
+
+	TIME: 05:29:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 264
+
+	TIME: 05:30:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 265
+
+	TIME: 05:30:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 266
+
+	TIME: 05:30:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 267
+
+	TIME: 05:30:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 268
+
+	TIME: 05:30:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 269
+
+	TIME: 05:30:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 270
+
+	TIME: 05:30:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 271
+
+	TIME: 05:30:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 272
+
+	TIME: 05:30:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 273
+
+	TIME: 05:30:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 274
+
+	TIME: 05:30:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 275
+
+	TIME: 05:30:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 276
+
+	TIME: 05:31:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 277
+
+	TIME: 05:31:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 278
+
+	TIME: 05:31:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 279
+
+	TIME: 05:31:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 280
+
+	TIME: 05:31:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 281
+
+	TIME: 05:31:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 282
+
+	TIME: 05:31:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 283
+
+	TIME: 05:31:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 284
+
+	TIME: 05:31:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 285
+
+	TIME: 05:31:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 286
+
+	TIME: 05:31:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 287
+
+	TIME: 05:31:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 288
+
+	TIME: 05:32:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 289
+
+	TIME: 05:32:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 290
+
+	TIME: 05:32:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 291
+
+	TIME: 05:32:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 292
+
+	TIME: 05:32:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 293
+
+	TIME: 05:32:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 294
+
+	TIME: 05:32:38
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 295
+
+	TIME: 05:32:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 296
+
+	TIME: 05:32:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 297
+
+	TIME: 05:32:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 298
+
+	TIME: 05:32:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 299
+
+	TIME: 05:32:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 300
+
+	TIME: 05:33:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 301
+
+	TIME: 05:33:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 302
+
+	TIME: 05:33:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 303
+
+	TIME: 05:33:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 304
+
+	TIME: 05:33:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 305
+
+	TIME: 05:33:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 306
+
+	TIME: 05:33:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 307
+
+	TIME: 05:33:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 308
+
+	TIME: 05:33:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 309
+
+	TIME: 05:33:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 310
+
+	TIME: 05:33:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 311
+
+	TIME: 05:33:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 312
+
+	TIME: 05:34:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 313
+
+	TIME: 05:34:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 314
+
+	TIME: 05:34:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 315
+
+	TIME: 05:34:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 316
+
+	TIME: 05:34:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 317
+
+	TIME: 05:34:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 318
+
+	TIME: 05:34:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 319
+
+	TIME: 05:34:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 320
+
+	TIME: 05:34:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 321
+
+	TIME: 05:34:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 322
+
+	TIME: 05:34:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 323
+
+	TIME: 05:35:01
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 324
+
+	TIME: 05:35:07
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 325
+
+	TIME: 05:35:12
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 326
+
+	TIME: 05:35:17
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 327
+
+	TIME: 05:35:20
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 328
+
+	TIME: 05:35:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 329
+
+	TIME: 05:35:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 330
+
+	TIME: 05:35:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 331
+
+	TIME: 05:35:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 332
+
+	TIME: 05:35:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 333
+
+	TIME: 05:35:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 334
+
+	TIME: 05:35:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 335
+
+	TIME: 05:35:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 336
+
+	TIME: 05:36:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 337
+
+	TIME: 05:36:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 338
+
+	TIME: 05:36:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 339
+
+	TIME: 05:36:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 340
+
+	TIME: 05:36:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 341
+
+	TIME: 05:36:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 342
+
+	TIME: 05:36:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 343
+
+	TIME: 05:36:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 344
+
+	TIME: 05:36:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 345
+
+	TIME: 05:36:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 346
+
+	TIME: 05:36:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 347
+
+	TIME: 05:36:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 348
+
+	TIME: 05:37:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 349
+
+	TIME: 05:37:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 350
+
+	TIME: 05:37:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 351
+
+	TIME: 05:37:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 352
+
+	TIME: 05:37:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 353
+
+	TIME: 05:37:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 354
+
+	TIME: 05:37:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 355
+
+	TIME: 05:37:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 356
+
+	TIME: 05:37:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 357
+
+	TIME: 05:37:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 358
+
+	TIME: 05:37:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 359
+
+	TIME: 05:37:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 360
+
+	TIME: 05:38:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 361
+
+	TIME: 05:38:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 362
+
+	TIME: 05:38:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 363
+
+	TIME: 05:38:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 364
+
+	TIME: 05:38:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 365
+
+	TIME: 05:38:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 366
+
+	TIME: 05:38:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 367
+
+	TIME: 05:38:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 368
+
+	TIME: 05:38:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 369
+
+	TIME: 05:38:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 370
+
+	TIME: 05:38:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 371
+
+	TIME: 05:38:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 372
+
+	TIME: 05:39:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 373
+
+	TIME: 05:39:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 374
+
+	TIME: 05:39:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 375
+
+	TIME: 05:39:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 376
+
+	TIME: 05:39:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 377
+
+	TIME: 05:39:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 378
+
+	TIME: 05:39:35
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 379
+
+	TIME: 05:39:40
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 380
+
+	TIME: 05:39:45
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 381
+
+	TIME: 05:39:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 382
+
+	TIME: 05:39:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 383
+
+	TIME: 05:39:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 384
+
+	TIME: 05:40:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 385
+
+	TIME: 05:40:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 386
+
+	TIME: 05:40:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 387
+
+	TIME: 05:40:20
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 388
+
+	TIME: 05:40:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 389
+
+	TIME: 05:40:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 390
+
+	TIME: 05:40:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 391
+
+	TIME: 05:40:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 392
+
+	TIME: 05:40:45
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 393
+
+	TIME: 05:40:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 394
+
+	TIME: 05:40:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 395
+
+	TIME: 05:40:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 396
+
+	TIME: 05:41:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 397
+
+	TIME: 05:41:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 398
+
+	TIME: 05:41:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 399
+
+	TIME: 05:41:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 400
+
+	TIME: 05:41:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 401
+
+	TIME: 05:41:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 402
+
+	TIME: 05:41:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 403
+
+	TIME: 05:41:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 404
+
+	TIME: 05:41:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 405
+
+	TIME: 05:41:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 406
+
+	TIME: 05:41:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 407
+
+	TIME: 05:41:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 408
+
+	TIME: 05:42:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 409
+
+	TIME: 05:42:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 410
+
+	TIME: 05:42:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 411
+
+	TIME: 05:42:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 412
+
+	TIME: 05:42:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 413
+
+	TIME: 05:42:30
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 414
+
+	TIME: 05:42:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 415
+
+	TIME: 05:42:40
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 416
+
+	TIME: 05:42:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 417
+
+	TIME: 05:42:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 418
+
+	TIME: 05:42:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 419
+
+	TIME: 05:42:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 420
+
+	TIME: 05:43:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 421
+
+	TIME: 05:43:10
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 422
+
+	TIME: 05:43:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 423
+
+	TIME: 05:43:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 424
+
+	TIME: 05:43:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 425
+
+	TIME: 05:43:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 426
+
+	TIME: 05:43:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 427
+
+	TIME: 05:43:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 428
+
+	TIME: 05:43:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 429
+
+	TIME: 05:43:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 430
+
+	TIME: 05:43:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 431
+
+	TIME: 05:43:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 432
+
+	TIME: 05:44:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 433
+
+	TIME: 05:44:10
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 434
+
+	TIME: 05:44:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 435
+
+	TIME: 05:44:20
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 436
+
+	TIME: 05:44:25
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 437
+
+	TIME: 05:44:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 438
+
+	TIME: 05:44:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 439
+
+	TIME: 05:44:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 440
+
+	TIME: 05:44:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 441
+
+	TIME: 05:44:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 442
+
+	TIME: 05:44:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 443
+
+	TIME: 05:44:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 444
+
+	TIME: 05:45:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 445
+
+	TIME: 05:45:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 446
+
+	TIME: 05:45:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 447
+
+	TIME: 05:45:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 448
+
+	TIME: 05:45:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 449
+
+	TIME: 05:45:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 450
+
+	TIME: 05:45:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 451
+
+	TIME: 05:45:40
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 452
+
+	TIME: 05:45:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 453
+
+	TIME: 05:45:51
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 454
+
+	TIME: 05:45:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 455
+
+	TIME: 05:46:00
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 456
+
+	TIME: 05:46:05
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 457
+
+	TIME: 05:46:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 458
+
+	TIME: 05:46:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 459
+
+	TIME: 05:46:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 460
+
+	TIME: 05:46:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 461
+
+	TIME: 05:46:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 462
+
+	TIME: 05:46:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 463
+
+	TIME: 05:46:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 464
+
+	TIME: 05:46:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 465
+
+	TIME: 05:46:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 466
+
+	TIME: 05:46:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 467
+
+	TIME: 05:46:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 468
+
+	TIME: 05:47:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 469
+
+	TIME: 05:47:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 470
+
+	TIME: 05:47:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 471
+
+	TIME: 05:47:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 472
+
+	TIME: 05:47:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 473
+
+	TIME: 05:47:30
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 474
+
+	TIME: 05:47:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 475
+
+	TIME: 05:47:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 476
+
+	TIME: 05:47:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 477
+
+	TIME: 05:47:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 478
+
+	TIME: 05:47:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 479
+
+	TIME: 05:47:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 480
+
+	TIME: 05:48:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 481
+
+	TIME: 05:48:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 482
+
+	TIME: 05:48:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 483
+
+	TIME: 05:48:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 484
+
+	TIME: 05:48:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 485
+
+	TIME: 05:48:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 486
+
+	TIME: 05:48:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 487
+
+	TIME: 05:48:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 488
+
+	TIME: 05:48:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 489
+
+	TIME: 05:48:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 490
+
+	TIME: 05:48:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 491
+
+	TIME: 05:48:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 492
+
+	TIME: 05:49:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 493
+
+	TIME: 05:49:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 494
+
+	TIME: 05:49:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 495
+
+	TIME: 05:49:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 496
+
+	TIME: 05:49:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 497
+
+	TIME: 05:49:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 498
+
+	TIME: 05:49:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 499
+
+	TIME: 05:49:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 500
+
+	TIME: 05:49:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 501
+
+	TIME: 05:49:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 502
+
+	TIME: 05:49:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 503
+
+	TIME: 05:49:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 504
+
+	TIME: 05:50:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 505
+
+	TIME: 05:50:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 506
+
+	TIME: 05:50:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 507
+
+	TIME: 05:50:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 508
+
+	TIME: 05:50:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 509
+
+	TIME: 05:50:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 510
+
+	TIME: 05:50:34
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 511
+
+	TIME: 05:50:39
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 512
+
+	TIME: 05:50:44
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 513
+
+	TIME: 05:50:49
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 514
+
+	TIME: 05:50:54
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 515
+
+	TIME: 05:50:59
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 516
+
+	TIME: 05:51:04
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 517
+
+	TIME: 05:51:09
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 518
+
+	TIME: 05:51:14
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 519
+
+	TIME: 05:51:19
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 520
+
+	TIME: 05:51:24
+
+		RUNNER: Yes
+
+		RUNNER: No
+
+ENTRY: 521
+
+	TIME: 05:51:29
+
+		RUNNER: Yes
+
+		RUNNER: No
+

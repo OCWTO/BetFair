@@ -6,11 +6,13 @@ import java.awt.Dimension;
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.JTable;
 
 import model.DataAnalysis;
+import model.Observer;
 import model.ProgramOptions;
 
-public class AnalysisView extends BetFairView
+public class AnalysisView extends BetFairView implements Observer
 {
 	private static final String frameTitle = "BetFair Game View";
 	private JLabel homeTeamName;
@@ -19,6 +21,7 @@ public class AnalysisView extends BetFairView
 	private JLabel gameTime;
 	private JLabel gameScore;
 	private DataAnalysis analysis;
+	private JTable eventListTable;
 	
 	public AnalysisView(ProgramOptions options)
 	{
@@ -27,6 +30,7 @@ public class AnalysisView extends BetFairView
 		
 		setupAndDisplay();
 		analysis = new DataAnalysis(options);
+		analysis.addObserver(this);
 		//this observe that
 		
 		//new analysis view sooo
@@ -39,28 +43,28 @@ public class AnalysisView extends BetFairView
 		
 	}
 	
-	public void setAwayTeamName(String awayTeam)
+	private void setAwayTeamName(String awayTeam)
 	{
 		awayTeamName.setText(awayTeam);
 	}
 	
-	public void setHomeTeamName(String homeTeam)
+	private void setHomeTeamName(String homeTeam)
 	{
 		homeTeamName.setText(homeTeam);
 	}
 	
-	public void setgameStartTime(String date)
+	private void setgameStartTime(String date)
 	{
 		gameStartTime.setText(date);
 	}
 	
 	//TODO modify to work in halfmins
-	public void setGameTime(String timeInMins)
+	private void setGameTime(String timeInMins)
 	{
 		gameTime.setText(timeInMins + " mins");
 	}
 	
-	public void setGameScore(int home, int away)
+	private void setGameScore(int home, int away)
 	{
 		gameScore.setText(home + " - " + away);
 	}
@@ -76,6 +80,12 @@ public class AnalysisView extends BetFairView
 	{
 		JPanel holder = new JPanel();
 		holder.setBackground(Color.BLUE);
+		
+		String[] columnNames = {"Predicted Events"};
+		Object[][] data = new Object[100][100];
+		eventListTable = new JTable(data, columnNames);
+		//eventListTable.setC
+		holder.add(eventListTable);
 		mainContainer.add(holder);
 		
 	}
@@ -126,5 +136,15 @@ public class AnalysisView extends BetFairView
 		
 	}
 
+	@Override
+	public void update(Object obj)
+	{
+		//On update we either init which sets stuff
+		
+		//Or we receive string updates
+		
+		//Check if its an init update, if so then we extract from it and update fields
+		
+		//Otherwise its a normal update so we add its test to the logs
+	}
 }
-	

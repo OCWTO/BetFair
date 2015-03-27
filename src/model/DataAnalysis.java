@@ -37,11 +37,11 @@ public class DataAnalysis implements Observer, Observable
 	 * @param options
 	 * @param testFile
 	 */
-	public DataAnalysis(ProgramOptions options, File testFile)
+	public DataAnalysis(TestFile testFile)
 	{
 		started = false;
 		observers = new ArrayList<Observer>();
-		recorder = new GameRecorder(options, testFile);
+		recorder = new GameRecorder(testFile.getOptions(), testFile);
 		recorder.addObserver(this);
 		predictionModel = new ArrayList<PredictionModel>();
 	}
@@ -57,7 +57,7 @@ public class DataAnalysis implements Observer, Observable
 	
 	public void start()
 	{
-		recorderTimer.schedule(recorder, 0);
+		recorderTimer.schedule(recorder, 0, 1);
 	}
 	
 	

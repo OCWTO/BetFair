@@ -34,13 +34,14 @@ public class DataIO
 	private String separator = File.separator;
 	private File baseDirectory;
 	private int counter;
-
+	private boolean testMode;
 	/**
 	 * Create a dataIO object
 	 * @param manager DataManager object containing metadata required by DataIO.
 	 */
-	public DataIO(DataManager manager)
+	public DataIO(DataManager manager, boolean testMode)
 	{
+		this.testMode = testMode;
 		storedMarketData = new ArrayList<MarketDataContainer>();
 		this.manager = manager;
 		counter = 1;
@@ -54,8 +55,11 @@ public class DataIO
 	 */
 	public void initilise(List<BetFairMarketObject> receivedMarketObjects)
 	{
-		storeAsJson(manager.getOptions());
-		storeAsJson(receivedMarketObjects);
+		if(!testMode)
+		{
+			storeAsJson(manager.getOptions());
+			storeAsJson(receivedMarketObjects);
+		}
 		//storeMarketLists(receivedMarketObjects);
 		
 		
@@ -114,7 +118,8 @@ public class DataIO
 	 */
 	public void addData(List<BetFairMarketData> liveMarketData)
 	{		
-		storeAsJson(liveMarketData);
+		if(!testMode)
+			storeAsJson(liveMarketData);
 	
 		System.out.println("ADDING FOR " + liveMarketData.size() + " MARKETS");
 		//Filter out the market data we want from what we receive (all market data)
@@ -145,8 +150,11 @@ public class DataIO
 					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
 						System.out.println("STOPPING TRACKING " + currentBook.getMarketId());
-						if(baseDirectory == null)
-							makeBaseDirectory(storedMarketData.get(j).getGameName());
+						if(!testMode)
+						{
+							if(baseDirectory == null)
+								makeBaseDirectory(storedMarketData.get(j).getGameName());
+						}	
 						//Grab our list of ids we query for and removed the closed market from it
 
 						manager.stopTrackingMarketId(currentBook.getMarketId());
@@ -156,10 +164,14 @@ public class DataIO
 						{
 							//Call method to store all of the json and financial data
 							//finished = true;
-							storeFinalData();
+							if(!testMode)
+								storeFinalData();
 						}
 						//Send our data container to be saved
-						saveData(storedMarketData.remove(j));
+						if(!testMode)
+							saveData(storedMarketData.remove(j));
+						else
+							storedMarketData.remove(j);
 						//decrement here so markets aren't missed out
 						j--;
 						break;
@@ -358,7 +370,9 @@ public class DataIO
 	 */
 	private void gatherData(List<Runner> runners, MarketDataContainer currentMarketDataContainer)
 	{
-		storeAllGameData(runners, currentMarketDataContainer.getAllMarketDataContainer());
+		if(!testMode)
+			storeAllGameData(runners, currentMarketDataContainer.getAllMarketDataContainer());
+			
 		storeSelectiveRunnerData(runners, currentMarketDataContainer);
 	}
 

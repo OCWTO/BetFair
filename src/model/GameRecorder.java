@@ -1,6 +1,5 @@
 package model;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TimerTask;
@@ -46,6 +45,7 @@ public class GameRecorder extends TimerTask implements Observable
 	private ISimpleBetFair betFair;
 	private List<Observer> observers;
 	private DataIO io;
+	private TestFile tester;
 	//private List<String> marketList;
 	private boolean finished;
 	private boolean testMode;
@@ -64,35 +64,25 @@ public class GameRecorder extends TimerTask implements Observable
 
 	public GameRecorder(ProgramOptions options)
 	{
-		
-		
 		finished = false;
 		observers = new ArrayList<Observer>();
 		betFair = options.getBetFair();
-		
 		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());
-		
 		manager = new DataManager(options, allMarketsForGame);
-		
-		io = new DataIO(manager);
+		io = new DataIO(manager, false);
 		io.initilise(allMarketsForGame);
 	}
 	
-	public GameRecorder(ProgramOptions options, File testFile)
+	public GameRecorder(ProgramOptions options, TestFile testFile)
 	{
 		finished = false;
 		testMode = true;
 		observers = new ArrayList<Observer>();
-		betFair = options.getBetFair();
-		//here we just swap that call for 1st element from the storage
-		manager = new DataManager(options, betFair.getMarketsForGame(options.getEventId()));
-		System.out.println(options.getEventId() + " OPTS");
-		io = new DataIO(manager);
-	//	marketList = new ArrayList<String>(manager.getTrackedMarketIds());
-		
-		//we swap this data out too
-		System.out.println(manager.getGameId() + " MAN");
-		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
+		tester = testFile;
+		List<BetFairMarketObject> allMarketsForGame = tester.getMarketList();
+		manager = new DataManager(options, allMarketsForGame);
+		io = new DataIO(manager, true);
+		io.initilise(allMarketsForGame);
 	}
 	
 	public long getStartTime()
@@ -169,19 +159,7 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		if(testMode)
 		{
-			System.out.println("test mode on");
-			io.addData(betFair.getMarketInformation(manager.getTrackedMarketIds()));
-			System.out.println("added all new data");
-			//io.storeCatalogueActivity(getAllGamesMarketData());		dont want this
-			System.out.println("storing activity");
-			//Get the relevant information from our utilised objects
-			List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
-			System.out.println("getting data");
-			List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
-			
-			EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
-			//notifyObservers(gameEvents);
-			System.out.println("finished loop");
+			runTestMode();
 		}
 		else
 		{
@@ -193,6 +171,21 @@ public class GameRecorder extends TimerTask implements Observable
 			System.out.println("cancelling");
 			cancel();
 		}
+	}
+	
+	private void runTestMode()
+	{
+		System.out.println("test mode on");
+		io.addData(tester.getNextData());
+		System.out.println("added all new data");
+		System.out.println("storing activity");
+		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
+		System.out.println("getting data");
+		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
+		
+		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
+		notifyObservers(gameEvents);
+		System.out.println("finished loop");
 	}
 
 	private void runNormalMode()
