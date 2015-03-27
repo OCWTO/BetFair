@@ -23,6 +23,7 @@ public class JsonConverter
 	 */
 	private static final Gson gson = new GsonBuilder().registerTypeAdapter(
 			Date.class, new ISO8601DateTypeAdapter()).create();
+	private static StringBuilder notationBuilder = new StringBuilder();
 
 	/**
 	 * This method deserializes the specified Json into an object of the
@@ -51,6 +52,5 @@ public class JsonConverter
 	public static String convertToJson(Object toConvert)
 	{
 		return gson.toJson(toConvert);
-
 	}
 }

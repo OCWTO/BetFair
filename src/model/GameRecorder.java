@@ -64,13 +64,18 @@ public class GameRecorder extends TimerTask implements Observable
 
 	public GameRecorder(ProgramOptions options)
 	{
+		
+		
 		finished = false;
 		observers = new ArrayList<Observer>();
 		betFair = options.getBetFair();
-		manager = new DataManager(options, betFair.getMarketsForGame(options.getEventId()));
+		
+		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());
+		
+		manager = new DataManager(options, allMarketsForGame);
+		
 		io = new DataIO(manager);
-	//	marketList = new ArrayList<String>(manager.getTrackedMarketIds());
-		io.initilise(betFair.getMarketsForGame(manager.getGameId()));
+		io.initilise(allMarketsForGame);
 	}
 	
 	public GameRecorder(ProgramOptions options, File testFile)

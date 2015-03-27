@@ -4,7 +4,6 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Type;
 import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -14,16 +13,10 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-
-
-import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.PriceSize;
 import betFairGSONClasses.Runner;
 import betFairGSONClasses.RunnerCatalog;
-
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-
+import betfairUtils.JsonConverter;
 import enums.BetFairMarketStatus;
 
 /**
@@ -35,7 +28,7 @@ import enums.BetFairMarketStatus;
 public class DataIO
 {
 	private List<MarketDataContainer> storedMarketData;
-	private List<String> jsonMarketBookReplies;
+	private List<String> jsonAPIReplies;
 	private List<String> marketCatalogueActivity; 
 	private DataManager manager;
 	private String separator = File.separator;
@@ -51,7 +44,7 @@ public class DataIO
 		storedMarketData = new ArrayList<MarketDataContainer>();
 		this.manager = manager;
 		counter = 1;
-		jsonMarketBookReplies = new ArrayList<String>();
+		jsonAPIReplies = new ArrayList<String>();
 		marketCatalogueActivity = new ArrayList<String>();
 	}
 
@@ -61,6 +54,11 @@ public class DataIO
 	 */
 	public void initilise(List<BetFairMarketObject> receivedMarketObjects)
 	{
+		storeAsJson(manager.getOptions());
+		storeAsJson(receivedMarketObjects);
+		//storeMarketLists(receivedMarketObjects);
+		
+		
 		//Get the list of markets that we're tracking
 		List<String> storedMarketList = manager.getTrackedMarketIds();
 
@@ -116,13 +114,15 @@ public class DataIO
 	 */
 	public void addData(List<BetFairMarketData> liveMarketData)
 	{		
+		storeAsJson(liveMarketData);
+	
 		System.out.println("ADDING FOR " + liveMarketData.size() + " MARKETS");
 		//Filter out the market data we want from what we receive (all market data)
 		List<BetFairMarketData> trackedMarketData = getTrackedMarketData(liveMarketData);
 		System.out.println("TRACKED SIZE " + trackedMarketData.size());
 		BetFairMarketData currentBook;
 		
-		storeJsonResults(liveMarketData);	//TODO json here stored
+		//storeMarketData(liveMarketData);	//TODO json here stored
 
 		//Assert that we filtered correctly and we initially got enough results.
 		assert liveMarketData.size() == manager.getAllMarketIds().size();
@@ -267,9 +267,9 @@ public class DataIO
 		try
 		{
 			outputWriter = new BufferedWriter(new FileWriter(filePath));
-			for (int a = 0; a < jsonMarketBookReplies.size(); a++)
+			for (int a = 0; a < jsonAPIReplies.size(); a++)
 			{
-				outputWriter.write(jsonMarketBookReplies.get(a) + "\n");
+				outputWriter.write(jsonAPIReplies.get(a) + "\n");
 			}
 			outputWriter.flush();
 			outputWriter.close();
@@ -339,42 +339,9 @@ public class DataIO
 		marketCatalogueActivity.add(catalogueInformationBuilder.toString());
 	}
 
-	//TODO look at gson.tojosn and compare the outputs
-	private void storeJsonResults(List<BetFairMarketData> marketData)
+	private void storeAsJson(Object obj)
 	{
-		String gsonNotationResults = convertToJson(marketData);
-		jsonMarketBookReplies.add(gsonNotationResults);
-	}
-
-	/**
-	 * Takes in a list of MarketBook objects and converts them back into a comma
-	 * separated json string, identical to what the program initially received
-	 * converts it pretty much the same except the notation for time is
-	 * different from the betfair api.
-	 * 
-	 * @param marketData
-	 * @return
-	 */
-	private String convertToJson(List<BetFairMarketData> marketData)
-	{
-		Gson gsonConvertor = new Gson();
-		Type sourceType = new TypeToken<MarketBook>(){}.getType();
-
-		StringBuilder jsonStringBuilder = new StringBuilder();
-		jsonStringBuilder.append("{\"jsonrpc\":\"2.0\",\"result\":[");
-		for (int i = 0; i < marketData.size(); i++)
-		{
-			jsonStringBuilder.append(gsonConvertor.toJson(marketData.get(i).getRawBook(), sourceType));
-
-			if (i == marketData.size() - 1)
-			{
-				jsonStringBuilder.append("],\"id\":\"1\"}");
-			} else
-			{
-				jsonStringBuilder.append(",");
-			}
-		}
-		return jsonStringBuilder.toString();
+		jsonAPIReplies.add(JsonConverter.convertToJson(obj));
 	}
 
 	/**

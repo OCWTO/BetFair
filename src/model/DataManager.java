@@ -185,6 +185,11 @@ public class DataManager
 		return actualStartTime;
 	}
 	
+	public ProgramOptions getOptions()
+	{
+		return options;
+	}
+	
 	/**
 	 * Returns the time in ms from the request time that 
 	 * @return
