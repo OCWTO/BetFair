@@ -41,22 +41,22 @@ public class PredictionModel
 	//if val is 0 then we just ignore
 	public void addData(List<BetFairProbabilityItem> newProbabilites)
 	{
-		System.out.println();
-		System.out.println();
+		//System.out.println();
+		//System.out.println();
 		//This  means that the market has closed, so we try make our predictions.
 		if(newProbabilites == null)
 		{	
 			return;
 		}
 		//Add new probability data, if this is 0 then it means themarket is shut
-		System.out.println("PROB LOOP START");
-		System.out.println(probabilities.size() + " iters expected");
+		//System.out.println("PROB LOOP START");
+		//System.out.println(probabilities.size() + " iters expected");
 		
 		for(BetFairProbabilityItem probability : newProbabilites)
 		{	
 			for(int i = 0; i < runnerNames.length; i++)
 			{
-				System.out.println("RUNNER LENGTH " + runnerNames.length + " NAME " + runnerNames[i]);
+				//System.out.println("RUNNER LENGTH " + runnerNames.length + " NAME " + runnerNames[i]);
 				if(runnerNames[i].equals(probability.getRunnerName()))
 				{
 					double probabilityVal = Double.parseDouble(probability.getProbability());
@@ -65,15 +65,15 @@ public class PredictionModel
 				}
 			}
 		}
-		System.out.println("PROP LOOP DONE");
+		//System.out.println("PROP LOOP DONE");
 	}
 
 	private double convertToDouble(String timeStamp)
 	{
-		System.out.println(timeStamp);
+		//System.out.println(timeStamp);
 		long retrievedTime = Long.valueOf(timeStamp);
 		long gameTimeInSeconds = (new Date(retrievedTime).getTime() - marketStartTime.getTime())/1000;
-		System.out.println("TIME IN S " + gameTimeInSeconds);
+		//System.out.println("TIME IN S " + gameTimeInSeconds);
 		int minCount = 0;
 		int secondCount = 0;
 		
@@ -89,7 +89,7 @@ public class PredictionModel
 			secondCount = (int) (gameTimeInSeconds % 60);
 		}
 		double minsAndSeconds = minCount + ((double) secondCount/100);
-		System.out.println("TimeStamp " + minsAndSeconds);
+		//System.out.println("TimeStamp " + minsAndSeconds);
 		
 		return 0;
 	}

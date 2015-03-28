@@ -6,7 +6,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.time.Instant;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
@@ -35,6 +34,7 @@ public class DataIO
 	private File baseDirectory;
 	private int counter;
 	private boolean testMode;
+	private long lastReceivedTime;
 	/**
 	 * Create a dataIO object
 	 * @param manager DataManager object containing metadata required by DataIO.
@@ -57,7 +57,9 @@ public class DataIO
 	{
 		if(!testMode)
 		{
-			storeAsJson(manager.getOptions());
+			ProgramOptions customOptions = (ProgramOptions) manager.getOptions().clone();
+			customOptions.addBetFair(null);
+			storeAsJson(customOptions);
 			storeAsJson(receivedMarketObjects);
 		}
 		//storeMarketLists(receivedMarketObjects);
@@ -118,16 +120,18 @@ public class DataIO
 	 */
 	public void addData(List<BetFairMarketData> liveMarketData)
 	{		
-		if(!testMode)
-			storeAsJson(liveMarketData);
-	
-		System.out.println("ADDING FOR " + liveMarketData.size() + " MARKETS");
+		lastReceivedTime = liveMarketData.get(0).getReceivedTime();
+		
+		//System.out.println("ADDING FOR " + liveMarketData.size() + " MARKETS");
 		//Filter out the market data we want from what we receive (all market data)
 		List<BetFairMarketData> trackedMarketData = getTrackedMarketData(liveMarketData);
-		System.out.println("TRACKED SIZE " + trackedMarketData.size());
+		
+		if(!testMode)
+			storeAsJson(trackedMarketData);
+			
+		//System.out.println("TRACKED SIZE " + trackedMarketData.size());
 		BetFairMarketData currentBook;
 		
-		//storeMarketData(liveMarketData);	//TODO json here stored
 
 		//Assert that we filtered correctly and we initially got enough results.
 		assert liveMarketData.size() == manager.getAllMarketIds().size();
@@ -149,7 +153,7 @@ public class DataIO
 					//if(counter == 150)
 					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
-						System.out.println("STOPPING TRACKING " + currentBook.getMarketId());
+						//System.out.println("STOPPING TRACKING " + currentBook.getMarketId());
 						if(!testMode)
 						{
 							if(baseDirectory == null)
@@ -169,9 +173,13 @@ public class DataIO
 						}
 						//Send our data container to be saved
 						if(!testMode)
+						{
 							saveData(storedMarketData.remove(j));
+						}
 						else
+						{
 							storedMarketData.remove(j);
+						}
 						//decrement here so markets aren't missed out
 						j--;
 						break;
@@ -179,7 +187,7 @@ public class DataIO
 					//Market isn't shut so we add more data
 					else
 					{
-						System.out.println("w data for market: " + storedMarketData.get(j).getMarketName());
+						//System.out.println("w data for market: " + storedMarketData.get(j).getMarketName());
 						gatherData(currentBook.getRunners(), storedMarketData.get(j));
 					}
 				}			
@@ -324,7 +332,7 @@ public class DataIO
 		List<String> marketIds = manager.getAllMarketIds();
 
 		StringBuilder catalogueInformationBuilder = new StringBuilder();
-		catalogueInformationBuilder.append("TIMESTAMP: " + LocalDateTime.now() + "\n");
+		catalogueInformationBuilder.append("TIMESTAMP: " + LocalDateTime.ofInstant(Instant.ofEpochMilli(lastReceivedTime), ZoneId.systemDefault()) + "\n");
 
 		for (BetFairMarketData bookItem : allMarkets)
 		{
@@ -334,8 +342,8 @@ public class DataIO
 				{
 					if(bookItem.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
 					{
-						System.out.println("STOPPING TRACk");
-						System.out.println("OF ID " + bookItem.getMarketId());
+						//System.out.println("STOPPING TRACk");
+						//System.out.println("OF ID " + bookItem.getMarketId());
 						manager.stopTrackingMarketId(bookItem.getMarketId());
 						break;
 					}
@@ -418,15 +426,14 @@ public class DataIO
 					workingLay = layOption.getPrice();
 				}
 			}
-			long time = System.currentTimeMillis();
-			runnerDataContainer.addData(time, (1/((workingBack + workingLay) /2)));
-			System.out.println("Writing " + time + " , " + (1/((workingBack + workingLay) / 2)) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName());
+			runnerDataContainer.addData(lastReceivedTime, (1/((workingBack + workingLay) /2)));
+			//System.out.println("Writing " + time + " , " + (1/((workingBack + workingLay) / 2)) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName());
 		}
 		else
 		{
 			//Pass in 0 when there's not enough data, this is handled at a higher level elsewhere.
-			System.out.println("Writing " + System.currentTimeMillis() + " , " + 0 + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); 
-			runnerDataContainer.addData(System.currentTimeMillis(), 0);
+			//System.out.println("Writing " + System.currentTimeMillis() + " , " + 0 + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName()); 
+			runnerDataContainer.addData(lastReceivedTime, 0);
 		}
 	}
 	
@@ -460,8 +467,7 @@ public class DataIO
 	private void storeAllGameData(List<Runner> runners, List<String> activeIndex)
 	{
 		activeIndex.add("ENTRY: " + counter + "\n");
-		activeIndex.add("\tTIME: " + LocalTime.now().format(DateTimeFormatter.ofPattern("hh:mm:ss")) + "\n");
-
+		activeIndex.add("\tTIME: " + LocalDateTime.ofInstant(Instant.ofEpochMilli(lastReceivedTime), ZoneId.systemDefault()).format(DateTimeFormatter.ofPattern("hh:mm:ss")) + "\n");
 		for (Runner individual : runners)
 		{
 			activeIndex.add("\t\tRUNNER: " + manager.getRunnerName(individual.getSelectionId()) + "\n");

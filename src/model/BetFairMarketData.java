@@ -13,6 +13,7 @@ public class BetFairMarketData implements BetFairDataObject
 	private double unmatchedAmount;
 	private List<Runner> marketRunners;
 	private MarketBook rawBook;
+	private long receivedTimeStamp;
 	
 	public BetFairMarketData(MarketBook book)
 	{
@@ -22,12 +23,19 @@ public class BetFairMarketData implements BetFairDataObject
 		unmatchedAmount = book.getTotalMatched();
 		marketRunners = book.getRunners();
 		rawBook = book;
+		receivedTimeStamp = System.currentTimeMillis();
 	}
 	
 	public MarketBook getRawBook()
 	{
 		return rawBook;
 	}
+	
+	public long getReceivedTime()
+	{
+		return receivedTimeStamp;
+	}
+	
 	
 	public double getMatchedAmount()
 	{

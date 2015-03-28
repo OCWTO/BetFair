@@ -67,11 +67,11 @@ public class DataManager
 	 */
 	public String getMarketIdForName(String marketName)
 	{
-		System.out.println("got name " + marketName);
+		//System.out.println("got name " + marketName);
 		//Id is mapped to name so we have to perform a reverse lookup
 		 for (Entry<String, String> IdToNameEntry : marketIdToNameMap.entrySet()) 
 		 {
-			 System.out.println("checking with value " + IdToNameEntry.getValue());
+			// System.out.println("checking with value " + IdToNameEntry.getValue());
 		        if (marketName.equals(IdToNameEntry.getValue())) 
 		        {
 		        	return IdToNameEntry.getKey();
@@ -189,14 +189,14 @@ public class DataManager
 	{
 		return options;
 	}
-	
+	//TODO save a special programoptions with the betfair detached
 	/**
 	 * Returns the time in ms from the request time that 
 	 * @return
 	 */
 	public long getStartDelay()
 	{
-		System.out.println("Starting in: " + timeToStart + " ms" + "(" + timeToStart/1000.0/60 + " mins)");
+		System.out.println("Starting in: " + (timeToStart - System.currentTimeMillis()) + " ms" + "(" + ((timeToStart - System.currentTimeMillis())/1000.0/60) + " mins)");
 		
 		if(timeToStart == 0)
 		{

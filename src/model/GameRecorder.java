@@ -67,7 +67,7 @@ public class GameRecorder extends TimerTask implements Observable
 		finished = false;
 		observers = new ArrayList<Observer>();
 		betFair = options.getBetFair();
-		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());
+		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());	//this json stored
 		manager = new DataManager(options, allMarketsForGame);
 		io = new DataIO(manager, false);
 		io.initilise(allMarketsForGame);
@@ -103,7 +103,7 @@ public class GameRecorder extends TimerTask implements Observable
 	private List<BetFairMarketData> getAllGamesMarketData()
 	{
 		List<String> allIds = manager.getAllMarketIds();
-		System.out.println("ALL ID NO " + allIds.size());
+		//System.out.println("ALL ID NO " + allIds.size());
 		int requestWeight = 5;
 		int requestLimit = 200;
 		int marketSizeLimit = requestLimit/requestWeight;
@@ -196,22 +196,22 @@ public class GameRecorder extends TimerTask implements Observable
 		
 		io.addData(allActiveData);
 		
-		System.out.println("added all new data");
+		//System.out.println("added all new data");
 		//Store catalogue activity for purely history purposes
 		io.storeCatalogueActivity(allActiveData);			//????????
-		System.out.println("storing activity");
+		//System.out.println("storing activity");
 		/*Get the relevant new data from the IO class, essentially a 
 		 *parsed version of what we passed in earlier
 		 */
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
-		System.out.println("getting data");
+		//System.out.println("getting data");
 		
 		//Check to see if any markets have closed this iteration
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
 		
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
-		System.out.println("finished loop");
+		//System.out.println("finished loop");
 	}
 	
 	public boolean isRunning()
@@ -227,8 +227,8 @@ public class GameRecorder extends TimerTask implements Observable
 	private List<String> checkForClosedMarkets(List<BetFairMarketItem> mostRecentData)
 	{
 		List<String> trackedMarketIds = manager.getTrackedMarketIds();
-		System.out.println("size of tracked list " + trackedMarketIds.size());
-		System.out.println("size of received list " + mostRecentData.size());
+		//System.out.println("size of tracked list " + trackedMarketIds.size());
+		//System.out.println("size of received list " + mostRecentData.size());
 		
 		if(mostRecentData.size() == 0 && trackedMarketIds.size() == 0)
 		{
@@ -238,7 +238,7 @@ public class GameRecorder extends TimerTask implements Observable
 		//If there's a mismatch between the number of markets we got data for and what we expect
 		if(trackedMarketIds.size() != mostRecentData.size())
 		{
-			System.out.println("RMEV");
+			//System.out.println("RMEV");
 			List<String> closedMarketNames = new ArrayList<String>();
 				//Resolve our list of market ids to their names.
 				List<String> marketNames = new ArrayList<String>();
@@ -255,7 +255,7 @@ public class GameRecorder extends TimerTask implements Observable
 				receivedMarketNames.removeAll(marketNames);
 				//Stop tracking those we received no data for.
 				//I think we need ids to remove from so either store indexes or convert
-				System.out.println("we got no data for " + receivedMarketNames.size());
+				//System.out.println("we got no data for " + receivedMarketNames.size());
 //				for(String x : receivedMarketNames)
 //				{
 //					System.out.println("market closed is " + x);
@@ -274,7 +274,7 @@ public class GameRecorder extends TimerTask implements Observable
 				
 				//marketList.removeAll(marketNames);	//TODO problems might come from here
 				//If there's markets we received no data for
-				System.out.println("markets we got no data for " + closedMarketNames.size());
+				//System.out.println("markets we got no data for " + closedMarketNames.size());
 
 				return closedMarketNames;
 		}

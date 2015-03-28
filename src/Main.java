@@ -1,5 +1,6 @@
 import java.io.File;
 
+import views.TextFrontEnd;
 import model.DataAnalysis;
 import model.TestFile;
 
@@ -23,9 +24,9 @@ public class Main
 	//print out names are in home vs away, not too relevant but maybe display it in gui
 	public static void main(String[] args)
 	{
-		//TextFrontEnd textUi = new TextFrontEnd(true);
-		//textUi.start();
-		TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Portugal U20 v Uzbekistan U20\\rawjson.txt"));
+//		TextFrontEnd textUi = new TextFrontEnd(false);
+//		textUi.start();
+		TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Hyde v Stockport\\rawjson.txt"));
 		DataAnalysis x1 = new DataAnalysis(x);
 		x1.start();
 	}

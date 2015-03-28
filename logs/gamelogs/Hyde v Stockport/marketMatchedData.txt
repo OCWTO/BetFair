@@ -1,0 +1,19 @@
+TIMESTAMP: 2015-03-28T17:08:47.724
+	{Match Odds,1.117832421, matched: 52.34, available: 1949.34, TOTAL 2001.6799999999998}
+	{Over/Under 2.5 Goals,1.117832422, matched: 440.65, available: 396.92, TOTAL 837.5699999999999}
+	{Over/Under 1.5 Goals,1.117943747, matched: 417.83, available: 111.98, TOTAL 529.81}
+	{Over/Under 3.5 Goals,1.117943748, matched: 386.69, available: 353.53, TOTAL 740.22}
+	{Over/Under 4.5 Goals,1.117943749, matched: 380.32, available: 45.98, TOTAL 426.3}
+	{Over/Under 5.5 Goals,1.117943750, matched: 380.32, available: 44.58, TOTAL 424.9}
+	{Over/Under 6.5 Goals,1.117943751, matched: 380.32, available: 109.68, TOTAL 490.0}
+	{Correct Score,1.117943752, matched: 889.36, available: 35.12, TOTAL 924.48}
+	{Next Goal,1.117943790, matched: 8.78, available: 0.0, TOTAL 8.78}
+TIMESTAMP: 2015-03-28T17:08:52.714
+	{Match Odds,1.117832421, matched: 52.34, available: 1949.34, TOTAL 2001.6799999999998}
+	{Over/Under 2.5 Goals,1.117832422, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 1.5 Goals,1.117943747, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117943748, matched: 386.69, available: 353.53, TOTAL 740.22}
+	{Over/Under 4.5 Goals,1.117943749, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117943751, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117943752, matched: 889.36, available: 35.12, TOTAL 924.48}
+	{Next Goal,1.117943790, matched: 8.78, available: 0.0, TOTAL 8.78}

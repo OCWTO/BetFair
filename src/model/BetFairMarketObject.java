@@ -14,6 +14,7 @@ public class BetFairMarketObject implements BetFairDataObject
 	private List<RunnerCatalog> marketRunners;
 	private Date marketOpenDate;
 	private Event marketEvent;
+
 	
 	public BetFairMarketObject(MarketCatalogue market)
 	{
@@ -23,7 +24,7 @@ public class BetFairMarketObject implements BetFairDataObject
 		marketOpenDate = market.getEvent().getOpenDate();
 		marketEvent = market.getEvent();
 	}
-	
+
 	public Date getOpenDate()
 	{
 		return marketOpenDate;

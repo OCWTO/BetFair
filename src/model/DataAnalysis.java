@@ -97,7 +97,7 @@ public class DataAnalysis implements Observer, Observable
 		
 		//Grab the raw probability data from it
 		List<BetFairMarketItem> marketProbabilities = events.getProbabilites();
-		System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
+		//System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
 		//Store the game start time (used later to tell prediction models when the game starts.
 		gameStartTime = events.getStartTime();
 		//Add data to the prediction models
@@ -117,7 +117,7 @@ public class DataAnalysis implements Observer, Observable
 	
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
-		System.out.println(closedMarkets == null);
+		//System.out.println(closedMarkets == null);
 		for(String closedMarketId: closedMarkets)
 		{
 			for(PredictionModel model : predictionModel)
@@ -164,19 +164,19 @@ public class DataAnalysis implements Observer, Observable
 	
 	private void addToExistingPredictionModel(List<BetFairMarketItem> marketProbabilities)
 	{
-		System.out.println("Its trying to add to the predictor model.");
+		//System.out.println("Its trying to add to the predictor model.");
 
 		//For each market we're tracking (this can include closed markets)
 		for(int i = 0; i < predictionModel.size(); i++)
 		{
-			System.out.println("iter through market " + i);
+			//System.out.println("iter through market " + i);
 			//For each market we're getting data for (active)
 			for(int j = 0; j < marketProbabilities.size(); j++)
 			{
 				//If the market names match, give it the relevant data and break (the market is still live)
 				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
 				{
-					System.out.println("Adding data for " + marketProbabilities.get(j).getMarketName());
+					//System.out.println("Adding data for " + marketProbabilities.get(j).getMarketName());
 					predictionModel.get(i).addData(marketProbabilities.get(j).getProbabilities());
 					break;
 				}

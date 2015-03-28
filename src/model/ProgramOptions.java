@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ProgramOptions
+public class ProgramOptions implements Cloneable
 {
 	private String programOption;
 	private String eventTypeId;
@@ -126,8 +126,26 @@ public class ProgramOptions
 		return this.programOption;
 	}
 
+	public Object clone()
+	{
+		try
+		{
+			return super.clone();
+		}
+		catch (CloneNotSupportedException e)
+		{
+			e.printStackTrace();
+		}
+		return null;
+	}
+	
 	public void setProgramOption(String option)
 	{
 		this.programOption = option;
+	}
+	
+	public void resetBetFair()
+	{
+		this.betFair = null;
 	}
 }
