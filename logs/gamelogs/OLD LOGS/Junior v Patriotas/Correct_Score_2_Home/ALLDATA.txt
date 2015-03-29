@@ -1,0 +1,92 @@
+Junior v Patriotas Correct Score 2 Home OPEN DATE: 11:00:00
+
+ENTRY: 1
+
+	TIME: 12:52:07
+
+		RUNNER: 4 - 0
+
+		RUNNER: 4 - 1
+
+		RUNNER: 4 - 2
+
+		RUNNER: 5 - 0
+
+		RUNNER: 5 - 1
+
+		RUNNER: 5 - 2
+
+		RUNNER: 6 - 0
+
+		RUNNER: 6 - 1
+
+		RUNNER: 6 - 2
+
+		RUNNER: 7 - 0
+
+		RUNNER: 7 - 1
+
+		RUNNER: 7 - 2
+
+		RUNNER: Any unquoted
+
+ENTRY: 2
+
+	TIME: 12:52:12
+
+		RUNNER: 4 - 0
+
+		RUNNER: 4 - 1
+
+		RUNNER: 4 - 2
+
+		RUNNER: 5 - 0
+
+		RUNNER: 5 - 1
+
+		RUNNER: 5 - 2
+
+		RUNNER: 6 - 0
+
+		RUNNER: 6 - 1
+
+		RUNNER: 6 - 2
+
+		RUNNER: 7 - 0
+
+		RUNNER: 7 - 1
+
+		RUNNER: 7 - 2
+
+		RUNNER: Any unquoted
+
+ENTRY: 3
+
+	TIME: 12:52:17
+
+		RUNNER: 4 - 0
+
+		RUNNER: 4 - 1
+
+		RUNNER: 4 - 2
+
+		RUNNER: 5 - 0
+
+		RUNNER: 5 - 1
+
+		RUNNER: 5 - 2
+
+		RUNNER: 6 - 0
+
+		RUNNER: 6 - 1
+
+		RUNNER: 6 - 2
+
+		RUNNER: 7 - 0
+
+		RUNNER: 7 - 1
+
+		RUNNER: 7 - 2
+
+		RUNNER: Any unquoted
+

@@ -1,0 +1,232 @@
+TIMESTAMP: 00:19:12.919
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:18.011
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:22.873
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:27.757
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:32.759
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:37.773
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:42.767
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:47.754
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:52.863
+	{Over/Under 5.5 Goals,1.117820536, matched: 1905.72, available: 2844.62, TOTAL 4750.34}
+	{Over/Under 6.5 Goals,1.117820537, matched: 1905.72, available: 482.39, TOTAL 2388.11}
+	{Over/Under 7.5 Goals,1.117820538, matched: 1571.27, available: 4.98, TOTAL 1576.25}
+	{Over/Under 8.5 Goals,1.117820539, matched: 1519.41, available: 0.0, TOTAL 1519.41}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 9.36, TOTAL 9.36}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 30.46, TOTAL 30.46}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 1265.58, TOTAL 1265.58}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 631.83, TOTAL 631.83}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 483.95, TOTAL 483.95}
+	{Next Goal,1.117820582, matched: 0.0, available: 6.39, TOTAL 6.39}
+	{Over/Under 3.5 Goals,1.117820584, matched: 1912.09, available: 12370.14, TOTAL 14282.23}
+	{Over/Under 4.5 Goals,1.117820585, matched: 1905.72, available: 2805.83, TOTAL 4711.55}
+	{Total Goals,1.117820586, matched: 0.0, available: 1873.67, TOTAL 1873.67}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 738.34, available: 784.11, TOTAL 1522.45}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:19:57.790
+	{Over/Under 5.5 Goals,1.117820536, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820537, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820538, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820539, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820540, matched: 1619.22, available: 0.0, TOTAL 1619.22}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117820582, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820584, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820585, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820586, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:20:02.766
+	{Over/Under 5.5 Goals,1.117820536, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820537, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820538, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820539, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820540, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820584, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820585, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820586, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117820596, matched: 3613.77, available: 11308.29, TOTAL 14922.060000000001}
+	{Half Time/Full Time,1.117820598, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:20:07.755
+	{Over/Under 5.5 Goals,1.117820536, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820537, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820538, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820539, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820540, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820584, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820585, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820586, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117820596, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Half Time/Full Time,1.117820598, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}TIMESTAMP: 00:20:12.750
+	{Over/Under 5.5 Goals,1.117820536, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117820537, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117820538, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117820539, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117820540, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Audax SP +1,1.117820542, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Capivariano +1,1.117820544, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117820545, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.117820580, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117820581, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117820584, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117820585, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117820586, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117820596, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Half Time/Full Time,1.117820598, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117820599, matched: 221.49, available: 37677.41, TOTAL 37898.9}
+}

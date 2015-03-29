@@ -1,0 +1,32 @@
+Junior v Patriotas Next Goal OPEN DATE: 11:00:00
+
+ENTRY: 1
+
+	TIME: 12:52:07
+
+		RUNNER: Junior
+
+		RUNNER: Patriotas
+
+		RUNNER: No Goal
+
+ENTRY: 2
+
+	TIME: 12:52:12
+
+		RUNNER: Junior
+
+		RUNNER: Patriotas
+
+		RUNNER: No Goal
+
+ENTRY: 3
+
+	TIME: 12:52:17
+
+		RUNNER: Junior
+
+		RUNNER: Patriotas
+
+		RUNNER: No Goal
+

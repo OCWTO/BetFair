@@ -65,17 +65,17 @@ public class DataAnalysis implements Observer, Observable
 	 * Initialise the list of prediction models, which exist for each tracked market.
 	 * @param marketProbabilities An initial list of market probabilities
 	 */
-	private void initPredictionModel(List<BetFairMarketItem> marketProbabilities)
+	private void initPredictionModel(List<BetFairMarketItem> marketProbabilities)	//TODO works as intended
 	{
 		//For each market we have
 		for(BetFairMarketItem marketProb : marketProbabilities)
 		{
 			//Create prediction model for the market
 			PredictionModel marketModel = new PredictionModel(marketProb.getMarketName(), gameStartTime);
-			
+			System.out.println("Making mode for " + marketProb.getMarketName());
 			//add data for the market to the model
 			marketModel.init(marketProb.getProbabilities());
-			
+			System.out.println("adding for " + marketProb.getMarketName());
 			//Store this predictionmodel
 			predictionModel.add(marketModel);
 		}
@@ -117,9 +117,11 @@ public class DataAnalysis implements Observer, Observable
 	
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
+		System.out.println("TRYING");
 		//System.out.println(closedMarkets == null);
 		for(String closedMarketId: closedMarkets)
 		{
+			System.out.println("CLOSED MARKET " + closedMarketId);
 			for(PredictionModel model : predictionModel)
 			{
 				if(model.getMarketName().equals(closedMarketId))
@@ -139,7 +141,7 @@ public class DataAnalysis implements Observer, Observable
 		{
 			predictedEvents.addAll(marketPredictionModel.getPredictions());
 		}
-		System.out.println("Trying to predict events");
+		//System.out.println("Trying to predict events");
 		return predictedEvents;
 	}
 	

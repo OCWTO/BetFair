@@ -1,0 +1,395 @@
+TIMESTAMP: 2015-03-26T19:54:51.862
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 3954.62, available: 71660.69, TOTAL 75615.31}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 614.02, available: 45746.12, TOTAL 46360.14}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2728.27, available: 55328.23, TOTAL 58056.5}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 13576.98, available: 139025.5, TOTAL 152602.48}
+TIMESTAMP: 2015-03-26T19:54:56.847
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8993.74, available: 139025.5, TOTAL 148019.24}
+TIMESTAMP: 2015-03-26T19:55:01.834
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8993.74, available: 139025.5, TOTAL 148019.24}
+TIMESTAMP: 2015-03-26T19:55:06.940
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:12.491
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:16.835
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:22.367
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:26.837
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:31.824
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:36.837
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:41.946
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:47.778
+	{Over/Under 5.5 Goals,1.117818243, matched: 2648.62, available: 2405.53, TOTAL 5054.15}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 33.69, available: 1473.06, TOTAL 1506.75}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 185.32, available: 7025.25, TOTAL 7210.57}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 857.35, TOTAL 857.35}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:51.914
+	{Over/Under 5.5 Goals,1.117818243, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 2644.88, available: 15627.0, TOTAL 18271.88}
+	{Over/Under 4.5 Goals,1.117818292, matched: 2648.62, available: 6544.95, TOTAL 9193.57}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:55:56.831
+	{Over/Under 5.5 Goals,1.117818243, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 8089.75, TOTAL 8089.75}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 518.8, available: 45746.12, TOTAL 46264.920000000006}
+	{Over/Under 3.5 Goals,1.117818291, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117818292, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 2677.0, available: 55328.23, TOTAL 58005.23}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:56:01.855
+	{Over/Under 5.5 Goals,1.117818243, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117818291, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117818292, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117818293, matched: 0.0, available: 3762.48, TOTAL 3762.48}
+	{Correct Score,1.117818303, matched: 833.73, available: 27848.02, TOTAL 28681.75}
+	{Over/Under 2.5 Goals,1.117818304, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:56:06.819
+	{Over/Under 5.5 Goals,1.117818243, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117818244, matched: 2243.56, available: 644.49, TOTAL 2888.05}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117818291, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117818292, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117818293, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117818303, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117818304, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Half Time/Full Time,1.117818305, matched: 163.92, available: 2454.27, TOTAL 2618.19}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:56:11.819
+	{Over/Under 5.5 Goals,1.117818243, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117818244, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117818245, matched: 2242.11, available: 8.04, TOTAL 2250.15}
+	{Over/Under 8.5 Goals,1.117818246, matched: 2182.31, available: 2.93, TOTAL 2185.24}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 150.3, TOTAL 150.3}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.11, TOTAL 0.11}
+	{Lyngby +1,1.117818249, matched: 33.95, available: 312.54, TOTAL 346.49}
+	{Bronshoj +1,1.117818251, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 0.5 Goals,1.117818286, matched: 587.56, available: 71660.69, TOTAL 72248.25}
+	{Both teams to Score?,1.117818287, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117818289, matched: 225.0, available: 1019.48, TOTAL 1244.48}
+	{Over/Under 1.5 Goals,1.117818290, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117818291, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117818292, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117818293, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117818303, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117818304, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Half Time/Full Time,1.117818305, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}
+TIMESTAMP: 2015-03-26T19:57:35.184
+	{Over/Under 5.5 Goals,1.117818243, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117818244, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 7.5 Goals,1.117818245, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 8.5 Goals,1.117818246, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Home,1.117818247, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score 2 Away,1.117818248, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Lyngby +1,1.117818249, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Bronshoj +1,1.117818251, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117818252, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 0.5 Goals,1.117818286, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.117818287, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117818288, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117818289, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 1.5 Goals,1.117818290, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117818291, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117818292, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117818293, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117818304, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Half Time/Full Time,1.117818305, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117818306, matched: 8976.59, available: 139025.5, TOTAL 148002.09}

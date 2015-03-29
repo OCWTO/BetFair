@@ -1,0 +1,8114 @@
+Qatar v Algeria Half Time/Full Time OPEN DATE: 04:00:00
+
+ENTRY: 1
+
+	TIME: 05:45:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.25,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.6,SIZE:6.31)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 2
+
+	TIME: 05:45:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.25,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.6,SIZE:6.31)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 3
+
+	TIME: 05:45:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.25,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.6,SIZE:6.31)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 4
+
+	TIME: 05:45:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.25,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.6,SIZE:6.31)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 5
+
+	TIME: 05:45:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.25,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.6,SIZE:6.31)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 6
+
+	TIME: 05:45:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.25,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.6,SIZE:6.31)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 7
+
+	TIME: 05:45:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 8
+
+	TIME: 05:45:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 9
+
+	TIME: 05:46:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 10
+
+	TIME: 05:46:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 11
+
+	TIME: 05:46:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 12
+
+	TIME: 05:46:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 13
+
+	TIME: 05:46:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.24,SIZE:43.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:95.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 14
+
+	TIME: 05:46:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.21,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.9,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 15
+
+	TIME: 05:46:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.21,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.9,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 16
+
+	TIME: 05:46:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.21,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.9,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 17
+
+	TIME: 05:46:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.21,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.9,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 18
+
+	TIME: 05:46:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.21,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.9,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 19
+
+	TIME: 05:46:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.21,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.9,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 20
+
+	TIME: 05:46:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.23,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 21
+
+	TIME: 05:47:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.23,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 22
+
+	TIME: 05:47:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.23,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 23
+
+	TIME: 05:47:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.23,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 24
+
+	TIME: 05:47:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.23,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 25
+
+	TIME: 05:47:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.23,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:90.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 26
+
+	TIME: 05:47:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 27
+
+	TIME: 05:47:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 28
+
+	TIME: 05:47:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 29
+
+	TIME: 05:47:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 30
+
+	TIME: 05:47:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 31
+
+	TIME: 05:47:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 32
+
+	TIME: 05:47:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.22,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.0,SIZE:8.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 33
+
+	TIME: 05:48:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.2,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.4,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 34
+
+	TIME: 05:48:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.2,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.4,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 35
+
+	TIME: 05:48:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.2,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.4,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 36
+
+	TIME: 05:48:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.2,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.4,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 37
+
+	TIME: 05:48:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.2,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.4,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 38
+
+	TIME: 05:48:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.2,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:6.4,SIZE:7.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 39
+
+	TIME: 05:48:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 40
+
+	TIME: 05:48:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 41
+
+	TIME: 05:48:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 42
+
+	TIME: 05:48:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 43
+
+	TIME: 05:48:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 44
+
+	TIME: 05:48:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 45
+
+	TIME: 05:49:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+			LAY: (PRICE:1.19,SIZE:42.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:5.7,SIZE:9.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 46
+
+	TIME: 05:49:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 47
+
+	TIME: 05:49:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 48
+
+	TIME: 05:49:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 49
+
+	TIME: 05:49:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 50
+
+	TIME: 05:49:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 51
+
+	TIME: 05:49:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.17,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.2,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 52
+
+	TIME: 05:49:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 53
+
+	TIME: 05:49:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 54
+
+	TIME: 05:49:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 55
+
+	TIME: 05:49:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 56
+
+	TIME: 05:49:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 57
+
+	TIME: 05:50:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:36.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 58
+
+	TIME: 05:50:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 59
+
+	TIME: 05:50:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 60
+
+	TIME: 05:50:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 61
+
+	TIME: 05:50:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 62
+
+	TIME: 05:50:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 63
+
+	TIME: 05:50:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 64
+
+	TIME: 05:50:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:38.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.4,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 65
+
+	TIME: 05:50:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 66
+
+	TIME: 05:50:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 67
+
+	TIME: 05:50:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 68
+
+	TIME: 05:50:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 69
+
+	TIME: 05:51:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 70
+
+	TIME: 05:51:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:41.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:6.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 71
+
+	TIME: 05:51:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:39.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 72
+
+	TIME: 05:51:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:39.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 73
+
+	TIME: 05:51:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:39.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 74
+
+	TIME: 05:51:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:39.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 75
+
+	TIME: 05:51:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:39.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 76
+
+	TIME: 05:51:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:39.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 77
+
+	TIME: 05:51:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:7.6,SIZE:5.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 78
+
+	TIME: 05:51:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 79
+
+	TIME: 05:51:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 80
+
+	TIME: 05:51:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 81
+
+	TIME: 05:52:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 82
+
+	TIME: 05:52:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 83
+
+	TIME: 05:52:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:40.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:14.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 84
+
+	TIME: 05:52:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:12.5,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 85
+
+	TIME: 05:52:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:12.5,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:3.95)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 86
+
+	TIME: 05:52:25
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:12.5,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:3.95)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 87
+
+	TIME: 05:52:30
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:12.5,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:3.95)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 88
+
+	TIME: 05:52:35
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:12.5,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:3.95)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 89
+
+	TIME: 05:52:40
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:44.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:12.5,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 90
+
+	TIME: 05:52:45
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 91
+
+	TIME: 05:52:50
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 92
+
+	TIME: 05:52:55
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 93
+
+	TIME: 05:53:00
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 94
+
+	TIME: 05:53:05
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 95
+
+	TIME: 05:53:10
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 96
+
+	TIME: 05:53:15
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:3.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 97
+
+	TIME: 05:53:20
+
+		RUNNER: Qatar/Qatar
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 98
+
+	TIME: 05:53:25
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.01,SIZE:9.05)
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 99
+
+	TIME: 05:53:30
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 100
+
+	TIME: 05:53:35
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 101
+
+	TIME: 05:53:40
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 102
+
+	TIME: 05:53:45
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 103
+
+	TIME: 05:53:50
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 104
+
+	TIME: 05:53:55
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 105
+
+	TIME: 05:54:00
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 106
+
+	TIME: 05:54:05
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 107
+
+	TIME: 05:54:10
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 108
+
+	TIME: 05:54:15
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 109
+
+	TIME: 05:54:20
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 110
+
+	TIME: 05:54:25
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 111
+
+	TIME: 05:54:30
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 112
+
+	TIME: 05:54:35
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 113
+
+	TIME: 05:54:40
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 114
+
+	TIME: 05:54:45
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 115
+
+	TIME: 05:54:50
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 116
+
+	TIME: 05:54:55
+
+		RUNNER: Qatar/Qatar
+
+			LAY: (PRICE:1.16,SIZE:45.0)
+
+		RUNNER: Qatar/Draw
+
+			BACK: (PRICE:13.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Qatar/Algeria
+
+			BACK: (PRICE:100.0,SIZE:2.0)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:2.42,SIZE:488.46)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Draw/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Qatar
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Draw
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+			BACK: (PRICE:1.01,SIZE:2.2)
+
+		RUNNER: Algeria/Algeria
+
+			BACK: (PRICE:1000.0,SIZE:8.81)
+
+			BACK: (PRICE:100.0,SIZE:4.0)
+
+			BACK: (PRICE:16.0,SIZE:219.8)
+
+ENTRY: 117
+
+	TIME: 05:55:00
+
+		RUNNER: Qatar/Qatar
+
+		RUNNER: Qatar/Draw
+
+		RUNNER: Qatar/Algeria
+
+		RUNNER: Draw/Qatar
+
+		RUNNER: Draw/Draw
+
+		RUNNER: Draw/Algeria
+
+		RUNNER: Algeria/Qatar
+
+		RUNNER: Algeria/Draw
+
+		RUNNER: Algeria/Algeria
+

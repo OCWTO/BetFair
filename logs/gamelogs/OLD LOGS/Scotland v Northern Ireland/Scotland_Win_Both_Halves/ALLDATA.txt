@@ -1,0 +1,26 @@
+Scotland v Northern Ireland Scotland Win Both Halves OPEN DATE: 07:45:00
+
+ENTRY: 1
+
+	TIME: 07:57:34
+
+		RUNNER: Yes
+
+			BACK: (PRICE:5.0,SIZE:18.0)
+
+		RUNNER: No
+
+			BACK: (PRICE:1.17,SIZE:85.48)
+
+ENTRY: 2
+
+	TIME: 07:57:39
+
+		RUNNER: Yes
+
+			BACK: (PRICE:5.0,SIZE:18.0)
+
+		RUNNER: No
+
+			BACK: (PRICE:1.17,SIZE:85.48)
+

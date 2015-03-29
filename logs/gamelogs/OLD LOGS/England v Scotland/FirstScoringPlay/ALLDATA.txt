@@ -1,0 +1,665 @@
+England v Scotland_First Scoring Play_1426352400000ENTRY: 1
+	TIME: 17:00:01.174
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:100.0)
+			BACK: (PRICE:3.85,SIZE:19.08)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:190.07)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:8.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:32.35)
+			BACK: (PRICE:3.25,SIZE:24.17)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:23.0,SIZE:6.21)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 2
+	TIME: 17:00:06.810
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:69.0)
+			BACK: (PRICE:3.85,SIZE:19.08)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:190.07)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:8.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:32.35)
+			BACK: (PRICE:3.25,SIZE:24.17)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:23.0,SIZE:6.21)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 3
+	TIME: 17:00:11.303
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:69.0)
+			BACK: (PRICE:3.85,SIZE:19.08)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:190.07)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:8.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:22.11)
+			BACK: (PRICE:3.25,SIZE:24.17)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			BACK: (PRICE:18.0,SIZE:2.5)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 4
+	TIME: 17:00:16.106
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:69.0)
+			BACK: (PRICE:3.85,SIZE:19.08)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:190.07)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:4.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:22.11)
+			BACK: (PRICE:3.25,SIZE:24.17)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			BACK: (PRICE:18.0,SIZE:2.5)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 5
+	TIME: 17:00:21.538
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:69.0)
+			BACK: (PRICE:3.85,SIZE:19.08)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:190.07)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:4.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:22.11)
+			BACK: (PRICE:3.25,SIZE:24.17)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			BACK: (PRICE:18.0,SIZE:2.5)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 6
+	TIME: 17:00:26.690
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:69.0)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			BACK: (PRICE:3.6,SIZE:9.62)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:151.22)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:4.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:22.11)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			BACK: (PRICE:3.1,SIZE:11.9)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			BACK: (PRICE:18.0,SIZE:2.5)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 7
+	TIME: 17:00:31.115
+		RUNNER: England Try
+			BACK: (PRICE:4.0,SIZE:67.0)
+			BACK: (PRICE:3.75,SIZE:409.97)
+			BACK: (PRICE:3.6,SIZE:9.62)
+			LAY: (PRICE:4.5,SIZE:29.03)
+			LAY: (PRICE:5.0,SIZE:10.0)
+			LAY: (PRICE:6.2,SIZE:10.0)
+		RUNNER: England Penalty
+			BACK: (PRICE:2.4,SIZE:151.22)
+			BACK: (PRICE:2.34,SIZE:18.66)
+			BACK: (PRICE:2.26,SIZE:5.82)
+			LAY: (PRICE:2.46,SIZE:35.16)
+			LAY: (PRICE:2.5,SIZE:25.8)
+			LAY: (PRICE:2.52,SIZE:25.0)
+		RUNNER: Scotland Try
+			BACK: (PRICE:20.0,SIZE:4.77)
+			BACK: (PRICE:19.5,SIZE:2.52)
+			BACK: (PRICE:18.0,SIZE:4.0)
+			LAY: (PRICE:38.0,SIZE:10.0)
+		RUNNER: Scotland Penalty
+			BACK: (PRICE:3.3,SIZE:22.11)
+			BACK: (PRICE:3.2,SIZE:32.59)
+			BACK: (PRICE:3.1,SIZE:11.9)
+			LAY: (PRICE:3.5,SIZE:4.0)
+			LAY: (PRICE:3.6,SIZE:62.52)
+			LAY: (PRICE:4.0,SIZE:5.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:21.0,SIZE:43.4)
+			BACK: (PRICE:18.5,SIZE:8.2)
+			BACK: (PRICE:18.0,SIZE:2.5)
+			LAY: (PRICE:30.0,SIZE:4.0)
+			LAY: (PRICE:32.0,SIZE:4.22)
+			LAY: (PRICE:55.0,SIZE:5.0)
+ENTRY: 8
+	TIME: 17:00:36.288
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 9
+	TIME: 17:00:41.218
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 10
+	TIME: 17:00:46.426
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 11
+	TIME: 17:00:51.033
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 12
+	TIME: 17:00:56.209
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 13
+	TIME: 17:01:00.962
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 14
+	TIME: 17:01:05.950
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 15
+	TIME: 17:01:11.212
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 16
+	TIME: 17:01:16.116
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 17
+	TIME: 17:01:24.549
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 18
+	TIME: 17:01:28.342
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 19
+	TIME: 17:01:31.393
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 20
+	TIME: 17:01:35.981
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 21
+	TIME: 17:01:41.048
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 22
+	TIME: 17:01:46.227
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 23
+	TIME: 17:01:51.190
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 24
+	TIME: 17:01:55.959
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 25
+	TIME: 17:02:01.053
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 26
+	TIME: 17:02:06.034
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 27
+	TIME: 17:02:11.487
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 28
+	TIME: 17:02:16.275
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 29
+	TIME: 17:02:21.325
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 30
+	TIME: 17:02:26.599
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 31
+	TIME: 17:02:31.231
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 32
+	TIME: 17:02:36.034
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 33
+	TIME: 17:02:41.006
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 34
+	TIME: 17:02:46.297
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 35
+	TIME: 17:02:51.048
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 36
+	TIME: 17:02:56.040
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 37
+	TIME: 17:03:01.458
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 38
+	TIME: 17:03:06.061
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 39
+	TIME: 17:03:11.137
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 40
+	TIME: 17:03:16.109
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 41
+	TIME: 17:03:21.021
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 42
+	TIME: 17:03:26.038
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 43
+	TIME: 17:03:31.147
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 44
+	TIME: 17:03:36.205
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 45
+	TIME: 17:03:41.249
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 46
+	TIME: 17:03:46.840
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 47
+	TIME: 17:03:52.565
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 48
+	TIME: 17:03:56.563
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 49
+	TIME: 17:04:03.282
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 50
+	TIME: 17:04:06.197
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 51
+	TIME: 17:04:11.188
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 52
+	TIME: 17:04:16.241
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 53
+	TIME: 17:04:24.923
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 54
+	TIME: 17:04:26.359
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 55
+	TIME: 17:04:31.009
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 56
+	TIME: 17:04:36.079
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 57
+	TIME: 17:04:41.058
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 58
+	TIME: 17:04:46.101
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 59
+	TIME: 17:04:51.011
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 60
+	TIME: 17:04:55.972
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 61
+	TIME: 17:05:01.165
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 62
+	TIME: 17:05:06.080
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 63
+	TIME: 17:05:11.053
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 64
+	TIME: 17:05:17.631
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 65
+	TIME: 17:05:21.268
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 66
+	TIME: 17:05:26.448
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 67
+	TIME: 17:05:31.173
+		RUNNER: England Try
+		RUNNER: England Penalty
+		RUNNER: Scotland Try
+		RUNNER: Scotland Penalty
+		RUNNER: Drop Goal (either team)

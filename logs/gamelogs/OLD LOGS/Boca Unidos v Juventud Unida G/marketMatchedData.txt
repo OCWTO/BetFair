@@ -1,0 +1,7 @@
+TIMESTAMP: 19:47:45.657
+	{Match Odds,1.117839048, matched: 862.51, available: 2706.22, TOTAL 3568.7299999999996}
+	{Over/Under 2.5 Goals,1.117839049, matched: 584.72, available: 89.77, TOTAL 674.49}
+}TIMESTAMP: 19:47:50.701
+	{Match Odds,1.117839048, matched: 862.51, available: 2706.22, TOTAL 3568.7299999999996}
+	{Over/Under 2.5 Goals,1.117839049, matched: 584.72, available: 89.77, TOTAL 674.49}
+}

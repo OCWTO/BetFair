@@ -1,0 +1,90 @@
+Boca Unidos v Juventud Unida G Match Odds OPEN DATE: 07:00:00
+
+ENTRY: 1
+
+	TIME: 07:47:45
+
+		RUNNER: Boca Unidos
+
+			BACK: (PRICE:2.02,SIZE:10.5)
+
+			BACK: (PRICE:1.97,SIZE:25.77)
+
+			BACK: (PRICE:1.95,SIZE:11.2)
+
+			LAY: (PRICE:2.14,SIZE:2.98)
+
+			LAY: (PRICE:2.72,SIZE:24.72)
+
+		RUNNER: Juventud Unida G
+
+			BACK: (PRICE:4.7,SIZE:12.4)
+
+			BACK: (PRICE:4.4,SIZE:7.45)
+
+			BACK: (PRICE:4.3,SIZE:16.92)
+
+			LAY: (PRICE:6.0,SIZE:22.85)
+
+			LAY: (PRICE:6.8,SIZE:5.89)
+
+			LAY: (PRICE:8.0,SIZE:8.0)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:3.2,SIZE:7.93)
+
+			BACK: (PRICE:3.05,SIZE:20.93)
+
+			BACK: (PRICE:3.0,SIZE:19.87)
+
+			LAY: (PRICE:3.3,SIZE:5.21)
+
+			LAY: (PRICE:3.35,SIZE:29.97)
+
+			LAY: (PRICE:3.65,SIZE:2.94)
+
+ENTRY: 2
+
+	TIME: 07:47:50
+
+		RUNNER: Boca Unidos
+
+			BACK: (PRICE:2.02,SIZE:10.5)
+
+			BACK: (PRICE:1.97,SIZE:25.77)
+
+			BACK: (PRICE:1.95,SIZE:11.2)
+
+			LAY: (PRICE:2.14,SIZE:2.98)
+
+			LAY: (PRICE:2.72,SIZE:24.72)
+
+		RUNNER: Juventud Unida G
+
+			BACK: (PRICE:4.7,SIZE:12.4)
+
+			BACK: (PRICE:4.4,SIZE:7.45)
+
+			BACK: (PRICE:4.3,SIZE:16.92)
+
+			LAY: (PRICE:6.0,SIZE:22.85)
+
+			LAY: (PRICE:6.8,SIZE:5.89)
+
+			LAY: (PRICE:8.0,SIZE:8.0)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:3.2,SIZE:7.93)
+
+			BACK: (PRICE:3.05,SIZE:20.93)
+
+			BACK: (PRICE:3.0,SIZE:19.87)
+
+			LAY: (PRICE:3.3,SIZE:5.21)
+
+			LAY: (PRICE:3.35,SIZE:29.97)
+
+			LAY: (PRICE:3.65,SIZE:2.94)
+

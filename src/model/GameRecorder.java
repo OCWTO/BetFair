@@ -144,7 +144,7 @@ public class GameRecorder extends TimerTask implements Observable
 			{
 				allDataContainer.addAll(betFair.getMarketInformation(splitQueryMarketIds.get(i)));
 			}
-			System.out.println("ALL DATA SIZE " + allDataContainer.size());
+			//System.out.println("ALL DATA SIZE " + allDataContainer.size());
 			return allDataContainer;
 		}
 		else
@@ -175,17 +175,17 @@ public class GameRecorder extends TimerTask implements Observable
 	
 	private void runTestMode()
 	{
-		System.out.println("test mode on");
+		//System.out.println("test mode on");
 		io.addData(tester.getNextData());
-		System.out.println("added all new data");
-		System.out.println("storing activity");
+		//System.out.println("added all new data");
+		//System.out.println("storing activity");
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
-		System.out.println("getting data");
+		//System.out.println("getting data");
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
-		
+		System.out.println("GOT CLOSED " + "SZ " + closedMarketList.size());
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
-		System.out.println("finished loop");
+		//System.out.println("finished loop");
 	}
 
 	private void runNormalMode()
@@ -208,7 +208,7 @@ public class GameRecorder extends TimerTask implements Observable
 		
 		//Check to see if any markets have closed this iteration
 		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
-		
+		System.out.println("GOT CLOSED " + "SZ " + closedMarketList.size());
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
 		//System.out.println("finished loop");

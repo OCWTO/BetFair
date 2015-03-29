@@ -1,0 +1,1029 @@
+TIMESTAMP: 2015-03-26T21:32:45.917
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 46.45, available: 1562.75, TOTAL 1609.2}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5686.18, available: 37513.0, TOTAL 43199.18}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3180.26, available: 11355.42, TOTAL 14535.68}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3920.5, available: 16064.64, TOTAL 19985.14}
+	{Over/Under 2.5 Goals,1.117840834, matched: 4162.38, available: 42928.9, TOTAL 47091.28}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 55467.11, available: 149948.76, TOTAL 205415.87}
+TIMESTAMP: 2015-03-26T21:32:50.871
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 46.45, available: 1562.75, TOTAL 1609.2}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5877.25, available: 37570.45, TOTAL 43447.7}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3931.51, available: 16071.22, TOTAL 20002.73}
+	{Over/Under 2.5 Goals,1.117840834, matched: 3815.49, available: 43002.2, TOTAL 46817.689999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 40190.71, available: 149970.76, TOTAL 190161.47}
+TIMESTAMP: 2015-03-26T21:32:55.878
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 35.66, available: 1562.75, TOTAL 1598.41}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5034.76, available: 38075.37, TOTAL 43110.130000000005}
+	{Over/Under 3.5 Goals,1.117840821, matched: 3510.51, available: 26491.4, TOTAL 30001.910000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3945.29, available: 16077.08, TOTAL 20022.37}
+	{Over/Under 2.5 Goals,1.117840834, matched: 4141.07, available: 43002.2, TOTAL 47143.27}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 45130.45, available: 150069.76, TOTAL 195200.21000000002}
+TIMESTAMP: 2015-03-26T21:33:00.880
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 35.66, available: 1562.75, TOTAL 1598.41}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5774.92, available: 38082.71, TOTAL 43857.63}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4133.19, available: 16087.03, TOTAL 20220.22}
+	{Over/Under 2.5 Goals,1.117840834, matched: 4869.18, available: 43002.2, TOTAL 47871.38}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 45117.36, available: 150301.49, TOTAL 195418.84999999998}
+TIMESTAMP: 2015-03-26T21:33:07.331
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 20.85, available: 1562.75, TOTAL 1583.6}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5891.25, available: 38110.96, TOTAL 44002.21}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4186.33, available: 16089.97, TOTAL 20276.3}
+	{Over/Under 2.5 Goals,1.117840834, matched: 4263.04, available: 43002.2, TOTAL 47265.24}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 45045.49, available: 150374.82, TOTAL 195420.31}
+TIMESTAMP: 2015-03-26T21:33:15.625
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 19.98, available: 1562.75, TOTAL 1582.73}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6029.06, available: 38211.84, TOTAL 44240.899999999994}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3921.3, available: 16089.97, TOTAL 20011.27}
+	{Over/Under 2.5 Goals,1.117840834, matched: 4869.18, available: 43002.2, TOTAL 47871.38}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 44721.47, available: 150829.92, TOTAL 195551.39}
+TIMESTAMP: 2015-03-26T21:33:17.168
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 19.98, available: 1562.75, TOTAL 1582.73}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6101.27, available: 38265.62, TOTAL 44366.89}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4042.67, available: 16215.49, TOTAL 20258.16}
+	{Over/Under 2.5 Goals,1.117840834, matched: 4869.18, available: 43002.2, TOTAL 47871.38}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 44720.0, available: 150829.92, TOTAL 195549.92}
+TIMESTAMP: 2015-03-26T21:33:25.958
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 12.93, available: 1562.75, TOTAL 1575.68}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6447.48, available: 38655.56, TOTAL 45103.03999999999}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4206.45, available: 16215.49, TOTAL 20421.94}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43647.38, available: 152901.01, TOTAL 196548.39}
+TIMESTAMP: 2015-03-26T21:33:26.303
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 12.93, available: 1562.75, TOTAL 1575.68}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6447.48, available: 38655.56, TOTAL 45103.03999999999}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4206.45, available: 16215.49, TOTAL 20421.94}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43647.38, available: 152901.01, TOTAL 196548.39}
+TIMESTAMP: 2015-03-26T21:33:31.348
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 12.93, available: 1562.75, TOTAL 1575.68}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6474.02, available: 39037.41, TOTAL 45511.43000000001}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3783.5, available: 16226.71, TOTAL 20010.21}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43415.65, available: 153360.47, TOTAL 196776.12}
+TIMESTAMP: 2015-03-26T21:33:36.326
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 12.93, available: 1562.75, TOTAL 1575.68}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6701.32, available: 39384.8, TOTAL 46086.12}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3712.66, available: 16229.65, TOTAL 19942.309999999998}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43329.77, available: 153442.8, TOTAL 196772.56999999998}
+TIMESTAMP: 2015-03-26T21:33:41.299
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 12.93, available: 1562.75, TOTAL 1575.68}
+	{Over/Under 1.5 Goals,1.117840820, matched: 4567.61, available: 39842.43, TOTAL 44410.04}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3709.04, available: 16229.65, TOTAL 19938.69}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43224.35, available: 153653.65, TOTAL 196878.0}
+TIMESTAMP: 2015-03-26T21:33:46.303
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 12.93, available: 1562.75, TOTAL 1575.68}
+	{Over/Under 1.5 Goals,1.117840820, matched: 4782.32, available: 40302.02, TOTAL 45084.34}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3718.4, available: 16232.58, TOTAL 19950.98}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43210.83, available: 153653.65, TOTAL 196864.47999999998}
+TIMESTAMP: 2015-03-26T21:33:51.315
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5136.56, available: 40362.73, TOTAL 45499.29}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3719.87, available: 16235.52, TOTAL 19955.39}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43247.93, available: 153653.65, TOTAL 196901.58}
+TIMESTAMP: 2015-03-26T21:33:56.310
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5262.81, available: 40550.04, TOTAL 45812.85}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3910.8, available: 16235.52, TOTAL 20146.32}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 43186.35, available: 153800.26, TOTAL 196986.61000000002}
+TIMESTAMP: 2015-03-26T21:34:01.311
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5374.82, available: 40563.71, TOTAL 45938.53}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3946.72, available: 16235.52, TOTAL 20182.24}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 38382.8, available: 163407.35, TOTAL 201790.15000000002}
+TIMESTAMP: 2015-03-26T21:34:06.335
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5616.97, available: 40613.11, TOTAL 46230.08}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4019.64, available: 16235.52, TOTAL 20255.16}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 33877.24, available: 163407.35, TOTAL 197284.59}
+TIMESTAMP: 2015-03-26T21:34:11.329
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5911.43, available: 40621.45, TOTAL 46532.88}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4018.17, available: 16238.45, TOTAL 20256.620000000003}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 42776.35, available: 163829.94, TOTAL 206606.29}
+TIMESTAMP: 2015-03-26T21:34:16.300
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5905.96, available: 40621.45, TOTAL 46527.409999999996}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3738.43, available: 16470.09, TOTAL 20208.52}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 50562.26, available: 163829.94, TOTAL 214392.2}
+TIMESTAMP: 2015-03-26T21:34:21.286
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5091.39, available: 40718.53, TOTAL 45809.92}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3726.11, available: 16470.09, TOTAL 20196.2}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5879.42, available: 43002.2, TOTAL 48881.619999999995}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 44523.09, available: 164830.54, TOTAL 209353.63}
+TIMESTAMP: 2015-03-26T21:34:26.311
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 4616.04, available: 41265.49, TOTAL 45881.53}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3716.21, available: 16470.09, TOTAL 20186.3}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5876.73, available: 43002.2, TOTAL 48878.92999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 44539.72, available: 164830.54, TOTAL 209370.26}
+TIMESTAMP: 2015-03-26T21:34:31.327
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 4785.24, available: 41407.02, TOTAL 46192.259999999995}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3720.61, available: 16470.09, TOTAL 20190.7}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5876.73, available: 43002.2, TOTAL 48878.92999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 26906.68, available: 164850.93, TOTAL 191757.61}
+TIMESTAMP: 2015-03-26T21:34:36.312
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6016.55, available: 41456.07, TOTAL 47472.62}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 3994.03, available: 16480.08, TOTAL 20474.11}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5876.73, available: 43002.2, TOTAL 48878.92999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 26929.33, available: 164850.93, TOTAL 191780.26}
+TIMESTAMP: 2015-03-26T21:34:41.334
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 1639.13, available: 255.53, TOTAL 1894.66}
+	{Correct Score 2 Away,1.117840778, matched: 1646.46, available: 0.0, TOTAL 1646.46}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5597.76, available: 41483.96, TOTAL 47081.72}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 4095.96, available: 16483.02, TOTAL 20578.98}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 32810.41, available: 164850.93, TOTAL 197661.34}
+TIMESTAMP: 2015-03-26T21:34:46.527
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6577.46, available: 41483.96, TOTAL 48061.42}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1410.86, available: 16483.02, TOTAL 17893.88}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 32786.98, available: 164850.93, TOTAL 197637.91}
+TIMESTAMP: 2015-03-26T21:34:51.293
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6283.2, available: 41483.96, TOTAL 47767.159999999996}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1397.62, available: 16485.95, TOTAL 17883.57}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 28351.64, available: 164850.93, TOTAL 193202.57}
+TIMESTAMP: 2015-03-26T21:34:56.284
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6571.06, available: 41501.65, TOTAL 48072.71}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1392.01, available: 16485.95, TOTAL 17877.96}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 26885.58, available: 164850.93, TOTAL 191736.51}
+TIMESTAMP: 2015-03-26T21:35:01.318
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5860.02, available: 41648.26, TOTAL 47508.28}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1393.96, available: 16485.95, TOTAL 17879.91}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 40965.65, available: 164850.93, TOTAL 205816.58}
+TIMESTAMP: 2015-03-26T21:35:06.283
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 8.53, available: 1562.75, TOTAL 1571.28}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6066.94, available: 41942.01, TOTAL 48008.950000000004}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1146.52, available: 16485.95, TOTAL 17632.47}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 32169.28, available: 164850.93, TOTAL 197020.21}
+TIMESTAMP: 2015-03-26T21:35:11.299
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 2.0, available: 1562.75, TOTAL 1564.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6779.59, available: 42650.97, TOTAL 49430.56}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1144.84, available: 16485.95, TOTAL 17630.79}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 32169.28, available: 164850.93, TOTAL 197020.21}
+TIMESTAMP: 2015-03-26T21:35:16.291
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 2.0, available: 1562.75, TOTAL 1564.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6629.23, available: 42822.32, TOTAL 49451.55}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1117.77, available: 16536.71, TOTAL 17654.48}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 40965.65, available: 164850.93, TOTAL 205816.58}
+TIMESTAMP: 2015-03-26T21:35:21.304
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 2.0, available: 1562.75, TOTAL 1564.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 5632.55, available: 42856.6, TOTAL 48489.15}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1117.77, available: 16536.71, TOTAL 17654.48}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 40965.65, available: 164850.93, TOTAL 205816.58}
+TIMESTAMP: 2015-03-26T21:35:26.315
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 2.0, available: 1562.75, TOTAL 1564.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6455.69, available: 43135.41, TOTAL 49591.100000000006}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1147.94, available: 16641.57, TOTAL 17789.51}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 40962.52, available: 164857.18, TOTAL 205819.69999999998}
+TIMESTAMP: 2015-03-26T21:35:31.358
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 2.0, available: 1562.75, TOTAL 1564.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6751.81, available: 43141.23, TOTAL 49893.04}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1043.94, available: 16641.57, TOTAL 17685.51}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 33630.23, available: 164866.35, TOTAL 198496.58000000002}
+TIMESTAMP: 2015-03-26T21:35:36.304
+	{Over/Under 5.5 Goals,1.117840773, matched: 3371.01, available: 3068.65, TOTAL 6439.66}
+	{Over/Under 6.5 Goals,1.117840774, matched: 3752.21, available: 5106.72, TOTAL 8858.93}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 16.85, available: 255.53, TOTAL 272.38}
+	{Correct Score 2 Away,1.117840778, matched: 24.19, available: 0.0, TOTAL 24.19}
+	{Rep of Ireland U21 +1,1.117840779, matched: 310.07, available: 0.0, TOTAL 310.07}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 12.46, available: 3.59, TOTAL 16.05}
+	{Next Goal,1.117840819, matched: 2.0, available: 1562.75, TOTAL 1564.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 6744.45, available: 43146.99, TOTAL 49891.439999999995}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 3517.0, available: 11355.42, TOTAL 14872.42}
+	{Total Goals,1.117840823, matched: 573.96, available: 117.83, TOTAL 691.7900000000001}
+	{Correct Score,1.117840833, matched: 1146.0, available: 16641.57, TOTAL 17787.57}
+	{Over/Under 2.5 Goals,1.117840834, matched: 5588.98, available: 43009.81, TOTAL 48598.78999999999}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 36562.35, available: 164866.35, TOTAL 201428.7}
+TIMESTAMP: 2015-03-26T21:35:41.312
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 4453.4, available: 26491.4, TOTAL 30944.800000000003}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2504.98, available: 43009.81, TOTAL 45514.79}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 30240.41, available: 164866.35, TOTAL 195106.76}
+TIMESTAMP: 2015-03-26T21:35:46.330
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2502.11, available: 26491.4, TOTAL 28993.510000000002}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2504.98, available: 43009.81, TOTAL 45514.79}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 163.78, available: 164866.35, TOTAL 165030.13}
+TIMESTAMP: 2015-03-26T21:35:51.325
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2502.11, available: 26491.4, TOTAL 28993.510000000002}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2504.98, available: 43009.81, TOTAL 45514.79}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:35:56.289
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2502.11, available: 26491.4, TOTAL 28993.510000000002}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2504.98, available: 43009.81, TOTAL 45514.79}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:01.378
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:06.290
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:11.286
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:16.284
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:21.313
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:26.331
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:31.291
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:36.290
+	{Over/Under 5.5 Goals,1.117840773, matched: 2427.17, available: 3068.65, TOTAL 5495.82}
+	{Over/Under 6.5 Goals,1.117840774, matched: 2831.27, available: 5106.72, TOTAL 7937.99}
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Over/Under 8.5 Goals,1.117840776, matched: 2821.48, available: 7303.55, TOTAL 10125.03}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 2583.08, TOTAL 2583.08}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:41.298
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 2602.04, TOTAL 2602.04}
+	{Both teams to Score?,1.117840817, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Over/Under 4.5 Goals,1.117840822, matched: 2464.22, available: 11355.42, TOTAL 13819.64}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 836.72, available: 16641.57, TOTAL 17478.29}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:46.411
+	{Over/Under 7.5 Goals,1.117840775, matched: 2823.97, available: 402.96, TOTAL 3226.93}
+	{Correct Score 2 Home,1.117840777, matched: 0.0, available: 255.53, TOTAL 255.53}
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Rep of Ireland U21 +1,1.117840779, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Andorra U21 +1,1.117840781, matched: 0.0, available: 497.34, TOTAL 497.34}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{DRAW NO BET,1.117840818, matched: 0.0, available: 3.59, TOTAL 3.59}
+	{Next Goal,1.117840819, matched: 0.0, available: 1562.75, TOTAL 1562.75}
+	{Over/Under 1.5 Goals,1.117840820, matched: 450.39, available: 43146.99, TOTAL 43597.38}
+	{Over/Under 3.5 Goals,1.117840821, matched: 2470.59, available: 26491.4, TOTAL 28961.99}
+	{Total Goals,1.117840823, matched: 0.0, available: 117.83, TOTAL 117.83}
+	{Correct Score,1.117840833, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117840834, matched: 2468.33, available: 43009.81, TOTAL 45478.14}
+	{Half Time/Full Time,1.117840835, matched: 1603.17, available: 3.32, TOTAL 1606.49}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:51.291
+	{Correct Score 2 Away,1.117840778, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117840782, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117840821, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Total Goals,1.117840823, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Match Odds,1.117840836, matched: 137.39, available: 164866.35, TOTAL 165003.74000000002}
+TIMESTAMP: 2015-03-26T21:36:56.302
+	{Match Odds,1.117840836, matched: 0.0, available: 0.0, TOTAL 0.0}

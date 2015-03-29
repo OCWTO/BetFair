@@ -1,0 +1,5208 @@
+Arsenal v Monaco_Second Half Correct Score_1424893500000ENTRY: 1
+	TIME: 21:03:08.502
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 2
+	TIME: 21:03:13.435
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 3
+	TIME: 21:03:18.460
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 4
+	TIME: 21:03:23.443
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 5
+	TIME: 21:03:28.456
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 6
+	TIME: 21:03:33.437
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 7
+	TIME: 21:03:38.582
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 8
+	TIME: 21:03:43.410
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 9
+	TIME: 21:03:48.340
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 10
+	TIME: 21:03:53.405
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 11
+	TIME: 21:03:58.440
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 12
+	TIME: 21:04:03.324
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 13
+	TIME: 21:04:08.535
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 14
+	TIME: 21:04:13.405
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 15
+	TIME: 21:04:18.245
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 16
+	TIME: 21:04:23.628
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 17
+	TIME: 21:04:28.560
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 18
+	TIME: 21:04:33.478
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 19
+	TIME: 21:04:38.560
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 20
+	TIME: 21:04:43.585
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 21
+	TIME: 21:04:48.619
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 22
+	TIME: 21:04:53.648
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 23
+	TIME: 21:04:58.908
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 24
+	TIME: 21:05:03.894
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 25
+	TIME: 21:05:08.869
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 26
+	TIME: 21:05:13.687
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 27
+	TIME: 21:05:18.957
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 28
+	TIME: 21:05:24.852
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 29
+	TIME: 21:05:29.175
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 30
+	TIME: 21:05:34.062
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 31
+	TIME: 21:05:40.730
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 32
+	TIME: 21:05:43.962
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 33
+	TIME: 21:05:48.977
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 34
+	TIME: 21:05:55.379
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 35
+	TIME: 21:05:58.654
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 36
+	TIME: 21:06:03.649
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 37
+	TIME: 21:06:08.791
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 38
+	TIME: 21:06:13.745
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 39
+	TIME: 21:06:18.766
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 40
+	TIME: 21:06:23.659
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 41
+	TIME: 21:06:28.778
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 42
+	TIME: 21:06:33.897
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 43
+	TIME: 21:06:38.751
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 44
+	TIME: 21:06:43.819
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 45
+	TIME: 21:06:48.906
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 46
+	TIME: 21:06:53.872
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 47
+	TIME: 21:07:01.141
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 48
+	TIME: 21:07:06.275
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 49
+	TIME: 21:07:08.303
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 50
+	TIME: 21:07:14.285
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 51
+	TIME: 21:07:18.676
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 0 - 2
+			BACK: (PRICE:4.0,SIZE:50.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 52
+	TIME: 21:07:23.561
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 53
+	TIME: 21:07:28.646
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 54
+	TIME: 21:07:33.712
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 55
+	TIME: 21:07:38.500
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 56
+	TIME: 21:07:43.534
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 57
+	TIME: 21:07:48.540
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 58
+	TIME: 21:07:53.673
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 59
+	TIME: 21:07:58.644
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 60
+	TIME: 21:08:03.480
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 61
+	TIME: 21:08:08.601
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 62
+	TIME: 21:08:13.613
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 63
+	TIME: 21:08:18.754
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 64
+	TIME: 21:08:23.804
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 65
+	TIME: 21:08:28.826
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 66
+	TIME: 21:08:33.874
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 67
+	TIME: 21:08:38.827
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 68
+	TIME: 21:08:43.958
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 69
+	TIME: 21:08:48.786
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 70
+	TIME: 21:08:53.587
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 71
+	TIME: 21:08:59.117
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 72
+	TIME: 21:09:03.775
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 73
+	TIME: 21:09:08.800
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 74
+	TIME: 21:09:13.648
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 75
+	TIME: 21:09:18.708
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 76
+	TIME: 21:09:23.566
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 77
+	TIME: 21:09:28.471
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 78
+	TIME: 21:09:33.735
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 79
+	TIME: 21:09:38.631
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 80
+	TIME: 21:09:43.599
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 81
+	TIME: 21:09:48.709
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 82
+	TIME: 21:09:53.750
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 83
+	TIME: 21:09:58.751
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 84
+	TIME: 21:10:03.759
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 85
+	TIME: 21:10:08.770
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 86
+	TIME: 21:10:13.799
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 87
+	TIME: 21:10:18.636
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 88
+	TIME: 21:10:23.662
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 89
+	TIME: 21:10:28.569
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 90
+	TIME: 21:10:33.569
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 91
+	TIME: 21:10:38.538
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 92
+	TIME: 21:10:43.689
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 93
+	TIME: 21:10:48.621
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 94
+	TIME: 21:10:53.669
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 95
+	TIME: 21:10:58.589
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 96
+	TIME: 21:11:03.636
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 97
+	TIME: 21:11:08.510
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 98
+	TIME: 21:11:13.742
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 99
+	TIME: 21:11:18.779
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 100
+	TIME: 21:11:23.769
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 101
+	TIME: 21:11:28.932
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 102
+	TIME: 21:11:33.887
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 103
+	TIME: 21:11:39.139
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 104
+	TIME: 21:11:43.728
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 105
+	TIME: 21:11:48.631
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 106
+	TIME: 21:11:53.755
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 107
+	TIME: 21:11:58.711
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 108
+	TIME: 21:12:03.730
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 109
+	TIME: 21:12:08.664
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 110
+	TIME: 21:12:13.668
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 111
+	TIME: 21:12:18.539
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 112
+	TIME: 21:12:23.571
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 113
+	TIME: 21:12:28.837
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 114
+	TIME: 21:12:33.694
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 115
+	TIME: 21:12:38.621
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 116
+	TIME: 21:12:43.753
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 117
+	TIME: 21:12:48.767
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 118
+	TIME: 21:12:53.847
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 119
+	TIME: 21:12:58.726
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 120
+	TIME: 21:13:03.734
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 121
+	TIME: 21:13:09.473
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 122
+	TIME: 21:13:16.147
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 123
+	TIME: 21:13:19.659
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 124
+	TIME: 21:13:25.696
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 125
+	TIME: 21:13:29.846
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 126
+	TIME: 21:13:36.354
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 127
+	TIME: 21:13:39.626
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 128
+	TIME: 21:13:45.002
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 129
+	TIME: 21:13:49.082
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 130
+	TIME: 21:13:54.658
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 131
+	TIME: 21:14:01.402
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 132
+	TIME: 21:14:06.807
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 133
+	TIME: 21:14:10.491
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 134
+	TIME: 21:14:16.480
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 135
+	TIME: 21:14:25.325
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 136
+	TIME: 21:14:29.251
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 137
+	TIME: 21:14:34.744
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 138
+	TIME: 21:14:38.002
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 139
+	TIME: 21:14:41.634
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 140
+	TIME: 21:14:49.586
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 141
+	TIME: 21:14:54.412
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 142
+	TIME: 21:14:58.472
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 143
+	TIME: 21:15:04.221
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 144
+	TIME: 21:15:08.461
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 145
+	TIME: 21:15:14.001
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 146
+	TIME: 21:15:19.336
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 147
+	TIME: 21:15:23.839
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 148
+	TIME: 21:15:29.509
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 149
+	TIME: 21:15:34.119
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 150
+	TIME: 21:15:39.407
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 151
+	TIME: 21:15:44.329
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 152
+	TIME: 21:15:48.928
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 153
+	TIME: 21:15:53.781
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 154
+	TIME: 21:15:59.168
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 155
+	TIME: 21:16:04.493
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 156
+	TIME: 21:16:08.692
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 157
+	TIME: 21:16:12.406
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 158
+	TIME: 21:16:18.473
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 159
+	TIME: 21:16:20.950
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 160
+	TIME: 21:16:26.284
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 161
+	TIME: 21:16:31.168
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 162
+	TIME: 21:16:36.105
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 163
+	TIME: 21:16:41.265
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 164
+	TIME: 21:16:46.278
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 165
+	TIME: 21:16:51.401
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 166
+	TIME: 21:16:56.267
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 167
+	TIME: 21:17:01.347
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 168
+	TIME: 21:17:06.526
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 169
+	TIME: 21:17:11.183
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 170
+	TIME: 21:17:16.079
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 171
+	TIME: 21:17:21.018
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 172
+	TIME: 21:17:26.108
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 173
+	TIME: 21:17:31.164
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 174
+	TIME: 21:17:36.203
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 175
+	TIME: 21:17:41.165
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 176
+	TIME: 21:17:46.320
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 177
+	TIME: 21:17:51.278
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 178
+	TIME: 21:17:56.343
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 179
+	TIME: 21:18:01.261
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 180
+	TIME: 21:18:06.357
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 181
+	TIME: 21:18:11.233
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 182
+	TIME: 21:18:16.237
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 183
+	TIME: 21:18:21.282
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 184
+	TIME: 21:18:26.202
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 185
+	TIME: 21:18:31.187
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 186
+	TIME: 21:18:36.260
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 187
+	TIME: 21:18:41.009
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 188
+	TIME: 21:18:46.491
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 189
+	TIME: 21:18:51.366
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 190
+	TIME: 21:18:56.324
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 191
+	TIME: 21:19:01.339
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 192
+	TIME: 21:19:06.421
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 193
+	TIME: 21:19:11.363
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 194
+	TIME: 21:19:16.357
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 195
+	TIME: 21:19:21.402
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 196
+	TIME: 21:19:26.251
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 197
+	TIME: 21:19:31.294
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 198
+	TIME: 21:19:37.801
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 199
+	TIME: 21:19:44.594
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 200
+	TIME: 21:19:49.808
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 201
+	TIME: 21:19:55.265
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 202
+	TIME: 21:19:59.556
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 203
+	TIME: 21:20:02.438
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 204
+	TIME: 21:20:09.476
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 205
+	TIME: 21:20:12.681
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 206
+	TIME: 21:20:19.458
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 207
+	TIME: 21:20:24.875
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 208
+	TIME: 21:20:30.069
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 209
+	TIME: 21:20:34.751
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 210
+	TIME: 21:20:39.808
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 211
+	TIME: 21:20:44.683
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 212
+	TIME: 21:20:49.122
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 213
+	TIME: 21:20:54.440
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 214
+	TIME: 21:20:58.539
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 215
+	TIME: 21:21:02.237
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 216
+	TIME: 21:21:09.449
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 217
+	TIME: 21:21:13.679
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 218
+	TIME: 21:21:20.280
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 219
+	TIME: 21:21:24.847
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 220
+	TIME: 21:21:29.547
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 221
+	TIME: 21:21:34.653
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 222
+	TIME: 21:21:39.597
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 223
+	TIME: 21:21:44.453
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 224
+	TIME: 21:21:49.979
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 225
+	TIME: 21:21:53.706
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 226
+	TIME: 21:21:59.865
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 227
+	TIME: 21:22:03.025
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 228
+	TIME: 21:22:08.840
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 229
+	TIME: 21:22:14.648
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 230
+	TIME: 21:22:19.846
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 231
+	TIME: 21:22:24.323
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 232
+	TIME: 21:22:29.064
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 233
+	TIME: 21:22:34.018
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 234
+	TIME: 21:22:37.275
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 235
+	TIME: 21:22:42.629
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 236
+	TIME: 21:22:49.224
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 237
+	TIME: 21:22:54.135
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 238
+	TIME: 21:22:59.405
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 239
+	TIME: 21:23:05.076
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 240
+	TIME: 21:23:09.152
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 241
+	TIME: 21:23:10.903
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 242
+	TIME: 21:23:16.199
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 243
+	TIME: 21:23:21.332
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 244
+	TIME: 21:23:26.347
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 245
+	TIME: 21:23:31.847
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 246
+	TIME: 21:23:37.495
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 247
+	TIME: 21:23:45.174
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 248
+	TIME: 21:23:48.527
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 249
+	TIME: 21:23:53.982
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 250
+	TIME: 21:23:58.816
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 251
+	TIME: 21:24:03.772
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 252
+	TIME: 21:24:09.423
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 253
+	TIME: 21:24:13.566
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 254
+	TIME: 21:24:18.903
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 255
+	TIME: 21:24:24.113
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 256
+	TIME: 21:24:25.828
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 257
+	TIME: 21:24:31.259
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 258
+	TIME: 21:24:36.271
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 259
+	TIME: 21:24:41.436
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 260
+	TIME: 21:24:46.181
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 261
+	TIME: 21:24:51.247
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 262
+	TIME: 21:24:58.856
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 263
+	TIME: 21:25:03.876
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 264
+	TIME: 21:25:08.710
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 265
+	TIME: 21:25:17.597
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 266
+	TIME: 21:25:21.297
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 267
+	TIME: 21:25:28.164
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 268
+	TIME: 21:25:31.940
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 269
+	TIME: 21:25:37.820
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 270
+	TIME: 21:25:42.155
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 271
+	TIME: 21:25:43.593
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 272
+	TIME: 21:25:48.870
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 273
+	TIME: 21:25:54.053
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 274
+	TIME: 21:26:00.166
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 275
+	TIME: 21:26:07.172
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 276
+	TIME: 21:26:12.457
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 277
+	TIME: 21:26:17.233
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 278
+	TIME: 21:26:18.834
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 279
+	TIME: 21:26:23.906
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 280
+	TIME: 21:26:29.153
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 281
+	TIME: 21:26:34.154
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 282
+	TIME: 21:26:39.183
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 283
+	TIME: 21:26:44.554
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 284
+	TIME: 21:26:49.099
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 285
+	TIME: 21:26:54.098
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 286
+	TIME: 21:26:59.156
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 287
+	TIME: 21:27:04.264
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 288
+	TIME: 21:27:09.156
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 289
+	TIME: 21:27:13.981
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 290
+	TIME: 21:27:20.299
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 291
+	TIME: 21:27:27.280
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 292
+	TIME: 21:27:32.130
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 293
+	TIME: 21:27:36.990
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 294
+	TIME: 21:27:41.866
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 295
+	TIME: 21:27:45.896
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.36,SIZE:292.65)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 296
+	TIME: 21:27:49.021
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 297
+	TIME: 21:27:54.233
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 298
+	TIME: 21:27:59.304
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 299
+	TIME: 21:28:04.312
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 300
+	TIME: 21:28:09.143
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 301
+	TIME: 21:28:14.218
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 302
+	TIME: 21:28:19.480
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 303
+	TIME: 21:28:24.365
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 304
+	TIME: 21:28:29.186
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 305
+	TIME: 21:28:34.306
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 306
+	TIME: 21:28:39.215
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 307
+	TIME: 21:28:44.317
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 308
+	TIME: 21:28:49.232
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 309
+	TIME: 21:28:53.930
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 310
+	TIME: 21:28:59.082
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 311
+	TIME: 21:29:04.100
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 312
+	TIME: 21:29:09.156
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 313
+	TIME: 21:29:14.110
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 314
+	TIME: 21:29:19.202
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 315
+	TIME: 21:29:24.165
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 316
+	TIME: 21:29:29.467
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 317
+	TIME: 21:29:35.039
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 318
+	TIME: 21:29:39.394
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 319
+	TIME: 21:29:44.277
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 320
+	TIME: 21:29:49.377
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 321
+	TIME: 21:29:54.570
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 322
+	TIME: 21:29:59.149
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 323
+	TIME: 21:30:04.344
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:292.65)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 324
+	TIME: 21:30:09.328
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 325
+	TIME: 21:30:14.122
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 326
+	TIME: 21:30:19.047
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 327
+	TIME: 21:30:24.265
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 328
+	TIME: 21:30:29.255
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 329
+	TIME: 21:30:34.107
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 330
+	TIME: 21:30:39.247
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 331
+	TIME: 21:30:44.311
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 332
+	TIME: 21:30:49.384
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 333
+	TIME: 21:30:54.188
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 334
+	TIME: 21:30:59.263
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 335
+	TIME: 21:31:05.199
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 336
+	TIME: 21:31:09.192
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 337
+	TIME: 21:31:14.649
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 338
+	TIME: 21:31:22.540
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 339
+	TIME: 21:31:27.239
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 340
+	TIME: 21:31:32.539
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 341
+	TIME: 21:31:34.539
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 342
+	TIME: 21:31:40.952
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 343
+	TIME: 21:31:44.217
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 344
+	TIME: 21:31:49.197
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 345
+	TIME: 21:31:55.295
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 346
+	TIME: 21:32:03.085
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 347
+	TIME: 21:32:03.838
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 348
+	TIME: 21:32:08.947
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 349
+	TIME: 21:32:14.068
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 350
+	TIME: 21:32:19.200
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 351
+	TIME: 21:32:24.305
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 352
+	TIME: 21:32:29.324
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 353
+	TIME: 21:32:34.537
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 354
+	TIME: 21:32:39.237
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+			BACK: (PRICE:1.6,SIZE:999.0)
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+			LAY: (PRICE:9.0,SIZE:14.16)
+		RUNNER: 0 - 2
+			BACK: (PRICE:2.46,SIZE:289.69)
+			BACK: (PRICE:2.4,SIZE:399.0)
+			BACK: (PRICE:2.0,SIZE:545.0)
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 355
+	TIME: 21:32:44.200
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 356
+	TIME: 21:32:49.230
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 357
+	TIME: 21:32:54.201
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+		RUNNER: Any unquoted
+ENTRY: 358
+	TIME: 21:32:59.137
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 359
+	TIME: 21:33:04.194
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 360
+	TIME: 21:33:09.474
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 361
+	TIME: 21:33:14.149
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 362
+	TIME: 21:33:19.133
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 363
+	TIME: 21:33:24.102
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 364
+	TIME: 21:33:29.319
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 365
+	TIME: 21:33:34.219
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 366
+	TIME: 21:33:39.201
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted
+ENTRY: 367
+	TIME: 21:33:45.954
+		RUNNER: 0 - 0
+		RUNNER: 1 - 1
+		RUNNER: 2 - 2
+		RUNNER: 1 - 0
+		RUNNER: 2 - 0
+		RUNNER: 2 - 1
+		RUNNER: 0 - 1
+		RUNNER: 0 - 2
+		RUNNER: 1 - 2
+			BACK: (PRICE:2.2,SIZE:146.32)
+		RUNNER: Any unquoted

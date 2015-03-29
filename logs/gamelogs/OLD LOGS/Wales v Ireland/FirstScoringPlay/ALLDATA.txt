@@ -1,0 +1,369 @@
+Wales v Ireland_First Scoring Play_1426343400000ENTRY: 1
+	TIME: 14:30:00.656
+		RUNNER: Wales Try
+			BACK: (PRICE:7.0,SIZE:4.17)
+			BACK: (PRICE:6.8,SIZE:8.0)
+			BACK: (PRICE:6.6,SIZE:188.58)
+			LAY: (PRICE:7.8,SIZE:4.06)
+			LAY: (PRICE:10.0,SIZE:2.0)
+			LAY: (PRICE:10.5,SIZE:10.0)
+		RUNNER: Wales Penalty
+			BACK: (PRICE:2.62,SIZE:66.26)
+			BACK: (PRICE:2.56,SIZE:45.97)
+			BACK: (PRICE:2.52,SIZE:16.45)
+			LAY: (PRICE:2.86,SIZE:3.7)
+			LAY: (PRICE:3.5,SIZE:15.0)
+			LAY: (PRICE:4.1,SIZE:10.0)
+		RUNNER: Ireland Try
+			BACK: (PRICE:7.8,SIZE:56.57)
+			BACK: (PRICE:7.4,SIZE:3.91)
+			BACK: (PRICE:7.2,SIZE:16.89)
+			LAY: (PRICE:12.5,SIZE:5.0)
+		RUNNER: Ireland Penalty
+			BACK: (PRICE:2.46,SIZE:45.38)
+			BACK: (PRICE:2.4,SIZE:17.86)
+			BACK: (PRICE:2.38,SIZE:35.09)
+			LAY: (PRICE:2.5,SIZE:40.68)
+			LAY: (PRICE:2.52,SIZE:120.0)
+			LAY: (PRICE:3.05,SIZE:25.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:44.0,SIZE:2.16)
+			BACK: (PRICE:42.0,SIZE:10.0)
+			BACK: (PRICE:30.0,SIZE:10.0)
+			LAY: (PRICE:80.0,SIZE:9.04)
+			LAY: (PRICE:90.0,SIZE:3.78)
+			LAY: (PRICE:110.0,SIZE:5.0)
+ENTRY: 2
+	TIME: 14:30:05.414
+		RUNNER: Wales Try
+			BACK: (PRICE:7.0,SIZE:4.17)
+			BACK: (PRICE:6.8,SIZE:8.0)
+			BACK: (PRICE:6.6,SIZE:188.58)
+			LAY: (PRICE:8.0,SIZE:7.22)
+			LAY: (PRICE:10.0,SIZE:2.0)
+			LAY: (PRICE:10.5,SIZE:10.0)
+		RUNNER: Wales Penalty
+			BACK: (PRICE:2.62,SIZE:66.26)
+			BACK: (PRICE:2.56,SIZE:45.97)
+			BACK: (PRICE:2.52,SIZE:16.45)
+			LAY: (PRICE:2.86,SIZE:4.71)
+			LAY: (PRICE:3.5,SIZE:15.0)
+			LAY: (PRICE:4.1,SIZE:10.0)
+		RUNNER: Ireland Try
+			BACK: (PRICE:7.8,SIZE:56.43)
+			BACK: (PRICE:7.4,SIZE:3.91)
+			BACK: (PRICE:7.2,SIZE:16.89)
+			LAY: (PRICE:12.5,SIZE:2.47)
+		RUNNER: Ireland Penalty
+			BACK: (PRICE:2.46,SIZE:45.38)
+			BACK: (PRICE:2.4,SIZE:17.86)
+			BACK: (PRICE:2.38,SIZE:35.09)
+			LAY: (PRICE:2.5,SIZE:19.13)
+			LAY: (PRICE:2.52,SIZE:120.0)
+			LAY: (PRICE:3.05,SIZE:25.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:44.0,SIZE:2.16)
+			BACK: (PRICE:42.0,SIZE:10.0)
+			BACK: (PRICE:30.0,SIZE:10.0)
+			LAY: (PRICE:80.0,SIZE:8.33)
+			LAY: (PRICE:90.0,SIZE:3.78)
+			LAY: (PRICE:110.0,SIZE:5.0)
+ENTRY: 3
+	TIME: 14:30:10.504
+		RUNNER: Wales Try
+			BACK: (PRICE:7.0,SIZE:2.17)
+			BACK: (PRICE:6.8,SIZE:8.0)
+			BACK: (PRICE:6.6,SIZE:188.58)
+			LAY: (PRICE:10.0,SIZE:2.0)
+			LAY: (PRICE:10.5,SIZE:10.0)
+			LAY: (PRICE:12.5,SIZE:5.0)
+		RUNNER: Wales Penalty
+			BACK: (PRICE:2.62,SIZE:66.26)
+			BACK: (PRICE:2.56,SIZE:45.97)
+			BACK: (PRICE:2.52,SIZE:16.45)
+			LAY: (PRICE:3.5,SIZE:15.0)
+			LAY: (PRICE:4.1,SIZE:10.0)
+		RUNNER: Ireland Try
+			BACK: (PRICE:7.8,SIZE:55.87)
+			BACK: (PRICE:7.4,SIZE:3.91)
+			BACK: (PRICE:7.2,SIZE:16.89)
+			LAY: (PRICE:12.5,SIZE:2.47)
+		RUNNER: Ireland Penalty
+			BACK: (PRICE:2.46,SIZE:45.38)
+			BACK: (PRICE:2.4,SIZE:17.86)
+			BACK: (PRICE:2.38,SIZE:35.09)
+			LAY: (PRICE:2.5,SIZE:114.82)
+			LAY: (PRICE:2.52,SIZE:120.0)
+			LAY: (PRICE:3.05,SIZE:25.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:44.0,SIZE:2.16)
+			BACK: (PRICE:42.0,SIZE:10.0)
+			BACK: (PRICE:30.0,SIZE:10.0)
+			LAY: (PRICE:80.0,SIZE:8.15)
+			LAY: (PRICE:90.0,SIZE:3.78)
+			LAY: (PRICE:110.0,SIZE:5.0)
+ENTRY: 4
+	TIME: 14:30:15.388
+		RUNNER: Wales Try
+			BACK: (PRICE:7.0,SIZE:2.17)
+			BACK: (PRICE:6.8,SIZE:8.0)
+			BACK: (PRICE:6.6,SIZE:188.58)
+			LAY: (PRICE:10.0,SIZE:2.0)
+			LAY: (PRICE:10.5,SIZE:10.0)
+			LAY: (PRICE:12.5,SIZE:5.0)
+		RUNNER: Wales Penalty
+			BACK: (PRICE:2.62,SIZE:66.26)
+			BACK: (PRICE:2.56,SIZE:45.97)
+			BACK: (PRICE:2.52,SIZE:16.45)
+			LAY: (PRICE:3.5,SIZE:15.0)
+			LAY: (PRICE:4.1,SIZE:10.0)
+		RUNNER: Ireland Try
+			BACK: (PRICE:8.4,SIZE:2.0)
+			BACK: (PRICE:8.0,SIZE:19.58)
+			BACK: (PRICE:7.8,SIZE:55.87)
+			LAY: (PRICE:12.5,SIZE:2.47)
+		RUNNER: Ireland Penalty
+			BACK: (PRICE:2.46,SIZE:45.38)
+			BACK: (PRICE:2.4,SIZE:17.86)
+			BACK: (PRICE:2.38,SIZE:35.09)
+			LAY: (PRICE:2.5,SIZE:114.82)
+			LAY: (PRICE:2.52,SIZE:120.0)
+			LAY: (PRICE:3.05,SIZE:25.0)
+		RUNNER: Drop Goal (either team)
+			BACK: (PRICE:44.0,SIZE:2.16)
+			BACK: (PRICE:42.0,SIZE:10.0)
+			BACK: (PRICE:30.0,SIZE:10.0)
+			LAY: (PRICE:80.0,SIZE:8.15)
+			LAY: (PRICE:90.0,SIZE:3.78)
+			LAY: (PRICE:110.0,SIZE:5.0)
+ENTRY: 5
+	TIME: 14:30:20.337
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 6
+	TIME: 14:30:25.418
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 7
+	TIME: 14:30:30.550
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 8
+	TIME: 14:30:35.748
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 9
+	TIME: 14:30:40.358
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 10
+	TIME: 14:30:45.404
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 11
+	TIME: 14:30:50.409
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 12
+	TIME: 14:30:55.469
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 13
+	TIME: 14:31:00.408
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 14
+	TIME: 14:31:05.432
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 15
+	TIME: 14:31:12.648
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 16
+	TIME: 14:31:16.382
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 17
+	TIME: 14:31:20.458
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 18
+	TIME: 14:31:25.493
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 19
+	TIME: 14:31:30.457
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 20
+	TIME: 14:31:35.487
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 21
+	TIME: 14:31:40.843
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 22
+	TIME: 14:31:46.419
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 23
+	TIME: 14:31:50.511
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 24
+	TIME: 14:31:55.521
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 25
+	TIME: 14:32:00.529
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 26
+	TIME: 14:32:05.540
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 27
+	TIME: 14:32:10.552
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 28
+	TIME: 14:32:15.536
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 29
+	TIME: 14:32:20.586
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 30
+	TIME: 14:32:25.634
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 31
+	TIME: 14:32:30.549
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 32
+	TIME: 14:32:35.598
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 33
+	TIME: 14:32:41.151
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 34
+	TIME: 14:32:45.609
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 35
+	TIME: 14:32:51.424
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 36
+	TIME: 14:32:56.232
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)
+ENTRY: 37
+	TIME: 14:33:00.604
+		RUNNER: Wales Try
+		RUNNER: Wales Penalty
+		RUNNER: Ireland Try
+		RUNNER: Ireland Penalty
+		RUNNER: Drop Goal (either team)

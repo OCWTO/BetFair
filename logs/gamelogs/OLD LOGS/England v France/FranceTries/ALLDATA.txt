@@ -1,0 +1,2830 @@
+England v France_France Tries_1426957200000ENTRY: 1
+	TIME: 17:00:01.176
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 2
+	TIME: 17:00:05.984
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 3
+	TIME: 17:00:10.964
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 4
+	TIME: 17:00:16.017
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 5
+	TIME: 17:00:20.979
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 6
+	TIME: 17:00:25.955
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 7
+	TIME: 17:00:31.056
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 8
+	TIME: 17:00:36.099
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 9
+	TIME: 17:00:40.994
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 10
+	TIME: 17:00:45.963
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 11
+	TIME: 17:00:50.987
+		RUNNER: Under 1.5 Tries
+			BACK: (PRICE:1.75,SIZE:66.66)
+			BACK: (PRICE:1.74,SIZE:66.35)
+			BACK: (PRICE:1.73,SIZE:9.27)
+		RUNNER: Over 1.5 Tries
+			BACK: (PRICE:2.06,SIZE:47.16)
+			BACK: (PRICE:2.04,SIZE:46.38)
+			BACK: (PRICE:2.02,SIZE:14.0)
+ENTRY: 12
+	TIME: 17:00:55.984
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 13
+	TIME: 17:01:00.953
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 14
+	TIME: 17:01:05.965
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 15
+	TIME: 17:01:10.985
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 16
+	TIME: 17:01:16.005
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 17
+	TIME: 17:01:21.013
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 18
+	TIME: 17:01:25.971
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 19
+	TIME: 17:01:30.997
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 20
+	TIME: 17:01:35.961
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 21
+	TIME: 17:01:41.010
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 22
+	TIME: 17:01:45.999
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 23
+	TIME: 17:01:56.343
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 24
+	TIME: 17:02:06.266
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 25
+	TIME: 17:02:10.708
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 26
+	TIME: 17:02:12.253
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 27
+	TIME: 17:02:16.709
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 28
+	TIME: 17:02:21.720
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 29
+	TIME: 17:02:26.711
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 30
+	TIME: 17:02:31.688
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 31
+	TIME: 17:02:36.694
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 32
+	TIME: 17:02:41.735
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 33
+	TIME: 17:02:46.702
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 34
+	TIME: 17:02:52.761
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 35
+	TIME: 17:02:56.712
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 36
+	TIME: 17:03:01.694
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 37
+	TIME: 17:03:06.709
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 38
+	TIME: 17:03:11.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 39
+	TIME: 17:03:16.771
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 40
+	TIME: 17:03:21.928
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 41
+	TIME: 17:03:26.677
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 42
+	TIME: 17:03:31.713
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 43
+	TIME: 17:03:36.721
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 44
+	TIME: 17:03:41.768
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 45
+	TIME: 17:03:46.740
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 46
+	TIME: 17:03:51.701
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 47
+	TIME: 17:03:56.740
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 48
+	TIME: 17:04:01.719
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 49
+	TIME: 17:04:06.731
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 50
+	TIME: 17:04:11.709
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 51
+	TIME: 17:04:16.956
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 52
+	TIME: 17:04:21.791
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 53
+	TIME: 17:04:26.715
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 54
+	TIME: 17:04:31.740
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 55
+	TIME: 17:04:36.775
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 56
+	TIME: 17:04:41.767
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 57
+	TIME: 17:04:46.960
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 58
+	TIME: 17:04:51.720
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 59
+	TIME: 17:04:56.683
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 60
+	TIME: 17:05:01.760
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 61
+	TIME: 17:05:07.390
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 62
+	TIME: 17:05:11.868
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 63
+	TIME: 17:05:16.762
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 64
+	TIME: 17:05:21.724
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 65
+	TIME: 17:05:26.704
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 66
+	TIME: 17:05:31.715
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 67
+	TIME: 17:05:36.826
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 68
+	TIME: 17:05:42.117
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 69
+	TIME: 17:05:46.736
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 70
+	TIME: 17:05:51.712
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 71
+	TIME: 17:05:56.699
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 72
+	TIME: 17:06:01.796
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 73
+	TIME: 17:06:06.813
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 74
+	TIME: 17:06:11.731
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 75
+	TIME: 17:06:16.749
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 76
+	TIME: 17:06:21.745
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 77
+	TIME: 17:06:26.694
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 78
+	TIME: 17:06:31.760
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 79
+	TIME: 17:06:36.705
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 80
+	TIME: 17:06:41.744
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 81
+	TIME: 17:06:46.731
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 82
+	TIME: 17:06:51.723
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 83
+	TIME: 17:06:56.723
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 84
+	TIME: 17:07:01.711
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 85
+	TIME: 17:07:06.784
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 86
+	TIME: 17:07:11.713
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 87
+	TIME: 17:07:16.740
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 88
+	TIME: 17:07:21.739
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 89
+	TIME: 17:07:26.800
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 90
+	TIME: 17:07:31.890
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 91
+	TIME: 17:07:36.691
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 92
+	TIME: 17:07:41.736
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 93
+	TIME: 17:07:46.734
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 94
+	TIME: 17:07:51.725
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 95
+	TIME: 17:07:56.703
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 96
+	TIME: 17:08:01.714
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 97
+	TIME: 17:08:06.708
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 99
+	TIME: 17:08:16.702
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 100
+	TIME: 17:08:21.709
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 101
+	TIME: 17:08:26.721
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 102
+	TIME: 17:08:31.722
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 103
+	TIME: 17:08:36.838
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 104
+	TIME: 17:08:41.744
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 105
+	TIME: 17:08:47.214
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 106
+	TIME: 17:08:51.816
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 107
+	TIME: 17:08:56.820
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 108
+	TIME: 17:09:01.726
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 109
+	TIME: 17:09:06.739
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 110
+	TIME: 17:09:11.727
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 111
+	TIME: 17:09:16.718
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 112
+	TIME: 17:09:21.754
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 113
+	TIME: 17:09:26.715
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 114
+	TIME: 17:09:31.773
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 115
+	TIME: 17:09:36.717
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 116
+	TIME: 17:09:41.820
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 117
+	TIME: 17:09:46.882
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 118
+	TIME: 17:09:51.737
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 119
+	TIME: 17:09:56.714
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 120
+	TIME: 17:10:01.861
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 121
+	TIME: 17:10:06.750
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 122
+	TIME: 17:10:11.859
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 123
+	TIME: 17:10:16.854
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 124
+	TIME: 17:10:21.789
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 125
+	TIME: 17:10:26.736
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 126
+	TIME: 17:10:31.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 127
+	TIME: 17:10:36.732
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 128
+	TIME: 17:10:41.738
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 129
+	TIME: 17:10:46.749
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 130
+	TIME: 17:10:51.770
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 131
+	TIME: 17:10:56.732
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 132
+	TIME: 17:11:01.748
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 133
+	TIME: 17:11:06.723
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 134
+	TIME: 17:11:11.744
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 135
+	TIME: 17:11:16.738
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 136
+	TIME: 17:11:21.720
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 137
+	TIME: 17:11:26.928
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 138
+	TIME: 17:11:32.084
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 139
+	TIME: 17:11:36.840
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 140
+	TIME: 17:11:41.975
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 141
+	TIME: 17:11:46.766
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 142
+	TIME: 17:11:51.718
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 143
+	TIME: 17:11:56.739
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 144
+	TIME: 17:12:01.750
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 145
+	TIME: 17:12:06.731
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 146
+	TIME: 17:12:11.874
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 147
+	TIME: 17:12:16.731
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 148
+	TIME: 17:12:21.833
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 149
+	TIME: 17:12:27.400
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 150
+	TIME: 17:12:31.931
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 151
+	TIME: 17:12:36.759
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 152
+	TIME: 17:12:41.798
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 153
+	TIME: 17:12:46.810
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 154
+	TIME: 17:12:51.778
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 155
+	TIME: 17:12:56.924
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 156
+	TIME: 17:13:01.819
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 157
+	TIME: 17:13:06.743
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 158
+	TIME: 17:13:11.749
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 159
+	TIME: 17:13:16.756
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 160
+	TIME: 17:13:21.749
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 161
+	TIME: 17:13:26.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 162
+	TIME: 17:13:31.761
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 163
+	TIME: 17:13:36.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 164
+	TIME: 17:13:41.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 165
+	TIME: 17:13:46.771
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 166
+	TIME: 17:13:51.762
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 167
+	TIME: 17:13:56.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 168
+	TIME: 17:14:01.757
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 169
+	TIME: 17:14:06.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 170
+	TIME: 17:14:11.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 171
+	TIME: 17:14:16.881
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 172
+	TIME: 17:14:21.849
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 173
+	TIME: 17:14:26.746
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 174
+	TIME: 17:14:31.862
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 175
+	TIME: 17:14:36.796
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 176
+	TIME: 17:14:41.756
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 177
+	TIME: 17:14:46.810
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 178
+	TIME: 17:14:51.768
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 179
+	TIME: 17:14:56.780
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 180
+	TIME: 17:15:01.774
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 181
+	TIME: 17:15:06.759
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 182
+	TIME: 17:15:11.780
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 183
+	TIME: 17:15:16.763
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 184
+	TIME: 17:15:21.776
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 185
+	TIME: 17:15:26.768
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 186
+	TIME: 17:15:31.839
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 187
+	TIME: 17:15:36.759
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 188
+	TIME: 17:15:41.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 189
+	TIME: 17:15:46.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 190
+	TIME: 17:15:51.870
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 191
+	TIME: 17:15:56.787
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 192
+	TIME: 17:16:01.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 193
+	TIME: 17:16:06.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 194
+	TIME: 17:16:11.811
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 195
+	TIME: 17:16:16.782
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 196
+	TIME: 17:16:23.222
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 197
+	TIME: 17:16:27.310
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 198
+	TIME: 17:16:31.763
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 199
+	TIME: 17:16:36.763
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 200
+	TIME: 17:16:41.770
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 201
+	TIME: 17:16:46.795
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 202
+	TIME: 17:16:51.769
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 203
+	TIME: 17:16:56.803
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 204
+	TIME: 17:17:01.878
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 205
+	TIME: 17:17:06.834
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 206
+	TIME: 17:17:11.802
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 207
+	TIME: 17:17:16.769
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 208
+	TIME: 17:17:21.756
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 209
+	TIME: 17:17:26.774
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 210
+	TIME: 17:17:31.762
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 211
+	TIME: 17:17:36.772
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 212
+	TIME: 17:17:41.805
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 213
+	TIME: 17:17:46.797
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 214
+	TIME: 17:17:51.809
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 215
+	TIME: 17:17:56.868
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 216
+	TIME: 17:18:01.847
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 217
+	TIME: 17:18:06.860
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 218
+	TIME: 17:18:11.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 219
+	TIME: 17:18:16.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 220
+	TIME: 17:18:22.078
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 221
+	TIME: 17:18:27.247
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 222
+	TIME: 17:18:32.255
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 223
+	TIME: 17:18:36.787
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 224
+	TIME: 17:18:41.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 225
+	TIME: 17:18:46.853
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 226
+	TIME: 17:18:51.766
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 227
+	TIME: 17:18:56.795
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 228
+	TIME: 17:19:01.762
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 229
+	TIME: 17:19:06.773
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 230
+	TIME: 17:19:11.795
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 231
+	TIME: 17:19:16.779
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 232
+	TIME: 17:19:21.772
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 233
+	TIME: 17:19:26.800
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 234
+	TIME: 17:19:31.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 235
+	TIME: 17:19:36.792
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 236
+	TIME: 17:19:41.808
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 237
+	TIME: 17:19:46.842
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 238
+	TIME: 17:19:51.983
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 239
+	TIME: 17:19:56.825
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 240
+	TIME: 17:20:01.776
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 241
+	TIME: 17:20:06.776
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 242
+	TIME: 17:20:11.782
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 243
+	TIME: 17:20:16.811
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 244
+	TIME: 17:20:21.775
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 245
+	TIME: 17:20:26.778
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 246
+	TIME: 17:20:31.781
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 247
+	TIME: 17:20:36.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 248
+	TIME: 17:20:41.875
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 249
+	TIME: 17:20:46.802
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 250
+	TIME: 17:20:51.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 251
+	TIME: 17:20:56.804
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 252
+	TIME: 17:21:01.829
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 253
+	TIME: 17:21:06.891
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 254
+	TIME: 17:21:11.714
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 255
+	TIME: 17:21:16.689
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 256
+	TIME: 17:21:21.680
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 257
+	TIME: 17:21:26.696
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 258
+	TIME: 17:21:31.673
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 259
+	TIME: 17:21:36.700
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 260
+	TIME: 17:21:41.686
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 261
+	TIME: 17:21:46.681
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 262
+	TIME: 17:21:51.690
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 263
+	TIME: 17:21:56.709
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 264
+	TIME: 17:22:01.716
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 265
+	TIME: 17:22:06.714
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 266
+	TIME: 17:22:11.699
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 267
+	TIME: 17:22:16.705
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 268
+	TIME: 17:22:21.708
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 269
+	TIME: 17:22:26.866
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 270
+	TIME: 17:22:31.786
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 271
+	TIME: 17:22:36.811
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 272
+	TIME: 17:22:41.723
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 273
+	TIME: 17:22:46.711
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 274
+	TIME: 17:22:51.808
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 275
+	TIME: 17:22:56.800
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 276
+	TIME: 17:23:02.189
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 277
+	TIME: 17:23:06.715
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 278
+	TIME: 17:23:11.714
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 279
+	TIME: 17:23:16.734
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 280
+	TIME: 17:23:21.695
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 281
+	TIME: 17:23:26.697
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 282
+	TIME: 17:23:31.702
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 283
+	TIME: 17:23:36.766
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 284
+	TIME: 17:23:41.765
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 285
+	TIME: 17:23:46.752
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 286
+	TIME: 17:23:51.825
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 287
+	TIME: 17:23:56.780
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 288
+	TIME: 17:24:01.866
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 289
+	TIME: 17:24:06.734
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 290
+	TIME: 17:24:11.708
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 291
+	TIME: 17:24:16.731
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 292
+	TIME: 17:24:21.698
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 293
+	TIME: 17:24:26.715
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 294
+	TIME: 17:24:31.713
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 295
+	TIME: 17:24:36.706
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 296
+	TIME: 17:24:41.716
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 297
+	TIME: 17:24:46.722
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 298
+	TIME: 17:24:51.704
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 299
+	TIME: 17:24:56.712
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 300
+	TIME: 17:25:01.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 301
+	TIME: 17:25:06.705
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 302
+	TIME: 17:25:11.750
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 303
+	TIME: 17:25:16.950
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 304
+	TIME: 17:25:21.850
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 305
+	TIME: 17:25:26.723
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 306
+	TIME: 17:25:32.113
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 307
+	TIME: 17:25:36.728
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 308
+	TIME: 17:25:41.743
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 309
+	TIME: 17:25:46.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 310
+	TIME: 17:25:51.737
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 311
+	TIME: 17:25:56.753
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 312
+	TIME: 17:26:01.718
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 313
+	TIME: 17:26:06.742
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 314
+	TIME: 17:26:11.738
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 315
+	TIME: 17:26:16.720
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 316
+	TIME: 17:26:21.757
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 317
+	TIME: 17:26:27.267
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 318
+	TIME: 17:26:31.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 319
+	TIME: 17:26:36.752
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 320
+	TIME: 17:26:41.719
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 321
+	TIME: 17:26:46.949
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 322
+	TIME: 17:26:52.033
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 323
+	TIME: 17:26:56.723
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 324
+	TIME: 17:27:01.724
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 325
+	TIME: 17:27:06.771
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 326
+	TIME: 17:27:11.865
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 327
+	TIME: 17:27:16.760
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 328
+	TIME: 17:27:21.754
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 329
+	TIME: 17:27:26.742
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 330
+	TIME: 17:27:31.759
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 331
+	TIME: 17:27:36.733
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 332
+	TIME: 17:27:41.734
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 333
+	TIME: 17:27:46.752
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 334
+	TIME: 17:27:51.736
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 335
+	TIME: 17:27:56.769
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 336
+	TIME: 17:28:01.769
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 337
+	TIME: 17:28:06.903
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 338
+	TIME: 17:28:11.740
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 339
+	TIME: 17:28:16.800
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 340
+	TIME: 17:28:21.771
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 341
+	TIME: 17:28:26.726
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 342
+	TIME: 17:28:31.739
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 343
+	TIME: 17:28:36.790
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 344
+	TIME: 17:28:41.734
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 345
+	TIME: 17:28:46.750
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 346
+	TIME: 17:28:51.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 347
+	TIME: 17:28:56.737
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 348
+	TIME: 17:29:01.736
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 349
+	TIME: 17:29:06.779
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 350
+	TIME: 17:29:11.745
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 351
+	TIME: 17:29:16.739
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 352
+	TIME: 17:29:21.743
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 353
+	TIME: 17:29:26.752
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 354
+	TIME: 17:29:31.889
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 355
+	TIME: 17:29:36.735
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 356
+	TIME: 17:29:41.741
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 357
+	TIME: 17:29:46.779
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 358
+	TIME: 17:29:51.776
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 359
+	TIME: 17:29:56.753
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 360
+	TIME: 17:30:01.745
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 361
+	TIME: 17:30:06.772
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 362
+	TIME: 17:30:11.765
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 363
+	TIME: 17:30:16.751
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 364
+	TIME: 17:30:21.763
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 365
+	TIME: 17:30:26.752
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 366
+	TIME: 17:30:31.753
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 367
+	TIME: 17:30:36.774
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 368
+	TIME: 17:30:41.747
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 369
+	TIME: 17:30:46.990
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 370
+	TIME: 17:30:51.851
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 371
+	TIME: 17:30:56.961
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 372
+	TIME: 17:31:01.748
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 373
+	TIME: 17:31:07.057
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 374
+	TIME: 17:31:11.791
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 375
+	TIME: 17:31:16.778
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 376
+	TIME: 17:31:21.794
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 377
+	TIME: 17:31:26.804
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 378
+	TIME: 17:31:31.806
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 379
+	TIME: 17:31:36.783
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 380
+	TIME: 17:31:41.776
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 381
+	TIME: 17:31:46.783
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 382
+	TIME: 17:31:51.781
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 383
+	TIME: 17:31:56.863
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 384
+	TIME: 17:32:01.754
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 385
+	TIME: 17:32:06.782
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 386
+	TIME: 17:32:11.976
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 387
+	TIME: 17:32:16.758
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 388
+	TIME: 17:32:22.023
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 389
+	TIME: 17:32:26.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 390
+	TIME: 17:32:31.775
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 391
+	TIME: 17:32:36.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 392
+	TIME: 17:32:41.773
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 393
+	TIME: 17:32:46.792
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 394
+	TIME: 17:32:51.802
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 395
+	TIME: 17:32:56.790
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 396
+	TIME: 17:33:01.781
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 397
+	TIME: 17:33:06.780
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 398
+	TIME: 17:33:11.762
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 399
+	TIME: 17:33:16.766
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 400
+	TIME: 17:33:21.763
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 401
+	TIME: 17:33:26.773
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 402
+	TIME: 17:33:31.821
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 403
+	TIME: 17:33:37.081
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 404
+	TIME: 17:33:41.890
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 405
+	TIME: 17:33:46.779
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 406
+	TIME: 17:33:51.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 407
+	TIME: 17:33:56.762
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 408
+	TIME: 17:34:01.812
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 409
+	TIME: 17:34:06.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 410
+	TIME: 17:34:11.766
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 411
+	TIME: 17:34:16.774
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 412
+	TIME: 17:34:21.790
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 413
+	TIME: 17:34:26.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 414
+	TIME: 17:34:31.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 415
+	TIME: 17:34:36.780
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 416
+	TIME: 17:34:41.776
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 417
+	TIME: 17:34:46.949
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 418
+	TIME: 17:34:51.772
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 419
+	TIME: 17:34:57.183
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 420
+	TIME: 17:35:01.834
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 421
+	TIME: 17:35:06.901
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 422
+	TIME: 17:35:11.784
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 423
+	TIME: 17:35:16.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 424
+	TIME: 17:35:21.798
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 425
+	TIME: 17:35:26.780
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 426
+	TIME: 17:35:31.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 427
+	TIME: 17:35:36.781
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 428
+	TIME: 17:35:41.791
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 429
+	TIME: 17:35:46.821
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 430
+	TIME: 17:35:51.775
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 431
+	TIME: 17:35:56.782
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 432
+	TIME: 17:36:01.858
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 433
+	TIME: 17:36:06.777
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 434
+	TIME: 17:36:11.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 435
+	TIME: 17:36:16.808
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 436
+	TIME: 17:36:21.997
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 437
+	TIME: 17:36:26.872
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 438
+	TIME: 17:36:32.082
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 439
+	TIME: 17:36:36.775
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 440
+	TIME: 17:36:41.803
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 441
+	TIME: 17:36:46.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 442
+	TIME: 17:36:51.816
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 443
+	TIME: 17:36:56.789
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 444
+	TIME: 17:37:01.906
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 445
+	TIME: 17:37:06.781
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 446
+	TIME: 17:37:11.802
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 447
+	TIME: 17:37:16.789
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 448
+	TIME: 17:37:21.809
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 449
+	TIME: 17:37:26.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 450
+	TIME: 17:37:31.797
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 451
+	TIME: 17:37:36.774
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 452
+	TIME: 17:37:41.779
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 453
+	TIME: 17:37:46.885
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 454
+	TIME: 17:37:52.018
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 455
+	TIME: 17:37:56.805
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 456
+	TIME: 17:38:01.783
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 457
+	TIME: 17:38:06.793
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 458
+	TIME: 17:38:11.805
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 459
+	TIME: 17:38:16.820
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 460
+	TIME: 17:38:21.807
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 461
+	TIME: 17:38:26.787
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 462
+	TIME: 17:38:31.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 463
+	TIME: 17:38:36.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 464
+	TIME: 17:38:41.804
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 465
+	TIME: 17:38:46.800
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 466
+	TIME: 17:38:51.842
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 467
+	TIME: 17:38:56.796
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 468
+	TIME: 17:39:01.812
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 469
+	TIME: 17:39:07.084
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 470
+	TIME: 17:39:11.876
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 471
+	TIME: 17:39:16.930
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 472
+	TIME: 17:39:21.799
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 473
+	TIME: 17:39:26.811
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 474
+	TIME: 17:39:31.798
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 475
+	TIME: 17:39:36.828
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 476
+	TIME: 17:39:41.860
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 477
+	TIME: 17:39:46.833
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 478
+	TIME: 17:39:51.844
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 479
+	TIME: 17:39:56.811
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 480
+	TIME: 17:40:01.786
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 481
+	TIME: 17:40:06.794
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 482
+	TIME: 17:40:11.845
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 483
+	TIME: 17:40:16.796
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 484
+	TIME: 17:40:21.830
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 485
+	TIME: 17:40:26.804
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 486
+	TIME: 17:40:31.883
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 487
+	TIME: 17:40:36.857
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 488
+	TIME: 17:40:41.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 489
+	TIME: 17:40:46.814
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 490
+	TIME: 17:40:51.814
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 491
+	TIME: 17:40:56.796
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 492
+	TIME: 17:41:01.858
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 493
+	TIME: 17:41:06.892
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 494
+	TIME: 17:41:11.819
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 495
+	TIME: 17:41:16.822
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 496
+	TIME: 17:41:21.845
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 497
+	TIME: 17:41:26.815
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 498
+	TIME: 17:41:31.813
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 499
+	TIME: 17:41:36.836
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 500
+	TIME: 17:41:41.827
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 501
+	TIME: 17:41:46.838
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 502
+	TIME: 17:41:51.812
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 503
+	TIME: 17:41:56.932
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 504
+	TIME: 17:42:01.913
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 505
+	TIME: 17:42:06.961
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 506
+	TIME: 17:42:11.819
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 507
+	TIME: 17:42:16.875
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 508
+	TIME: 17:42:21.818
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 509
+	TIME: 17:42:26.880
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 510
+	TIME: 17:42:31.810
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 511
+	TIME: 17:42:36.840
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 512
+	TIME: 17:42:41.813
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 513
+	TIME: 17:42:46.851
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 514
+	TIME: 17:42:51.841
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 515
+	TIME: 17:42:56.822
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 516
+	TIME: 17:43:01.852
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 517
+	TIME: 17:43:06.860
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 518
+	TIME: 17:43:11.826
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 519
+	TIME: 17:43:16.837
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 520
+	TIME: 17:43:21.818
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 521
+	TIME: 17:43:26.910
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 522
+	TIME: 17:43:31.984
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 523
+	TIME: 17:43:36.846
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 524
+	TIME: 17:43:41.827
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 525
+	TIME: 17:43:46.833
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 526
+	TIME: 17:43:51.843
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 527
+	TIME: 17:43:56.835
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 528
+	TIME: 17:44:01.851
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 529
+	TIME: 17:44:06.833
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 530
+	TIME: 17:44:11.854
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 531
+	TIME: 17:44:16.833
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 532
+	TIME: 17:44:22.062
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 533
+	TIME: 17:44:26.833
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 534
+	TIME: 17:44:31.829
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 535
+	TIME: 17:44:36.836
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 536
+	TIME: 17:44:41.850
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 537
+	TIME: 17:44:47.077
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 538
+	TIME: 17:44:51.857
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 539
+	TIME: 17:44:56.829
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 540
+	TIME: 17:45:01.827
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 541
+	TIME: 17:45:06.862
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 542
+	TIME: 17:45:11.831
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 543
+	TIME: 17:45:16.858
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 544
+	TIME: 17:45:21.839
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 545
+	TIME: 17:45:26.840
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 546
+	TIME: 17:45:31.841
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 547
+	TIME: 17:45:36.845
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 548
+	TIME: 17:45:41.858
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 549
+	TIME: 17:45:46.847
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 550
+	TIME: 17:45:51.849
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 551
+	TIME: 17:45:56.849
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 552
+	TIME: 17:46:01.840
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 553
+	TIME: 17:46:06.837
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 554
+	TIME: 17:46:11.947
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 555
+	TIME: 17:46:16.929
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 556
+	TIME: 17:46:21.847
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 557
+	TIME: 17:46:26.849
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 558
+	TIME: 17:46:31.901
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 559
+	TIME: 17:46:36.856
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 560
+	TIME: 17:46:41.874
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 561
+	TIME: 17:46:46.849
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 562
+	TIME: 17:46:51.879
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 563
+	TIME: 17:46:56.845
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 564
+	TIME: 17:47:01.847
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 565
+	TIME: 17:47:06.840
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 566
+	TIME: 17:47:11.843
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 567
+	TIME: 17:47:16.847
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 568
+	TIME: 17:47:21.873
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 569
+	TIME: 17:47:26.888
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 570
+	TIME: 17:47:31.918
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 571
+	TIME: 17:47:37.824
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 572
+	TIME: 17:47:44.462
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 573
+	TIME: 17:47:48.376
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 574
+	TIME: 17:47:55.508
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 575
+	TIME: 17:47:56.864
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 576
+	TIME: 17:48:01.849
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 577
+	TIME: 17:48:06.843
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 578
+	TIME: 17:48:11.871
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 579
+	TIME: 17:48:16.880
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 580
+	TIME: 17:48:21.850
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 581
+	TIME: 17:48:26.860
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 582
+	TIME: 17:48:32.027
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 583
+	TIME: 17:48:36.882
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 584
+	TIME: 17:48:41.900
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 585
+	TIME: 17:48:46.852
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 586
+	TIME: 17:48:51.941
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 587
+	TIME: 17:48:57.010
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 588
+	TIME: 17:49:01.934
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 589
+	TIME: 17:49:06.876
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 590
+	TIME: 17:49:11.857
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 591
+	TIME: 17:49:16.904
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 592
+	TIME: 17:49:21.854
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 593
+	TIME: 17:49:26.867
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 594
+	TIME: 17:49:31.855
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 595
+	TIME: 17:49:36.884
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 596
+	TIME: 17:49:41.871
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 597
+	TIME: 17:49:46.859
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 598
+	TIME: 17:49:51.897
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 599
+	TIME: 17:49:56.865
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 600
+	TIME: 17:50:01.882
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 601
+	TIME: 17:50:06.891
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 602
+	TIME: 17:50:11.972
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 603
+	TIME: 17:50:16.903
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 604
+	TIME: 17:50:21.871
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 605
+	TIME: 17:50:26.870
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 606
+	TIME: 17:50:31.877
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 607
+	TIME: 17:50:36.860
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 608
+	TIME: 17:50:41.874
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 609
+	TIME: 17:50:47.060
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 610
+	TIME: 17:50:51.879
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 611
+	TIME: 17:50:56.872
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 612
+	TIME: 17:51:01.892
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 613
+	TIME: 17:51:06.887
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 614
+	TIME: 17:51:11.886
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 615
+	TIME: 17:51:16.890
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 616
+	TIME: 17:51:21.917
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 617
+	TIME: 17:51:26.891
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 618
+	TIME: 17:51:31.873
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 619
+	TIME: 17:51:37.028
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 620
+	TIME: 17:51:42.015
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 621
+	TIME: 17:51:47.020
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 622
+	TIME: 17:51:51.901
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 623
+	TIME: 17:51:56.871
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 624
+	TIME: 17:52:01.877
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 625
+	TIME: 17:52:06.869
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 626
+	TIME: 17:52:11.923
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 627
+	TIME: 17:52:16.892
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 628
+	TIME: 17:52:21.923
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 629
+	TIME: 17:52:26.879
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 630
+	TIME: 17:52:31.875
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 631
+	TIME: 17:52:36.871
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 632
+	TIME: 17:52:41.882
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 633
+	TIME: 17:52:46.905
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 634
+	TIME: 17:52:51.881
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 635
+	TIME: 17:52:56.910
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 636
+	TIME: 17:53:01.956
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 637
+	TIME: 17:53:06.894
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 638
+	TIME: 17:53:11.916
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 639
+	TIME: 17:53:16.891
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 640
+	TIME: 17:53:21.894
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 641
+	TIME: 17:53:26.913
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 642
+	TIME: 17:53:31.881
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 643
+	TIME: 17:53:36.894
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 644
+	TIME: 17:53:41.908
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 645
+	TIME: 17:53:46.878
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 646
+	TIME: 17:53:51.875
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 647
+	TIME: 17:53:56.899
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 648
+	TIME: 17:54:01.926
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 649
+	TIME: 17:54:06.925
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 650
+	TIME: 17:54:11.888
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 651
+	TIME: 17:54:16.929
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 652
+	TIME: 17:54:21.891
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 653
+	TIME: 17:54:27.168
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 654
+	TIME: 17:54:31.957
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 655
+	TIME: 17:54:36.888
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 656
+	TIME: 17:54:41.895
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 657
+	TIME: 17:54:46.891
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 658
+	TIME: 17:54:51.929
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 659
+	TIME: 17:54:56.889
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 660
+	TIME: 17:55:01.925
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 661
+	TIME: 17:55:06.909
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 662
+	TIME: 17:55:11.890
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 663
+	TIME: 17:55:16.893
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 664
+	TIME: 17:55:21.900
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 665
+	TIME: 17:55:26.909
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 666
+	TIME: 17:55:31.890
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 667
+	TIME: 17:55:37.242
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 668
+	TIME: 17:55:42.009
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 669
+	TIME: 17:55:46.897
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 670
+	TIME: 17:55:52.032
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 671
+	TIME: 17:55:56.911
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 672
+	TIME: 17:56:01.898
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 673
+	TIME: 17:56:06.938
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 674
+	TIME: 17:56:12.529
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 675
+	TIME: 17:56:16.904
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 676
+	TIME: 17:56:21.925
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 677
+	TIME: 17:56:27.168
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 678
+	TIME: 17:56:31.969
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 679
+	TIME: 17:56:37.651
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 680
+	TIME: 17:56:42.539
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 681
+	TIME: 17:56:48.006
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 682
+	TIME: 17:56:52.801
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 683
+	TIME: 17:56:57.773
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 684
+	TIME: 17:57:02.869
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 685
+	TIME: 17:57:07.515
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 686
+	TIME: 17:57:12.652
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 687
+	TIME: 17:57:19.126
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 688
+	TIME: 17:57:22.652
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 689
+	TIME: 17:57:27.706
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 690
+	TIME: 17:57:32.779
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 691
+	TIME: 17:57:37.421
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries
+ENTRY: 692
+	TIME: 17:57:42.704
+		RUNNER: Under 1.5 Tries
+		RUNNER: Over 1.5 Tries

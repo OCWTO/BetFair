@@ -426,7 +426,7 @@ public class DataIO
 					workingLay = layOption.getPrice();
 				}
 			}
-			runnerDataContainer.addData(lastReceivedTime, (1/((workingBack + workingLay) /2)));
+			runnerDataContainer.addData(lastReceivedTime, (1/((workingBack + workingLay)/2)));
 			//System.out.println("Writing " + time + " , " + (1/((workingBack + workingLay) / 2)) + " " + manager.getRunnerName(trackedRunner.getSelectionId()) + " TO coll " + runnerDataContainer.getName());
 		}
 		else
@@ -454,8 +454,6 @@ public class DataIO
 				String timeStamp = runnerDataContainer.getMostRecentTimeStamp();
 				String probability = runnerDataContainer.getMostRecentProbability();
 				String runnerName = runnerDataContainer.getName();
-				
-				
 				marketItem.addRunnerProbability(new BetFairProbabilityItem(timeStamp, runnerName, probability));
 			}
 			marketInformation.add(marketItem);

@@ -1,10 +1,8 @@
 package model;
 
-import java.time.LocalDate;
-import java.time.LocalTime;
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Date;
+import java.util.LinkedList;
 import java.util.List;
 
 //If a market is closed then we locate its last data
@@ -14,10 +12,16 @@ import java.util.List;
 
 public class PredictionModel
 {
+	private static boolean firstHalfOver = false;
+	private static final int halfLength = 45;
+	private static final int breakDuration = 15;
+	private static final int previousPointTrackCount = 8;
+	private static long secondHalfStartTime;
+	private static long firstHalfExtraTime;
+	
 	private String marketName;
-	private List<String[]> timeStamps;
-	private List<double[]> probabilities;
-	private static final int previousPointTrackCount = 6;
+	private LinkedList<String> timeStamps;
+	private List<LinkedList<Double>> probabilities;
 	private String[] runnerNames;
 	private Date marketStartTime;
 	private boolean marketClosed;
@@ -32,66 +36,101 @@ public class PredictionModel
 	public PredictionModel(String marketName, Date startTime)
 	{
 		this.marketName = marketName;
-		timeStamps = new ArrayList<String[]>();
-		probabilities = new ArrayList<double[]>();
 		marketStartTime = startTime;
 		marketClosed = false;
+		probabilities = new ArrayList<LinkedList<Double>>();
+		timeStamps = new LinkedList<String>();
 	}
 	
-	//if val is 0 then we just ignore
-	public void addData(List<BetFairProbabilityItem> newProbabilites)
+	private LinkedList<Double> getProbsForRunner(String runnerName)
 	{
-		//System.out.println();
-		//System.out.println();
-		//This  means that the market has closed, so we try make our predictions.
-		if(newProbabilites == null)
-		{	
-			return;
-		}
-		//Add new probability data, if this is 0 then it means themarket is shut
-		//System.out.println("PROB LOOP START");
-		//System.out.println(probabilities.size() + " iters expected");
-		
-		for(BetFairProbabilityItem probability : newProbabilites)
-		{	
-			for(int i = 0; i < runnerNames.length; i++)
+		for(int i = 0; i < runnerNames.length; i++)
+		{
+			if(runnerNames[i].equals(runnerName))
 			{
-				//System.out.println("RUNNER LENGTH " + runnerNames.length + " NAME " + runnerNames[i]);
-				if(runnerNames[i].equals(probability.getRunnerName()))
-				{
-					double probabilityVal = Double.parseDouble(probability.getProbability());
-					double gameTime = convertToDouble(probability.getTimeStamp());
-					break;
-				}
+				return probabilities.get(i);
 			}
 		}
-		//System.out.println("PROP LOOP DONE");
+		return null;
+	}
+	
+	//Add data to our existing collections
+	public void addData(List<BetFairProbabilityItem> newProbabilites)
+	{
+		//Add one timestamp for this call, all runners data comes in at
+		//the same time so one collective timestamp is suitable.
+		
+		addTimeStampRecord(Long.valueOf(newProbabilites.get(0).getTimeStamp()));
+
+		//For each runners data
+		for(BetFairProbabilityItem probability: newProbabilites)
+		{
+			addProbabilityData(probability.getRunnerName(), probability.getProbability());
+		}
 	}
 
-	private double convertToDouble(String timeStamp)
+	private void addProbabilityData(String runnerName, String probability)
 	{
-		//System.out.println(timeStamp);
-		long retrievedTime = Long.valueOf(timeStamp);
-		long gameTimeInSeconds = (new Date(retrievedTime).getTime() - marketStartTime.getTime())/1000;
-		//System.out.println("TIME IN S " + gameTimeInSeconds);
-		int minCount = 0;
-		int secondCount = 0;
+		LinkedList<Double> runnersProbability = getProbsForRunner(runnerName);
+		double probabilityValue = Double.valueOf(probability);
 		
-		//if more than 1min has passed
-		if(gameTimeInSeconds/60 > 1)
+		runnersProbability.addFirst(probabilityValue);
+		
+		if(runnersProbability.size() > previousPointTrackCount)
+			runnersProbability.removeLast();		
+	}
+
+	private void addTimeStampRecord(Long valueOf)
+	{
+		String time = convertMsTimeToGame(valueOf);
+		
+		timeStamps.addFirst(time);
+		
+		if(timeStamps.size() > previousPointTrackCount)
+			timeStamps.removeLast();
+	}
+
+	private String convertMsTimeToGame(Long timeInMsFromEpoch)
+	{
+		//If its the first half
+		if(secondHalfStartTime == 0)
 		{
-			minCount = (int) (gameTimeInSeconds/60);
-			secondCount = (int) (gameTimeInSeconds % 60);
-			
+			//System.out.println("2nd half");
+			return getFirstHalfTime(timeInMsFromEpoch);
 		}
+		//if its the second half
 		else
 		{
-			secondCount = (int) (gameTimeInSeconds % 60);
+			return "0";
 		}
-		double minsAndSeconds = minCount + ((double) secondCount/100);
-		//System.out.println("TimeStamp " + minsAndSeconds);
+	}
+	
+	public String getFirstHalfTime(Long timeInMsFromEpoch)
+	{
+		long startTime = marketStartTime.getTime();
+		long currentGameDuration = timeInMsFromEpoch - startTime;
+		long timeInSeconds = currentGameDuration/1000;
+		long minCount;
+		String gameTime = "";
 		
-		return 0;
+		//if its greater than 45min from start then we adjust second count
+		if(currentGameDuration > (1000 * (halfLength * 60)))
+		{
+			timeInSeconds = timeInSeconds - (halfLength * 60);			
+			gameTime = "45:00 + ";
+		}
+		
+		minCount = timeInSeconds/60;
+		long secondCount = timeInSeconds%60;
+		String conditional = (secondCount >= 10) ? "" : "0";
+		gameTime = gameTime + minCount + ":" + conditional + (timeInSeconds % 60);
+		return gameTime;
+	}
+	
+	//We get told when the first half ended, allows us to know when 2nd half starts
+	public void setHalfTimeEnd(long halfTimeEnd)
+	{
+		secondHalfStartTime = halfTimeEnd + (breakDuration * 1000);
 	}
 
 	public String getMarketName()
@@ -99,35 +138,42 @@ public class PredictionModel
 		return marketName;
 	}
 	
-	public void init(List<BetFairProbabilityItem> probabilities2)
+	public void init(List<BetFairProbabilityItem> newProbabilities)
 	{
-		runnerNames =  new String[probabilities2.size()];
+		//Define the size of runner array from the number of indexes
+		runnerNames =  new String[newProbabilities.size()];
+		System.out.println(marketName + " ADDING DATA FOR RUNNERS");
 		
-		for(int i = 0; i < probabilities2.size(); i ++)
+		BetFairProbabilityItem runnerData;
+		
+		//For each runners data
+		for(int i = 0; i < newProbabilities.size(); i ++)
 		{
-			double[] probabilitiesArr = new double[previousPointTrackCount];
-			probabilitiesArr[0] = Double.parseDouble(probabilities2.get(i).getProbability());
-			probabilities.add(probabilitiesArr);
+			runnerData = newProbabilities.get(i);
+			System.out.println("RUNNER " + runnerData.getRunnerName());
+			System.out.println("VAL " + runnerData.getProbability() + " TIME " + runnerData.getTimeStamp());
 			
-			String[] timeStampsArr = new String[previousPointTrackCount];
-			timeStampsArr[0] = probabilities2.get(i).getTimeStamp();
-			timeStamps.add(timeStampsArr);
 			
-			runnerNames[i] = probabilities2.get(i).getRunnerName();
+			runnerNames[i] = runnerData.getRunnerName();
+			
+			LinkedList<Double> probValues = new LinkedList<Double>();
+			probValues.add(Double.parseDouble(runnerData.getProbability()));
+			probabilities.add(probValues);
+			
+			timeStamps.add(runnerData.getTimeStamp());
 		}	
-		//TODO here we can throw out favoured team event and game start event
 	}
 
 	public List<String> getPredictions()
 	{
+		//we can tell that this is the first iter to give out special info by looking at timestamps size
+		//if its size 1 and this is match odds then we know favoured team
+		//if its 1 and this is first goalscorer we know whos predicted to score
+		
 		List<String> predictions = new ArrayList<String>();
 		//For each runner we analyse our points, if we have less than previousPointTrackCount then we do nothing
 		
-		// TODO Auto-generated method stub
 		return predictions;
 	}
 
 }
-//Maintain a number of arrays for each runner. All data is always passed in the same order so no need to remmeber
-//names?
-

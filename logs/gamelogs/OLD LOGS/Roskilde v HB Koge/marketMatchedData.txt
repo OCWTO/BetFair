@@ -1,0 +1,43 @@
+TIMESTAMP: 19:20:33.648
+	{Over/Under 5.5 Goals,1.117820731, matched: 4948.04, available: 2957.52, TOTAL 7905.5599999999995}
+	{Over/Under 6.5 Goals,1.117820732, matched: 3095.91, available: 1653.05, TOTAL 4748.96}
+	{Over/Under 7.5 Goals,1.117820733, matched: 2365.01, available: 4.98, TOTAL 2369.9900000000002}
+	{Over/Under 8.5 Goals,1.117820734, matched: 2652.68, available: 0.0, TOTAL 2652.68}
+	{Correct Score 2 Home,1.117820735, matched: 2409.48, available: 12.07, TOTAL 2421.55}
+	{Correct Score 2 Away,1.117820736, matched: 1695.67, available: 0.0, TOTAL 1695.67}
+	{Roskilde +1,1.117820737, matched: 5850.88, available: 69.28, TOTAL 5920.16}
+	{HB Koge +1,1.117820739, matched: 9122.11, available: 352.99, TOTAL 9475.1}
+	{Asian Handicap,1.117820740, matched: 49814.37, available: 1285.45, TOTAL 51099.82}
+	{Both teams to Score?,1.117820775, matched: 11129.08, available: 1809.94, TOTAL 12939.02}
+	{DRAW NO BET,1.117820776, matched: 99.22, available: 2026.22, TOTAL 2125.44}
+	{Next Goal,1.117820777, matched: 5763.96, available: 77.63, TOTAL 5841.59}
+	{Over/Under 1.5 Goals,1.117820778, matched: 14053.15, available: 10328.57, TOTAL 24381.72}
+	{Over/Under 3.5 Goals,1.117820779, matched: 16798.77, available: 10394.88, TOTAL 27193.65}
+	{Over/Under 4.5 Goals,1.117820780, matched: 5398.1, available: 6165.73, TOTAL 11563.83}
+	{Total Goals,1.117820781, matched: 7200.52, available: 824.45, TOTAL 8024.97}
+	{Correct Score,1.117820791, matched: 12979.76, available: 9100.96, TOTAL 22080.72}
+	{Over/Under 2.5 Goals,1.117820792, matched: 26455.73, available: 19638.92, TOTAL 46094.649999999994}
+	{Half Time/Full Time,1.117820793, matched: 139.07, available: 827.85, TOTAL 966.9200000000001}
+	{Match Odds,1.117820794, matched: 29216.64, available: 25601.46, TOTAL 54818.1}
+}TIMESTAMP: 19:20:38.580
+	{Over/Under 5.5 Goals,1.117820731, matched: 4946.04, available: 2957.52, TOTAL 7903.5599999999995}
+	{Over/Under 6.5 Goals,1.117820732, matched: 3095.91, available: 1653.05, TOTAL 4748.96}
+	{Over/Under 7.5 Goals,1.117820733, matched: 2365.01, available: 4.98, TOTAL 2369.9900000000002}
+	{Over/Under 8.5 Goals,1.117820734, matched: 2652.68, available: 0.0, TOTAL 2652.68}
+	{Correct Score 2 Home,1.117820735, matched: 2409.48, available: 12.07, TOTAL 2421.55}
+	{Correct Score 2 Away,1.117820736, matched: 2450.62, available: 0.0, TOTAL 2450.62}
+	{Roskilde +1,1.117820737, matched: 6029.86, available: 69.28, TOTAL 6099.139999999999}
+	{HB Koge +1,1.117820739, matched: 9122.11, available: 352.99, TOTAL 9475.1}
+	{Asian Handicap,1.117820740, matched: 56885.17, available: 1285.45, TOTAL 58170.619999999995}
+	{Both teams to Score?,1.117820775, matched: 11871.71, available: 1809.94, TOTAL 13681.65}
+	{DRAW NO BET,1.117820776, matched: 101.9, available: 2026.22, TOTAL 2128.12}
+	{Next Goal,1.117820777, matched: 6232.78, available: 77.63, TOTAL 6310.41}
+	{Over/Under 1.5 Goals,1.117820778, matched: 14737.89, available: 10338.03, TOTAL 25075.92}
+	{Over/Under 3.5 Goals,1.117820779, matched: 16819.81, available: 10409.68, TOTAL 27229.49}
+	{Over/Under 4.5 Goals,1.117820780, matched: 5402.1, available: 6165.73, TOTAL 11567.83}
+	{Total Goals,1.117820781, matched: 8309.39, available: 824.45, TOTAL 9133.84}
+	{Correct Score,1.117820791, matched: 13602.0, available: 9100.96, TOTAL 22702.96}
+	{Over/Under 2.5 Goals,1.117820792, matched: 24157.54, available: 19638.92, TOTAL 43796.46}
+	{Half Time/Full Time,1.117820793, matched: 139.07, available: 827.85, TOTAL 966.9200000000001}
+	{Match Odds,1.117820794, matched: 30639.31, available: 25743.44, TOTAL 56382.75}
+}

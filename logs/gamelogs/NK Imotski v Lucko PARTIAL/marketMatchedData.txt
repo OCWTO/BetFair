@@ -1,0 +1,390 @@
+TIMESTAMP: 2015-03-29T17:18:49.377
+	{Match Odds,1.117979668, matched: 1896.87, available: 3640.18, TOTAL 5537.049999999999}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3236.78, available: 226.24, TOTAL 3463.0200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1326.55, available: 5273.25, TOTAL 6599.8}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:18:54.386
+	{Match Odds,1.117979668, matched: 1937.76, available: 3640.18, TOTAL 5577.94}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3236.78, available: 226.24, TOTAL 3463.0200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1311.76, available: 5273.25, TOTAL 6585.01}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:18:59.436
+	{Match Odds,1.117979668, matched: 1937.76, available: 3640.18, TOTAL 5577.94}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3257.0, available: 226.24, TOTAL 3483.24}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1326.55, available: 5273.25, TOTAL 6599.8}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:04.390
+	{Match Odds,1.117979668, matched: 1887.24, available: 3640.18, TOTAL 5527.42}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3209.78, available: 226.24, TOTAL 3436.0200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1125.91, available: 5273.25, TOTAL 6399.16}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:09.420
+	{Match Odds,1.117979668, matched: 1887.24, available: 3640.18, TOTAL 5527.42}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3209.78, available: 226.24, TOTAL 3436.0200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1276.44, available: 5273.25, TOTAL 6549.6900000000005}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:14.393
+	{Match Odds,1.117979668, matched: 1924.27, available: 3640.18, TOTAL 5564.45}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3209.78, available: 226.24, TOTAL 3436.0200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1276.44, available: 5273.25, TOTAL 6549.6900000000005}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:19.406
+	{Match Odds,1.117979668, matched: 1924.27, available: 3640.18, TOTAL 5564.45}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3230.01, available: 226.24, TOTAL 3456.25}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1276.44, available: 5273.25, TOTAL 6549.6900000000005}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:24.376
+	{Match Odds,1.117979668, matched: 1924.54, available: 3640.18, TOTAL 5564.719999999999}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3206.48, available: 226.24, TOTAL 3432.7200000000003}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1316.44, available: 5273.25, TOTAL 6589.6900000000005}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:29.491
+	{Match Odds,1.117979668, matched: 1873.73, available: 3640.18, TOTAL 5513.91}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3182.77, available: 226.24, TOTAL 3409.01}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1302.94, available: 5273.25, TOTAL 6576.1900000000005}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:34.396
+	{Match Odds,1.117979668, matched: 1910.51, available: 3640.72, TOTAL 5551.23}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3169.96, available: 226.24, TOTAL 3396.2}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1315.75, available: 5273.25, TOTAL 6589.0}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:39.472
+	{Match Odds,1.117979668, matched: 1907.51, available: 3640.72, TOTAL 5548.23}
+	{Next Goal,1.117979670, matched: 14.64, available: 0.0, TOTAL 14.64}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3190.2, available: 226.24, TOTAL 3416.4399999999996}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1297.44, available: 5273.25, TOTAL 6570.6900000000005}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:44.503
+	{Match Odds,1.117979668, matched: 1853.21, available: 3640.72, TOTAL 5493.93}
+	{Next Goal,1.117979670, matched: 10.25, available: 0.0, TOTAL 10.25}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3142.28, available: 226.24, TOTAL 3368.5200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1126.67, available: 5273.25, TOTAL 6399.92}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:49.484
+	{Match Odds,1.117979668, matched: 1853.21, available: 3640.72, TOTAL 5493.93}
+	{Next Goal,1.117979670, matched: 10.25, available: 0.0, TOTAL 10.25}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3142.28, available: 226.24, TOTAL 3368.5200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1273.5, available: 5317.25, TOTAL 6590.75}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:54.388
+	{Match Odds,1.117979668, matched: 1890.29, available: 3640.72, TOTAL 5531.01}
+	{Next Goal,1.117979670, matched: 10.25, available: 0.0, TOTAL 10.25}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3142.28, available: 226.24, TOTAL 3368.5200000000004}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1258.71, available: 5317.25, TOTAL 6575.96}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:19:59.419
+	{Match Odds,1.117979668, matched: 1890.29, available: 3640.72, TOTAL 5531.01}
+	{Next Goal,1.117979670, matched: 4.39, available: 0.0, TOTAL 4.39}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3156.69, available: 226.24, TOTAL 3382.9300000000003}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1273.5, available: 5317.25, TOTAL 6590.75}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:04.409
+	{Match Odds,1.117979668, matched: 1832.94, available: 3640.72, TOTAL 5473.66}
+	{Next Goal,1.117979670, matched: 4.39, available: 0.0, TOTAL 4.39}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 3136.42, available: 226.24, TOTAL 3362.66}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1273.5, available: 5317.25, TOTAL 6590.75}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:10.631
+	{Match Odds,1.117979668, matched: 1808.56, available: 3640.72, TOTAL 5449.28}
+	{Next Goal,1.117979670, matched: 4.39, available: 0.0, TOTAL 4.39}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 936.9, available: 226.24, TOTAL 1163.1399999999999}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1227.87, available: 5331.36, TOTAL 6559.23}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:15.395
+	{Match Odds,1.117979668, matched: 1808.56, available: 3640.72, TOTAL 5449.28}
+	{Next Goal,1.117979670, matched: 4.39, available: 0.0, TOTAL 4.39}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 936.9, available: 226.24, TOTAL 1163.1399999999999}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1227.87, available: 5331.36, TOTAL 6559.23}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:19.482
+	{Match Odds,1.117979668, matched: 1809.69, available: 3642.28, TOTAL 5451.97}
+	{Next Goal,1.117979670, matched: 15.05, available: 0.0, TOTAL 15.05}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 947.56, available: 226.24, TOTAL 1173.8}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1227.87, available: 5331.36, TOTAL 6559.23}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:24.429
+	{Match Odds,1.117979668, matched: 1809.69, available: 3642.28, TOTAL 5451.97}
+	{Next Goal,1.117979670, matched: 15.05, available: 0.0, TOTAL 15.05}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 947.56, available: 226.24, TOTAL 1173.8}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1227.87, available: 5331.36, TOTAL 6559.23}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:29.548
+	{Match Odds,1.117979668, matched: 1837.14, available: 3642.28, TOTAL 5479.42}
+	{Next Goal,1.117979670, matched: 15.05, available: 0.0, TOTAL 15.05}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 947.56, available: 226.24, TOTAL 1173.8}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1227.87, available: 5331.36, TOTAL 6559.23}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:34.440
+	{Match Odds,1.117979668, matched: 1837.14, available: 3642.28, TOTAL 5479.42}
+	{Next Goal,1.117979670, matched: 15.05, available: 0.0, TOTAL 15.05}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 924.04, available: 226.24, TOTAL 1150.28}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1172.81, available: 5467.11, TOTAL 6639.92}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:39.476
+	{Match Odds,1.117979668, matched: 1837.14, available: 3642.28, TOTAL 5479.42}
+	{Next Goal,1.117979670, matched: 19.44, available: 0.0, TOTAL 19.44}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 911.22, available: 226.24, TOTAL 1137.46}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1172.81, available: 5467.11, TOTAL 6639.92}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:44.459
+	{Match Odds,1.117979668, matched: 1837.14, available: 3642.28, TOTAL 5479.42}
+	{Next Goal,1.117979670, matched: 19.44, available: 0.0, TOTAL 19.44}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 934.75, available: 226.24, TOTAL 1160.99}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1172.81, available: 5467.11, TOTAL 6639.92}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:49.431
+	{Match Odds,1.117979668, matched: 1837.14, available: 3642.28, TOTAL 5479.42}
+	{Next Goal,1.117979670, matched: 19.44, available: 0.0, TOTAL 19.44}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 934.75, available: 226.24, TOTAL 1160.99}
+	{Over/Under 2.5 Goals,1.117979675, matched: 1172.81, available: 5467.11, TOTAL 6639.92}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1986.86, available: 318.95, TOTAL 2305.81}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:54.460
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:20:59.532
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:04.499
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:09.501
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:14.448
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:19.532
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:24.449
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:29.460
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:34.438
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:39.435
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:44.443
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:49.430
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:54.485
+	{Match Odds,1.117979668, matched: 45.61, available: 3642.28, TOTAL 3687.8900000000003}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 1968.48, available: 249.78, TOTAL 2218.26}
+	{Correct Score,1.117979674, matched: 885.7, available: 226.24, TOTAL 1111.94}
+	{Over/Under 2.5 Goals,1.117979675, matched: 974.24, available: 5467.11, TOTAL 6441.349999999999}
+	{Over/Under 4.5 Goals,1.117979676, matched: 1834.03, available: 129.55, TOTAL 1963.58}
+	{Over/Under 3.5 Goals,1.117979679, matched: 1840.4, available: 318.95, TOTAL 2159.35}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-03-29T17:21:59.471
+	{Match Odds,1.117979668, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.117979670, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 6.5 Goals,1.117979671, matched: 1968.48, available: 55.21, TOTAL 2023.69}
+	{Over/Under 5.5 Goals,1.117979673, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.117979674, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.117979675, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 4.5 Goals,1.117979676, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 3.5 Goals,1.117979679, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Asian Handicap,1.117979680, matched: 0.0, available: 0.0, TOTAL 0.0}

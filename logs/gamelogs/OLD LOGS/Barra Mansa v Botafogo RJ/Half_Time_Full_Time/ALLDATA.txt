@@ -1,0 +1,2946 @@
+Barra Mansa v Botafogo RJ Half Time/Full Time OPEN DATE: 10:30:00
+
+ENTRY: 1
+
+	TIME: 12:23:56
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 2
+
+	TIME: 12:24:01
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 3
+
+	TIME: 12:24:06
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 4
+
+	TIME: 12:24:11
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 5
+
+	TIME: 12:24:16
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 6
+
+	TIME: 12:24:21
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 7
+
+	TIME: 12:24:26
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 8
+
+	TIME: 12:24:31
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 9
+
+	TIME: 12:24:37
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 10
+
+	TIME: 12:24:41
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 11
+
+	TIME: 12:24:46
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 12
+
+	TIME: 12:24:51
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 13
+
+	TIME: 12:24:56
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 14
+
+	TIME: 12:25:01
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 15
+
+	TIME: 12:25:06
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 16
+
+	TIME: 12:25:11
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 17
+
+	TIME: 12:25:16
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 18
+
+	TIME: 12:25:21
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 19
+
+	TIME: 12:25:26
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 20
+
+	TIME: 12:25:31
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 21
+
+	TIME: 12:25:36
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 22
+
+	TIME: 12:25:41
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 23
+
+	TIME: 12:25:46
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 24
+
+	TIME: 12:25:51
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 25
+
+	TIME: 12:25:56
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 26
+
+	TIME: 12:26:01
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 27
+
+	TIME: 12:26:06
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 28
+
+	TIME: 12:26:11
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 29
+
+	TIME: 12:26:16
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 30
+
+	TIME: 12:26:21
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 31
+
+	TIME: 12:26:26
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 32
+
+	TIME: 12:26:31
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 33
+
+	TIME: 12:26:36
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 34
+
+	TIME: 12:26:41
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 35
+
+	TIME: 12:26:46
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 36
+
+	TIME: 12:26:51
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 37
+
+	TIME: 12:26:56
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 38
+
+	TIME: 12:27:01
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 39
+
+	TIME: 12:27:06
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 40
+
+	TIME: 12:27:11
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 41
+
+	TIME: 12:27:16
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 42
+
+	TIME: 12:27:21
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 43
+
+	TIME: 12:27:26
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 44
+
+	TIME: 12:27:31
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 45
+
+	TIME: 12:27:36
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+ENTRY: 46
+
+	TIME: 12:27:41
+
+		RUNNER: Barra Mansa/Barra Mansa
+
+			BACK: (PRICE:5.0,SIZE:5.9)
+
+			BACK: (PRICE:4.8,SIZE:15.34)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Draw
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Barra Mansa/Botafogo RJ
+
+			BACK: (PRICE:21.0,SIZE:5.9)
+
+			BACK: (PRICE:20.0,SIZE:3.68)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Barra Mansa
+
+			BACK: (PRICE:14.0,SIZE:5.9)
+
+			BACK: (PRICE:13.0,SIZE:5.66)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Draw
+
+			BACK: (PRICE:10.0,SIZE:5.9)
+
+			BACK: (PRICE:9.0,SIZE:8.18)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Draw/Botafogo RJ
+
+			BACK: (PRICE:13.0,SIZE:5.9)
+
+			BACK: (PRICE:12.0,SIZE:6.13)
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Barra Mansa
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Draw
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+
+		RUNNER: Botafogo RJ/Botafogo RJ
+
+			BACK: (PRICE:1.01,SIZE:4.4)
+

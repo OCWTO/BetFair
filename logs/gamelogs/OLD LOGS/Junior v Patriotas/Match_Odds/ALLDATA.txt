@@ -1,0 +1,68 @@
+Junior v Patriotas Match Odds OPEN DATE: 11:00:00
+
+ENTRY: 1
+
+	TIME: 12:52:07
+
+		RUNNER: Junior
+
+		RUNNER: Patriotas
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.03,SIZE:8.74)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:57.22)
+
+ENTRY: 2
+
+	TIME: 12:52:12
+
+		RUNNER: Junior
+
+		RUNNER: Patriotas
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.03,SIZE:8.74)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:57.22)
+
+ENTRY: 3
+
+	TIME: 12:52:17
+
+		RUNNER: Junior
+
+		RUNNER: Patriotas
+
+			BACK: (PRICE:1.04,SIZE:16.8)
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.03,SIZE:8.74)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:57.22)
+

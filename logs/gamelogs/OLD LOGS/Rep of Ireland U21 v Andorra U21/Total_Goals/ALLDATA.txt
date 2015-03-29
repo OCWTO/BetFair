@@ -1,0 +1,1042 @@
+Rep of Ireland U21 v Andorra U21 Total Goals OPEN DATE: 07:45:00
+
+ENTRY: 1
+
+	TIME: 09:32:45
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 2
+
+	TIME: 09:32:50
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 3
+
+	TIME: 09:32:55
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 4
+
+	TIME: 09:33:00
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 5
+
+	TIME: 09:33:07
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 6
+
+	TIME: 09:33:15
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 7
+
+	TIME: 09:33:17
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 8
+
+	TIME: 09:33:25
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 9
+
+	TIME: 09:33:26
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 10
+
+	TIME: 09:33:31
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 11
+
+	TIME: 09:33:36
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 12
+
+	TIME: 09:33:41
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 13
+
+	TIME: 09:33:46
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 14
+
+	TIME: 09:33:51
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 15
+
+	TIME: 09:33:56
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 16
+
+	TIME: 09:34:01
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 17
+
+	TIME: 09:34:06
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 18
+
+	TIME: 09:34:11
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 19
+
+	TIME: 09:34:16
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 20
+
+	TIME: 09:34:21
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 21
+
+	TIME: 09:34:26
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 22
+
+	TIME: 09:34:31
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 23
+
+	TIME: 09:34:36
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 24
+
+	TIME: 09:34:41
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 25
+
+	TIME: 09:34:46
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 26
+
+	TIME: 09:34:51
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 27
+
+	TIME: 09:34:56
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 28
+
+	TIME: 09:35:01
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 29
+
+	TIME: 09:35:06
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 30
+
+	TIME: 09:35:11
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 31
+
+	TIME: 09:35:16
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 32
+
+	TIME: 09:35:21
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 33
+
+	TIME: 09:35:26
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 34
+
+	TIME: 09:35:31
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 35
+
+	TIME: 09:35:36
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+			BACK: (PRICE:1.22,SIZE:403.16)
+
+			BACK: (PRICE:1.15,SIZE:170.79)
+
+ENTRY: 36
+
+	TIME: 09:35:41
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 37
+
+	TIME: 09:35:46
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 38
+
+	TIME: 09:35:51
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 39
+
+	TIME: 09:35:56
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 40
+
+	TIME: 09:36:01
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 41
+
+	TIME: 09:36:06
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 42
+
+	TIME: 09:36:11
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 43
+
+	TIME: 09:36:16
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 44
+
+	TIME: 09:36:21
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 45
+
+	TIME: 09:36:26
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 46
+
+	TIME: 09:36:31
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 47
+
+	TIME: 09:36:36
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 48
+
+	TIME: 09:36:41
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 49
+
+	TIME: 09:36:46
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
+ENTRY: 50
+
+	TIME: 09:36:51
+
+		RUNNER: 1 goals or more
+
+		RUNNER: 2 goals or more
+
+		RUNNER: 3 goals or more
+
+		RUNNER: 4 goals or more
+
+		RUNNER: 5 goals or more
+
+		RUNNER: 6 goals or more
+
+		RUNNER: 7 goals or more
+
