@@ -181,8 +181,13 @@ public class GameRecorder extends TimerTask implements Observable
 		//System.out.println("storing activity");
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
 		//System.out.println("getting data");
-		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
-		System.out.println("GOT CLOSED " + "SZ " + closedMarketList.size());
+		//List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
+		List<String> closedMarketList = io.getRecentlyClosedMarkets();//checkForClosedMarkets(mostRecentData);
+		
+		
+		
+		
+		checkForShutDown();
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
 		//System.out.println("finished loop");
@@ -207,13 +212,25 @@ public class GameRecorder extends TimerTask implements Observable
 		//System.out.println("getting data");
 		
 		//Check to see if any markets have closed this iteration
-		List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
+		List<String> closedMarketList = io.getRecentlyClosedMarkets();//checkForClosedMarkets(mostRecentData);
+		
+		
+		
+		
+		checkForShutDown();
+		
 		System.out.println("GOT CLOSED " + "SZ " + closedMarketList.size());
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
 		//System.out.println("finished loop");
 	}
 	
+	private void checkForShutDown()
+	{
+		if(manager.getTrackedMarketIds().size() == 0)
+			finished = true;
+	}
+
 	public boolean isRunning()
 	{
 		return finished;
@@ -270,6 +287,7 @@ public class GameRecorder extends TimerTask implements Observable
 ////						System.out.println("theres " + manager.getTrackedMarketIds().size() + " left");
 ////					}
 //				}
+				System.out.println("ADDING NUM " + receivedMarketNames.size());
 				closedMarketNames.addAll(receivedMarketNames);
 				
 				//marketList.removeAll(marketNames);	//TODO problems might come from here
@@ -277,6 +295,10 @@ public class GameRecorder extends TimerTask implements Observable
 				//System.out.println("markets we got no data for " + closedMarketNames.size());
 
 				return closedMarketNames;
+		}
+		else
+		{
+			System.out.println("NO MISMATCH");
 		}
 			return new ArrayList<String>();
 	}

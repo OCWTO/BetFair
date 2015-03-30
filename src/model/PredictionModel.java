@@ -16,7 +16,7 @@ public class PredictionModel
 	private static final int halfLength = 45;
 	private static final int breakDuration = 15;
 	private static final int previousPointTrackCount = 8;
-	private static long secondHalfStartTime;
+	private static long secondHalfStartTime = 0;
 	private static long firstHalfExtraTime;
 	
 	private String marketName;
@@ -95,16 +95,51 @@ public class PredictionModel
 		//If its the first half
 		if(secondHalfStartTime == 0)
 		{
-			//System.out.println("2nd half");
 			return getFirstHalfTime(timeInMsFromEpoch);
 		}
 		//if its the second half
 		else
 		{
-			return "0";
+			return getSecondHalfTime(timeInMsFromEpoch);
 		}
 	}
 	
+	private String getSecondHalfTime(Long timeInMsFromEpoch)
+	{
+		if(timeInMsFromEpoch < secondHalfStartTime)
+		{
+			System.out.println("NOT STARTED HALF YET");
+			return null;
+		}
+		else
+		{
+		System.out.println("PRODUCING");
+		long secondHalfStart = secondHalfStartTime;
+		long currentHalfDuration = timeInMsFromEpoch - secondHalfStart;
+		long timeInSeconds = currentHalfDuration/1000;
+		long minCount = 45;;
+		long secondCount;
+		String gameTime = "";
+		
+		//If in extra time
+		if(currentHalfDuration > (1000 * (halfLength * 60)))
+		{
+			timeInSeconds = timeInSeconds - (halfLength * 60);			
+			gameTime = "90:00 + ";
+			minCount = 0;
+		}
+		System.out.println("SECOND TIME " + timeInSeconds);
+		minCount+= timeInSeconds/60;
+		secondCount = timeInSeconds%60;
+		System.out.println("MINS " + minCount);
+		System.out.println("SECS " + secondCount);
+		String conditional = (secondCount >= 10) ? "" : "0";
+		gameTime = gameTime + minCount + ":" + conditional + secondCount;
+		System.out.println(gameTime);
+		return gameTime;
+		}
+	}
+
 	public String getFirstHalfTime(Long timeInMsFromEpoch)
 	{
 		long startTime = marketStartTime.getTime();
@@ -124,13 +159,14 @@ public class PredictionModel
 		long secondCount = timeInSeconds%60;
 		String conditional = (secondCount >= 10) ? "" : "0";
 		gameTime = gameTime + minCount + ":" + conditional + (timeInSeconds % 60);
+		System.out.println(gameTime);
 		return gameTime;
 	}
 	
 	//We get told when the first half ended, allows us to know when 2nd half starts
-	public void setHalfTimeEnd(long halfTimeEnd)
+	public static void setFirstHalfTimeEnd(long halfTimeEnd)
 	{
-		secondHalfStartTime = halfTimeEnd + (breakDuration * 1000);
+		secondHalfStartTime = halfTimeEnd + (breakDuration * 60 * 1000);
 	}
 
 	public String getMarketName()

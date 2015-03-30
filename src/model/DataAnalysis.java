@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Timer;
+
+import enums.MarketNames;
 //TODO add code so that the all market checker doesnt remove market data for what we're querying for
 //ALSO but it needs to stop tracking markets it finds are closed
 /**
@@ -103,7 +105,6 @@ public class DataAnalysis implements Observer, Observable
 		//Add data to the prediction models
 		addDataToPredictors(marketProbabilities);
 		informClosedPredictors(events.getClosedMarkets());
-		
 		//Get predicted events
 		List<String> predictedEvents = getPredictedEvents();
 		
@@ -117,18 +118,28 @@ public class DataAnalysis implements Observer, Observable
 	
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
-		System.out.println("TRYING");
+		
+		
+		
 		//System.out.println(closedMarkets == null);
 		for(String closedMarketId: closedMarkets)
 		{
-			System.out.println("CLOSED MARKET " + closedMarketId);
-			for(PredictionModel model : predictionModel)
+			String marketName = closedMarketId.split(",")[0];
+			long closedTime = Long.valueOf(closedMarketId.split(",")[1]);
+			//System.out.println("NAME IS " + marketName);
+			//System.out.println(marketName.e);
+			if(marketName.equals(MarketNames.HALF_TIME.toString()))
 			{
-				if(model.getMarketName().equals(closedMarketId))
-				{
-					model.addData(null);
-				}
+				PredictionModel.setFirstHalfTimeEnd(closedTime);
 			}
+			System.out.println("CLOSED MARKET " + closedMarketId);
+//			for(PredictionModel model : predictionModel)
+//			{
+//				if(model.getMarketName().equals(closedMarketId))
+//				{
+//					model.addData(null);
+//				}
+//			}
 		}
 	}
 	

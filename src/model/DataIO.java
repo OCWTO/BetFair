@@ -29,6 +29,7 @@ public class DataIO
 	private List<MarketDataContainer> storedMarketData;
 	private List<String> jsonAPIReplies;
 	private List<String> marketCatalogueActivity; 
+	private List<String> recentlyClosedMarkets;
 	private DataManager manager;
 	private String separator = File.separator;
 	private File baseDirectory;
@@ -47,6 +48,7 @@ public class DataIO
 		counter = 1;
 		jsonAPIReplies = new ArrayList<String>();
 		marketCatalogueActivity = new ArrayList<String>();
+		recentlyClosedMarkets = new ArrayList<String>();
 	}
 
 	/**
@@ -160,7 +162,7 @@ public class DataIO
 								makeBaseDirectory(storedMarketData.get(j).getGameName());
 						}	
 						//Grab our list of ids we query for and removed the closed market from it
-
+						recentlyClosedMarkets.add(manager.getMarketName(currentBook.getMarketId()) + "," + lastReceivedTime);
 						manager.stopTrackingMarketId(currentBook.getMarketId());
 						//If all markets are closed then we shut down.
 						
@@ -323,6 +325,13 @@ public class DataIO
 		}
 	}
 
+	public List<String> getRecentlyClosedMarkets()
+	{
+		List<String> closedList = new ArrayList<String>(recentlyClosedMarkets);
+		recentlyClosedMarkets.clear();
+		return closedList;
+	}
+	
 	/**
 	 * Store the financial activity for all active markets
 	 * @param allMarkets MarketData objects representing active markets
