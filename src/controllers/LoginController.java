@@ -10,7 +10,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 import model.ISimpleBetFair;
 import model.ProgramOptions;
-import model.SimpleBetFairCore;
+import model.SimpleBetFair;
 import views.BetFairView;
 import views.LoginView;
 import views.SportSelectView;
@@ -34,7 +34,7 @@ public class LoginController implements ActionListener
 	 */
 	public LoginController(BetFairView loginView)
 	{
-		betFair = new SimpleBetFairCore(false);
+		betFair = new SimpleBetFair(false);
 		view = loginView;
 	}
 

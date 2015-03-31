@@ -150,7 +150,14 @@ public class DataAnalysis implements Observer, Observable
 		//Go through each markets model and poll for data
 		for(PredictionModel marketPredictionModel : predictionModel)
 		{
-			predictedEvents.addAll(marketPredictionModel.getPredictions());
+			predictedEvents.addAll(marketPredictionModel.getPreds());
+		}
+		if(predictedEvents.size() > 0)
+		{
+			for(String event : predictedEvents)
+			{
+				System.out.println("EVENT PREDICTED " + event);
+			}
 		}
 		//System.out.println("Trying to predict events");
 		return predictedEvents;
@@ -190,6 +197,7 @@ public class DataAnalysis implements Observer, Observable
 				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
 				{
 					//System.out.println("Adding data for " + marketProbabilities.get(j).getMarketName());
+					//System.out.println("Adding data for market " + marketProbabilities.get(j).getMarketName());
 					predictionModel.get(i).addData(marketProbabilities.get(j).getProbabilities());
 					break;
 				}

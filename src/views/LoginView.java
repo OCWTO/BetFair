@@ -13,7 +13,7 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
 import model.ProgramOptions;
-import model.SimpleBetFairCore;
+import model.SimpleBetFair;
 import controllers.LoginController;
 
 /**
@@ -138,7 +138,7 @@ public class LoginView extends BetFairView
 	{
 		ProgramOptions currentOptions = new ProgramOptions();
 		currentOptions.setDebugMode(debugCheckBox.isSelected());
-		currentOptions.addBetFair(new SimpleBetFairCore(currentOptions.getDebugMode()));
+		currentOptions.addBetFair(new SimpleBetFair(currentOptions.getDebugMode()));
 		currentOptions.setUserDetails(usernameEntry.getText(), new String(passwordEntry.getPassword()), new String(filePasswordEntry.getPassword()));
 		return currentOptions;
 	}

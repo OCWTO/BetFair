@@ -13,7 +13,7 @@ import model.BetFairSportObject;
 import model.DataAnalysis;
 import model.ISimpleBetFair;
 import model.ProgramOptions;
-import model.SimpleBetFairCore;
+import model.SimpleBetFair;
 import exceptions.CryptoException;
 
 //TODO provide exit points and opportunity to go back
@@ -35,7 +35,7 @@ public class TextFrontEnd
 	 */
 	public TextFrontEnd(boolean debug)
 	{
-		betFair = new SimpleBetFairCore(debug);
+		betFair = new SimpleBetFair(debug);
 		userInput = new Scanner(System.in);
 	}
 
