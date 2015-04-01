@@ -74,10 +74,10 @@ public class DataAnalysis implements Observer, Observable
 		{
 			//Create prediction model for the market
 			PredictionModel marketModel = new PredictionModel(marketProb.getMarketName(), gameStartTime);
-			System.out.println("Making mode for " + marketProb.getMarketName());
+			//System.out.println("Making mode for " + marketProb.getMarketName());
 			//add data for the market to the model
 			marketModel.init(marketProb.getProbabilities());
-			System.out.println("adding for " + marketProb.getMarketName());
+			//System.out.println("adding for " + marketProb.getMarketName());
 			//Store this predictionmodel
 			predictionModel.add(marketModel);
 		}

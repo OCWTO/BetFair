@@ -12,44 +12,34 @@ import java.util.List;
 
 public class PredictionModel
 {
-	private static boolean firstHalfOver = false;
 	private static final int halfLength = 45;
 	private static final int breakDuration = 15;
 	private static final int previousPointTrackCount = 8;
-	private static final int trendActive = 4;
+
 	private static long secondHalfStartTime = 0;
-	private static long firstHalfExtraTime;
 	
 	private String marketName;
 	private List<LinkedList<String>> timeStamps;
 	private List<LinkedList<Double>> probabilities;
 	private String[] runnerNames;
 	private Date marketStartTime;
-	private boolean marketClosed;
 	private boolean ignoreVal = false;
-	private static double pctChangeThreshold = 5.0;
+	private static double pctChangeThreshold = 10.0;
 	
 	
 	double spikeProbability;
 	String spikeTimeStamp;
-	
-	
-	
 	private boolean currentlyChecking = false;
 	
 	
-	private int checkedRunnerIndex;
-	private double valueBeforeSpike;
-	
+
 	private List<Double> checkedProbabilities;
 	private List<String> checkedTimeStamps;
 	
-	private double spikeValue;
-	private double spikeIndex;
-	//private String spikeTime
-	private int spikeIterationCount;
+	
 	private int spikeRunnerIndex;
 	private int iterationCount;
+	private String spikeRunnerName;
 	/**
 	 * Gui exists, observes predictionmodel. Predictionmodel is referred to by the gui and gamerecorder
 	 * gamerecorder feeds it data, if events pop gui gets told
@@ -61,7 +51,6 @@ public class PredictionModel
 	{
 		this.marketName = marketName;
 		marketStartTime = startTime;
-		marketClosed = false;
 		probabilities = new ArrayList<LinkedList<Double>>();
 		timeStamps = new ArrayList<LinkedList<String>>();
 		spikeTimeStamp = "";
@@ -114,9 +103,10 @@ public class PredictionModel
 			}
 			else
 			{
-				iterationCount++;
+				//iterationCount++;
 			}
 		}
+		iterationCount++;
 	}
 
 	private void addProbabilityData(String runnerName, String probability)
@@ -130,11 +120,14 @@ public class PredictionModel
 		}
 		else
 		{
-			runnersProbability.addFirst(probabilityValue);
-			
+			runnersProbability.addLast(probabilityValue);
+//			if(marketName.equals("Match Odds"))
+//					{
+//				System.out.println("ADDING PROB " + probabilityValue  + " FOR RUNNER " + runnerName);
+//					}
 			if(runnersProbability.size() > previousPointTrackCount)
 			{
-				double x = runnersProbability.removeLast();		
+				double x = runnersProbability.removeFirst();		
 				//System.out.println("      POPPING OFF " + x);
 			}
 		}
@@ -144,15 +137,20 @@ public class PredictionModel
 	{
 		if(!ignoreVal)
 		{
-			LinkedList<String> runnersProbability = getTimeStampForRunner(runnerName);
+			LinkedList<String> timeStampsForRunner = getTimeStampForRunner(runnerName);
 			String time = convertMsTimeToGame(valueOf);
 			if(time != null)
 			{
-				runnersProbability.addFirst(time);
+//				if(marketName.equals("Match Odds"))
+//			{
+//				System.out.println("ADDING TIMESTAMP " + time + " FOR RUNNER " + runnerName);
+//			}
+				timeStampsForRunner.addLast(time);
+				//System.out.println("ADDING");
 				
-				if(runnersProbability.size() > previousPointTrackCount)
+				if(timeStampsForRunner.size() > previousPointTrackCount)
 				{
-					String x = runnersProbability.removeLast();
+					String x = timeStampsForRunner.removeFirst();
 					//System.out.print("POPPING OFF " + x);
 				}
 			}
@@ -243,15 +241,14 @@ public class PredictionModel
 	
 	public List<String> getPreds()
 	{
-		//List<String> predictions = new ArrayList<String>();
-		
 		if(currentlyChecking)
 		{
-			//System.out.println("IS CHECKING");
+			//System.out.println("TRYING TO VERIFY");
 			return verifyProbabilitySpikes();
 		}
 		else
 		{
+			//System.out.println("CHECKING");
 			checkForProbabilitySpikes();
 			return new ArrayList<String>();
 		}
@@ -259,6 +256,7 @@ public class PredictionModel
 
 	private List<String> verifyProbabilitySpikes()
 	{
+		//System.out.println("TRYING TO VERIFY");
 		List<String> predicted = new ArrayList<String>();
 		// TODO Auto-generated method stub
 		/*
@@ -270,76 +268,90 @@ public class PredictionModel
 		currentlyChecking = true;
 		 */
 		
-		//If theres 2 new probabilities entered after the spike
-		if((iterationCount - 3) == spikeIterationCount)
+		//Split up the 8 indexes, we want the spike to be ind 0, so 3 before 4 after
+		//System.out.println(timeStamps.indexOf((spikeTimeStamp)));
+		//System.out.println("SPIKE TS IS " + spikeTimeStamp);
+		if(timeStamps.get(spikeRunnerIndex).indexOf(spikeTimeStamp) == 3)
 		{
-			boolean holdingCondition = true;
-			//For the last 3 elements after the spike
-			for(int i = probabilities.get(spikeRunnerIndex).size() - 3; i < probabilities.get(spikeRunnerIndex).size(); i++)
-			{
-				double diffFromSpikeToNext = Math.abs(spikeValue - probabilities.get(spikeRunnerIndex).get(i));
-				double diffFromBeforeToNext = Math.abs(valueBeforeSpike - probabilities.get(spikeRunnerIndex).get(i));
-				
-				if(diffFromSpikeToNext > diffFromBeforeToNext)
-				{
-					holdingCondition = false;
-				}
-			}
+			System.out.println("IN PLACE");
+			//Checking that the change is consistant (all values after the spike (avg) are greater than the avg before
 			
-			//Correct prediction so we go on to blacklist 
-			if(holdingCondition)
+			double avgBeforeSpike = 0;
+			double avgAfterSpike = 0;
+			
+			//Get the avg of the first 3 values
+			for(int i = 0; i < 3; i++)
+			{
+				avgBeforeSpike+=probabilities.get(spikeRunnerIndex).get(i);
+			}
+			avgBeforeSpike = avgBeforeSpike / 3;
+			
+			//Get the avg of the last 4
+			for(int i = 4; i < 8; i++)
+			{
+				avgAfterSpike+=probabilities.get(spikeRunnerIndex).get(i);
+			}
+			avgAfterSpike = avgAfterSpike / 4;
+			
+			//if the change from before to after is bigger than 3% event it thrown
+			if(getPercentageChange(avgBeforeSpike, avgAfterSpike) > 3)
 			{
 				predicted.add(marketName + " PREDCTION FOR " + runnerNames[spikeRunnerIndex]);
-				
 			}
+			System.out.println("PRED FALE");
 			currentlyChecking = false;
-			checkedProbabilities.add(spikeValue);
-			checkedTimeStamps.add(spikeTimeStamp);
-			
+			return predicted;
 		}
-		return predicted;
-	}
-
-	/**
-	 * Analyse the currently existing probability data and look for spikes in the value
-	 */
-	private void checkForProbabilitySpikes()
-	{
-		double previousProb = 0.0;
+		return new ArrayList<String>();
 		
-		//For each runners probability set
-		for(int i = 0; i < probabilities.size(); i++)
-		{
-			//If we have full list of probability data then proceeed
-			if(probabilities.get(i).size() == previousPointTrackCount)
-			{
-				//Loop through the individual data
-				for(int j = 0; j < probabilities.get(i).size(); j++)
-				{
-					//0th index is our base point
-					if(j == 0)
-					{
-						previousProb = probabilities.get(i).get(j);
-					}
-					else
-					{
-						double pctChange = getPercentageChange(previousProb, probabilities.get(i).get(j));
-						
-						//If the change is high enough
-						if(pctChange > pctChangeThreshold && !isBlackListed(probabilities.get(i).get(j), timeStamps.get(i).get(j)))
-						{
-							startChecking(previousProb, probabilities.get(i).get(j), timeStamps.get(i).get(j), i);
-							return;
-						}
-					}
-				}
-			}
-		}
+		
+		
+		
+		
+		
+		
+		
+//		
+//		//If theres 2 new probabilities entered after the spike
+//		if((iterationCount - 3) == spikeIterationCount)
+//		{
+//			boolean holdingCondition = true;
+//			//For the last 3 elements after the spike
+//			for(int i = probabilities.get(spikeRunnerIndex).size() - 3; i < probabilities.get(spikeRunnerIndex).size(); i++)
+//			{
+//				double diffFromSpikeToNext = Math.abs(spikeValue - probabilities.get(spikeRunnerIndex).get(i));
+//				double diffFromBeforeToNext = Math.abs(valueBeforeSpike - probabilities.get(spikeRunnerIndex).get(i));
+//				
+//				if(diffFromSpikeToNext > diffFromBeforeToNext)
+//				{
+//					holdingCondition = false;
+//				}
+//			}
+//			
+//			//Correct prediction so we go on to blacklist 
+//			if(holdingCondition)
+//			{
+//				System.out.println("VALUE BEFORE SPIKE WAS " + valueBeforeSpike);
+//				System.out.println("SPIKE VALUE IS " + spikeValue);
+//				System.out.println("TIMESTAMPED SPIKE AT " + spikeTimeStamp);
+//				predicted.add(marketName + " PREDCTION FOR " + runnerNames[spikeRunnerIndex]);
+//				
+//			}
+//			currentlyChecking = false;
+//			checkedProbabilities.add(spikeValue);
+//			checkedTimeStamps.add(spikeTimeStamp);
+			
+	//	}
+		//return predicted;
 	}
 
-	private boolean isBlackListed(Double double1, String string)
+	//returns true if the value before the spike is closer to the spikevalue than the mean before spike
+	private boolean closerTo(double valueBeforeSpike, double spikeValue, double meanBeforeSpike)
 	{
-		if(checkedProbabilities.contains(double1) || checkedTimeStamps.contains(string))
+		double changeFromBeforeToSpike = getPercentageChange(valueBeforeSpike, spikeValue);
+		double changeFromAverageToBefore = getPercentageChange(meanBeforeSpike, valueBeforeSpike);
+		
+		if(changeFromBeforeToSpike > changeFromAverageToBefore)
 		{
 			return true;
 		}
@@ -348,125 +360,83 @@ public class PredictionModel
 			return false;
 		}
 	}
-
-	private void startChecking(double previousProb, double spikeProb,
-			String spikeTime, int runnerIndex)
-	{
-		spikeIterationCount = iterationCount;
-		valueBeforeSpike = previousProb;
-		spikeValue = spikeProb;
-		spikeTimeStamp = spikeTime;
-		spikeRunnerIndex = runnerIndex;
-		currentlyChecking = true;
-	}
-
-	//i is runner, j is index
-	public List<String> getPredictions()
-	{
-		List<String> predictions = new ArrayList<String>();
-		
-		double previousPoint = 0;
-		
+	
+	/**
+	 * Analyse the currently existing probability data and look for spikes in the value
+	 */
+	private void checkForProbabilitySpikes()
+	{		
 		//For each runner
 		for(int i = 0; i < probabilities.size(); i++)
 		{
-			//If we're not at the threshhold yet then do nothing
-			if(probabilities.get(i).size() != previousPointTrackCount)
+			//If we have a full index of points then we have enough to check
+			if(probabilities.get(i).size() == previousPointTrackCount)
 			{
-				//break;
-			}
-			else
-			{
-				//For each probabilitiy value
-				for(int j = 0; j < probabilities.get(i).size(); j++)
+				double olderValue = probabilities.get(i).get(6);
+				double mostRecentValue = probabilities.get(i).get(7);
+				
+//				if(olderValue == 0.013150973)
+//				{
+//					System.out.println("FOUND IT TRUE");
+//				}
+				//If the change between the last 2 values is greater than the threshold 
+				if(getPercentageChange(olderValue, mostRecentValue) > pctChangeThreshold)
 				{
-					if(j == 0)
+					System.out.println("THRESHOLD MET " + marketName + " " + runnerNames[i] + " " + timeStamps.get(i).get(7) + " BEFORE " + olderValue + " AFTER " + mostRecentValue);
+					double meanBeforeSpikeValues = 0;
+					for(int j = 0; j < 6; j++)
 					{
-						previousPoint = probabilities.get(i).get(j);
+						meanBeforeSpikeValues+=probabilities.get(i).get(j);
 					}
-					//Non 0th point
-					else
+					meanBeforeSpikeValues = meanBeforeSpikeValues/6;
+					
+					//System.out.println("IM HERE");
+					//If the spike value is 5% more than the average values before
+					
+					if(getPercentageChange(meanBeforeSpikeValues, mostRecentValue) > pctChangeThreshold/2)
 					{
-						if(currentlyChecking)
-						{
-							int ind = probabilities.get(checkedRunnerIndex).indexOf(spikeTimeStamp);
-							
-							//If we have 3 points ahead of the spike then we can see if its a true condition
-							if(ind == 4)
-							{
-								boolean condHolds = true;
-								//For future points
-								for(int a = 5; a < probabilities.get(checkedRunnerIndex).size(); a++)
-								{
-									double diffBeforeSpikeToNow = probabilities.get(checkedRunnerIndex).get(a) - valueBeforeSpike;
-									double diffAfterSpikeToNow = probabilities.get(checkedRunnerIndex).get(a) - spikeProbability;
-									
-									if(diffAfterSpikeToNow > diffBeforeSpikeToNow)
-									{
-										condHolds = false;
-									}
-								}
-								
-								//if the condition holds
-								if(condHolds)
-								{
-									predictions.add(marketName + " " + runnerNames[checkedRunnerIndex] + " SPIKE");
-								}
-								else
-								{
-									//reset all of our values.
-								}
-								currentlyChecking = false;
-								checkedProbabilities.add(spikeProbability);
-								checkedTimeStamps.add(spikeTimeStamp);
-							}
-							
-						}
-						else
-						{
-							//System.out.println("HIT THE ELSE");
-							double pctChange = getPercentageChange(previousPoint, probabilities.get(i).get(j));
-							previousPoint = probabilities.get(i).get(j);
-							
-							//If its a valid size change
-							if(pctChange > pctChangeThreshold && !runnerNames[i].equals("The Draw") && !currentlyChecking)
-							{
-								//If this is a new calculated spike
-								if(!(spikeProbability == previousPoint) && !spikeTimeStamp.equals(timeStamps.get(i).get(j))) 
-								{
-									valueBeforeSpike = previousPoint;
-									checkedRunnerIndex = i;
-									System.out.println("SPIKE DETECTED " + marketName);
-									spikeTimeStamp = timeStamps.get(i).get(j);
-									spikeProbability = previousPoint;
-									System.out.println("PCT CHANGES " + pctChange + " FOR MARKET " + marketName + " WITH RUNNER " + runnerNames[i]);
-									currentlyChecking = true;
-								}
-								//this is spike detection, next up is to check 3-4 points after it to make sure that
-								//all points are closed to spike than other val
-							}
-						}
+						System.out.println("DETECTED FROM VAL " + olderValue + " TO " + mostRecentValue);
+						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " + marketName + " " + runnerNames[i]);
+						//currentlyChecking = true;
+						spikeTimeStamp = timeStamps.get(i).get(7);
+						spikeRunnerName = runnerNames[i];
+						spikeRunnerIndex = i;
 					}
+					
+					
+					//If the older value is closer to the mean than the spike then nothing happened
+					//Ohterwise we think somethings happening
+//					if(closerTo(olderValue, mostRecentValue, meanBeforeSpikeValues))
+//					{
+//						currentlyChecking = true;
+//						spikeTimeStamp = timeStamps.get(i).get(7);
+//						spikeRunnerName = runnerNames[i];
+//						spikeRunnerIndex = i;
+//					}
+//					else
+//					{
+//						currentlyChecking = false;
+//					}
 				}
 			}
 		}
-		return predictions;
-		
-		
-		//we can tell that this is the first iter to give out special info by looking at timestamps size
-		//if its size 1 and this is match odds then we know favoured team
-		//if its 1 and this is first goalscorer we know whos predicted to score
-		
-	//	List<String> predictions = new ArrayList<String>();
-		//For each runner we analyse our points, if we have less than previousPointTrackCount then we do nothing
-		
-		//return predictions;
 	}
 
-	private double getPercentageChange(double previousPoint, Double double1)
+
+	private double getPercentageChange(double oldVal, Double newVal)
 	{
-		double changeInVal = double1 - previousPoint;
-		double pctChange = (changeInVal/previousPoint)*100;
+		double changeInVal = newVal - oldVal;
+		double pctChange = (changeInVal/oldVal)*100;
+//		if(marketName.equals("Match Odds") && iterationCount < 400  && iterationCount > 300)
+//		{
+//		
+//			System.out.println("COMPARING " + oldVal + " TO " + newVal + " FOR MARKET " + marketName);
+//			System.out.println("VAL 1 " + oldVal);
+//			System.out.println("VAL 2 " + newVal);
+//			System.out.println("CHANGE IN VAL " + changeInVal);
+//			System.out.println("PCT IS " + pctChange);
+//		
+//		}
 		return pctChange;
 	}
 

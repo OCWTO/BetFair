@@ -81,6 +81,7 @@ public class LoginController implements ActionListener
 		//If its in test mode then we don't need to log in
 		if(options.getTestMode())
 		{
+			view.closeView();
 			BetFairView testView = new TestFileSelectionView(options);
 		}
 		else
@@ -94,18 +95,8 @@ public class LoginController implements ActionListener
 				//If successful log in
 				if(response.equalsIgnoreCase("success"))
 				{	
-					//If its in test mode
-					if(options.getCollectionMode())
-					{
-						view.closeView();
-						//BetFairView nextView = new TestFileSelectionView(options);
-					}
-					//Otherwise its normal mode so proceed to sport select view
-					else
-					{					
-						view.closeView();
-						BetFairView nextView = new SportSelectView(options);
-					}
+					view.closeView();
+					BetFairView nextView = new SportSelectView(options);
 				}
 				//Anything other than success should throw an run time exception which is caught below.
 			} 

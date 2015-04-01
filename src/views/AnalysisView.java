@@ -46,7 +46,10 @@ public class AnalysisView extends BetFairView implements Observer
 	
 	public AnalysisView(TestFile testFile)
 	{
-		super(frameTitle, testFile.getOptions(), null);
+		super(frameTitle, new ProgramOptions(), null);
+		analysis = new DataAnalysis(testFile);
+		setupAndDisplay();
+		analysis.start();
 	}
 	
 	private void setAwayTeamName(String awayTeam)
