@@ -1,3 +1,4 @@
+
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
@@ -5,6 +6,8 @@ import java.util.List;
 import views.TextFrontEnd;
 import model.ISimpleBetFair;
 import model.SimpleBetFair;
+
+import views.TextFrontEnd;
 
 /**
  * Class containing main method which runs the whole program
