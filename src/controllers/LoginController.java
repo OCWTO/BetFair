@@ -14,6 +14,7 @@ import model.SimpleBetFair;
 import views.BetFairView;
 import views.LoginView;
 import views.SportSelectView;
+import views.TestFileSelectionView;
 import exceptions.BadLoginDetailsException;
 import exceptions.CryptoException;
 
@@ -59,15 +60,13 @@ public class LoginController implements ActionListener
 	 */
 	private void openFileLocator()
 	{
-		options = view.getOptions();
-		
 		JFileChooser fileLocator = new JFileChooser();
 		fileLocator.setFileFilter(new FileNameExtensionFilter("Personal Information Exchange Files (*.p12)","p12"));
 		
 		if(fileLocator.showOpenDialog(view.getFrame()) == JFileChooser.APPROVE_OPTION)
 		{
 			File certificateFile = fileLocator.getSelectedFile();
-			options.setCertificateFile(certificateFile);
+			((LoginView) view).setFileLocation(certificateFile.getPath());
 		}
 	}
 
@@ -78,26 +77,46 @@ public class LoginController implements ActionListener
 	{
 		options = view.getOptions();
 		betFair = options.getBetFair();
-
-		try
+		
+		//If its in test mode then we don't need to log in
+		if(options.getTestMode())
 		{
-			betFair.setDebug(options.getDebugMode());
-			String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword(), options.getCertificateFile());
-
-			if(response.equalsIgnoreCase("success"))
-			{	
-					view.closeView();
-					BetFairView nextView = new SportSelectView(options);
-			}
-			//Anything other than success should throw an run time exception which is caught below.
-		} 
-		catch (CryptoException badCertPasswordException)
-		{
-			JOptionPane.showMessageDialog(view.getFrame(), badCertPasswordException.getMessage());
+			BetFairView testView = new TestFileSelectionView(options);
 		}
-		catch(BadLoginDetailsException badDetailsException)
+		else
 		{
-			JOptionPane.showMessageDialog(view.getFrame(), badDetailsException.getMessage());
+			try
+			{
+				betFair.setDebug(options.getDebugMode());
+				System.out.println(options.getCertificateFile());
+				String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword(), options.getCertificateFile());
+	
+				//If successful log in
+				if(response.equalsIgnoreCase("success"))
+				{	
+					//If its in test mode
+					if(options.getCollectionMode())
+					{
+						view.closeView();
+						//BetFairView nextView = new TestFileSelectionView(options);
+					}
+					//Otherwise its normal mode so proceed to sport select view
+					else
+					{					
+						view.closeView();
+						BetFairView nextView = new SportSelectView(options);
+					}
+				}
+				//Anything other than success should throw an run time exception which is caught below.
+			} 
+			catch (CryptoException badCertPasswordException)
+			{
+				JOptionPane.showMessageDialog(view.getFrame(), badCertPasswordException.getMessage());
+			}
+			catch(BadLoginDetailsException badDetailsException)
+			{
+				JOptionPane.showMessageDialog(view.getFrame(), badDetailsException.getMessage());
+			}
 		}
 	}
 }

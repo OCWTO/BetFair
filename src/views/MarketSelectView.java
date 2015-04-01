@@ -18,6 +18,7 @@ public class MarketSelectView extends BetFairView
 	private static final String frameTitle = "BetFair Market select";
 	private List<BetFairMarketObject> availableMarkets;
 	private JTable marketListTable;
+	private JButton defaultMarketSelect;
 	
 	public MarketSelectView(ProgramOptions programOptions)
 	{
@@ -33,22 +34,31 @@ public class MarketSelectView extends BetFairView
 		setupMarketSelectPanel();
 		setupOptionsPanel();
 	}
+	
+	public JTable getMarketTable()
+	{
+		return marketListTable;
+	}
 
 	private void setupMarketSelectPanel()
 	{
 		JPanel gameSelectPanel = new JPanel();
 		JScrollPane tablePane;
 
-		String[] columnNames = {"Market name", "Market Id"};
+		String[] columnNames = {"Market name"};
 		Object[][]rowData = new Object[availableMarkets.size()][columnNames.length];
 		
 		for(int i = 0; i < availableMarkets.size(); i++)
 		{
 			rowData[i][0] = availableMarkets.get(i).getName();
-			rowData[i][1] = availableMarkets.get(i).getMarketId();
 		}
 		
-		marketListTable = new JTable(rowData, columnNames);
+		marketListTable = new JTable(rowData, columnNames)
+		{
+			   public boolean isCellEditable(int row, int column){
+			        return false;
+			   }
+		};
 		tablePane = new JScrollPane(marketListTable);
 		gameSelectPanel.add(tablePane);
 		mainContainer.add(gameSelectPanel);
@@ -59,6 +69,11 @@ public class MarketSelectView extends BetFairView
 	{
 		JPanel optionsPanel = new JPanel();
 		optionsPanel.setLayout(new BoxLayout(optionsPanel,BoxLayout.X_AXIS));
+		
+		defaultMarketSelect = new JButton();
+		defaultMarketSelect.setText("Use defaults");
+		defaultMarketSelect.addActionListener(viewListener);
+		optionsPanel.add(defaultMarketSelect);
 		
 		JButton previousViewButton = new JButton();
 		previousViewButton.setText("back");
@@ -83,8 +98,8 @@ public class MarketSelectView extends BetFairView
 			{
 				selectedMarketIds.add(availableMarkets.get(selectedRow).getMarketId());
 			}
+			super.getOptions().addMarketIds(selectedMarketIds);	
 		}
-			
 		return super.getOptions();
 	}
 }

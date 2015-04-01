@@ -37,9 +37,11 @@ public abstract class BetFairView
 		mainContainer = guiFrame.getContentPane();
 		mainContainer.setLayout(new BoxLayout(mainContainer, BoxLayout.Y_AXIS));
 		guiFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		//setupAndDisplay();	figure out 
 	}
 	
+	/**
+	 * Template pattern here deciding the flow of calls that occur before a view becomes visible.
+	 */
 	protected void setupAndDisplay()
 	{
 		setupPanels();

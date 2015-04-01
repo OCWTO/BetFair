@@ -141,7 +141,7 @@ public class BetFairCore implements IBetFairCore
 		try
 		{
 			//Dealing with certificate file
-			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(new File(directoryPrefix + separator + "certs" + separator + "client-2048.p12")),
+			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(certificateFile),
 					filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
 

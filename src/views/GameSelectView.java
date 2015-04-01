@@ -7,14 +7,12 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
+import javax.swing.ListSelectionModel;
 
 import model.BetFairGameObject;
 import model.ProgramOptions;
 import controllers.GameSelectController;
 
-//TODO allow sort by click on column list
-//TODO colour code for in progress, soon and coming up
-//TODO filter out non games 
 
 public class GameSelectView extends BetFairView
 {
@@ -53,7 +51,14 @@ public class GameSelectView extends BetFairView
 			rowData[i][2] = availableGames.get(i).getCountryCode();
 		}
 		
-		gameListTable = new JTable(rowData, columnNames);
+		//I didn't feel that it merited a whole class just for that overridden method
+		gameListTable = new JTable(rowData, columnNames)
+		{
+			   public boolean isCellEditable(int row, int column){
+			        return false;
+			   }
+		};
+		gameListTable.getSelectionModel().setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 		tablePane = new JScrollPane(gameListTable);
 		gameSelectPanel.add(tablePane);
 		mainContainer.add(gameSelectPanel);

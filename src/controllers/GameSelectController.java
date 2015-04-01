@@ -34,7 +34,7 @@ public class GameSelectController implements ActionListener
 		if(e.getActionCommand().equals("next"))
 		{ 
 			//If market ids have been selected then transition
-			if(options.getMarketIds() != null)
+			if(options.getEventId() != null)
 			{
 				gameSelectView.closeView();
 				BetFairView marketSelectView = new MarketSelectView(options);

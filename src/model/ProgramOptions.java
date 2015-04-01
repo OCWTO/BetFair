@@ -12,16 +12,36 @@ public class ProgramOptions implements Cloneable
 	private List<String> marketIds;
 	private ISimpleBetFair betFair;
 	private boolean debugMode;
-	private boolean collectionMode;
+	private boolean testMode;
 	private String[] userCredentials;
 	private File certificateFile;
+	private File testFile;
 	
 	public ProgramOptions()
 	{
-		marketIds = new ArrayList<String>();
 		debugMode = false;
-		collectionMode = false;
+		testMode = false;
 		userCredentials = new String[3];
+	}
+	
+	public void setTestMode(boolean value)
+	{
+		testMode = value;
+	}
+	
+	public boolean getTestMode()
+	{
+		return testMode;
+	}
+	
+	public void setTestFile(File newFile)
+	{
+		testFile = newFile;
+	}
+	
+	public File getTestFile()
+	{
+		return testFile;
 	}
 	
 	public void setDebugMode(boolean value)
@@ -61,11 +81,6 @@ public class ProgramOptions implements Cloneable
 		return userCredentials[2];
 	}
 	
-	public void setCollectionMode(boolean value)
-	{
-		collectionMode = value;
-	}
-	
 	public boolean getDebugMode()
 	{
 		return debugMode;
@@ -73,7 +88,7 @@ public class ProgramOptions implements Cloneable
 	
 	public boolean getCollectionMode()
 	{
-		return collectionMode;
+		return testMode;
 	}
 
 	public void addBetFair(ISimpleBetFair betFair)
@@ -118,6 +133,10 @@ public class ProgramOptions implements Cloneable
 	
 	public void addMarketIds(List<String> options)
 	{
+		if(marketIds == null)
+		{
+			marketIds = new ArrayList<String>();
+		}
 		this.marketIds.addAll(options);
 	}
 

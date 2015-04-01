@@ -1,8 +1,8 @@
 package views;
 
 import java.awt.BorderLayout;
-import java.awt.Color;
 import java.awt.Dimension;
+import java.io.File;
 
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
@@ -31,6 +31,8 @@ public class LoginView extends BetFairView
 	private JPasswordField passwordEntry;
 	private JPasswordField filePasswordEntry;
 	private JCheckBox debugCheckBox;
+	private JCheckBox testmodeCheckBox;
+	private JLabel fileLocation;
 	/**
 	 * 
 	 */
@@ -40,16 +42,6 @@ public class LoginView extends BetFairView
 		super.setSize(new Dimension(xSize, ySize));
 		super.viewListener = new LoginController(this);
 		setupAndDisplay();
-	}
-	
-	/**
-	 * Sets up a panel containing a logo on the login view.
-	 */
-	private void setupLogoPanel()
-	{
-		JPanel logoPanel = new JPanel();
-		logoPanel.setBackground(Color.RED);
-		mainContainer.add(logoPanel);
 	}
 	
 	/**
@@ -80,7 +72,7 @@ public class LoginView extends BetFairView
 		
 		//Certificate file password pane, label - field
 		JPanel filePasswordPanel = new JPanel();
-		JLabel filePasswordField = new JLabel("Password:");
+		JLabel filePasswordField = new JLabel("File Password:");
 		filePasswordEntry = new JPasswordField();
 		filePasswordEntry.setText("project");
 		filePasswordPanel.add(filePasswordField, BorderLayout.EAST);
@@ -102,17 +94,22 @@ public class LoginView extends BetFairView
 		JButton locateCertificateFile = new JButton("Select Certificate File");
 		locateCertificateFile.addActionListener(viewListener);
 		certificateFilePanel.add(locateCertificateFile, BorderLayout.EAST);
-		JLabel fileLocation = new JLabel("No file Selected");
+		fileLocation = new JLabel("C:/Users/Craig/Desktop/Workspace/BetFair/certs/client-2048.p12");
 		optionsPanel.add(fileLocation);
 		optionsPanel.add(certificateFilePanel);
 
 		
 		optionsPanel.setLayout(new BoxLayout(optionsPanel, BoxLayout.Y_AXIS));
-		JPanel debugPanel = new JPanel();
+		JPanel checkBoxOptionsPanel = new JPanel();
+		
 		debugCheckBox = new JCheckBox("Debug mode");
 		debugCheckBox.addActionListener(viewListener);
-		debugPanel.add(debugCheckBox, BorderLayout.EAST);
-		optionsPanel.add(debugPanel);
+		testmodeCheckBox = new JCheckBox("Test mode");
+		testmodeCheckBox.addActionListener(viewListener);
+		//Ignore the BorderLayout position
+		checkBoxOptionsPanel.add(debugCheckBox, BorderLayout.EAST);
+		checkBoxOptionsPanel.add(testmodeCheckBox, BorderLayout.NORTH);
+		optionsPanel.add(checkBoxOptionsPanel);
 		
 		JButton loginButton = new JButton("Login");
 		loginButton.addActionListener(viewListener);
@@ -120,11 +117,15 @@ public class LoginView extends BetFairView
 		mainContainer.add(optionsPanel);
 		mainContainer.add(loginButton);
 	}
+	
+	public void setFileLocation(String location)
+	{
+		fileLocation.setText(location);
+	}
 
 	@Override
 	void setupPanels()
 	{
-		setupLogoPanel();
 		setupDetailsPanel();
 		setupOptionsPanel();
 	}
@@ -138,8 +139,10 @@ public class LoginView extends BetFairView
 	{
 		ProgramOptions currentOptions = new ProgramOptions();
 		currentOptions.setDebugMode(debugCheckBox.isSelected());
+		currentOptions.setTestMode(testmodeCheckBox.isSelected());
 		currentOptions.addBetFair(new SimpleBetFair(currentOptions.getDebugMode()));
 		currentOptions.setUserDetails(usernameEntry.getText(), new String(passwordEntry.getPassword()), new String(filePasswordEntry.getPassword()));
+		currentOptions.setCertificateFile(new File(fileLocation.getText()));
 		return currentOptions;
 	}
 	

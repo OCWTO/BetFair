@@ -28,18 +28,20 @@ public class SportSelectController implements ActionListener
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
+		//Get the selected options
 		options = view.getOptions();
 		
+		//If next button was pressed
 		if(e.getActionCommand().equals("next"))
 		{
+			//If a sport has been selected then transition
 			if(options.getEventTypeId() != null)
 			{
 				view.closeView();
 				BetFairView sportSelectView = new GameSelectView(options);
 			}	
 			else
-				JOptionPane.showMessageDialog(view.getFrame(), "Please select a sport");
-				
+				JOptionPane.showMessageDialog(view.getFrame(), "Please select a sport");	
 		}
 		else if(e.getActionCommand().equals("back"))
 		{

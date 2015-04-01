@@ -16,9 +16,8 @@ import model.ProgramOptions;
 import model.SimpleBetFair;
 import exceptions.CryptoException;
 
-//TODO provide exit points and opportunity to go back
 /**
- * Text based UI provided to allow users to track games & their markets.
+ * Text based UI provided to allow users to set up game recordings.
  * 
  * @author Craig Thomson
  *
@@ -31,7 +30,7 @@ public class TextFrontEnd
 
 	/**
 	 * 
-	 * @param debug
+	 * @param debug 
 	 */
 	public TextFrontEnd(boolean debug)
 	{
@@ -40,7 +39,7 @@ public class TextFrontEnd
 	}
 
 	/**
-	 * 
+	 * Start prompting for required information to record markets
 	 */
 	public void start()
 	{
@@ -69,7 +68,7 @@ public class TextFrontEnd
 			marketId = marketPrompt(gameId);
 
 			
-			//THIS CODE starts a recorder so we want to do the same sort of stuff except observe it too
+			//Create a programoptions object and start recording
 			ProgramOptions options = new ProgramOptions();
 			options.setUserDetails("0ocwto0", "2014Project", "project");
 			options.addMarketIds(marketId);
@@ -79,17 +78,19 @@ public class TextFrontEnd
 			
 			
 			recorder = new DataAnalysis(options);
+			//Preset polling time of 5000ms
 			recorder.start(5000);			
 		}
 	}
 
 	/**
 	 * 
-	 * @param gameId
+	 * @param gameId The game id that markets will be displayed for
 	 * @return
 	 */
 	private List<String> marketPrompt(String gameId)
 	{
+		//TODO add support for selecting all markets
 		String inputLine;
 		String[] inputTokens;
 		List<BetFairMarketObject> gameMarkets = betFair
@@ -109,12 +110,14 @@ public class TextFrontEnd
 					.println("Pick a market you want to record\n\tSELECT 'NUMBER'\n\tEnter 'DONE' to continue");
 			inputLine = userInput.nextLine();
 
+			//If done is pressed then it passes back the list of ids entered
 			if (inputLine.equalsIgnoreCase("done"))
 			{
-				List<String> ret = new ArrayList<String>();
-				ret.addAll(selectedMarkets);
-				return ret;
+				List<String> selectedMarketList = new ArrayList<String>();
+				selectedMarketList.addAll(selectedMarkets);
+				return selectedMarketList;
 			}
+			//Otherwise it looks for select commands.
 			else
 			{
 				inputTokens = inputLine.split(" ");
@@ -137,28 +140,21 @@ public class TextFrontEnd
 
 	/**
 	 * 
-	 * @param sportId
-	 * @return
+	 * @param sportId The sport id that you want to see a game list for
+	 * @return The users selected game id
 	 */
-	// TODO filter out general markets, look only for those with v, check first
-	// 10
-	// if first 10 have it then next10 etc or change 10 for x
 	private String gamePrompt(String sportId)
 	{
-		//sportId = "101153190";
 		String inputLine;
 		String[] inputTokens;
 		List<BetFairGameObject> gameList = betFair.getGameListForSport(sportId);
 		BetFairGameObject selectedGame;
 
+		//Fairly readable output for the games available
 		System.out.println("GAME LIST");
 		for (int i = 0; i < gameList.size(); i++)
 		{
-			System.out.println("NO: " + i + " " + gameList.get(i)); // instead
-																	// of
-																	// another
-			// for i'm just
-			// printing data too
+			System.out.println("NO: " + i + " " + gameList.get(i)); 
 		}
 
 		while (true)
@@ -167,6 +163,8 @@ public class TextFrontEnd
 					.println("Pick a game you want to record\n\tSELECT 'NUMBER'");
 			inputLine = userInput.nextLine();
 			inputTokens = inputLine.split(" ");
+			
+			//Split on whitespace and if there's enough so that a "select x" command was entered
 			if (inputTokens.length == 2)
 			{
 				selectedGame = gameList.get(Integer
@@ -181,7 +179,7 @@ public class TextFrontEnd
 
 	/**
 	 * 
-	 * @return
+	 * @return true or false depending on if the login was successful
 	 */
 	private boolean loginPrompt()
 	{
@@ -200,6 +198,7 @@ public class TextFrontEnd
 				String response;
 				try
 				{
+					//TODO replace this with a string token
 					response = betFair.login(inputTokens[0], inputTokens[1],
 							inputTokens[2], new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\certs\\client-2048.p12"));
 					if (response.equalsIgnoreCase("success"))
@@ -225,8 +224,6 @@ public class TextFrontEnd
 			}
 		}
 	}
-
-	//TODO add support for comma separated values
 	
 	/**
 	 * 

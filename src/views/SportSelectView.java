@@ -68,7 +68,13 @@ public class SportSelectView extends BetFairView
 			rowData[i][0] = sportNames.get(i);
 		}
 
-		sportListTable = new JTable(rowData, columnNames);
+		sportListTable = new JTable(rowData, columnNames)
+		{
+			   public boolean isCellEditable(int row, int column){
+			        return false;
+			   }
+		};
+		
 		sportListTable.getSelectionModel().setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
 		tablePane = new JScrollPane(sportListTable);
 		sportSelectPanel.add(tablePane);

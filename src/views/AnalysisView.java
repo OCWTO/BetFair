@@ -11,6 +11,7 @@ import javax.swing.JTable;
 import model.DataAnalysis;
 import model.Observer;
 import model.ProgramOptions;
+import model.TestFile;
 
 public class AnalysisView extends BetFairView implements Observer
 {
@@ -41,6 +42,11 @@ public class AnalysisView extends BetFairView implements Observer
 		//Class above it is observer and observable, it throws updates
 		//after it receives events and nicely formats
 		
+	}
+	
+	public AnalysisView(TestFile testFile)
+	{
+		super(frameTitle, testFile.getOptions(), null);
 	}
 	
 	private void setAwayTeamName(String awayTeam)
