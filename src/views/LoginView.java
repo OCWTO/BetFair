@@ -49,73 +49,75 @@ public class LoginView extends BetFairView
 	 */
 	private void setupDetailsPanel()
 	{
-		JPanel loginPanel = new JPanel();
+		JPanel detailsPanel = new JPanel();
 		
-		//Username panel, label - field
-		JPanel userNamePanel = new JPanel();
-		JLabel userNameField = new JLabel("Username:");
+		JPanel labelPanel = new JPanel();
+		labelPanel.setLayout(new BoxLayout(labelPanel, BoxLayout.Y_AXIS));
+		JLabel userNameLabel = new JLabel("Username:");
+		JLabel passwordLabel = new JLabel("Password:");
+		JLabel certPasswordLabel = new JLabel("File Password:");
+		labelPanel.add(userNameLabel);
+		labelPanel.add(passwordLabel);
+		labelPanel.add(certPasswordLabel);
+		
+		JPanel textFieldPanel = new JPanel();
+		textFieldPanel.setLayout(new BoxLayout(textFieldPanel, BoxLayout.Y_AXIS));
 		usernameEntry = new JTextField();
 		usernameEntry.addActionListener(viewListener);
 		usernameEntry.setText("0ocwto0");
-		userNamePanel.add(userNameField, BorderLayout.EAST);
-		userNamePanel.add(usernameEntry, BorderLayout.WEST);
-		loginPanel.add(userNamePanel);
-		
-		//Password pane, label - field
-		JPanel passwordPanel = new JPanel();
-		JLabel PasswordField = new JLabel("Password:");
 		passwordEntry = new JPasswordField();
 		passwordEntry.setText("2014Project");
-		passwordPanel.add(PasswordField, BorderLayout.EAST);
-		passwordPanel.add(passwordEntry, BorderLayout.WEST);
-		loginPanel.add(passwordPanel);
-		
-		//Certificate file password pane, label - field
-		JPanel filePasswordPanel = new JPanel();
-		JLabel filePasswordField = new JLabel("File Password:");
 		filePasswordEntry = new JPasswordField();
 		filePasswordEntry.setText("project");
-		filePasswordPanel.add(filePasswordField, BorderLayout.EAST);
-		filePasswordPanel.add(filePasswordEntry, BorderLayout.WEST);
-		loginPanel.add(filePasswordPanel);
+		textFieldPanel.add(usernameEntry);
+		textFieldPanel.add(passwordEntry);
+		textFieldPanel.add(filePasswordEntry);
 		
-		//Add to main panel
-		mainContainer.add(loginPanel);
+		detailsPanel.add(labelPanel, BorderLayout.WEST);
+		detailsPanel.add(textFieldPanel, BorderLayout.EAST);
+
+		mainContainer.add(detailsPanel);
 	}
 	
 	/**
 	 * Sets up panel with option checkboxes and a login button.
 	 */
 	private void setupOptionsPanel()
-	{
-		JPanel optionsPanel = new JPanel();
+	{		
+		JPanel certificatePanel = new JPanel();
+		certificatePanel.setLayout(new BoxLayout(certificatePanel, BoxLayout.Y_AXIS));
 		
 		JPanel certificateFilePanel = new JPanel();
 		JButton locateCertificateFile = new JButton("Select Certificate File");
 		locateCertificateFile.addActionListener(viewListener);
-		certificateFilePanel.add(locateCertificateFile, BorderLayout.EAST);
-		fileLocation = new JLabel("C:/Users/Craig/Desktop/Workspace/BetFair/certs/client-2048.p12");
-		optionsPanel.add(fileLocation);
-		optionsPanel.add(certificateFilePanel);
-
+		certificateFilePanel.add(locateCertificateFile, BorderLayout.NORTH);
+		fileLocation = new JLabel("./certs/client-2048.p12");
+		certificateFilePanel.add(fileLocation, BorderLayout.CENTER);
+		certificatePanel.add(certificateFilePanel);
 		
+		mainContainer.add(certificatePanel);
+/////////////////////
+		
+		JPanel optionsPanel = new JPanel();
 		optionsPanel.setLayout(new BoxLayout(optionsPanel, BoxLayout.Y_AXIS));
-		JPanel checkBoxOptionsPanel = new JPanel();
 		
+		JPanel checkBoxPanel = new JPanel();		
 		debugCheckBox = new JCheckBox("Debug mode");
 		debugCheckBox.addActionListener(viewListener);
 		testmodeCheckBox = new JCheckBox("Test mode");
 		testmodeCheckBox.addActionListener(viewListener);
-		//Ignore the BorderLayout position
-		checkBoxOptionsPanel.add(debugCheckBox, BorderLayout.EAST);
-		checkBoxOptionsPanel.add(testmodeCheckBox, BorderLayout.NORTH);
-		optionsPanel.add(checkBoxOptionsPanel);
-		
-		JButton loginButton = new JButton("Login");
-		loginButton.addActionListener(viewListener);
+		checkBoxPanel.add(debugCheckBox, BorderLayout.NORTH);
+		checkBoxPanel.add(testmodeCheckBox, BorderLayout.SOUTH);
+		optionsPanel.add(checkBoxPanel);
 		
 		mainContainer.add(optionsPanel);
-		mainContainer.add(loginButton);
+		
+		JPanel loginPanel = new JPanel();
+		JButton loginButton = new JButton("Login");
+		loginButton.addActionListener(viewListener);
+		loginPanel.add(loginButton, BorderLayout.CENTER);
+		
+		mainContainer.add(loginPanel);
 	}
 	
 	public void setFileLocation(String location)

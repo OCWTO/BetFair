@@ -2,6 +2,7 @@ package views;
 
 import java.awt.Color;
 import java.awt.Dimension;
+import java.awt.Font;
 
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
@@ -16,13 +17,28 @@ import model.TestFile;
 public class AnalysisView extends BetFairView implements Observer
 {
 	private static final String frameTitle = "BetFair Game View";
-	private JLabel homeTeamName;
-	private JLabel awayTeamName;
 	private JLabel gameStartTime;
 	private JLabel gameTime;
 	private JLabel gameScore;
 	private DataAnalysis analysis;
 	private JTable eventListTable;
+	
+	
+	/*
+	 * ameDetailsPanel.add(startTimeLabel);
+		gameDetailsPanel.add(gameTimeLabel);
+		gameDetailsPanel.add(lastUpdatedTimeLabel);
+	 */
+	
+	
+	private String lastUpdated = "Last Updated: ";
+	private JLabel homeTeamName;
+	private JLabel awayTeamName;
+	private JLabel homeTeamScore;
+	private JLabel awayTeamScore;
+	private JLabel startTimeLabel;
+	private JLabel gameTimeLabel;
+	private JLabel lastUpdatedTimeLabel;
 	
 	public AnalysisView(ProgramOptions options)
 	{
@@ -42,6 +58,21 @@ public class AnalysisView extends BetFairView implements Observer
 		//Class above it is observer and observable, it throws updates
 		//after it receives events and nicely formats
 		
+	}
+	
+	public static void main(String[] args)
+	{
+		AnalysisView view = new AnalysisView();
+	}
+	
+	public AnalysisView()
+	{
+		super(frameTitle, new ProgramOptions(), null);
+		//super.viewListener = new LoginController(this);
+		
+		setupAndDisplay();
+		//analysis = new DataAnalysis(options);
+		//analysis.addObserver(this);
 	}
 	
 	public AnalysisView(TestFile testFile)
@@ -81,8 +112,27 @@ public class AnalysisView extends BetFairView implements Observer
 	@Override
 	void setupPanels()
 	{
-		setupGameDetailsPanel();
-		setupDataPanel();
+		setupDetailsPanel();
+		
+		
+		
+		//setupGameDetailsPanel();
+		//setupDataPanel();
+	}
+
+	private void setupDetailsPanel() 
+	{
+		JPanel homeTeamPanel = getHomeTeamPanel();
+		JPanel gameDetailsPanel = getGameDetailsPanel();
+		JPanel awayTeamPanel = getAwayTeamPanel();
+		
+		JPanel detailsPanel = new JPanel();
+		detailsPanel.setLayout(new BoxLayout(detailsPanel, BoxLayout.X_AXIS));
+		detailsPanel.add(homeTeamPanel);
+		detailsPanel.add(gameDetailsPanel);
+		detailsPanel.add(awayTeamPanel);
+		mainContainer.add(detailsPanel);
+		
 	}
 
 	private void setupDataPanel()
@@ -98,7 +148,61 @@ public class AnalysisView extends BetFairView implements Observer
 		mainContainer.add(holder);
 		
 	}
-
+	
+	private JPanel getHomeTeamPanel()
+	{
+		JPanel homeTeamPanel = new JPanel();
+		homeTeamPanel.setLayout(new BoxLayout(homeTeamPanel, BoxLayout.Y_AXIS));
+		
+		homeTeamName = new JLabel("HOME TEAM NAME");
+		homeTeamName.setFont(new Font("Serif", Font.PLAIN, 28));
+		JLabel homeTeam = new JLabel("HOME");
+		homeTeamScore = new JLabel("0");
+		homeTeamScore.setFont(new Font("Serif", Font.PLAIN, 48));
+		
+		homeTeamPanel.add(homeTeamName);
+		homeTeamPanel.add(homeTeam);
+		homeTeamPanel.add(homeTeamScore);
+		
+		return homeTeamPanel;
+	}
+	
+	private JPanel getAwayTeamPanel()
+	{
+		JPanel awayTeamPanel = new JPanel();
+		awayTeamPanel.setLayout(new BoxLayout(awayTeamPanel, BoxLayout.Y_AXIS));
+		
+		awayTeamName = new JLabel("AWAY TEAM NAME");
+		awayTeamName.setFont(new Font("Serif", Font.PLAIN, 28));
+		JLabel awayTeam = new JLabel("AWAY");
+		awayTeamScore = new JLabel("0");
+		awayTeamScore.setFont(new Font("Serif", Font.PLAIN, 48));
+		
+		
+		awayTeamPanel.add(awayTeamName);
+		awayTeamPanel.add(awayTeam);
+		awayTeamPanel.add(awayTeamScore);
+		
+		return awayTeamPanel;
+	}
+	
+	private JPanel getGameDetailsPanel()
+	{
+		JPanel gameDetailsPanel = new JPanel();
+		gameDetailsPanel.setLayout(new BoxLayout(gameDetailsPanel, BoxLayout.Y_AXIS));
+		
+		startTimeLabel = new JLabel("UNKNOWN START TIME");
+		gameTimeLabel = new JLabel("00:00");
+		lastUpdatedTimeLabel = new JLabel(lastUpdated + "0");
+		
+		gameDetailsPanel.add(startTimeLabel);
+		gameDetailsPanel.add(gameTimeLabel);
+		gameDetailsPanel.add(lastUpdatedTimeLabel);
+		return gameDetailsPanel;
+	}
+	
+	
+	
 	private void setupGameDetailsPanel()
 	{
 		JPanel mainPanel = new JPanel();

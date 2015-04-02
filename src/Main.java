@@ -24,17 +24,17 @@ public class Main
 	//print out names are in home vs away, not too relevant but maybe display it in gui
 	public static void main(String[] args)
 	{
-		TextFrontEnd textUi = new TextFrontEnd(false);
-		textUi.start();
+		//TextFrontEnd textUi = new TextFrontEnd(false);
+		//textUi.start();
 		
 		
-		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Netherlands v Spain\\rawjson.txt"));
+		TestFile x = new TestFile(new File("./logs/gamelogs/Netherlands v Spain/rawjson.txt"));
 		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Italy v England\\rawjson.txt"));
 		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Portugal v Serbia\\rawjson.txt"));
 		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Kazakhstan v Iceland FULL\\rawjson.txt"));
 		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\England v Lithuania\\rawjson.txt"));
-		//DataAnalysis x1 = new DataAnalysis(x);
-		//x1.start();
+		DataAnalysis x1 = new DataAnalysis(x);
+		x1.start();
 		
 //		ISimpleBetFair x = new SimpleBetFair(true);
 //		
