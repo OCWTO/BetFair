@@ -124,3 +124,6 @@
 
 1/4/15:
 	I've taken a short break from the project report. I've worked on the GUI and I'm trying to fix the prediction model. The gui looks pretty ugly but it gets the job done, since I'm quite short on time. I'll probably mention gui improvements under improvements. I've found a game which doesn't match up to what is expected in terms of probability spikes. The correct number of spikes exist but they're significantly later in the graph than they should be. I have no idea why it's like that but I'll mention it in the report.
+
+2/4/15:
+	Fixed some GUI layout issues that have annoyed me for a long time now. I've spent most of the day working on the report. I went back and wrote a new abstract and introduction that I'm happy with. I've fixed my references so they're all harvard references now. I'm onto system design. I feel that from this chapter onwards I'll be able to finish them very quickly. I've been struggling with the early ones but I think I'm ok now. I've only got 1 chapter on related work, I want to put at least 1 more in but I'm unsure as exactly what to write. I'll look at the example reports to see if any of it helps, otherwise I'll do it after everything else or when Richard reads my draft.
