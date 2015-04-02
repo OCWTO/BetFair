@@ -200,7 +200,7 @@ public class TextFrontEnd
 				{
 					//TODO replace this with a string token
 					response = betFair.login(inputTokens[0], inputTokens[1],
-							inputTokens[2], new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\certs\\client-2048.p12"));
+							inputTokens[2], new File("./certs/client-2048.p12"));
 					if (response.equalsIgnoreCase("success"))
 					{
 						System.out.println("Successful login!");
