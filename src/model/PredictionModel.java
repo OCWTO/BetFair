@@ -382,10 +382,16 @@ public class PredictionModel
 				//If the change between the last 2 values is greater than the threshold 
 				if(getPercentageChange(olderValue, mostRecentValue) > pctChangeThreshold)
 				{
-					System.out.println("THRESHOLD MET " + marketName + " " + runnerNames[i] + " " + timeStamps.get(i).get(7) + " BEFORE " + olderValue + " AFTER " + mostRecentValue);
+					//System.out.println("THRESHOLD MET " + marketName + " " + runnerNames[i] + " " + timeStamps.get(i).get(7) + " BEFORE " + olderValue + " AFTER " + mostRecentValue);
 					double meanBeforeSpikeValues = 0;
+					double maxValueBeforeSpike = Double.MIN_VALUE;
+					
 					for(int j = 0; j < 6; j++)
 					{
+						if(probabilities.get(i).get(j) > maxValueBeforeSpike)
+						{
+							maxValueBeforeSpike = probabilities.get(i).get(j);
+						}
 						meanBeforeSpikeValues+=probabilities.get(i).get(j);
 					}
 					meanBeforeSpikeValues = meanBeforeSpikeValues/6;
@@ -395,14 +401,18 @@ public class PredictionModel
 					
 					if(getPercentageChange(meanBeforeSpikeValues, mostRecentValue) > pctChangeThreshold/2)
 					{
-						System.out.println("DETECTED FROM VAL " + olderValue + " TO " + mostRecentValue);
+						if(getPercentageChange(maxValueBeforeSpike, mostRecentValue) > 5)
+						{
+							
+						
+						System.out.println("DETECTED FROM VAL " + olderValue + " TO " + mostRecentValue + " AT TIME " + timeStamps.get(i).get(7));
 						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " + marketName + " " + runnerNames[i]);
 						//currentlyChecking = true;
 						spikeTimeStamp = timeStamps.get(i).get(7);
 						spikeRunnerName = runnerNames[i];
 						spikeRunnerIndex = i;
 					}
-					
+					}
 					
 					//If the older value is closer to the mean than the spike then nothing happened
 					//Ohterwise we think somethings happening

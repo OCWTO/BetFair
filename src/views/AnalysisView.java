@@ -7,6 +7,8 @@ import java.awt.Font;
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JTabbedPane;
 import javax.swing.JTable;
 
 import model.DataAnalysis;
@@ -22,16 +24,9 @@ public class AnalysisView extends BetFairView implements Observer
 	private JLabel gameScore;
 	private DataAnalysis analysis;
 	private JTable eventListTable;
+
 	
-	
-	/*
-	 * ameDetailsPanel.add(startTimeLabel);
-		gameDetailsPanel.add(gameTimeLabel);
-		gameDetailsPanel.add(lastUpdatedTimeLabel);
-	 */
-	
-	
-	private String lastUpdated = "Last Updated: ";
+	private String lastUpdated = "Last Updated: \n";
 	private JLabel homeTeamName;
 	private JLabel awayTeamName;
 	private JLabel homeTeamScore;
@@ -40,6 +35,7 @@ public class AnalysisView extends BetFairView implements Observer
 	private JLabel gameTimeLabel;
 	private JLabel lastUpdatedTimeLabel;
 	
+	private static final String fontName = "Arial Rounded MT Bold";
 	public AnalysisView(ProgramOptions options)
 	{
 		super(frameTitle, options, null);
@@ -125,6 +121,7 @@ public class AnalysisView extends BetFairView implements Observer
 		JPanel homeTeamPanel = getHomeTeamPanel();
 		JPanel gameDetailsPanel = getGameDetailsPanel();
 		JPanel awayTeamPanel = getAwayTeamPanel();
+		JTabbedPane dataPanel = setupDataPanel();
 		
 		JPanel detailsPanel = new JPanel();
 		detailsPanel.setLayout(new BoxLayout(detailsPanel, BoxLayout.X_AXIS));
@@ -132,21 +129,36 @@ public class AnalysisView extends BetFairView implements Observer
 		detailsPanel.add(gameDetailsPanel);
 		detailsPanel.add(awayTeamPanel);
 		mainContainer.add(detailsPanel);
+		mainContainer.add(dataPanel);
 		
 	}
 
-	private void setupDataPanel()
+	private JTabbedPane setupDataPanel()
 	{
-		JPanel holder = new JPanel();
-		holder.setBackground(Color.BLUE);
+		JTabbedPane tabbedPane = new JTabbedPane();
 		
-		String[] columnNames = {"Predicted Events"};
-		Object[][] data = new Object[100][100];
-		eventListTable = new JTable(data, columnNames);
-		//eventListTable.setC
-		holder.add(eventListTable);
-		mainContainer.add(holder);
+		JPanel dataPanel = new JPanel();
+		JScrollPane tablePane;
 		
+		dataPanel.setBackground(Color.BLUE);
+		
+		String[] columnNames = {"Time", "Event Predicted", "Team"};
+		Object[][] data = new Object[5][columnNames.length];
+		eventListTable = new JTable(data, columnNames)
+		{
+			   public boolean isCellEditable(int row, int column){
+			        return false;
+			   }
+		};
+		
+		tablePane = new JScrollPane(eventListTable);
+		dataPanel.add(tablePane);
+		
+		
+		tabbedPane.add("Predicted Events", dataPanel);
+		tabbedPane.add("Probability Graph", new JPanel());
+		
+		return tabbedPane;
 	}
 	
 	private JPanel getHomeTeamPanel()
@@ -155,7 +167,7 @@ public class AnalysisView extends BetFairView implements Observer
 		homeTeamPanel.setLayout(new BoxLayout(homeTeamPanel, BoxLayout.Y_AXIS));
 		
 		homeTeamName = new JLabel("HOME TEAM NAME");
-		homeTeamName.setFont(new Font("Serif", Font.PLAIN, 28));
+		homeTeamName.setFont(new Font(fontName, Font.PLAIN, 28));
 		JLabel homeTeam = new JLabel("HOME");
 		homeTeamScore = new JLabel("0");
 		homeTeamScore.setFont(new Font("Serif", Font.PLAIN, 48));
@@ -173,10 +185,10 @@ public class AnalysisView extends BetFairView implements Observer
 		awayTeamPanel.setLayout(new BoxLayout(awayTeamPanel, BoxLayout.Y_AXIS));
 		
 		awayTeamName = new JLabel("AWAY TEAM NAME");
-		awayTeamName.setFont(new Font("Serif", Font.PLAIN, 28));
+		awayTeamName.setFont(new Font(fontName, Font.PLAIN, 28));
 		JLabel awayTeam = new JLabel("AWAY");
 		awayTeamScore = new JLabel("0");
-		awayTeamScore.setFont(new Font("Serif", Font.PLAIN, 48));
+		awayTeamScore.setFont(new Font(fontName, Font.PLAIN, 48));
 		
 		
 		awayTeamPanel.add(awayTeamName);
@@ -192,7 +204,9 @@ public class AnalysisView extends BetFairView implements Observer
 		gameDetailsPanel.setLayout(new BoxLayout(gameDetailsPanel, BoxLayout.Y_AXIS));
 		
 		startTimeLabel = new JLabel("UNKNOWN START TIME");
+		startTimeLabel.setFont(new Font(fontName, Font.PLAIN, 20));
 		gameTimeLabel = new JLabel("00:00");
+		gameTimeLabel.setFont(new Font(fontName, Font.PLAIN, 24));
 		lastUpdatedTimeLabel = new JLabel(lastUpdated + "0");
 		
 		gameDetailsPanel.add(startTimeLabel);
@@ -201,47 +215,7 @@ public class AnalysisView extends BetFairView implements Observer
 		return gameDetailsPanel;
 	}
 	
-	
-	
-	private void setupGameDetailsPanel()
-	{
-		JPanel mainPanel = new JPanel();
-		mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.X_AXIS));
-		
-		JPanel homeTeamDetails = new JPanel();
-		homeTeamDetails.setLayout(new BoxLayout(homeTeamDetails, BoxLayout.Y_AXIS));
-		JLabel homeTeam = new JLabel("Home");
-		homeTeamName = new JLabel();
-		homeTeamDetails.add(homeTeam);
-		homeTeamDetails.add(homeTeamName);
-		homeTeamDetails.setPreferredSize(new Dimension(mainContainer.getWidth()/3, 200));
-		
-		JPanel gameDetails = new JPanel();
-		gameDetails.setLayout(new BoxLayout(gameDetails, BoxLayout.Y_AXIS));
-		gameStartTime = new JLabel();
-		JLabel gameTimeLabel = new JLabel("Time");
-		gameTime = new JLabel("0");
-		gameScore = new JLabel("0 - 0");
-		gameDetails.add(gameStartTime);
-		gameDetails.add(gameTimeLabel);
-		gameDetails.add(gameTime);
-		gameDetails.add(gameScore);
-		gameDetails.setPreferredSize(new Dimension(mainContainer.getWidth()/3, 200));
-		
-		JPanel awayTeamDetails = new JPanel();
-		awayTeamDetails.setLayout(new BoxLayout(awayTeamDetails, BoxLayout.Y_AXIS));
-		JLabel awayTeam = new JLabel("Away");
-		awayTeamName = new JLabel();
-		awayTeamDetails.add(awayTeam);
-		awayTeamDetails.add(awayTeamName);
-		awayTeamDetails.setPreferredSize(new Dimension(mainContainer.getWidth()/3, 200));
-		
-		mainPanel.add(homeTeamDetails);
-		mainPanel.add(gameDetails);
-		mainPanel.add(awayTeamDetails);
-		mainPanel.setPreferredSize(new Dimension(mainContainer.getWidth(), 100));
-		mainContainer.add(mainPanel);
-	}
+
 
 	@Override
 	protected void addMenus()

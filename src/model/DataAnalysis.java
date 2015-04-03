@@ -24,6 +24,7 @@ public class DataAnalysis implements Observer, Observable
 	private Date gameStartTime;
 	private boolean started;
 	private Timer recorderTimer = new Timer();
+	private int iterationCount = 1;
 	
 	public DataAnalysis(ProgramOptions options)
 	{
@@ -95,18 +96,48 @@ public class DataAnalysis implements Observer, Observable
 		//Cast the received object to an EventList
 		EventList events = (EventList) obj;
 		
-		
-		
 		//Grab the raw probability data from it
 		List<BetFairMarketItem> marketProbabilities = events.getProbabilites();
+		
+		
+		//get the match odds probability
+		BetFairMarketItem matchOddsProbs = getMarketProbabilities("Match Odds", marketProbabilities);
+		
 		//System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
 		//Store the game start time (used later to tell prediction models when the game starts.
-		gameStartTime = events.getStartTime();
+		
+		
+		//Values pushed are 
+		//Probabilities for the runners in terms of a data set
+		//Last timestamp, which should also go in data set	(accessed from predictor?) 
+//		
+//		if(iterationCount == 0)
+//		{
+//			String homeTeam = matchOddsProbs.getProbabilities().get(0).getRunnerName();
+//			String awayTeam =  matchOddsProbs.getProbabilities().get(1).getRunnerName();
+//			
+//			
+//			
+//			//we push special init object
+			gameStartTime = events.getStartTime();
+//		}
+//		else
+//		{
+//			
+//		}
+	
+		
 		//Add data to the prediction models
 		addDataToPredictors(marketProbabilities);
 		informClosedPredictors(events.getClosedMarkets());
 		//Get predicted events
+		
+		
 		List<String> predictedEvents = getPredictedEvents();
+		//Feed into inference and get out actual
+		
+		
+		
 		
 		//Analyse the events (remove unnecessary ones)
 		
@@ -114,8 +145,25 @@ public class DataAnalysis implements Observer, Observable
 		{
 			recorderTimer.cancel();
 		}
+		
+		
+		//System.out.println("DONE PUSHING TO GUI");
+		iterationCount++;
 	}
 	
+	private BetFairMarketItem getMarketProbabilities(String marketName,
+			List<BetFairMarketItem> marketProbabilities)
+	{
+		for(BetFairMarketItem marketProbability : marketProbabilities)
+		{
+			if(marketProbability.getMarketName().equals(marketName))
+			{
+				return marketProbability;
+			}
+		}
+		return null;
+	}
+
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
 		
