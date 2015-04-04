@@ -14,9 +14,6 @@ import betfairUtils.MarketCatalogueEventNameComparator;
 import betfairUtils.MarketCatalogueEventOpenDateComparator;
 import exceptions.CryptoException;
 
-//TODO add support for sorting events into separate lists (UK, USA, etc) handy for gui
-//TODO add support for sorting markets into their groupings e.g. match odds, goal line, etc.
-
 /**
  * This class communicates with the BetFairCore API, takes the output and it sorts, parses
  * and then returns it's results in an easy to read String format.
@@ -130,29 +127,24 @@ public class SimpleBetFair implements ISimpleBetFair
 	{
 		return this.betFair;
 	}
-	
-	/**
-	 * @param marketId The market you want information from
-	 * @return List of Strings containing formatted market information for the given market.
-	 */
-	public List<String> getMarketRunnerProbability(List<String> marketId)
-	{
-		List<MarketBook> marketData = betFair.getMarketBook(marketId);
-		return null;
-	}
+
 
 	@Override
 	public List<BetFairGameObject> getGameListForSport(List<String> sportId)
 	{
-		// TODO Auto-generated method stub
-		return null;
+		List<BetFairGameObject> multipleSportGameList = new ArrayList<BetFairGameObject>();
+		
+		for(String id : sportId)
+		{
+			multipleSportGameList.addAll(getGameListForSport(id));
+		}
+		return multipleSportGameList;
 	}
 
 	@Override
 	public IBetFairCore getBetFairObject()
 	{
-		// TODO Auto-generated method stub
-		return null;
+		return betFair;
 	}
 
 	@Override
