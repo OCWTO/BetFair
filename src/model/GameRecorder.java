@@ -195,34 +195,14 @@ public class GameRecorder extends TimerTask implements Observable
 
 	private void runNormalMode()
 	{
-		//Add new data to the IO class, that's just been taken from API
-		List<BetFairMarketData> allActiveData = getAllGamesMarketData();// betFair.getMarketInformation(manager.getAllMarketIds());
-		
-		
+		List<BetFairMarketData> allActiveData = getAllGamesMarketData();
 		io.addData(allActiveData);
-		
-		//System.out.println("added all new data");
-		//Store catalogue activity for purely history purposes
-		io.storeCatalogueActivity(allActiveData);			//????????
-		//System.out.println("storing activity");
-		/*Get the relevant new data from the IO class, essentially a 
-		 *parsed version of what we passed in earlier
-		 */
+		io.storeCatalogueActivity(allActiveData);	
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
-		//System.out.println("getting data");
-		
-		//Check to see if any markets have closed this iteration
-		List<String> closedMarketList = io.getRecentlyClosedMarkets();//checkForClosedMarkets(mostRecentData);
-		
-		
-		
-		
+		List<String> closedMarketList = io.getRecentlyClosedMarkets();
 		checkForShutDown();
-		
-		System.out.println("GOT CLOSED " + "SZ " + closedMarketList.size());
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
 		notifyObservers(gameEvents);
-		//System.out.println("finished loop");
 	}
 	
 	private void checkForShutDown()

@@ -24,9 +24,9 @@ public class PredictionModel
 	private String[] runnerNames;
 	private Date marketStartTime;
 	private boolean ignoreVal = false;
-	private static double pctChangeThreshold = 10.0;
+	private static double pctChangeThreshold = 5.0;
 	
-	
+	private List<PredictorUtil> inProgressPredictions;
 	double spikeProbability;
 	String spikeTimeStamp;
 	private boolean currentlyChecking = false;
@@ -49,6 +49,7 @@ public class PredictionModel
 	 */
 	public PredictionModel(String marketName, Date startTime)
 	{
+		inProgressPredictions = new ArrayList<PredictorUtil>();
 		this.marketName = marketName;
 		marketStartTime = startTime;
 		probabilities = new ArrayList<LinkedList<Double>>();
@@ -241,17 +242,14 @@ public class PredictionModel
 	
 	public List<String> getPreds()
 	{
-		if(currentlyChecking)
+		if(inProgressPredictions.size() > 0)
 		{
 			//System.out.println("TRYING TO VERIFY");
 			return verifyProbabilitySpikes();
 		}
-		else
-		{
 			//System.out.println("CHECKING");
 			checkForProbabilitySpikes();
 			return new ArrayList<String>();
-		}
 	}
 
 	private List<String> verifyProbabilitySpikes()
@@ -271,6 +269,35 @@ public class PredictionModel
 		//Split up the 8 indexes, we want the spike to be ind 0, so 3 before 4 after
 		//System.out.println(timeStamps.indexOf((spikeTimeStamp)));
 		//System.out.println("SPIKE TS IS " + spikeTimeStamp);
+		PredictorUtil possibleEvent;
+		
+		for(int i = 0; i < inProgressPredictions.size(); i++)
+		{
+			possibleEvent = inProgressPredictions.get(i);
+			
+			if(timeStamps.get(possibleEvent.getRunnerIndex()).indexOf(possibleEvent.getTimeStamp()) == 3)
+			{
+				System.out.println("IN PLACE CHECK");
+				
+				//find avg after from ind 4 to 7
+				double avgAfterSpike = 0;
+				for(int j = 4; j < 8; j++)
+				{
+					avgAfterSpike += probabilities.get(possibleEvent.getRunnerIndex()).get(j);
+				}
+				avgAfterSpike = avgAfterSpike / 4;
+				
+				if((avgAfterSpike - possibleEvent.getAvgBeforeSpike()) > 0.1)
+				{
+					System.out.println("WINNER WINNER CHICKEN DINNER");
+					System.out.println("PREDICTION FOR " + marketName + " RUNNER " + runnerNames[possibleEvent.getRunnerIndex()] + " TIME " + possibleEvent.getTimeStamp());
+				}
+				inProgressPredictions.remove(i);
+				i--;
+			}
+		}
+		
+		
 		if(timeStamps.get(spikeRunnerIndex).indexOf(spikeTimeStamp) == 3)
 		{
 			System.out.println("IN PLACE");
@@ -408,9 +435,12 @@ public class PredictionModel
 						System.out.println("DETECTED FROM VAL " + olderValue + " TO " + mostRecentValue + " AT TIME " + timeStamps.get(i).get(7));
 						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " + marketName + " " + runnerNames[i]);
 						//currentlyChecking = true;
-						spikeTimeStamp = timeStamps.get(i).get(7);
-						spikeRunnerName = runnerNames[i];
-						spikeRunnerIndex = i;
+						//public PredictorUtil(int index, double spike, double avgBefore, double maxBefore, String time)
+						
+						inProgressPredictions.add(new PredictorUtil(i, mostRecentValue, meanBeforeSpikeValues, maxValueBeforeSpike, timeStamps.get(i).get(7)));
+						//spikeTimeStamp = timeStamps.get(i).get(7);
+						//spikeRunnerName = runnerNames[i];
+						//spikeRunnerIndex = i;
 					}
 					}
 					
