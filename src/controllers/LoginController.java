@@ -23,32 +23,29 @@ import exceptions.CryptoException;
  * @author Craig Thomson
  *
  */
-public class LoginController implements ActionListener
+public class LoginController extends ViewController
 {
 	private ISimpleBetFair betFair;
-	private BetFairView view;
-	private ProgramOptions options;
 	
 	/**
-	 * 
+	 * Create a LoginController Object
 	 * @param loginView A reference to the view that created this project
+	 * 
 	 */
-	public LoginController(BetFairView loginView)
+	public LoginController(BetFairView view)
 	{
+		super(null, view);
 		betFair = new SimpleBetFair(false);
-		view = loginView;
 	}
 
-	/**
-	 * Deals with button presses and checkbox events
-	 */
-	@Override
 	public void actionPerformed(ActionEvent e)
 	{
+		//If log in button is pressed...
 		if(e.getActionCommand().equalsIgnoreCase("login"))
 		{
 			loginPress();
 		}
+		//If user wants to locate a certificate
 		else if(e.getActionCommand().equalsIgnoreCase("select certificate file"))
 		{
 			openFileLocator();
@@ -89,7 +86,6 @@ public class LoginController implements ActionListener
 			try
 			{
 				betFair.setDebug(options.getDebugMode());
-				System.out.println(options.getCertificateFile());
 				String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword(), options.getCertificateFile());
 	
 				//If successful log in
@@ -98,8 +94,8 @@ public class LoginController implements ActionListener
 					view.closeView();
 					BetFairView nextView = new SportSelectView(options);
 				}
-				//Anything other than success should throw an run time exception which is caught below.
 			} 
+			//Anything other than success should throw an run time exception which is caught below.
 			catch (CryptoException badCertPasswordException)
 			{
 				JOptionPane.showMessageDialog(view.getFrame(), badCertPasswordException.getMessage());

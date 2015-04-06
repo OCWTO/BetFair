@@ -2,7 +2,8 @@ package enums;
 
 /**
  * All markets that are currently used for predicting are in this class.
- * @author Craig
+ * 
+ * @author Craig Thomson
  *
  */
 public enum MarketNames

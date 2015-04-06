@@ -12,24 +12,36 @@ import model.ProgramOptions;
 import model.TestFile;
 import views.AnalysisView;
 import views.BetFairView;
+import views.LoginView;
 import views.TestFileSelectionView;
 
-public class TestFileLocatorController implements ActionListener
+/**
+ * Controller class for TestFileSelectionView objects
+ * @author Craig Thomson
+ *
+ */
+public class TestFileLocatorController extends ViewController
 {
-	private BetFairView view;
 	
+	/**
+	 * Create a TestFileLocatorController object
+	 * @param view BetFairView that the controller listens for
+	 */
 	public TestFileLocatorController(BetFairView view)
 	{
-		this.view = view;
+		super(null, view);
 	}
 	
-	@Override
+
 	public void actionPerformed(ActionEvent e)
 	{
+		//If next button is pressed
 		if(e.getActionCommand().equals("next"))
 		{
+			//Grab selected options from view
 			ProgramOptions options = view.getOptions();
-			System.out.println(options.getTestFile() == null);
+
+			//if a file has been selected
 			if(options.getTestFile() != null)
 			{
 				view.closeView();
@@ -44,6 +56,11 @@ public class TestFileLocatorController implements ActionListener
 		{
 			openFileLocator();
 		}
+		else if(e.getActionCommand().equals(("back")))
+		{
+			view.closeView();
+			BetFairView nextView = new LoginView(new ProgramOptions());
+		}
 	}
 	
 	/**
@@ -54,6 +71,7 @@ public class TestFileLocatorController implements ActionListener
 		JFileChooser fileLocator = new JFileChooser();
 		fileLocator.setFileFilter(new FileNameExtensionFilter("Betfair JSON game logs (*.txt)","txt"));
 		
+		//If a file has been selected
 		if(fileLocator.showOpenDialog(view.getFrame()) == JFileChooser.APPROVE_OPTION)
 		{
 			File certificateFile = fileLocator.getSelectedFile();

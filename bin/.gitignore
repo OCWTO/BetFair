@@ -1,1 +1,8 @@
+/views/
 /model/
+/betFairGSONClasses/
+/betfairUtils/
+/controllers/
+/enums/
+/exceptions/
+/tests/

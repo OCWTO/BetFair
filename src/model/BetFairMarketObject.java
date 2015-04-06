@@ -7,6 +7,11 @@ import betFairGSONClasses.Event;
 import betFairGSONClasses.MarketCatalogue;
 import betFairGSONClasses.RunnerCatalog;
 
+/**
+ * This class is used to represent Markets in the form of its general information
+ * @author Craig
+ *
+ */
 public class BetFairMarketObject implements BetFairDataObject
 {
 	private String marketName;
@@ -15,7 +20,10 @@ public class BetFairMarketObject implements BetFairDataObject
 	private Date marketOpenDate;
 	private Event marketEvent;
 
-	
+	/**
+	 * Create a new BetFairMarketObject
+	 * @param market A MarketCatalogue that this class will generate an object from
+	 */
 	public BetFairMarketObject(MarketCatalogue market)
 	{
 		marketName = market.getMarketName();
@@ -25,6 +33,9 @@ public class BetFairMarketObject implements BetFairDataObject
 		marketEvent = market.getEvent();
 	}
 
+	/**
+	 * @return The date that the market opens
+	 */
 	public Date getOpenDate()
 	{
 		return marketOpenDate;
@@ -35,11 +46,17 @@ public class BetFairMarketObject implements BetFairDataObject
 		return marketRunners;
 	}
 	
+	/**
+	 * @return The name of the market
+	 */
 	public String getName()
 	{
 		return marketName;
 	}
 
+	/**
+	 * @return The name of the game
+	 */
 	public String getGamesName()
 	{
 		return marketEvent.getName();

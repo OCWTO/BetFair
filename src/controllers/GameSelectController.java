@@ -1,52 +1,55 @@
 package controllers;
 
 import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 import javax.swing.JOptionPane;
 
 import model.ProgramOptions;
 import views.BetFairView;
 import views.MarketSelectView;
+import views.SportSelectView;
 
 /**
  * Controller class for GameSelectView objects
- * @author Craig
+ * @author Craig Thomson
  *
  */
-public class GameSelectController implements ActionListener
+public class GameSelectController extends ViewController
 {
-	private BetFairView gameSelectView;
-	private ProgramOptions options;
-	
+	/**
+	 * Create a GameSelectController Object
+	 * @param options A reference to the ProgramOptions object that stores the current selection state
+	 * @param view A reference to the view that created the controller
+	 */
 	public GameSelectController(ProgramOptions options, BetFairView view)
 	{
-		this.options = options;
-		this.gameSelectView = view;
+		super(options, view);
 	}
 	
-	@Override
 	public void actionPerformed(ActionEvent e)
 	{
 		//Grab the options object from the view that contains their selected settings
-		options = gameSelectView.getOptions();
+		options = view.getOptions();
 
+		//If the next button is pressed
 		if(e.getActionCommand().equals("next"))
 		{ 
-			//If market ids have been selected then transition
+			//If a game id has been selected then transition
 			if(options.getEventId() != null)
 			{
-				gameSelectView.closeView();
+				view.closeView();
 				BetFairView marketSelectView = new MarketSelectView(options);
 			}
 			else
 			{
-				JOptionPane.showMessageDialog(gameSelectView.getFrame(), "Please select a game");
+				JOptionPane.showMessageDialog(view.getFrame(), "Please select a game");
 			}
 		}
 		else if(e.getActionCommand().equals("back"))
 		{
-			//TODO implement back option
+			view.closeView();
+			options.setEventTypeId("");
+			BetFairView nextView = new SportSelectView(options);
 		}
 	}
 }

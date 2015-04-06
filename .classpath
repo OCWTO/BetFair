@@ -12,5 +12,7 @@
 	<classpathentry kind="lib" path="libs/httpcore-4.3.3.jar"/>
 	<classpathentry kind="lib" path="libs/httpmime-4.3.6.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Desktop/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Desktop/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

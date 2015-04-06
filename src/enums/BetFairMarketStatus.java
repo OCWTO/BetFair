@@ -1,7 +1,7 @@
 package enums;
 
 /**
- * Enum for BetFair Market statuses
+ * Enum for BetFair Market Statuses
  * 
  * @author Craig Thomson
  *

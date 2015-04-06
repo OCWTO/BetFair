@@ -1,8 +1,9 @@
 package views;
 
+import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.Dimension;
 import java.awt.Font;
+import java.util.List;
 
 import javax.swing.BoxLayout;
 import javax.swing.JLabel;
@@ -10,23 +11,31 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
 
 import model.DataAnalysis;
 import model.Observer;
 import model.ProgramOptions;
 import model.TestFile;
+import model.ViewUpdate;
+
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.PlotOrientation;
+import org.jfree.data.general.Series;
+import org.jfree.data.xy.XYSeries;
+import org.jfree.data.xy.XYSeriesCollection;
 
 public class AnalysisView extends BetFairView implements Observer
 {
 	private static final String frameTitle = "BetFair Game View";
-	private JLabel gameStartTime;
-	private JLabel gameTime;
-	private JLabel gameScore;
 	private DataAnalysis analysis;
-	private JTable eventListTable;
-
 	
 	private String lastUpdated = "Last Updated: \n";
+	
+	private JTable eventListTable;
+
 	private JLabel homeTeamName;
 	private JLabel awayTeamName;
 	private JLabel homeTeamScore;
@@ -35,15 +44,18 @@ public class AnalysisView extends BetFairView implements Observer
 	private JLabel gameTimeLabel;
 	private JLabel lastUpdatedTimeLabel;
 	
+	private XYSeriesCollection probabilityDataset;
+	
+	private int graphCounter = 0;
 	private static final String fontName = "Arial Rounded MT Bold";
+	
 	public AnalysisView(ProgramOptions options)
 	{
 		super(frameTitle, options, null);
-		//super.viewListener = new LoginController(this);
-		
 		setupAndDisplay();
 		analysis = new DataAnalysis(options);
 		analysis.addObserver(this);
+		analysis.start(5000);
 		//this observe that
 		
 		//new analysis view sooo
@@ -75,6 +87,7 @@ public class AnalysisView extends BetFairView implements Observer
 	{
 		super(frameTitle, new ProgramOptions(), null);
 		analysis = new DataAnalysis(testFile);
+		analysis.addObserver(this);
 		setupAndDisplay();
 		analysis.start();
 	}
@@ -89,22 +102,17 @@ public class AnalysisView extends BetFairView implements Observer
 		homeTeamName.setText(homeTeam);
 	}
 	
-	private void setgameStartTime(String date)
+	private void setGameStartTime(String date)
 	{
-		gameStartTime.setText(date);
+		startTimeLabel.setText(date);
 	}
 	
 	//TODO modify to work in halfmins
 	private void setGameTime(String timeInMins)
 	{
-		gameTime.setText(timeInMins + " mins");
+		gameTimeLabel.setText(timeInMins + " mins");
 	}
 	
-	private void setGameScore(int home, int away)
-	{
-		gameScore.setText(home + " - " + away);
-	}
-
 	@Override
 	void setupPanels()
 	{
@@ -114,6 +122,30 @@ public class AnalysisView extends BetFairView implements Observer
 		
 		//setupGameDetailsPanel();
 		//setupDataPanel();
+	}
+	
+	
+	private JPanel getProbabilityGraph()
+	{
+		probabilityDataset = new XYSeriesCollection();
+
+		
+		JFreeChart chart = ChartFactory.createXYLineChart(
+				"Match Odds Chart", // Title
+				"Time", // x-axis Label
+				"Implied Probability", // y-axis Label
+				probabilityDataset, // Dataset
+				PlotOrientation.VERTICAL, // Plot Orientation
+				true, // Show Legend
+				true, // Use tooltips
+				false // Configure chart to generate URLs?
+		);
+		
+		ChartPanel chartPanel = new ChartPanel(chart);
+		JPanel graphPanel = new JPanel();
+		graphPanel.add(chartPanel, BorderLayout.CENTER);
+		
+		return graphPanel;
 	}
 
 	private void setupDetailsPanel() 
@@ -143,21 +175,21 @@ public class AnalysisView extends BetFairView implements Observer
 		dataPanel.setBackground(Color.BLUE);
 		
 		String[] columnNames = {"Time", "Event Predicted", "Team"};
-		Object[][] data = new Object[5][columnNames.length];
-		eventListTable = new JTable(data, columnNames)
+		Object[][] data = new Object[0][columnNames.length];
+		eventListTable = new JTable()
 		{
 			   public boolean isCellEditable(int row, int column){
 			        return false;
 			   }
 		};
-		
+		eventListTable.setModel(new DefaultTableModel(data, columnNames));
 		tablePane = new JScrollPane(eventListTable);
 		dataPanel.add(tablePane);
-		
+		JPanel graphPanel = new JPanel();
+		graphPanel.add(getProbabilityGraph());
 		
 		tabbedPane.add("Predicted Events", dataPanel);
-		tabbedPane.add("Probability Graph", new JPanel());
-		
+		tabbedPane.add("Probability Graph", graphPanel);
 		return tabbedPane;
 	}
 	
@@ -226,12 +258,95 @@ public class AnalysisView extends BetFairView implements Observer
 	@Override
 	public void update(Object obj)
 	{
-		//On update we either init which sets stuff
+		if(obj != null)
+		{
+			ViewUpdate update = (ViewUpdate) obj;
+			
+			if(update.getInitialUpdate())
+			{
+				setAwayTeamName(update.getAwayTeam());
+				setHomeTeamName(update.getHomeTeam());
+				setFavouredTeamName(update.getFavouredTeam());
+				setGameTime(update.getGameTime());
+				setGameStartTime(update.getGameStartTime());
+				setLastUpdateTime(update.getLastUpdateTime());
+				setupGraph(update.getRunnerVals());
+				addPredictions(update.getPredictions());
+			}
+			else
+			{
+				setGameTime(update.getGameTime());
+				setLastUpdateTime(update.getLastUpdateTime());
+				addToGraph(update.getRunnerVals());
+				addPredictions(update.getPredictions());
+			}	
+		}
+	}
 		
-		//Or we receive string updates
+	private void setLastUpdateTime(String lastUpdateTime)
+	{
+		lastUpdatedTimeLabel.setText(lastUpdated + lastUpdateTime);
+	}
+
+	//Otherwise its a normal update so we add its test to the logs
+	private void addPredictions(List<String> predictions)
+	{
+		DefaultTableModel model = (DefaultTableModel) eventListTable.getModel();
+		String[] predictionTokens;
+		for(String prediction : predictions)
+		{
+			//Time, Prediction,Team
+			predictionTokens = prediction.split(",");
+			model.addRow(predictionTokens);
+		}
+	}
+
+	private void setupGraph(List<String> graphValues)
+	{
+		//All Strings in graphvalues are in the form of runner name, timestamp, value
+		String[] runnerTokens;
 		
-		//Check if its an init update, if so then we extract from it and update fields
+		for(int i = 0; i < graphValues.size() ; i++)
+		{
+			runnerTokens = graphValues.get(i).split(",");
+			String runnerName = runnerTokens[0];
+			//String timestamp = runnerTokens[1];
+			double probability = Double.valueOf(runnerTokens[2]);
+			
+			XYSeries runnerData = new XYSeries(runnerName);
+			runnerData.add(graphCounter, probability);
+			System.out.println("ADDING TO GRAPH " + graphCounter + " " + probability);
+			probabilityDataset.addSeries(runnerData);
+		}
+		graphCounter++;
+	}
+	
+	private void addToGraph(List<String> graphValues)
+	{
+		List<Series> dataSet = probabilityDataset.getSeries();
 		
-		//Otherwise its a normal update so we add its test to the logs
+		String[] runnerTokens;
+		for(int i = 0; i < dataSet.size() ; i++)
+		{
+			runnerTokens = graphValues.get(i).split(",");
+			//Timestamp, runner name and probability are passed
+			double probability = Double.valueOf(runnerTokens[2]);
+			
+			XYSeries runnerData = (XYSeries) dataSet.get(i);
+			runnerData.add(graphCounter, probability);
+		}
+		graphCounter++;
+	}
+
+	private void setFavouredTeamName(String favouredTeam)
+	{
+		if(favouredTeam.equals(homeTeamName.getText()))
+		{
+			homeTeamName.setText(homeTeamName.getText() + " FAVOURED");
+		}
+		else if(favouredTeam.equals(awayTeamName.getText()))
+		{
+			awayTeamName.setText(awayTeamName.getText() + " FAVOURED");
+		}
 	}
 }

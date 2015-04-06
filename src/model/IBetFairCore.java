@@ -20,6 +20,11 @@ import enums.MarketSort;
 import enums.OrderProjection;
 import exceptions.CryptoException;
 
+/**
+ * Interface defining methods that the implementation of betfair must implement
+ * @author Craig
+ *
+ */
 public interface IBetFairCore
 {
 	/**
@@ -48,25 +53,25 @@ public interface IBetFairCore
 	//public CurrentOrderSummaryReport listCurrentOrders(Set<String>betIds, Set<String> marketIds, OrderProjection orderProjection, TimeRange placedDateRange, OrderBy orderBy, SortDir sortDir, int fromRecord, int recordCount);
 	
 	/**
-	 * UPDATE JDOC
-	 * @param filter
-	 * @return
+	 * Get the event list for the sport(s) that are in the parameters
+	 * @param filter MarketFilter object containing parameters for the request
+	 * @return List of MarketCatalogue objects representing games for the given sport thats in the filter
 	 */
 	public List<MarketCatalogue> listEvents(MarketFilter filter);
 
 	/**
-	 * UPDATE JDOC
-	 * @param filter
-	 * @return
+	 * Get a list of eventTypes which represent the sports that have games for betting
+	 * @param filter MarketFilter object containing parameters for the request
+	 * @return List of EventTypeResult objects representing sports than have games to bet on
 	 */
 	public List<EventTypeResult> listEventTypes(MarketFilter filter);
 	
 	/**
-	 * UPDATE JDOC
-	 * @param marketIds
-	 * @param priceProjection
+	 * Get a list of MarketBook objects which contain live odds data for the given markets
+	 * @param marketIds List of market ids for which the request is for
+	 * @param priceProjection Options for ordering of price
 	 * @param orderProjection
-	 * @return
+	 * @return List of MarketBook objects where each represents live data for one of the given markets
 	 */
 	public List<MarketBook> listMarketBook(List<String>marketIds, PriceProjection priceProjection, OrderProjection orderProjection);
 	
@@ -97,11 +102,12 @@ public interface IBetFairCore
 	//public List<VenueResult> listVenues (MarketFilter filter ,String locale);
 
 	/**
-	 * 
+	 * Attempts to log into betfair
 	 * @param username BetFair account username
 	 * @param password BetFair account password
 	 * @param filePassword BetFairs certificate file password
-	 * @return
+	 * @param the users certificate file
+	 * @return a LoginResponse object containing the result of the attempted log in
 	 * @throws CryptoException if certificate file password is incorrect
 	 */
 	public LoginResponse login(String username, String password, String filePassword, File certificateFile);

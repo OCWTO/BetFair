@@ -1,6 +1,8 @@
 package model;
 
 import java.io.File;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -44,7 +46,7 @@ public class DataAnalysis implements Observer, Observable
 	{
 		started = false;
 		observers = new ArrayList<Observer>();
-		recorder = new GameRecorder(testFile.getOptions(), testFile);
+		recorder = new GameRecorder(testFile);
 		recorder.addObserver(this);
 		predictionModel = new ArrayList<PredictionModel>();
 	}
@@ -111,29 +113,93 @@ public class DataAnalysis implements Observer, Observable
 		//Probabilities for the runners in terms of a data set
 		//Last timestamp, which should also go in data set	(accessed from predictor?) 
 //		
-//		if(iterationCount == 0)
-//		{
-//			String homeTeam = matchOddsProbs.getProbabilities().get(0).getRunnerName();
-//			String awayTeam =  matchOddsProbs.getProbabilities().get(1).getRunnerName();
-//			
-//			
-//			
+
+		
 //			//we push special init object
-			gameStartTime = events.getStartTime();
-//		}
-//		else
-//		{
-//			
-//		}
+		gameStartTime = events.getStartTime();
+
 	
 		
 		//Add data to the prediction models
 		addDataToPredictors(marketProbabilities);
 		informClosedPredictors(events.getClosedMarkets());
 		//Get predicted events
-		
-		
 		List<String> predictedEvents = getPredictedEvents();
+		
+		ViewUpdate gameUpdate = null;
+		
+		if(iterationCount == 1)
+		{
+			String homeTeam = matchOddsProbs.getProbabilities().get(0).getRunnerName();
+			String awayTeam =  matchOddsProbs.getProbabilities().get(1).getRunnerName();
+			String favouredTeam = "";
+			String favouredGoalScorer = "";
+			for(PredictionModel predictor : predictionModel)
+			{
+				if(predictor.getFavouredRunner("Match Odds") != null)
+				{
+					favouredTeam = predictor.getFavouredRunner("Match Odds");
+				}
+				if(predictor.getFavouredRunner("First GoalScorer") != null)
+				{
+					favouredGoalScorer = predictor.getFavouredRunner("First GoalScorer");
+					break;
+				}
+				
+			}
+			System.out.println("HOME IS " + homeTeam);
+			System.out.println("AWAY IS " + awayTeam);
+			System.out.println("FAVOURED IS " + favouredTeam);
+			System.out.println("FAVOURED GOAL SCORER IS " + favouredGoalScorer);
+			System.out.println("START TIME IS " + gameStartTime.toString());
+			List<String> recentVals = getModelForMarket("Match Odds").getRecentValues();
+			String lastUpdate = getMostRecentTimeStamp();
+			System.out.println("LAST UPDATED " + lastUpdate);
+			if(lastUpdate == null)
+			{
+				lastUpdate = "Not started yet";
+			}
+			for(int i = 0; i < recentVals.size(); i++)
+			{
+				System.out.println(recentVals.get(i));
+			}
+			
+			gameUpdate = new ViewUpdate(homeTeam, awayTeam, favouredTeam, gameStartTime.toString(), lastUpdate, LocalTime.now().toString(), recentVals, predictedEvents);
+			//make new gameUpdate
+			//public ViewUpdate(String homeTeam, String awayTeam, String favouredTeam, String startTime, String currentGameTime, String lastUpdated, List<String> runnersAndValues)
+			
+				
+		}
+		else
+		{
+			String lastUpdate = getMostRecentTimeStamp();
+//			//String timestamp;
+//			for(int i = 0; i < events.getProbabilites().size(); i++)
+//			{
+//				if(events.getProbabilites().get(i).getMarketName().equals("Match Odds"))
+//				{
+//					BetFairMarketItem marketProbs = events.getProbabilites().get(i);
+//					timestamp = marketProbs.getProbabilities().get(marketProbs.getProbabilities().size()-1).getTimeStamp();
+//				}
+//			}
+			//List<String> predictedEvents = getPredictedEvents();
+			
+			gameUpdate = new ViewUpdate(lastUpdate, LocalTime.now().toString(), getModelForMarket("Match Odds").getRecentValues(), predictedEvents);
+			//	public ViewUpdate(String currentGameTime, String lastUpdated, List<String> runnersAndValues, List<String> predictedEvents)
+			//gameUpdate = new ViewUpdate()
+			//List<String> predictions = events.g
+			//Normally push up values, predictions, game time
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		//List<String> predictedEvents = getPredictedEvents();
 		//Feed into inference and get out actual
 		
 		
@@ -145,10 +211,37 @@ public class DataAnalysis implements Observer, Observable
 		{
 			recorderTimer.cancel();
 		}
-		
-		
-		//System.out.println("DONE PUSHING TO GUI");
+
+		notifyObservers(gameUpdate);
 		iterationCount++;
+	}
+	
+	
+	private String getMostRecentTimeStamp()
+	{
+		for(int i = 0; i < predictionModel.size(); i++)
+		{
+			if(!predictionModel.get(i).isClosed())
+			{
+				if(predictionModel.get(i).getMostRecentTime() != null)
+				{
+					return predictionModel.get(i).getMostRecentTime();
+				}
+			}
+		}
+		return null;
+	}
+	
+	private PredictionModel getModelForMarket(String name)
+	{
+		for(PredictionModel predictor : predictionModel)
+		{
+			if(predictor.getMarketName().equals(name))
+			{
+				return predictor;
+			}
+		}
+		return null;
 	}
 	
 	private BetFairMarketItem getMarketProbabilities(String marketName,

@@ -59,7 +59,7 @@ public class TextFrontEnd
 		if (loginPrompt())
 		{
 			// If successful login then prompt for selected sport
-			sportId = sportPrompt().getMarketId();
+			sportId = sportPrompt().getSportId();
 
 			// If sport successfully selected then prompt for game
 			gameId = gamePrompt(sportId);

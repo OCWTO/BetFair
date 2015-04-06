@@ -4,6 +4,11 @@ import java.util.Date;
 
 import betFairGSONClasses.Event;
 
+/**
+ * Object representing the required information for games, extracted from the Betfair API.
+ * @author Craig Thomson
+ *
+ */
 public class BetFairGameObject implements BetFairDataObject
 {
 	private String countryCode;
@@ -11,6 +16,10 @@ public class BetFairGameObject implements BetFairDataObject
 	private String gameId;
 	private Date gameStartTime;
 	
+	/**
+	 * Create a new BetFairGameObject object for the given Event
+	 * @param gameObject An Event object which this class will extract required information from
+	 */
 	public BetFairGameObject(Event gameObject)
 	{
 		gameId = gameObject.getId();

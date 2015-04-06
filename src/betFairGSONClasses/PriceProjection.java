@@ -6,8 +6,8 @@ import enums.PriceData;
 
 /**
  * This class is used for GSON serialisation
- * 
- * @author BetFair
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
+ * @author Betfair
  */
 public class PriceProjection
 {

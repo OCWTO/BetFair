@@ -5,6 +5,11 @@ import java.util.List;
 import betFairGSONClasses.MarketBook;
 import betFairGSONClasses.Runner;
 
+/**
+ * Object representing the information extracted from Betfair markets
+ * @author Craig
+ *
+ */
 public class BetFairMarketData implements BetFairDataObject
 {
 	private String marketId;
@@ -12,9 +17,13 @@ public class BetFairMarketData implements BetFairDataObject
 	private double matchedAmount;
 	private double unmatchedAmount;
 	private List<Runner> marketRunners;
-	private MarketBook rawBook;
+
 	private long receivedTimeStamp;
 	
+	/**
+	 * Create a new BetFairMarketData object
+	 * @param book The MarketBook that information will be extracted from
+	 */
 	public BetFairMarketData(MarketBook book)
 	{
 		marketId = book.getMarketId();
@@ -22,20 +31,13 @@ public class BetFairMarketData implements BetFairDataObject
 		matchedAmount = book.getTotalAvailable();
 		unmatchedAmount = book.getTotalMatched();
 		marketRunners = book.getRunners();
-		rawBook = book;
 		receivedTimeStamp = System.currentTimeMillis();
-	}
-	
-	public MarketBook getRawBook()
-	{
-		return rawBook;
 	}
 	
 	public long getReceivedTime()
 	{
 		return receivedTimeStamp;
 	}
-	
 	
 	public double getMatchedAmount()
 	{
@@ -63,6 +65,10 @@ public class BetFairMarketData implements BetFairDataObject
 		return marketRunners;
 	}
 	
+	/**
+	 * Not supported for this object
+	 * @return null
+	 */
 	@Override
 	public String getName()
 	{
@@ -74,5 +80,4 @@ public class BetFairMarketData implements BetFairDataObject
 	{
 		return marketId;
 	}
-
 }

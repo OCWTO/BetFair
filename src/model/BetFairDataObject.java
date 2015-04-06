@@ -1,7 +1,8 @@
 package model;
 
 /**
- * Interface for any object that contains betfair data.
+ * Interface designed for any object that contains betfair data.
+ * In use, not all betfair data objects use it
  * @author Craig
  *
  */

@@ -2,8 +2,8 @@ package enums;
 
 /**
  * Enum for Betfair method names
- * 
- * @author BetFair
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
+ * @author Betfair
  *
  */
 public enum ApingOperation

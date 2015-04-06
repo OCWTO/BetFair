@@ -11,10 +11,10 @@ import java.util.TimeZone;
 
 /**
  * This class is used for GSON serialisation TypeAdaptor for the Date class
- * which can be given to Gson. Betfair's API-NG requires all dates to be
+ * which can be given to Gson. Betfairs API-NG requires all dates to be
  * serialized in ISO8601 UTC.
- * 
- * @author BetFair
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
+ * @author Betfair
  */
 public class ISO8601DateTypeAdapter implements JsonSerializer<Date>,
 		JsonDeserializer<Date>

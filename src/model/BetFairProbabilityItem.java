@@ -1,24 +1,41 @@
 package model;
 
+/**
+ * This class represents probabilitiy objects, which are composed of timestamps, values and the name of the runner they are for
+ * @author Craig Thomson
+ *
+ */
 public class BetFairProbabilityItem
 {
-	private String timeStamp;
-	private String probability;
+	private long timeStamp;
+	private double probability;
 	private String runnerName;
 	
-	public BetFairProbabilityItem(String time, String runner, String prob)
+	/**
+	 * Create a new BetFairProbabilityItem
+	 * @param time The timestamp that the values were received (in the form of ms from epoch)
+	 * @param runner The runners name
+	 * @param prob The probability value
+	 */
+	public BetFairProbabilityItem(long time, String runner, double prob)
 	{
 		timeStamp = time;
 		runnerName = runner;
 		probability = prob;
 	}
 	
-	public String getTimeStamp()
+	/**
+	 * @return Get the timestamp in the form of ms from epoch
+	 */
+	public long getTimeStamp()
 	{
 		return timeStamp;
 	}
 	
-	public String getProbability()
+	/**
+	 * @return get the probability value
+	 */
+	public double getProbability()
 	{
 		return probability;
 	}

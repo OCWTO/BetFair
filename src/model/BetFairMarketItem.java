@@ -3,23 +3,39 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
-//This represents a market so...
+/**
+ * This class represents a market and the probabilities that its runners
+ * @author Craig
+ *
+ */
 public class BetFairMarketItem
 {
 	private List<BetFairProbabilityItem> runnerProbability;
 	private String marketName;
 	
+	/**
+	 * Create a new BetFairMarketItem
+	 * @param marketName the name of the market this object is meant to represent
+	 */
 	public BetFairMarketItem(String marketName)
 	{
 		this.marketName = marketName;
 		runnerProbability = new ArrayList<BetFairProbabilityItem>();
 	}
 	
+	/**
+	 * Add a new ProbabilityItem to the Markets internal list.
+	 * @param value The probability to be stored.
+	 */
 	public void addRunnerProbability(BetFairProbabilityItem value)
 	{
 		runnerProbability.add(value);
 	}
 	
+	/**
+	 * Get the probabilities for the market
+	 * @return A list of BetFairProbabilityItems which have probability information such as runner name, value and time.
+	 */
 	public List<BetFairProbabilityItem> getProbabilities()
 	{
 		return runnerProbability;
@@ -29,5 +45,4 @@ public class BetFairMarketItem
 	{
 		return marketName;
 	}
-	
 }

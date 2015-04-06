@@ -2,7 +2,7 @@ package enums;
 
 /**
  * Enum For BetFair PriceData options
- * 
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
  * @author BetFair
  */
 public enum PriceData

@@ -13,8 +13,8 @@ import org.apache.http.impl.client.HttpClientBuilder;
 
 /**
  * This class is used for sending HTTP post requests.
- * 
- * @author BetFair
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
+ * @author Betfair
  *
  */
 public class HttpUtil

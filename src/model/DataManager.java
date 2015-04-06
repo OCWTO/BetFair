@@ -61,30 +61,8 @@ public class DataManager
 	}
 	
 	/**
-	 * Uses the MarketIdName map to resolve a markets id to its english name
-	 * @param marketName The english name of the market you want the id for
-	 * @return The marketId that represents the given market Name
-	 */
-	public String getMarketIdForName(String marketName)
-	{
-		//System.out.println("got name " + marketName);
-		//Id is mapped to name so we have to perform a reverse lookup
-		 for (Entry<String, String> IdToNameEntry : marketIdToNameMap.entrySet()) 
-		 {
-			// System.out.println("checking with value " + IdToNameEntry.getValue());
-		        if (marketName.equals(IdToNameEntry.getValue())) 
-		        {
-		        	return IdToNameEntry.getKey();
-		        }
-		 }
-		 System.out.println("shouldnt happen");
-		 //TODO throw exception here?
-		 return null;
-	}
-	
-	/**
 	 * Get the currently tracked games Id
-	 * @return the game Id
+	 * @return the game Id thats being tracked
 	 */
 	public String getGameId()
 	{		
@@ -136,8 +114,8 @@ public class DataManager
 	}
 	
 	/**
-	 * Return the list of ALL active market ids for the stored game
-	 * @return
+	 * Get all markets ids
+	 * @return List of strings where each index is a market id e.g '1.23232323'
 	 */
 	public List<String> getAllMarketIds()
 	{
@@ -145,7 +123,7 @@ public class DataManager
 	}
 	
 	/**
-	 * 
+	 * Get all tracked markets ids
 	 * @return The list of all market Ids that the user has selected to track
 	 */
 	public List<String> getTrackedMarketIds()
@@ -154,7 +132,7 @@ public class DataManager
 	}
 	
 	/**
-	 * Find the earlier start time of all markets in gameMarkets
+	 * Find the earliest start time of all markets in gameMarkets
 	 * @param gameMarkets A list of BetFairMarketObjects
 	 */
 	private void findStartTime(List<BetFairMarketObject> gameMarkets)
@@ -189,7 +167,7 @@ public class DataManager
 	{
 		return options;
 	}
-	//TODO save a special programoptions with the betfair detached
+
 	/**
 	 * Returns the time in ms from the request time that 
 	 * @return
@@ -213,7 +191,7 @@ public class DataManager
 		}
 	}
 
-	/*
+	/**
 	 * Creates map of runner Ids to their english names
 	 */
 	private void generateRunnerIdToNameMap(List<BetFairMarketObject> gameMarkets)
@@ -229,11 +207,21 @@ public class DataManager
 		}
 	}
 	
+	/**
+	 * 
+	 * @param runnerId A runners select id
+	 * @return The name of the runner with the given id
+	 */
 	public String getRunnerName(Long runnerId)
 	{
 		return runnerIdToNameMap.get(runnerId);
 	}
 
+	/**
+	 * 
+	 * @param marketId A markets id
+	 * @return The name of the market with the given id
+	 */
 	public String getMarketName(String marketId)
 	{
 		return marketIdToNameMap.get(marketId);

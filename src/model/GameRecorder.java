@@ -3,7 +3,6 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.TimerTask;
-import java.util.stream.Collectors;
 
 
 /**
@@ -15,81 +14,63 @@ import java.util.stream.Collectors;
  * 
  * @author Craig Thomson
  */
-// TODO extend this so it stores or throws or both depending on whats passed
-
-// TODO
-// What does this need
-// market id to name map
-// game start times
-// takes in program options only, extracts everything from it
-// creates programsettings object
-// contains market id to names map
-// create class for io
-// create class to manage data
-// DataManager
-
-
-
 public class GameRecorder extends TimerTask implements Observable
 {
-	// Game IDS mapped to the market IDS (those being tracked)
-	// private Map<String, List<String>> gameToMarkets;
-	// TODO add code to store the new methods (moneymatched and jsonstrings at
-	// the end).
-	/*
-	 * Top level is just the game, so the lists inside the game list are markets
-	 * List 1 is the games markets being tracked List 2 is the market data, each
-	 * market being recorded has 4 collections of data.
-	 */
 	private DataManager manager;
 	private ISimpleBetFair betFair;
 	private List<Observer> observers;
 	private DataIO io;
 	private TestFile tester;
-	//private List<String> marketList;
 	private boolean finished;
 	private boolean testMode;
 	
 	/**
-	 * @param gameAndMarkets
-	 *            An array of game IDs and market IDs in the form of
-	 *            {gameId,marketId}, with possible repeats.
-	 * @param betFairCore
-	 *            A reference to an initialised and logged in BetFairCore object
+	 * Create a new GameRecorder object
+	 * @param options ProgramOptions that has values set for market ids, game id etc to track
 	 */
-
-	// receives programoptions with market names, event ids etc
-	// create new datamanger object with the event ids and game id
-	// that does all the initial requests
-
 	public GameRecorder(ProgramOptions options)
 	{
-		finished = false;
 		observers = new ArrayList<Observer>();
 		betFair = options.getBetFair();
-		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());	//this json stored
+		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());	
 		manager = new DataManager(options, allMarketsForGame);
 		io = new DataIO(manager, false);
+		//Init all io so collections are initilized with data
 		io.initilise(allMarketsForGame);
 	}
 	
-	public GameRecorder(ProgramOptions options, TestFile testFile)
+	/**
+	 * Create a new GameRecorder object
+	 * @param testFile The testFile that the program is to be simulated on
+	 */
+	public GameRecorder(TestFile testFile)
 	{
-		finished = false;
+		//Extracted first because it's at the front of the test file, but depends on allMarketsForGame
+		//to be init
+		//All calls to betfair for data are replaced with calls to testFile for data.
+		ProgramOptions options = tester.getOptions();
 		testMode = true;
 		observers = new ArrayList<Observer>();
 		tester = testFile;
 		List<BetFairMarketObject> allMarketsForGame = tester.getMarketList();
 		manager = new DataManager(options, allMarketsForGame);
 		io = new DataIO(manager, true);
+		
+		//Init all io so collections are initilized with data
 		io.initilise(allMarketsForGame);
 	}
 	
+	/**
+	 * @return The time that the game starts at in ms from epoch
+	 */
 	public long getStartTime()
 	{
 		return manager.getStartTime();
 	}
 
+	/**
+	 * @return The amount of time in ms from epoch until the game starts
+	 */
 	public long getStartDelayInMS()
 	{
 		return manager.getStartDelay();
@@ -98,27 +79,29 @@ public class GameRecorder extends TimerTask implements Observable
 	/**
 	 * BetFair only serves requests under a certain weight so if necessary this class breaks up the requests, performs then and then
 	 * returns their concatenated results.
-	 * @return
+	 * @return Results from requests for all market ids
 	 */
 	private List<BetFairMarketData> getAllGamesMarketData()
 	{
 		List<String> allIds = manager.getAllMarketIds();
-		//System.out.println("ALL ID NO " + allIds.size());
+
+		//Max request weight = 200. Each request performed below is 5, so max 40 markets a request and there can be 90+ in total
 		int requestWeight = 5;
 		int requestLimit = 200;
 		int marketSizeLimit = requestLimit/requestWeight;
 		
+		//Make list for smaller lists of market ids that requests will be performed for
 		List<ArrayList<String>> splitQueryMarketIds = new ArrayList<ArrayList<String>>();
+		
 		//If the request weight is higher than what betfair allows
 		if(allIds.size() * requestWeight > 200)
 		{
-			//We create a list to contain the split ids that we use for the query
-			System.out.println(marketSizeLimit);
 			//While the number of ids processed is less than the total
 			while(marketSizeLimit < allIds.size())
 			{
 				ArrayList<String> temporaryIds = new ArrayList<String>();
 				
+				//For every set of 40 ids. 0 to 39, 40 to 79 etc.
 				for(int i = marketSizeLimit-40; i < marketSizeLimit; i++)
 				{
 					temporaryIds.add(allIds.get(i));
@@ -144,16 +127,16 @@ public class GameRecorder extends TimerTask implements Observable
 			{
 				allDataContainer.addAll(betFair.getMarketInformation(splitQueryMarketIds.get(i)));
 			}
-			//System.out.println("ALL DATA SIZE " + allDataContainer.size());
 			return allDataContainer;
 		}
 		else
 		{
+			//Single request if not many markets 
 			return betFair.getMarketInformation(allIds);
 		}
 	}
 	
-//	TODO if test mode then lets just not save the data
+
 	@Override
 	public void run()
 	{
@@ -173,28 +156,28 @@ public class GameRecorder extends TimerTask implements Observable
 		}
 	}
 	
+	/**
+	 * Run the GameRecorder in test mode
+	 */
 	private void runTestMode()
 	{
-		//System.out.println("test mode on");
+		//Flow of exeuction is pass new data to get, get probabilities from io + closed markets, check if over then notify
 		io.addData(tester.getNextData());
-		//System.out.println("added all new data");
-		//System.out.println("storing activity");
 		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
-		//System.out.println("getting data");
-		//List<String> closedMarketList = checkForClosedMarkets(mostRecentData);
-		List<String> closedMarketList = io.getRecentlyClosedMarkets();//checkForClosedMarkets(mostRecentData);
-		
-		
-		
-		
+		List<String> closedMarketList = io.getRecentlyClosedMarkets();
 		checkForShutDown();
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
+		//Notify observers with the event list
 		notifyObservers(gameEvents);
-		//System.out.println("finished loop");
 	}
 
+	/**
+	 * Run the GameRecorder in normal mode
+	 */
 	private void runNormalMode()
 	{
+		//Flow of exeuction is get new data, pass new data to get, get probabilities from io + closed markets,
+		//store money bet for markets, check if over then notify
 		List<BetFairMarketData> allActiveData = getAllGamesMarketData();
 		io.addData(allActiveData);
 		io.storeCatalogueActivity(allActiveData);	
@@ -202,85 +185,25 @@ public class GameRecorder extends TimerTask implements Observable
 		List<String> closedMarketList = io.getRecentlyClosedMarkets();
 		checkForShutDown();
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
+		//Notify observers with the event list
 		notifyObservers(gameEvents);
 	}
 	
+	/**
+	 * If no markets are left then it shuts down
+	 */
 	private void checkForShutDown()
 	{
 		if(manager.getTrackedMarketIds().size() == 0)
 			finished = true;
 	}
 
+	/**
+	 * @return true if markets are still active and the GameRecorder is still working, false otherwise
+	 */
 	public boolean isRunning()
 	{
 		return finished;
-	}
-
-	/**
-	 * This method checks the received data to see if any markets have been closed.
-	 * @param mostRecentData
-	 * @return A list of the market names that have been closed this iteration
-	 */
-	private List<String> checkForClosedMarkets(List<BetFairMarketItem> mostRecentData)
-	{
-		List<String> trackedMarketIds = manager.getTrackedMarketIds();
-		//System.out.println("size of tracked list " + trackedMarketIds.size());
-		//System.out.println("size of received list " + mostRecentData.size());
-		
-		if(mostRecentData.size() == 0 && trackedMarketIds.size() == 0)
-		{
-			System.out.println("All markets finished so shutting down.");
-			finished = true;
-		}
-		//If there's a mismatch between the number of markets we got data for and what we expect
-		if(trackedMarketIds.size() != mostRecentData.size())
-		{
-			//System.out.println("RMEV");
-			List<String> closedMarketNames = new ArrayList<String>();
-				//Resolve our list of market ids to their names.
-				List<String> marketNames = new ArrayList<String>();
-				for(String marketId: trackedMarketIds)
-				{
-					marketNames.add(manager.getMarketName(marketId));
-				}
-				//TODO add recursion to get log in
-				//Convert the received List of BetFairMarketItems to a list of their marketNames
-				List<String> receivedMarketNames = mostRecentData.stream().map(BetFairMarketItem::getMarketName).collect(Collectors.toList());
-				
-				//Remove all common elements, thus what's left is market names we received no data for
-				//marketNames.removeAll(receivedMarketNames);
-				receivedMarketNames.removeAll(marketNames);
-				//Stop tracking those we received no data for.
-				//I think we need ids to remove from so either store indexes or convert
-				//System.out.println("we got no data for " + receivedMarketNames.size());
-//				for(String x : receivedMarketNames)
-//				{
-//					System.out.println("market closed is " + x);
-//					System.out.println("trying a removal" + " for " + x);
-//					System.out.println("x is " + x + ". " + manager.getMarketIdForName(x));
-//			//		int indexOfId = trackedMarketIds.indexOf(manager.getMarketIdForName(x));
-//					
-////					if(indexOfId >= 0)
-////					{
-////						System.out.println("removaling od " + trackedMarketIds.get(indexOfId));
-////						manager.stopTrackingMarketId(trackedMarketIds.get(indexOfId));
-////						System.out.println("theres " + manager.getTrackedMarketIds().size() + " left");
-////					}
-//				}
-				System.out.println("ADDING NUM " + receivedMarketNames.size());
-				closedMarketNames.addAll(receivedMarketNames);
-				
-				//marketList.removeAll(marketNames);	//TODO problems might come from here
-				//If there's markets we received no data for
-				//System.out.println("markets we got no data for " + closedMarketNames.size());
-
-				return closedMarketNames;
-		}
-		else
-		{
-			System.out.println("NO MISMATCH");
-		}
-			return new ArrayList<String>();
 	}
 
 	@Override

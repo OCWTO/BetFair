@@ -10,8 +10,8 @@ import java.util.Date;
 
 /**
  * This class is used to convert to and from JSON.
- * 
- * @author BetFair
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
+ * @author Betfair
  */
 public class JsonConverter
 {

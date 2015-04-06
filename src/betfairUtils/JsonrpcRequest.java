@@ -4,8 +4,8 @@ import java.util.Map;
 
 /**
  * This class is used for RPC requests
+ * CLASS TAKEN FROM BETFAIR source: https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
  * @author BetFair
- *
  */
 public class JsonrpcRequest
 {

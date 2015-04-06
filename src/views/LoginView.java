@@ -21,7 +21,6 @@ import controllers.LoginController;
  * @author Craig Thomson
  *
  */
-//TODO add option to put in cert files
 public class LoginView extends BetFairView
 {	
 	private static final int xSize = 250;
@@ -33,8 +32,9 @@ public class LoginView extends BetFairView
 	private JCheckBox debugCheckBox;
 	private JCheckBox testmodeCheckBox;
 	private JLabel fileLocation;
+	
 	/**
-	 * 
+	 * Create a LoginView object
 	 */
 	public LoginView(ProgramOptions options)
 	{	

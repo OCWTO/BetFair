@@ -5,10 +5,7 @@ import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
-//If a market is closed then we locate its last data
-/*
- * This needs to be passed in closed market list and probability data.
- */
+
 
 public class PredictionModel
 {
@@ -29,10 +26,9 @@ public class PredictionModel
 	private List<PredictorUtil> inProgressPredictions;
 	double spikeProbability;
 	String spikeTimeStamp;
-	private boolean currentlyChecking = false;
+	private boolean closedMarket = false;
 	
-	
-
+	private String mostRecentTime;
 	private List<Double> checkedProbabilities;
 	private List<String> checkedTimeStamps;
 	
@@ -110,7 +106,7 @@ public class PredictionModel
 		iterationCount++;
 	}
 
-	private void addProbabilityData(String runnerName, String probability)
+	private void addProbabilityData(String runnerName, double probability)
 	{
 		LinkedList<Double> runnersProbability = getProbsForRunner(runnerName);
 		double probabilityValue = Double.valueOf(probability);
@@ -134,6 +130,16 @@ public class PredictionModel
 		}
 	}
 
+	public boolean isClosed()
+	{
+		return closedMarket;
+	}
+	
+	public String getMostRecentTime()
+	{
+		return mostRecentTime;
+	}
+	
 	private void addTimeStampRecord(String runnerName, Long valueOf)
 	{
 		if(!ignoreVal)
@@ -147,6 +153,7 @@ public class PredictionModel
 //				System.out.println("ADDING TIMESTAMP " + time + " FOR RUNNER " + runnerName);
 //			}
 				timeStampsForRunner.addLast(time);
+				mostRecentTime = time;
 				//System.out.println("ADDING");
 				
 				if(timeStampsForRunner.size() > previousPointTrackCount)
@@ -231,11 +238,12 @@ public class PredictionModel
 			runnerNames[i] = runnerData.getRunnerName();
 			
 			LinkedList<Double> probValues = new LinkedList<Double>();
-			probValues.add(Double.parseDouble(runnerData.getProbability()));
+			probValues.add(runnerData.getProbability());
 			probabilities.add(probValues);
 			
 			LinkedList<String> timeValues = new LinkedList<String>();
-			timeValues.add(convertMsTimeToGame(Long.valueOf(runnerData.getTimeStamp())));
+			timeValues.add(convertMsTimeToGame(runnerData.getTimeStamp()));
+			mostRecentTime = convertMsTimeToGame(runnerData.getTimeStamp());
 			timeStamps.add(timeValues);
 		}	
 	}
@@ -323,10 +331,11 @@ public class PredictionModel
 			//if the change from before to after is bigger than 3% event it thrown
 			if(getPercentageChange(avgBeforeSpike, avgAfterSpike) > 3)
 			{
+				System.out.println("PRED PASS!!!");
 				predicted.add(marketName + " PREDCTION FOR " + runnerNames[spikeRunnerIndex]);
 			}
 			System.out.println("PRED FALE");
-			currentlyChecking = false;
+			//currentlyChecking = false;
 			return predicted;
 		}
 		return new ArrayList<String>();
@@ -385,6 +394,44 @@ public class PredictionModel
 		else
 		{
 			return false;
+		}
+	}
+	
+	public List<String> getRecentValues()
+	{
+		List<String> runnersAndValues = new ArrayList<String>();
+		
+		for(int i = 0; i < runnerNames.length; i++)
+		{
+			String runnerName = runnerNames[i];
+			String runnerTimeStamp = timeStamps.get(i).get(timeStamps.get(i).size() - 1 );
+			double runnerProbability = probabilities.get(i).get(probabilities.get(i).size() - 1);
+			runnersAndValues.add(runnerName + "," + runnerTimeStamp + "," + runnerProbability);
+		}
+		return runnersAndValues;
+	}
+
+	
+	public String getFavouredRunner(String market)
+	{
+		if(market.equals(marketName))
+		{
+			int runnerInd = 0;
+			double bestProb = 0.0;
+			
+			for(int i = 0; i < probabilities.size(); i++)
+			{
+				if(probabilities.get(i).get(0) > bestProb)
+				{
+					bestProb = probabilities.get(i).get(0);
+					runnerInd = i;
+				}
+			}
+			return runnerNames[runnerInd];
+		}
+		else
+		{
+			return null;
 		}
 	}
 	

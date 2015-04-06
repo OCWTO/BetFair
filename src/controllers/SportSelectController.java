@@ -8,10 +8,11 @@ import javax.swing.JOptionPane;
 import model.ProgramOptions;
 import views.BetFairView;
 import views.GameSelectView;
+import views.LoginView;
 
 /**
  * Controller class for SportSelectView objects
- * @author Craig
+ * @author Craig Thomson
  *
  */
 public class SportSelectController implements ActionListener
@@ -21,11 +22,12 @@ public class SportSelectController implements ActionListener
 	
 	public SportSelectController(ProgramOptions options, BetFairView view)
 	{
+		
 		this.options = options;
 		this.view = view;
 	}
 
-	@Override
+
 	public void actionPerformed(ActionEvent e)
 	{
 		//Get the selected options
@@ -45,7 +47,8 @@ public class SportSelectController implements ActionListener
 		}
 		else if(e.getActionCommand().equals("back"))
 		{
-			//TODO implement back
+			view.closeView();
+			BetFairView nextView = new LoginView(new ProgramOptions());
 		}
 	}
 }

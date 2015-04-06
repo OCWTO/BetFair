@@ -63,25 +63,22 @@ import exceptions.NotLoggedInException;
 
 /**
  * BetFairCore is a class that implements all the BetFair API methods in the
- * IBetFairCore interface. It is used for all BetFair method calls. Currently
- * it sits below an ISimpleBetFairObject
- * 
- * @author Craig Thomson
+ * IBetFairCore interface. It is used for all BetFair method calls.
+ * Some of the code in this class was taken from https://github.com/betfair/API-NG-sample-code/tree/master/java/ng
+ * Some has been modified and replaced by non-depreciated code (log in section) whilst others is unmodified.
+ * The Betfair code is (if correctly remembered) used for packaging parameters and sending requests
+ * @author Craig Thomson/Betfair
  *
  */
 public class BetFairCore implements IBetFairCore
 {
 	// BetFair app keys. Live is for fast requests and delayed is for slow.
-	@SuppressWarnings("unused")
 	private static final String delayedAppKey = "scQ6H11vdb6C4s7t";
 	private static final String liveAppKey = "ztgZ1aJPu2lvvW6a";
 
 	// Created on log in, required for all other calls.
 	private String sessionToken;
 
-	// Used to locate certs.
-	private String directoryPrefix;
-	private String separator;
 	private boolean debug = false;
 
 	// Class used for handling all (except login) http calls.
@@ -111,8 +108,6 @@ public class BetFairCore implements IBetFairCore
 	
 	private void utilInit()
 	{
-		directoryPrefix = System.getProperty("user.dir");
-		separator =  File.separator;
 		httpRequester = new HttpUtil();
 	}
 
@@ -140,26 +135,26 @@ public class BetFairCore implements IBetFairCore
 
 		try
 		{
-			//Dealing with certificate file
+			//Dealing with certificate file and creating secure connection
 			KeyManager[] keyManagers = getKeyManagers("pkcs12", new FileInputStream(certificateFile),
 					filePassword);
 			SSLContext sslContext = SSLContext.getInstance("TLS");
 
 			sslContext.init(keyManagers, null, new SecureRandom());
 
-			HttpClientBuilder builder = HttpClientBuilder.create();
+			HttpClientBuilder httpBuilder = HttpClientBuilder.create();
 			SSLConnectionSocketFactory sslConnectionFactory = new SSLConnectionSocketFactory(sslContext, new StrictHostnameVerifier());
-			builder.setSSLSocketFactory(sslConnectionFactory);
+			httpBuilder.setSSLSocketFactory(sslConnectionFactory);
 
 			Registry<ConnectionSocketFactory> registry = RegistryBuilder.<ConnectionSocketFactory> create().register("https", sslConnectionFactory)
 					.build();
 
 			HttpClientConnectionManager ccm = new BasicHttpClientConnectionManager(registry);
 
-			builder.setConnectionManager(ccm);
+			httpBuilder.setConnectionManager(ccm);
 
 			//Creating a client with an encrypted connection
-			httpClient = builder.build();
+			httpClient = httpBuilder.build();
 
 			// Making a post object
 			HttpPost httpPost = new HttpPost("https://identitysso.betfair.com/api/certlogin");
@@ -172,7 +167,7 @@ public class BetFairCore implements IBetFairCore
 
 			httpPost.setHeader("X-Application", "appkey");
 
-			// Not using HttpUtil so need a separate debug check here.
+
 			if (debug)
 				System.out.println("Request: " + httpPost.getRequestLine());
 
@@ -185,9 +180,11 @@ public class BetFairCore implements IBetFairCore
 			if (debug)
 				System.out.println("Response:" + responseObject.toString());
 
+			//If non successful log in
 			if (responseObject.getSessionToken() == null)
 				throw new BadLoginDetailsException(responseObject.getLoginStatus());
 
+			//Extract session token from the log in
 			sessionToken = responseObject.getSessionToken();
 		} 
 		catch (Throwable e)
@@ -334,7 +331,7 @@ public class BetFairCore implements IBetFairCore
 
 		ListMarketBooksContainer container = JsonConverter.convertFromJson(jsonResultLine, ListMarketBooksContainer.class);
 		
-		//Recursively call again if it fails. Occassionally requests aren't served by the server, or timed out.
+		//Recursively call again if it fails. Occasionally requests aren't served by the server or they timed out.
 		while(container == null)
 		{
 			jsonResultLine = makeRequest(ApingOperation.LISTMARKETBOOK.toString(), params);
@@ -347,14 +344,7 @@ public class BetFairCore implements IBetFairCore
 		return container.getResult();
 	}
 
-	/**
-	 * 
-	 * @param filter MarketFilter object
-	 * @param marketProjection MarketProjection object
-	 * @param sort Result sorting option
-	 * @param maxResults Number of results that can be received.
-	 * @return A list of MarketCatalogue objects for the request.
-	 */
+	//Doc in IBetFair interface
 	public List<MarketCatalogue> listMarketCatalogue(MarketFilter filter, Set<MarketProjection> marketProjection, MarketSort sort, String maxResults)
 	{
 		//Create http parameter object
@@ -425,10 +415,7 @@ public class BetFairCore implements IBetFairCore
 	 */
 	public List<MarketCatalogue> getGames(String sportID)
 	{
-		//For now it looks for games that started 2 hours into the past (so in play
-		//games can be found and 1 day ahead to see games that havent started yet.
-		//The range is a day so that games can be scheduled for recording some time
-		//ahead of their start (good for recording american sports).
+		//Looks for games that started up to 3 hours ago to those that start 24h from now
 		TimeRange timeRange = new TimeRange();
 		timeRange.setFrom(new Date(new Date().getTime() - (180 * 60 * 1000)));
 		timeRange.setTo(new Date(new Date().getTime() + (24 * 60 * 60 * 1000)));
