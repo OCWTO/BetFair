@@ -5,6 +5,8 @@ import java.util.Date;
 import java.util.LinkedList;
 import java.util.List;
 
+import enums.MarketNames;
+
 
 
 public class PredictionModel
@@ -21,9 +23,8 @@ public class PredictionModel
 	private String[] runnerNames;
 	private Date marketStartTime;
 	private boolean ignoreVal = false;
-	private static double pctChangeThreshold = 5.0;
 	
-	private List<PredictorUtil> inProgressPredictions;
+	private List<PredictionModelUtil> inProgressPredictions;
 	double spikeProbability;
 	String spikeTimeStamp;
 	private boolean closedMarket = false;
@@ -31,8 +32,8 @@ public class PredictionModel
 	private String mostRecentTime;
 	private List<Double> checkedProbabilities;
 	private List<String> checkedTimeStamps;
-	
-	
+	private List<Integer> runnerTimeouts;
+	private static final int timeout = 6;
 	private int spikeRunnerIndex;
 	private int iterationCount;
 	private String spikeRunnerName;
@@ -45,7 +46,8 @@ public class PredictionModel
 	 */
 	public PredictionModel(String marketName, Date startTime)
 	{
-		inProgressPredictions = new ArrayList<PredictorUtil>();
+		runnerTimeouts = new ArrayList<Integer>();
+		inProgressPredictions = new ArrayList<PredictionModelUtil>();
 		this.marketName = marketName;
 		marketStartTime = startTime;
 		probabilities = new ArrayList<LinkedList<Double>>();
@@ -82,14 +84,14 @@ public class PredictionModel
 		return null;
 	}
 	//Add data to our existing collections
-	public void addData(List<BetFairProbabilityItem> newProbabilites)
+	public void addData(List<BetfairProbabilityItem> newProbabilites)
 	{
 		//Add one timestamp for this call, all runners data comes in at
 		//the same time so one collective timestamp is suitable.
 		
 
 		//For each runners data
-		for(BetFairProbabilityItem probability: newProbabilites)
+		for(BetfairProbabilityItem probability: newProbabilites)
 		{
 			addProbabilityData(probability.getRunnerName(), probability.getProbability());
 			addTimeStampRecord(probability.getRunnerName(), Long.valueOf(newProbabilites.get(0).getTimeStamp()));
@@ -220,19 +222,20 @@ public class PredictionModel
 	//public void 
 	
 	
-	public void init(List<BetFairProbabilityItem> newProbabilities)
+	public void init(List<BetfairProbabilityItem> newProbabilities)
 	{
 		//Define the size of runner array from the number of indexes
 		runnerNames =  new String[newProbabilities.size()];
 		//System.out.println(marketName + " ADDING DATA FOR RUNNERS");
 		
-		BetFairProbabilityItem runnerData;
+		BetfairProbabilityItem runnerData;
 		
 		
 		//addTimeStampRecord(Long.valueOf(newProbabilities.get(0).getTimeStamp()));
 		//For each runners data
 		for(int i = 0; i < newProbabilities.size(); i ++)
 		{
+			runnerTimeouts.add(0);
 			runnerData = newProbabilities.get(i);
 			
 			runnerNames[i] = runnerData.getRunnerName();
@@ -250,14 +253,26 @@ public class PredictionModel
 	
 	public List<String> getPreds()
 	{
-		if(inProgressPredictions.size() > 0)
+		if(!closedMarket)
 		{
-			//System.out.println("TRYING TO VERIFY");
-			return verifyProbabilitySpikes();
-		}
-			//System.out.println("CHECKING");
 			checkForProbabilitySpikes();
+			if(inProgressPredictions.size() > 0)
+			{
+				
+				return verifyProbabilitySpikes();
+			}
 			return new ArrayList<String>();
+		}
+		else
+		{
+			List<String> prediction = new ArrayList<String>();
+			prediction.add(mostRecentTime + "," + marketName + ",CLOSED");
+			if(marketName.equals(MarketNames.SENDING_OFF))
+			{
+				
+			}
+			return prediction;
+		}
 	}
 
 	private List<String> verifyProbabilitySpikes()
@@ -277,7 +292,7 @@ public class PredictionModel
 		//Split up the 8 indexes, we want the spike to be ind 0, so 3 before 4 after
 		//System.out.println(timeStamps.indexOf((spikeTimeStamp)));
 		//System.out.println("SPIKE TS IS " + spikeTimeStamp);
-		PredictorUtil possibleEvent;
+		PredictionModelUtil possibleEvent;
 		
 		for(int i = 0; i < inProgressPredictions.size(); i++)
 		{
@@ -289,19 +304,54 @@ public class PredictionModel
 				
 				//find avg after from ind 4 to 7
 				double avgAfterSpike = 0;
+				double maxAfterSpike = Double.MIN_VALUE;
+				double minAfterSpike = Double.MAX_VALUE;
+				
 				for(int j = 4; j < 8; j++)
 				{
+					if(probabilities.get(possibleEvent.getRunnerIndex()).get(j) > maxAfterSpike)
+					{
+						maxAfterSpike = probabilities.get(possibleEvent.getRunnerIndex()).get(j);
+						
+					}
+					if(probabilities.get(possibleEvent.getRunnerIndex()).get(j) < minAfterSpike)
+					{
+						minAfterSpike = probabilities.get(possibleEvent.getRunnerIndex()).get(j);
+					}
 					avgAfterSpike += probabilities.get(possibleEvent.getRunnerIndex()).get(j);
 				}
 				avgAfterSpike = avgAfterSpike / 4;
 				
-				if((avgAfterSpike - possibleEvent.getAvgBeforeSpike()) > 0.1)
+				
+				
+				
+				//Make sure the max before is less than the max after
+				if(possibleEvent.getMaxBeforeSpike() < minAfterSpike)
 				{
+					System.out.println("COND 2 MET");
+				//if(possibleEvent.get)
+				//if((avgAfterSpike - possibleEvent.getAvgBeforeSpike()) > 0.1 && possibleEvent.getMaxBeforeSpike() < maxAfterSpike)
+				//{
+					System.out.println("COND 3 MET");
 					System.out.println("WINNER WINNER CHICKEN DINNER");
 					System.out.println("PREDICTION FOR " + marketName + " RUNNER " + runnerNames[possibleEvent.getRunnerIndex()] + " TIME " + possibleEvent.getTimeStamp());
+				//}
+					
+					
+					runnerTimeouts.remove(i);
+					runnerTimeouts.add(i, timeout);
 				}
 				inProgressPredictions.remove(i);
 				i--;
+				for(int j  = 0; j < inProgressPredictions.size() ; j++)
+				{
+					if(inProgressPredictions.get(j).getRunnerIndex() == possibleEvent.getRunnerIndex())
+					{
+						inProgressPredictions.remove(j);
+					//	i--;
+						j--;
+					}
+				}
 			}
 		}
 		
@@ -440,70 +490,116 @@ public class PredictionModel
 	 */
 	private void checkForProbabilitySpikes()
 	{		
+		double mult;
+		double add;
 		//For each runner
 		for(int i = 0; i < probabilities.size(); i++)
 		{
+			if(!runnerNames[i].contains("The Draw") && runnerTimeouts.get(i) == 0)
+			{
 			//If we have a full index of points then we have enough to check
 			if(probabilities.get(i).size() == previousPointTrackCount)
 			{
 				double olderValue = probabilities.get(i).get(6);
 				double mostRecentValue = probabilities.get(i).get(7);
 				
-//				if(olderValue == 0.013150973)
-//				{
-//					System.out.println("FOUND IT TRUE");
-//				}
+
 				//If the change between the last 2 values is greater than the threshold 
-				if(getPercentageChange(olderValue, mostRecentValue) > pctChangeThreshold)
+				//System.out.println("VAL 6 ");
+				//if(marketName.equals("Match Odds"))
+				//{
+					//if(runnerNames[i].equals("Netherlands"))
+						//System.out.println("OLDER " + olderValue + " NEW " + mostRecentValue);
+				//}
+				
+				
+				if(olderValue < 0.2)
 				{
-					//System.out.println("THRESHOLD MET " + marketName + " " + runnerNames[i] + " " + timeStamps.get(i).get(7) + " BEFORE " + olderValue + " AFTER " + mostRecentValue);
-					double meanBeforeSpikeValues = 0;
-					double maxValueBeforeSpike = Double.MIN_VALUE;
+					mult = 2;
+					add = 0;
+				}
+				else
+				{
+					mult = 1;
+					add = 0.075;
+				}
+				
+				//If the spike is big enough to register
+				if((olderValue * mult) + add <= mostRecentValue)
+				{
+					System.out.println("SPIKE AT " + marketName + " RUNNER " + runnerNames[i] + " TIME " + timeStamps.get(i).get(7));
+					
+					
+					double meanBeforeSpike = 0;
+					double maxBeforeSpike = Double.MIN_VALUE;
 					
 					for(int j = 0; j < 6; j++)
 					{
-						if(probabilities.get(i).get(j) > maxValueBeforeSpike)
+						if(probabilities.get(i).get(j) > maxBeforeSpike)
 						{
-							maxValueBeforeSpike = probabilities.get(i).get(j);
+							maxBeforeSpike = probabilities.get(i).get(j);
 						}
-						meanBeforeSpikeValues+=probabilities.get(i).get(j);
+						meanBeforeSpike+=probabilities.get(i).get(j);
 					}
-					meanBeforeSpikeValues = meanBeforeSpikeValues/6;
-					
-					//System.out.println("IM HERE");
-					//If the spike value is 5% more than the average values before
-					
-					if(getPercentageChange(meanBeforeSpikeValues, mostRecentValue) > pctChangeThreshold/2)
+					meanBeforeSpike = meanBeforeSpike/6;
+						
+					//Make sure that the spike is above the avg and max value
+					if(getPercentageChange(meanBeforeSpike, mostRecentValue) > 5.0 && getPercentageChange(maxBeforeSpike, mostRecentValue) > 5.0)
 					{
-						if(getPercentageChange(maxValueBeforeSpike, mostRecentValue) > 5)
-						{
-							
-						
-						System.out.println("DETECTED FROM VAL " + olderValue + " TO " + mostRecentValue + " AT TIME " + timeStamps.get(i).get(7));
-						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " + marketName + " " + runnerNames[i]);
-						//currentlyChecking = true;
-						//public PredictorUtil(int index, double spike, double avgBefore, double maxBefore, String time)
-						
-						inProgressPredictions.add(new PredictorUtil(i, mostRecentValue, meanBeforeSpikeValues, maxValueBeforeSpike, timeStamps.get(i).get(7)));
-						//spikeTimeStamp = timeStamps.get(i).get(7);
-						//spikeRunnerName = runnerNames[i];
-						//spikeRunnerIndex = i;
-					}
+						System.out.println("SECOND SPIKE COND MET");
+						inProgressPredictions.add(new PredictionModelUtil(i, mostRecentValue, meanBeforeSpike, maxBeforeSpike, timeStamps.get(i).get(7)));
+//						
 					}
 					
-					//If the older value is closer to the mean than the spike then nothing happened
-					//Ohterwise we think somethings happening
-//					if(closerTo(olderValue, mostRecentValue, meanBeforeSpikeValues))
+				}
+			}
+		
+//					if(getPercentageChange(meanBeforeSpikeValues, mostRecentValue) > 10.0 && getPercentageChange(maxValueBeforeSpike, mostRecentValue) > 10.0)
 //					{
-//						currentlyChecking = true;
-//						spikeTimeStamp = timeStamps.get(i).get(7);
-//						spikeRunnerName = runnerNames[i];
-//						spikeRunnerIndex = i;
+//						System.out.println("COND 1 MET");
+//						inProgressPredictions.add(new PredictionModelUtil(i, mostRecentValue, meanBeforeSpikeValues, maxValueBeforeSpike, timeStamps.get(i).get(7)));
+//						if(getPercentageChange(maxValueBeforeSpike, mostRecentValue) > 5)
+//						{
+//							
+//						
+//						//System.out.println("DETECTED FROM VAL " + olderValue + " TO " + mostRecentValue + " AT TIME " + timeStamps.get(i).get(7));
+//						//System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " + marketName + " " + runnerNames[i]);
+//						//currentlyChecking = true;
+//						//public PredictorUtil(int index, double spike, double avgBefore, double maxBefore, String time)
+//						
+//						//spikeTimeStamp = timeStamps.get(i).get(7);
+//						//spikeRunnerName = runnerNames[i];
+//						//spikeRunnerIndex = i;
 //					}
-//					else
-//					{
-//						currentlyChecking = false;
 //					}
+//					
+//					//If the older value is closer to the mean than the spike then nothing happened
+//					//Ohterwise we think somethings happening
+////					if(closerTo(olderValue, mostRecentValue, meanBeforeSpikeValues))
+////					{
+////						currentlyChecking = true;
+////						spikeTimeStamp = timeStamps.get(i).get(7);
+////						spikeRunnerName = runnerNames[i];
+////						spikeRunnerIndex = i;
+////					}
+////					else
+////					{
+////						currentlyChecking = false;
+////					}
+//				}
+			}
+			else
+			{
+				if(runnerTimeouts.get(i) > 0)
+				{
+				System.out.println("TIME OUT ACTIVE FOR " + marketName + " RUNNER " + runnerNames[i]);
+				int timeoutleft = runnerTimeouts.remove(i);
+				timeoutleft--;
+				runnerTimeouts.add(i,timeoutleft);
+				if(timeoutleft == 0)
+				{
+					System.out.println("TIME OUT OVER FOR " + marketName + " RUNNER " + runnerNames[i]);
+				}
 				}
 			}
 		}
@@ -525,6 +621,11 @@ public class PredictionModel
 //		
 //		}
 		return pctChange;
+	}
+
+	public void close()
+	{
+		closedMarket = true;
 	}
 
 	

@@ -9,15 +9,19 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.ListSelectionModel;
 
-import model.BetFairGameObject;
+import model.BetfairGameObject;
 import model.ProgramOptions;
 import controllers.GameSelectController;
 
-
+/**
+ * GameSelectView is used to display the list of available games for the given sport thats in the received ProgramOptions object
+ * @author Craig
+ *
+ */
 public class GameSelectView extends BetFairView
 {
 	private static final String frameTitle = "BetFair Game Select";
-	private List<BetFairGameObject> availableGames;
+	private List<BetfairGameObject> availableGames;
 	private JTable gameListTable;
 	
 	public GameSelectView(ProgramOptions options)

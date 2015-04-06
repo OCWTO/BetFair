@@ -11,7 +11,11 @@ import javax.swing.JPanel;
 import model.ProgramOptions;
 import controllers.TestFileLocatorController;
 
-
+/**
+ * Basic view for locating test files and then proceeding to simulate the program on them
+ * @author Craig
+ *
+ */
 public class TestFileSelectionView extends BetFairView
 {
 	private static final String frameTitle = "Test file locator view";

@@ -27,6 +27,12 @@ import org.jfree.data.general.Series;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
 
+/**
+ * This class is used to provide a view of the predicted events and state of the game. It's designed to observe
+ * a DataAnalysis object and display the data it receives from updates
+ * @author Craig
+ *
+ */
 public class AnalysisView extends BetFairView implements Observer
 {
 	private static final String frameTitle = "BetFair Game View";
@@ -47,8 +53,13 @@ public class AnalysisView extends BetFairView implements Observer
 	private XYSeriesCollection probabilityDataset;
 	
 	private int graphCounter = 0;
+	
 	private static final String fontName = "Arial Rounded MT Bold";
 	
+	/**
+	 * Create a new AnalysisView object
+	 * @param options The selected options for the game to observe
+	 */
 	public AnalysisView(ProgramOptions options)
 	{
 		super(frameTitle, options, null);
@@ -56,16 +67,6 @@ public class AnalysisView extends BetFairView implements Observer
 		analysis = new DataAnalysis(options);
 		analysis.addObserver(this);
 		analysis.start(5000);
-		//this observe that
-		
-		//new analysis view sooo
-		//creates a recorder object, gives it betfair, observes it
-		
-		//Recorder will be observable
-		//Class will sit above it and parse events
-		//Class above it is observer and observable, it throws updates
-		//after it receives events and nicely formats
-		
 	}
 	
 	public static void main(String[] args)
@@ -76,13 +77,14 @@ public class AnalysisView extends BetFairView implements Observer
 	public AnalysisView()
 	{
 		super(frameTitle, new ProgramOptions(), null);
-		//super.viewListener = new LoginController(this);
-		
 		setupAndDisplay();
-		//analysis = new DataAnalysis(options);
-		//analysis.addObserver(this);
 	}
 	
+	/**
+	 * Create an AnalysisView object for the given test file and start the DataAnalysis class below to start
+	 * receiving its data at 1ms intervals
+	 * @param testFile TestFile object that contains the .txt test file that the program will be simulated on
+	 */
 	public AnalysisView(TestFile testFile)
 	{
 		super(frameTitle, new ProgramOptions(), null);
@@ -107,7 +109,7 @@ public class AnalysisView extends BetFairView implements Observer
 		startTimeLabel.setText(date);
 	}
 	
-	//TODO modify to work in halfmins
+
 	private void setGameTime(String timeInMins)
 	{
 		gameTimeLabel.setText(timeInMins + " mins");
@@ -116,12 +118,7 @@ public class AnalysisView extends BetFairView implements Observer
 	@Override
 	void setupPanels()
 	{
-		setupDetailsPanel();
-		
-		
-		
-		//setupGameDetailsPanel();
-		//setupDataPanel();
+		setupInformationPanels();
 	}
 	
 	
@@ -129,16 +126,14 @@ public class AnalysisView extends BetFairView implements Observer
 	{
 		probabilityDataset = new XYSeriesCollection();
 
-		
-		JFreeChart chart = ChartFactory.createXYLineChart(
-				"Match Odds Chart", // Title
-				"Time", // x-axis Label
-				"Implied Probability", // y-axis Label
-				probabilityDataset, // Dataset
-				PlotOrientation.VERTICAL, // Plot Orientation
-				true, // Show Legend
-				true, // Use tooltips
-				false // Configure chart to generate URLs?
+		JFreeChart chart = ChartFactory.createXYLineChart("Match Odds Chart", //graph title
+				"Time", //x axis label
+				"Implied Probability", //y axis label
+				probabilityDataset, //the dataset
+				PlotOrientation.VERTICAL,
+				true, //legend is displayed
+				true,
+				false 
 		);
 		
 		ChartPanel chartPanel = new ChartPanel(chart);
@@ -148,21 +143,23 @@ public class AnalysisView extends BetFairView implements Observer
 		return graphPanel;
 	}
 
-	private void setupDetailsPanel() 
+	private void setupInformationPanels() 
 	{
+		//Top panel with runner info
 		JPanel homeTeamPanel = getHomeTeamPanel();
 		JPanel gameDetailsPanel = getGameDetailsPanel();
 		JPanel awayTeamPanel = getAwayTeamPanel();
-		JTabbedPane dataPanel = setupDataPanel();
-		
+			
 		JPanel detailsPanel = new JPanel();
 		detailsPanel.setLayout(new BoxLayout(detailsPanel, BoxLayout.X_AXIS));
 		detailsPanel.add(homeTeamPanel);
 		detailsPanel.add(gameDetailsPanel);
 		detailsPanel.add(awayTeamPanel);
 		mainContainer.add(detailsPanel);
-		mainContainer.add(dataPanel);
 		
+		//Bottom panel with the tabs
+		JTabbedPane dataPanel = setupDataPanel();
+		mainContainer.add(dataPanel);	
 	}
 
 	private JTabbedPane setupDataPanel()
@@ -247,12 +244,9 @@ public class AnalysisView extends BetFairView implements Observer
 		return gameDetailsPanel;
 	}
 	
-
-
 	@Override
 	protected void addMenus()
 	{
-		
 	}
 
 	@Override
@@ -262,6 +256,7 @@ public class AnalysisView extends BetFairView implements Observer
 		{
 			ViewUpdate update = (ViewUpdate) obj;
 			
+			//If this is the first update then get the start up data
 			if(update.getInitialUpdate())
 			{
 				setAwayTeamName(update.getAwayTeam());
@@ -273,6 +268,7 @@ public class AnalysisView extends BetFairView implements Observer
 				setupGraph(update.getRunnerVals());
 				addPredictions(update.getPredictions());
 			}
+			//Otherwise just add the normal stuff
 			else
 			{
 				setGameTime(update.getGameTime());
@@ -288,7 +284,10 @@ public class AnalysisView extends BetFairView implements Observer
 		lastUpdatedTimeLabel.setText(lastUpdated + lastUpdateTime);
 	}
 
-	//Otherwise its a normal update so we add its test to the logs
+	/**
+	 * Add the given predictions to the views JTable
+	 * @param predictions
+	 */
 	private void addPredictions(List<String> predictions)
 	{
 		DefaultTableModel model = (DefaultTableModel) eventListTable.getModel();
@@ -301,26 +300,31 @@ public class AnalysisView extends BetFairView implements Observer
 		}
 	}
 
+	/**
+	 * Add new XYSeries objects to the graph for each runner in the graphValues received
+	 * @param graphValues
+	 */
 	private void setupGraph(List<String> graphValues)
 	{
-		//All Strings in graphvalues are in the form of runner name, timestamp, value
 		String[] runnerTokens;
 		
+		//Create XYSeries objects for each runner in the match odds market (thats the data it receives)
 		for(int i = 0; i < graphValues.size() ; i++)
 		{
 			runnerTokens = graphValues.get(i).split(",");
 			String runnerName = runnerTokens[0];
-			//String timestamp = runnerTokens[1];
 			double probability = Double.valueOf(runnerTokens[2]);
-			
 			XYSeries runnerData = new XYSeries(runnerName);
 			runnerData.add(graphCounter, probability);
-			System.out.println("ADDING TO GRAPH " + graphCounter + " " + probability);
 			probabilityDataset.addSeries(runnerData);
 		}
 		graphCounter++;
 	}
 	
+	/**
+	 * Add data
+	 * @param graphValues Runners values to be added in the form of 'timestamp, runner name, value'
+	 */
 	private void addToGraph(List<String> graphValues)
 	{
 		List<Series> dataSet = probabilityDataset.getSeries();

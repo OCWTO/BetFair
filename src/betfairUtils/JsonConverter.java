@@ -1,6 +1,6 @@
 package betfairUtils;
 
-import betFairGSONClasses.ISO8601DateTypeAdapter;
+import betfairGSONClasses.ISO8601DateTypeAdapter;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

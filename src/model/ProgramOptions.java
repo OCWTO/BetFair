@@ -4,9 +4,14 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This class is used to store the state of the GUI options. It's used to initilise various
+ * objects in the back end with the settings it has.
+ * @author Craig
+ *
+ */
 public class ProgramOptions implements Cloneable
 {
-	private String programOption;
 	private String eventTypeId;
 	private String eventId;
 	private List<String> marketIds;
@@ -140,11 +145,9 @@ public class ProgramOptions implements Cloneable
 		this.marketIds.addAll(options);
 	}
 
-	public String getProgramOption()
-	{
-		return this.programOption;
-	}
-
+	/**
+	 * Clone is required because a copy is needed to be made of this class for production of test files
+	 */
 	public Object clone()
 	{
 		try
@@ -156,15 +159,5 @@ public class ProgramOptions implements Cloneable
 			e.printStackTrace();
 		}
 		return null;
-	}
-	
-	public void setProgramOption(String option)
-	{
-		this.programOption = option;
-	}
-	
-	public void resetBetFair()
-	{
-		this.betFair = null;
 	}
 }

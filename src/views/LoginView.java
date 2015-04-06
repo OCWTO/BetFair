@@ -64,7 +64,7 @@ public class LoginView extends BetFairView
 		textFieldPanel.setLayout(new BoxLayout(textFieldPanel, BoxLayout.Y_AXIS));
 		usernameEntry = new JTextField();
 		usernameEntry.addActionListener(viewListener);
-		usernameEntry.setText("0ocwto0");
+		usernameEntry.setText("0ocwto0");	//hard coded login details for fast logins, obviously can be changed
 		passwordEntry = new JPasswordField();
 		passwordEntry.setText("2014Project");
 		filePasswordEntry = new JPasswordField();
@@ -91,12 +91,13 @@ public class LoginView extends BetFairView
 		JButton locateCertificateFile = new JButton("Select Certificate File");
 		locateCertificateFile.addActionListener(viewListener);
 		certificateFilePanel.add(locateCertificateFile, BorderLayout.NORTH);
+		
+		//set default locations for quick use
 		fileLocation = new JLabel("./certs/client-2048.p12");
 		certificateFilePanel.add(fileLocation, BorderLayout.CENTER);
 		certificatePanel.add(certificateFilePanel);
 		
 		mainContainer.add(certificatePanel);
-/////////////////////
 		
 		JPanel optionsPanel = new JPanel();
 		optionsPanel.setLayout(new BoxLayout(optionsPanel, BoxLayout.Y_AXIS));
@@ -146,11 +147,5 @@ public class LoginView extends BetFairView
 		currentOptions.setUserDetails(usernameEntry.getText(), new String(passwordEntry.getPassword()), new String(filePasswordEntry.getPassword()));
 		currentOptions.setCertificateFile(new File(fileLocation.getText()));
 		return currentOptions;
-	}
-	
-	public static void main(String[] args)
-	{
-		@SuppressWarnings("unused")
-		LoginView gui = new LoginView(new ProgramOptions());
 	}
 }

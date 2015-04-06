@@ -2,6 +2,11 @@ package model;
 
 import java.util.List;
 
+/**
+ * This class is used to hold data that is pushed up from the DataAnalysis class to the AnalysisView
+ * @author Craig
+ *
+ */
 public class ViewUpdate
 {
 	private boolean initialUpdate;
@@ -14,6 +19,13 @@ public class ViewUpdate
 	private List<String> runnerValues;
 	private List<String> predictions;
 	
+	/**
+	 * Create a new ViewUpdate object
+	 * @param currentGameTime The most recent game time for data received (for football 51:02 etc.)
+	 * @param lastUpdated The last time that data was received (actual time)
+	 * @param runnersAndValues List of runner names, timestamps and probability values (all comma separated)
+	 * @param predictedEvents List of the predicted events to be displayed
+	 */
 	public ViewUpdate(String currentGameTime, String lastUpdated, List<String> runnersAndValues, List<String> predictedEvents)
 	{
 		initialUpdate = false;
@@ -23,6 +35,17 @@ public class ViewUpdate
 		predictions = predictedEvents;
 	}
 	
+	/**
+	 * 
+	 * @param homeTeam The home teams name
+	 * @param awayTeam The away teams name
+	 * @param favouredTeam The name of the favoured runner
+	 * @param startTime The time that the game starts up
+	 * @param currentGameTime The most recent game time for data received (for football 51:02 etc.)
+	 * @param lastUpdated The last time that data was received (actual time)
+	 * @param runnersAndValues List of runner names, timestamps and probability values (all comma separated)
+	 * @param predictedEvents List of the predicted events to be displayed
+	 */
 	public ViewUpdate(String homeTeam, String awayTeam, String favouredTeam, String startTime, String currentGameTime, String lastUpdated, List<String> runnersAndValues, List<String> predictedEvents)
 	{
 		initialUpdate = true;
@@ -41,6 +64,10 @@ public class ViewUpdate
 		return predictions;
 	}
 	
+	/**
+	 * 
+	 * @return true if this is the initial update object that contains more information that a normal update (team names etc.)
+	 */
 	public boolean getInitialUpdate()
 	{
 		return initialUpdate;

@@ -9,12 +9,12 @@ import java.io.File;
 import java.util.List;
 import java.util.Set;
 
-import betFairGSONClasses.EventTypeResult;
-import betFairGSONClasses.LoginResponse;
-import betFairGSONClasses.MarketBook;
-import betFairGSONClasses.MarketCatalogue;
-import betFairGSONClasses.MarketFilter;
-import betFairGSONClasses.PriceProjection;
+import betfairGSONClasses.EventTypeResult;
+import betfairGSONClasses.LoginResponse;
+import betfairGSONClasses.MarketBook;
+import betfairGSONClasses.MarketCatalogue;
+import betfairGSONClasses.MarketFilter;
+import betfairGSONClasses.PriceProjection;
 import enums.MarketProjection;
 import enums.MarketSort;
 import enums.OrderProjection;

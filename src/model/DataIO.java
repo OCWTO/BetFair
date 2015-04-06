@@ -12,9 +12,9 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import betFairGSONClasses.PriceSize;
-import betFairGSONClasses.Runner;
-import betFairGSONClasses.RunnerCatalog;
+import betfairGSONClasses.PriceSize;
+import betfairGSONClasses.Runner;
+import betfairGSONClasses.RunnerCatalog;
 import betfairUtils.JsonConverter;
 import enums.BetFairMarketStatus;
 
@@ -29,7 +29,7 @@ import enums.BetFairMarketStatus;
 public class DataIO
 {
 	//Stored market data, each MarketDataContainer is an individual runner and this list makes up the game
-	private List<MarketDataContainer> storedMarketData;
+	private List<BetfairMarketDataContainer> storedMarketData;
 	//Stored JSON, used for producing test files
 	private List<String> jsonAPIReplies;
 	//Storing the amount of money available/matched on markets
@@ -55,7 +55,7 @@ public class DataIO
 		this.testMode = testMode;
 		this.manager = manager;
 		counter = 1;
-		storedMarketData = new ArrayList<MarketDataContainer>();
+		storedMarketData = new ArrayList<BetfairMarketDataContainer>();
 		jsonAPIReplies = new ArrayList<String>();
 		marketCatalogueActivity = new ArrayList<String>();
 		recentlyClosedMarkets = new ArrayList<String>();
@@ -65,7 +65,7 @@ public class DataIO
 	 * Initilise this object, it initially creates objects which will store the live data
 	 * @param initialMarketObjects The BetFairMarket objects that will be used to initialise
 	 */
-	public void initilise(List<BetFairMarketObject> initialMarketObjects)
+	public void initilise(List<BetfairMarketObject> initialMarketObjects)
 	{
 		//If not test mode then prepare json array for production of logs used for testing
 		if(!testMode)
@@ -86,7 +86,7 @@ public class DataIO
 		for (String storedMarketId : storedMarketList)
 		{
 			//Loop through our received market data
-			for (BetFairMarketObject receivedMarket : initialMarketObjects)
+			for (BetfairMarketObject receivedMarket : initialMarketObjects)
 			{
 				//If the received id matches the tracked id
 				if (receivedMarket.getMarketId().equals(storedMarketId))
@@ -97,7 +97,7 @@ public class DataIO
 					Date marketOpenDate = receivedMarket.getOpenDate();
 					
 					//Create a new data container for this market
-					MarketDataContainer currentMarketContainer = new MarketDataContainer(gameName, marketName, marketId, marketOpenDate);
+					BetfairMarketDataContainer currentMarketContainer = new BetfairMarketDataContainer(gameName, marketName, marketId, marketOpenDate);
 
 					//Loop through all of its runners and create collections for them. 
 					for (RunnerCatalog runner : receivedMarket.getRunners())
@@ -116,15 +116,15 @@ public class DataIO
 	 * @param allMarketData a list of BetFairMarketData objects
 	 * @return a filtered list of BetFairMarketData objects, only for the tracked markets.
 	 */
-	private List<BetFairMarketData> getTrackedMarketData(List<BetFairMarketData> allMarketData)
+	private List<BetfairMarketData> getTrackedMarketData(List<BetfairMarketData> allMarketData)
 	{
 		//Get the list of ids that we want to track
 		List<String> trackedMarkets = manager.getTrackedMarketIds();
 		
-		List<BetFairMarketData> matchedMarketData = new ArrayList<BetFairMarketData>();
+		List<BetfairMarketData> matchedMarketData = new ArrayList<BetfairMarketData>();
 		
 		//Iterate through all data received and store the desired markets data.
-		for(BetFairMarketData marketObj : allMarketData)
+		for(BetfairMarketData marketObj : allMarketData)
 		{
 			if(trackedMarkets.contains(marketObj.getMarketId()))
 			{
@@ -138,7 +138,7 @@ public class DataIO
 	 * Add new data received from the Betfair API to this classes collections
 	 * @param liveMarketData A list of BetFairMarketData objects representing the received data.
 	 */
-	public void addData(List<BetFairMarketData> liveMarketData)
+	public void addData(List<BetfairMarketData> liveMarketData)
 	{	
 		//Make a new object for the closed market list every time data is added
 		recentlyClosedMarkets = new ArrayList<String>();
@@ -147,13 +147,13 @@ public class DataIO
 		lastReceivedTime = liveMarketData.get(0).getReceivedTime();
 		
 		//Filter out the market data we want from what we receive (all market data)
-		List<BetFairMarketData> trackedMarketData = getTrackedMarketData(liveMarketData);
+		List<BetfairMarketData> trackedMarketData = getTrackedMarketData(liveMarketData);
 		
 		//Only store data if not in test mode
 		if(!testMode)
 			storeAsJson(trackedMarketData);
 
-		BetFairMarketData currentBook;
+		BetfairMarketData currentBook;
 
 		//Assert that we filtered correctly and we initially got the expected number of results.
 		assert liveMarketData.size() == manager.getAllMarketIds().size();
@@ -212,6 +212,7 @@ public class DataIO
 				}			
 			}
 		}
+		System.out.println("Add interation " + counter + " completed!");
 		counter++;
 	}
 	
@@ -232,7 +233,7 @@ public class DataIO
 	/**
 	 * Save the recorded data to a set of files.
 	 */
-	private void saveData(MarketDataContainer closedMarketData)
+	private void saveData(BetfairMarketDataContainer closedMarketData)
 	{
 		//Regex for removing characters than can't go into file names
 		String fileNameRegex = "[^\\p{Alnum}]+";
@@ -263,7 +264,7 @@ public class DataIO
 			outputWriter.close();
 			
 			//For each runner, write their data to a file.
-			for(MarketRunnerDataContainer runner: closedMarketData.getAllRunnerData())
+			for(BetfairMarketRunnerDataContainer runner: closedMarketData.getAllRunnerData())
 			{	
 				String fileName = runner.getName().replaceAll(fileNameRegex, "_");
 				outputWriter = new BufferedWriter(new FileWriter(closedMarketDir.getPath() + separator
@@ -361,7 +362,7 @@ public class DataIO
 	 * Store the financial activity for all active markets
 	 * @param allMarkets MarketData objects representing active markets
 	 */
-	public void storeCatalogueActivity(List<BetFairMarketData> allMarkets)
+	public void storeCatalogueActivity(List<BetfairMarketData> allMarkets)
 	{
 		//Grab the list of all markets
 		List<String> marketIds = manager.getAllMarketIds();
@@ -371,7 +372,7 @@ public class DataIO
 		catalogueInformationBuilder.append("TIMESTAMP: " + LocalDateTime.ofInstant(Instant.ofEpochMilli(lastReceivedTime), ZoneId.systemDefault()) + "\n");
 
 		//For all markets
-		for (BetFairMarketData bookItem : allMarkets)
+		for (BetfairMarketData bookItem : allMarkets)
 		{
 			//Loop through the set of all ids
 			for (int i = 0; i < marketIds.size(); i++)
@@ -415,22 +416,24 @@ public class DataIO
 	 * @param runners The list of runners for the market that currentMarketDataContainer holds data for
 	 * @param currentMarketDataContainer Collection of data for the runner
 	 */
-	private void gatherData(List<Runner> runners, MarketDataContainer currentMarketDataContainer)
+	private void gatherData(List<Runner> runners, BetfairMarketDataContainer currentMarketDataContainer)
 	{
 		if(!testMode)
 		{
-			//Store the raw odds data
+			//Store the raw odds data, only needed if logs are produced
 			storeAllGameData(runners, currentMarketDataContainer.getAllMarketDataContainer());
 			//Store each runners data, and get probabilities
-			storeSelectiveRunnerData(runners, currentMarketDataContainer);
 		}
+		//Selective runner data always needs stored since that is what this outputs on recentdata calls
+		storeSelectiveRunnerData(runners, currentMarketDataContainer);
+		
 	}
 
 	/**
 	 * @param runners list of the runners for the market container (contain new unstored data)
 	 * @param currentMarketDataContainer The data container which has older data for the given runners
 	 */
-	private void storeSelectiveRunnerData(List<Runner> runners, MarketDataContainer currentMarketDataContainer)
+	private void storeSelectiveRunnerData(List<Runner> runners, BetfairMarketDataContainer currentMarketDataContainer)
 	{
 		//For each runner, get the list for that runner and add data to it
 		for(Runner marketRunner : runners)
@@ -438,7 +441,7 @@ public class DataIO
 			//Resolve the runners id to its actual name
 			String runnerName = manager.getRunnerName(marketRunner.getSelectionId());
 			//Get the data container for the single runner
-			MarketRunnerDataContainer marketRunnerContainer = currentMarketDataContainer.getContainerForRunner(runnerName);
+			BetfairMarketRunnerDataContainer marketRunnerContainer = currentMarketDataContainer.getContainerForRunner(runnerName);
 			//Add the new data to the existing container
 			storeRunnerData(marketRunner, marketRunnerContainer);
 		}
@@ -449,7 +452,7 @@ public class DataIO
 	 * @param trackedRunner Data container for the runner that will be added to runnerDataContainer
 	 * @param runnerDataContainer Data container that has older data for the runner
 	 */
-	private void storeRunnerData(Runner trackedRunner, MarketRunnerDataContainer runnerDataContainer)
+	private void storeRunnerData(Runner trackedRunner, BetfairMarketRunnerDataContainer runnerDataContainer)
 	{
 		double workingBack = Double.MIN_VALUE;
 		double workingLay = Double.MAX_VALUE;
@@ -488,25 +491,25 @@ public class DataIO
 	 * @return List of BetFairMarket items for each tracked market containing 1 index of data for each
 	 * runner inside them with probabilities and timestamps
 	 */
-	public List<BetFairMarketItem> getRecentData()
+	public List<BetfairMarketItem> getRecentData()
 	{
 		//Collection for all markets data
-		List<BetFairMarketItem> marketInformation = new ArrayList<BetFairMarketItem>();
+		List<BetfairMarketItem> marketInformation = new ArrayList<BetfairMarketItem>();
 		
 		//Go through each markets container
-		for(MarketDataContainer marketData : storedMarketData)
+		for(BetfairMarketDataContainer marketData : storedMarketData)
 		{
 			//Make new objects for the markets
-			BetFairMarketItem marketItem = new BetFairMarketItem(marketData.getMarketName());
-			List<MarketRunnerDataContainer> runnerData = marketData.getAllRunnerData();
+			BetfairMarketItem marketItem = new BetfairMarketItem(marketData.getMarketName());
+			List<BetfairMarketRunnerDataContainer> runnerData = marketData.getAllRunnerData();
 			
 			//Grab all recent runner data (just added)
-			for(MarketRunnerDataContainer runnerDataContainer : runnerData)
+			for(BetfairMarketRunnerDataContainer runnerDataContainer : runnerData)
 			{
 				String timeStamp = runnerDataContainer.getMostRecentTimeStamp();
 				String probability = runnerDataContainer.getMostRecentProbability();
 				String runnerName = runnerDataContainer.getName();
-				marketItem.addRunnerProbability(new BetFairProbabilityItem(Long.valueOf(timeStamp), runnerName, Double.valueOf(probability)));
+				marketItem.addRunnerProbability(new BetfairProbabilityItem(Long.valueOf(timeStamp), runnerName, Double.valueOf(probability)));
 			}
 			marketInformation.add(marketItem);
 		}

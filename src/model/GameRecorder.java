@@ -32,7 +32,7 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		observers = new ArrayList<Observer>();
 		betFair = options.getBetFair();
-		List<BetFairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());	
+		List<BetfairMarketObject> allMarketsForGame = betFair.getMarketsForGame(options.getEventId());	
 		manager = new DataManager(options, allMarketsForGame);
 		io = new DataIO(manager, false);
 		//Init all io so collections are initilized with data
@@ -48,11 +48,11 @@ public class GameRecorder extends TimerTask implements Observable
 		//Extracted first because it's at the front of the test file, but depends on allMarketsForGame
 		//to be init
 		//All calls to betfair for data are replaced with calls to testFile for data.
+		tester = testFile;
 		ProgramOptions options = tester.getOptions();
 		testMode = true;
 		observers = new ArrayList<Observer>();
-		tester = testFile;
-		List<BetFairMarketObject> allMarketsForGame = tester.getMarketList();
+		List<BetfairMarketObject> allMarketsForGame = tester.getMarketList();
 		manager = new DataManager(options, allMarketsForGame);
 		io = new DataIO(manager, true);
 		
@@ -81,7 +81,7 @@ public class GameRecorder extends TimerTask implements Observable
 	 * returns their concatenated results.
 	 * @return Results from requests for all market ids
 	 */
-	private List<BetFairMarketData> getAllGamesMarketData()
+	private List<BetfairMarketData> getAllGamesMarketData()
 	{
 		List<String> allIds = manager.getAllMarketIds();
 
@@ -120,7 +120,7 @@ public class GameRecorder extends TimerTask implements Observable
 			}
 			splitQueryMarketIds.add(temporaryIds);
 
-			List<BetFairMarketData> allDataContainer = new ArrayList<BetFairMarketData>();
+			List<BetfairMarketData> allDataContainer = new ArrayList<BetfairMarketData>();
 			
 			//Execute the queries
 			for(int i = 0; i < splitQueryMarketIds.size(); i++)
@@ -163,7 +163,7 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		//Flow of exeuction is pass new data to get, get probabilities from io + closed markets, check if over then notify
 		io.addData(tester.getNextData());
-		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
+		List<BetfairMarketItem> mostRecentData = io.getRecentData(); 
 		List<String> closedMarketList = io.getRecentlyClosedMarkets();
 		checkForShutDown();
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	
@@ -178,10 +178,10 @@ public class GameRecorder extends TimerTask implements Observable
 	{
 		//Flow of exeuction is get new data, pass new data to get, get probabilities from io + closed markets,
 		//store money bet for markets, check if over then notify
-		List<BetFairMarketData> allActiveData = getAllGamesMarketData();
+		List<BetfairMarketData> allActiveData = getAllGamesMarketData();
 		io.addData(allActiveData);
 		io.storeCatalogueActivity(allActiveData);	
-		List<BetFairMarketItem> mostRecentData = io.getRecentData(); 
+		List<BetfairMarketItem> mostRecentData = io.getRecentData(); 
 		List<String> closedMarketList = io.getRecentlyClosedMarkets();
 		checkForShutDown();
 		EventList gameEvents = new EventList(mostRecentData, closedMarketList, getStartTime());	

@@ -11,23 +11,37 @@ import betfairUtils.JsonConverter;
 
 import com.google.gson.reflect.TypeToken;
 
+/**
+ * This class is used for communication with the test file. It provides methods with appropriate signatures
+ * to retrieve data from the cast, serialise it back to its original objects and return them. This class could be
+ * performed by checking validity of the test file and a more robust method of getting data but it works.
+ * @author Craig
+ *
+ */
 public class TestFile
 {
 	private File jsonFile;
 	private BufferedReader bReader;
 	private TypeToken<ProgramOptions> programOptionsType;
-	private TypeToken<List<BetFairMarketObject>> marketObjectType;
-	private TypeToken<List<BetFairMarketData>> marketDataType;
+	private TypeToken<List<BetfairMarketObject>> marketObjectType;
+	private TypeToken<List<BetfairMarketData>> marketDataType;
 	
+	/**
+	 * 
+	 * @param jsonHistoryFile The file that contains the test data
+	 */
 	public TestFile(File jsonHistoryFile)
 	{
 		jsonFile = jsonHistoryFile;
-		marketDataType = new TypeToken<List<BetFairMarketData>>(){};
-		marketObjectType = new TypeToken<List<BetFairMarketObject>>(){};
+		marketDataType = new TypeToken<List<BetfairMarketData>>(){};
+		marketObjectType = new TypeToken<List<BetfairMarketObject>>(){};
 		programOptionsType = new TypeToken<ProgramOptions>(){};
 		initReader();
 	}
 	
+	/**
+	 * Initialise the BufferedReader for the file the object with constructed with
+	 */
 	private void initReader()
 	{
 		try
@@ -39,7 +53,11 @@ public class TestFile
 			e.printStackTrace();
 		}
 	}
-
+	
+	/**
+	 * 
+	 * @return The ProgramOptions object that was saved with the test file
+	 */
 	public ProgramOptions getOptions()
 	{
 		String json = nextLine();
@@ -55,7 +73,7 @@ public class TestFile
 	 * the final line in the file and it will never go past that. Error checking could be done here but 
 	 * whats called and how many times is decided by its content and the assumption that other parts of the
 	 * program are working correctly.
-	 * @return
+	 * @return The next line of the file
 	 */
 	private String nextLine()
 	{
@@ -71,17 +89,25 @@ public class TestFile
 		return currentLine;
 	}
 	
-	public List<BetFairMarketObject> getMarketList()
+	/**
+	 *
+	 * @return The saved BetfairMarketObject that is in the test file
+	 */
+	public List<BetfairMarketObject> getMarketList()
 	{
 		String json = nextLine();
-		List<BetFairMarketObject> marketObj = JsonConverter.convertFromJson(json, marketObjectType.getType());
+		List<BetfairMarketObject> marketObj = JsonConverter.convertFromJson(json, marketObjectType.getType());
 		return marketObj;
 	}
 	
-	public List<BetFairMarketData> getNextData()
+	/**
+	 * 
+	 * @return Get the next BetfairMarketData object that's stored in the test file
+	 */
+	public List<BetfairMarketData> getNextData()
 	{
 		String json = nextLine();
-		List<BetFairMarketData> marketData = JsonConverter.convertFromJson(json, marketDataType.getType());
+		List<BetfairMarketData> marketData = JsonConverter.convertFromJson(json, marketDataType.getType());
 		return marketData;
 	}
 }

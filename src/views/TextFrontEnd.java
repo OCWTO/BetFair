@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 
-import model.BetFairGameObject;
-import model.BetFairMarketObject;
-import model.BetFairSportObject;
+import model.BetfairGameObject;
+import model.BetfairMarketObject;
+import model.BetfairSportObject;
 import model.DataAnalysis;
 import model.ISimpleBetFair;
 import model.ProgramOptions;
@@ -18,7 +18,8 @@ import exceptions.CryptoException;
 
 /**
  * Text based UI provided to allow users to set up game recordings.
- * 
+ * This is hard coded to use './certs/client-2048.p12' as the certificate file
+ * It performs little to no validity checking on the input so it can crash if mistakes are made.
  * @author Craig Thomson
  *
  */
@@ -30,7 +31,7 @@ public class TextFrontEnd
 
 	/**
 	 * 
-	 * @param debug 
+	 * @param debug if true then json requests are printed to console as well as replies
 	 */
 	public TextFrontEnd(boolean debug)
 	{
@@ -90,12 +91,11 @@ public class TextFrontEnd
 	 */
 	private List<String> marketPrompt(String gameId)
 	{
-		//TODO add support for selecting all markets
 		String inputLine;
 		String[] inputTokens;
-		List<BetFairMarketObject> gameMarkets = betFair
+		List<BetfairMarketObject> gameMarkets = betFair
 				.getMarketsForGame(gameId);
-		BetFairMarketObject selectedMarket;
+		BetfairMarketObject selectedMarket;
 		Set<String> selectedMarkets = new HashSet<String>();
 
 		System.out.println("MARKETS");
@@ -147,8 +147,8 @@ public class TextFrontEnd
 	{
 		String inputLine;
 		String[] inputTokens;
-		List<BetFairGameObject> gameList = betFair.getGameListForSport(sportId);
-		BetFairGameObject selectedGame;
+		List<BetfairGameObject> gameList = betFair.getGameListForSport(sportId);
+		BetfairGameObject selectedGame;
 
 		//Fairly readable output for the games available
 		System.out.println("GAME LIST");
@@ -198,7 +198,6 @@ public class TextFrontEnd
 				String response;
 				try
 				{
-					//TODO replace this with a string token
 					response = betFair.login(inputTokens[0], inputTokens[1],
 							inputTokens[2], new File("./certs/client-2048.p12"));
 					if (response.equalsIgnoreCase("success"))
@@ -229,11 +228,11 @@ public class TextFrontEnd
 	 * 
 	 * @return
 	 */
-	private BetFairSportObject sportPrompt()
+	private BetfairSportObject sportPrompt()
 	{
 		String inputLine;
 		String[] inputTokens;
-		List<BetFairSportObject> results = betFair.getSupportedSportList();
+		List<BetfairSportObject> results = betFair.getSupportedSportList();
 
 		System.out.println("SPORT LIST\nNUM\tNAME\t\tID");
 
@@ -253,8 +252,7 @@ public class TextFrontEnd
 			if (inputTokens[0].equalsIgnoreCase("SELECT")
 					&& inputTokens.length == 2)
 			{
-				// TODO add boundary checking
-				BetFairSportObject selectedSportObject = results.get(Integer
+				BetfairSportObject selectedSportObject = results.get(Integer
 						.parseInt(inputTokens[1]));
 				System.out.println("Selected sport: "
 						+ selectedSportObject.getName());

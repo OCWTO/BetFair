@@ -9,14 +9,19 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
-import model.BetFairMarketObject;
+import model.BetfairMarketObject;
 import model.ProgramOptions;
 import controllers.MarketSelectController;
 
+/**
+ * This class is used to display the available markets for selection with the given options
+ * @author Craig
+ *
+ */
 public class MarketSelectView extends BetFairView
 {
 	private static final String frameTitle = "BetFair Market select";
-	private List<BetFairMarketObject> availableMarkets;
+	private List<BetfairMarketObject> availableMarkets;
 	private JTable marketListTable;
 	private JButton defaultMarketSelect;
 	

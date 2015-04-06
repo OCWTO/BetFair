@@ -1,7 +1,5 @@
 package model;
 
-import java.io.File;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Date;
@@ -27,9 +25,11 @@ public class DataAnalysis implements Observer, Observable
 	private boolean started;
 	private Timer recorderTimer = new Timer();
 	private int iterationCount = 1;
+	private List<PredictionModel> justClosed;
 	
 	public DataAnalysis(ProgramOptions options)
 	{
+		justClosed = new ArrayList<PredictionModel>();
 		started = false;
 		observers = new ArrayList<Observer>();
 		recorder = new GameRecorder(options);
@@ -70,10 +70,10 @@ public class DataAnalysis implements Observer, Observable
 	 * Initialise the list of prediction models, which exist for each tracked market.
 	 * @param marketProbabilities An initial list of market probabilities
 	 */
-	private void initPredictionModel(List<BetFairMarketItem> marketProbabilities)	//TODO works as intended
+	private void initPredictionModel(List<BetfairMarketItem> marketProbabilities)	//TODO works as intended
 	{
 		//For each market we have
-		for(BetFairMarketItem marketProb : marketProbabilities)
+		for(BetfairMarketItem marketProb : marketProbabilities)
 		{
 			//Create prediction model for the market
 			PredictionModel marketModel = new PredictionModel(marketProb.getMarketName(), gameStartTime);
@@ -99,11 +99,11 @@ public class DataAnalysis implements Observer, Observable
 		EventList events = (EventList) obj;
 		
 		//Grab the raw probability data from it
-		List<BetFairMarketItem> marketProbabilities = events.getProbabilites();
+		List<BetfairMarketItem> marketProbabilities = events.getProbabilites();
 		
 		
 		//get the match odds probability
-		BetFairMarketItem matchOddsProbs = getMarketProbabilities("Match Odds", marketProbabilities);
+		BetfairMarketItem matchOddsProbs = getMarketProbabilities("Match Odds", marketProbabilities);
 		
 		//System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
 		//Store the game start time (used later to tell prediction models when the game starts.
@@ -244,10 +244,10 @@ public class DataAnalysis implements Observer, Observable
 		return null;
 	}
 	
-	private BetFairMarketItem getMarketProbabilities(String marketName,
-			List<BetFairMarketItem> marketProbabilities)
+	private BetfairMarketItem getMarketProbabilities(String marketName,
+			List<BetfairMarketItem> marketProbabilities)
 	{
-		for(BetFairMarketItem marketProbability : marketProbabilities)
+		for(BetfairMarketItem marketProbability : marketProbabilities)
 		{
 			if(marketProbability.getMarketName().equals(marketName))
 			{
@@ -259,8 +259,21 @@ public class DataAnalysis implements Observer, Observable
 
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
-		
-		
+		justClosed = new ArrayList<PredictionModel>();
+		//For each prediction model
+		for(String closedMarket: closedMarkets)
+		{
+			for(int i = 0; i < predictionModel.size(); i++)
+			{
+				if(predictionModel.get(i).getMarketName().equals(closedMarket))
+				{
+					predictionModel.get(i).close();
+					justClosed.add(predictionModel.get(i));
+					predictionModel.remove(i);
+					i--;
+				}
+			}
+		}
 		
 		//System.out.println(closedMarkets == null);
 		for(String closedMarketId: closedMarkets)
@@ -288,6 +301,11 @@ public class DataAnalysis implements Observer, Observable
 	{
 		List<String> predictedEvents = new ArrayList<String>();
 		
+		for(PredictionModel justClosedPredictors : justClosed)
+		{
+			predictedEvents.addAll(justClosedPredictors.getPreds());
+		}
+		
 		//Go through each markets model and poll for data
 		for(PredictionModel marketPredictionModel : predictionModel)
 		{
@@ -300,7 +318,11 @@ public class DataAnalysis implements Observer, Observable
 				System.out.println("EVENT PREDICTED " + event);
 			}
 		}
-		//System.out.println("Trying to predict events");
+		justClosed.clear();
+		
+		
+		//HERE WE NEED TO FEED INTO ANOTHER METHOD TO CONVERT CLOSED MARKET EVENTS TO ACTUAL EVENTS
+		
 		return predictedEvents;
 	}
 	
@@ -308,7 +330,7 @@ public class DataAnalysis implements Observer, Observable
 	 * Adds data to existing predictor objects
 	 * @param marketProbabilities List of market probabilities to be given to predictors
 	 */
-	private void addDataToPredictors(List<BetFairMarketItem> marketProbabilities)
+	private void addDataToPredictors(List<BetfairMarketItem> marketProbabilities)
 	{
 		//If this is the first iterator then we initilise them.
 		if(!started)
@@ -323,7 +345,7 @@ public class DataAnalysis implements Observer, Observable
 	}
 
 	
-	private void addToExistingPredictionModel(List<BetFairMarketItem> marketProbabilities)
+	private void addToExistingPredictionModel(List<BetfairMarketItem> marketProbabilities)
 	{
 		//System.out.println("Its trying to add to the predictor model.");
 

@@ -4,25 +4,26 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-import betFairGSONClasses.EventTypeResult;
-import betFairGSONClasses.LoginResponse;
-import betFairGSONClasses.MarketBook;
-import betFairGSONClasses.MarketCatalogue;
-import betFairGSONClasses.MarketFilter;
+import betfairGSONClasses.EventTypeResult;
+import betfairGSONClasses.LoginResponse;
+import betfairGSONClasses.MarketBook;
+import betfairGSONClasses.MarketCatalogue;
+import betfairGSONClasses.MarketFilter;
 import betfairUtils.EventTypeResultComparator;
 import betfairUtils.MarketCatalogueEventNameComparator;
 import betfairUtils.MarketCatalogueEventOpenDateComparator;
 import exceptions.CryptoException;
 
 /**
- * This class communicates with the BetFairCore API, takes the output and it sorts, parses
- * and then returns it's results in an easy to read String format.
+ * This class communicates with the BetFairCore class, takes the output and it sorts, parses
+ * and then returns it's results in an easy to read String format. It was used for recording games
+ * before a GUI was made.
  * @author Craig Thomson
  *
  */
 public class SimpleBetFair implements ISimpleBetFair
 {
-	private BetFairCore betFair;
+	private BetfairCore betFair;
 
 	/**
 	 * 
@@ -31,7 +32,7 @@ public class SimpleBetFair implements ISimpleBetFair
 	 */
 	public SimpleBetFair(boolean debug)
 	{
-		betFair = new BetFairCore(debug);
+		betFair = new BetfairCore(debug);
 	}
 
 	/**
@@ -56,17 +57,17 @@ public class SimpleBetFair implements ISimpleBetFair
 	 * @return List of Strings where each index represents a sport that BetFair supports betting on.
 	 * The returned String is of the format {sportname,BetFair} sport id. 
 	 */
-	public List<BetFairSportObject> getSupportedSportList()
+	public List<BetfairSportObject> getSupportedSportList()
 	{
 		List<EventTypeResult> sportList = betFair
 				.listEventTypes(new MarketFilter());
 		sportList.sort(new EventTypeResultComparator());
 
-		List<BetFairSportObject> formattedSportList = new ArrayList<BetFairSportObject>();
+		List<BetfairSportObject> formattedSportList = new ArrayList<BetfairSportObject>();
 
 		for (int i = 0; i < sportList.size(); i++)
 		{
-			formattedSportList.add(new BetFairSportObject(sportList.get(i).getEventType().getName(),
+			formattedSportList.add(new BetfairSportObject(sportList.get(i).getEventType().getName(),
 					sportList.get(i).getEventType().getId()));
 		}
 
@@ -80,16 +81,16 @@ public class SimpleBetFair implements ISimpleBetFair
 	 * @return A list of strings representing the games returned. The returned strings are in the
 	 * format of {gamename, gameid}
 	 */
-	public List<BetFairGameObject> getGameListForSport(String id)
+	public List<BetfairGameObject> getGameListForSport(String id)
 	{
 		List<MarketCatalogue> gameList = betFair.getGames(id);
 		gameList.sort(new MarketCatalogueEventOpenDateComparator());
-		List<BetFairGameObject> formattedGameList = new ArrayList<BetFairGameObject>();
+		List<BetfairGameObject> formattedGameList = new ArrayList<BetfairGameObject>();
 		
 
 		for(int i=0; i < gameList.size();i++)
 		{
-			formattedGameList.add(new BetFairGameObject(gameList.get(i).getEvent()));
+			formattedGameList.add(new BetfairGameObject(gameList.get(i).getEvent()));
 		}
 		return formattedGameList;
 	}
@@ -100,16 +101,16 @@ public class SimpleBetFair implements ISimpleBetFair
 	 * @param gameId The BetFair id for the desired game.
 	 * @return A List of Strings representing the markets available, which you can bet on in the game.
 	 */
-	public List<BetFairMarketObject> getMarketsForGame(String gameId)
+	public List<BetfairMarketObject> getMarketsForGame(String gameId)
 	{
 		List<MarketCatalogue> marketList = betFair.getMarketCatalogue(gameId);
 
 		//TODO can timeout here so check erors in places
 		marketList.sort(new MarketCatalogueEventNameComparator());
-		List<BetFairMarketObject> formattedMarketList = new ArrayList<BetFairMarketObject>();
+		List<BetfairMarketObject> formattedMarketList = new ArrayList<BetfairMarketObject>();
 		for(int i = 0; i < marketList.size(); i++)
 		{
-			formattedMarketList.add(new BetFairMarketObject(marketList.get(i)));
+			formattedMarketList.add(new BetfairMarketObject(marketList.get(i)));
 		}
 
 		return formattedMarketList;
@@ -123,16 +124,16 @@ public class SimpleBetFair implements ISimpleBetFair
 	/**
 	 * @return This classes held instance of the BetFairCore class.
 	 */
-	public BetFairCore getBetFair()
+	public BetfairCore getBetFair()
 	{
 		return this.betFair;
 	}
 
 
 	@Override
-	public List<BetFairGameObject> getGameListForSport(List<String> sportId)
+	public List<BetfairGameObject> getGameListForSport(List<String> sportId)
 	{
-		List<BetFairGameObject> multipleSportGameList = new ArrayList<BetFairGameObject>();
+		List<BetfairGameObject> multipleSportGameList = new ArrayList<BetfairGameObject>();
 		
 		for(String id : sportId)
 		{
@@ -148,14 +149,14 @@ public class SimpleBetFair implements ISimpleBetFair
 	}
 
 	@Override
-	public List<BetFairMarketData> getMarketInformation(List<String> marketIds)
+	public List<BetfairMarketData> getMarketInformation(List<String> marketIds)
 	{
 		List<MarketBook> marketBook = betFair.getMarketBook(marketIds);
-		List<BetFairMarketData> marketInformation = new ArrayList<BetFairMarketData>();
+		List<BetfairMarketData> marketInformation = new ArrayList<BetfairMarketData>();
 		
 		for(MarketBook book: marketBook)
 		{
-			marketInformation.add(new BetFairMarketData(book));
+			marketInformation.add(new BetfairMarketData(book));
 		}
 		return marketInformation;
 	}

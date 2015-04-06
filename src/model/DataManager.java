@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import betFairGSONClasses.RunnerCatalog;
+import betfairGSONClasses.RunnerCatalog;
 
 
 /**
@@ -41,7 +41,7 @@ public class DataManager
 	 * @param options
 	 * @param allMarkets
 	 */
-	public DataManager(ProgramOptions options, List<BetFairMarketObject> allMarkets)
+	public DataManager(ProgramOptions options, List<BetfairMarketObject> allMarkets)
 	{
 		this.options = options;
 		generateGameToMarketMap();
@@ -94,7 +94,7 @@ public class DataManager
 	 * Populate a map of market Ids which map to the market names
 	 * @param gameMarkets
 	 */
-	private void generateMarketIdToNameMap(List<BetFairMarketObject> gameMarkets)
+	private void generateMarketIdToNameMap(List<BetfairMarketObject> gameMarkets)
 	{
 		//Create the map
 		marketIdToNameMap = new HashMap<String, String>();
@@ -107,7 +107,7 @@ public class DataManager
 		findStartTime(gameMarkets);
 		
 		//Populate the map
-		for(BetFairMarketObject marketObj : gameMarkets)
+		for(BetfairMarketObject marketObj : gameMarkets)
 		{
 			marketIdToNameMap.put(marketObj.getMarketId(), marketObj.getName());
 		}
@@ -135,12 +135,12 @@ public class DataManager
 	 * Find the earliest start time of all markets in gameMarkets
 	 * @param gameMarkets A list of BetFairMarketObjects
 	 */
-	private void findStartTime(List<BetFairMarketObject> gameMarkets)
+	private void findStartTime(List<BetfairMarketObject> gameMarkets)
 	{
 		//timeToStart is the time in ms till the market starts
 		timeToStart = Long.MAX_VALUE;
 		
-		for(BetFairMarketObject marketObj: gameMarkets)
+		for(BetfairMarketObject marketObj: gameMarkets)
 		{
 			if(marketObj.getOpenDate().getTime() < timeToStart)
 				timeToStart = marketObj.getOpenDate().getTime();
@@ -194,11 +194,11 @@ public class DataManager
 	/**
 	 * Creates map of runner Ids to their english names
 	 */
-	private void generateRunnerIdToNameMap(List<BetFairMarketObject> gameMarkets)
+	private void generateRunnerIdToNameMap(List<BetfairMarketObject> gameMarkets)
 	{
 		runnerIdToNameMap = new HashMap<Long, String>();
 		
-		for(BetFairMarketObject gameMarket: gameMarkets)
+		for(BetfairMarketObject gameMarket: gameMarkets)
 		{
 			for(RunnerCatalog runner: gameMarket.getRunners())
 			{

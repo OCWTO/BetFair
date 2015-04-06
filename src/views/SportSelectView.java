@@ -10,14 +10,19 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.ListSelectionModel;
 
-import model.BetFairSportObject;
+import model.BetfairSportObject;
 import model.ProgramOptions;
 import controllers.SportSelectController;
 
+/**
+ * This class is used to provide users with the list of available sports that they can observe
+ * @author Craig
+ *
+ */
 public class SportSelectView extends BetFairView
 {
 	private static final String frameTitle = "BetFair Sport Select";
-	private List<BetFairSportObject> availableSports;
+	private List<BetfairSportObject> availableSports;
 	private JTable sportListTable;
 	
 	public SportSelectView(ProgramOptions options)
@@ -59,7 +64,7 @@ public class SportSelectView extends BetFairView
 		JScrollPane tablePane;
 		
 		//Using stream to convert from List of BetFairSportObjects to List of Strings from the getName function
-		List<String> sportNames = availableSports.stream().map(BetFairSportObject::getName).collect(Collectors.toList());
+		List<String> sportNames = availableSports.stream().map(BetfairSportObject::getName).collect(Collectors.toList());
 		String[] columnNames = {"Sport name"};
 		Object[][] rowData = new Object[sportNames.size()][1];
 		
@@ -84,7 +89,6 @@ public class SportSelectView extends BetFairView
 	@Override
 	public ProgramOptions getOptions()
 	{
-		//TODO add code to stop multiple selections
 		if(sportListTable.getSelectedRow() != -1)
 			super.getOptions().setEventTypeId(availableSports.get(sportListTable.getSelectedRow()).getSportId());
 		

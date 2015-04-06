@@ -6,13 +6,13 @@ import static org.junit.Assert.fail;
 import java.io.File;
 import java.lang.reflect.Method;
 
-import model.BetFairCore;
+import model.BetfairCore;
 import model.ProgramOptions;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import betFairGSONClasses.LoginResponse;
+import betfairGSONClasses.LoginResponse;
 import exceptions.BadLoginDetailsException;
 import exceptions.CryptoException;
 
@@ -31,7 +31,7 @@ public class BetFairCoreTest
 	private final String sep = File.separator;
 	private final String filePath = "certs" + sep + "client-2048.p12";
 	private final File certFile = new File(filePath);
-	private BetFairCore betFair;
+	private BetfairCore betFair;
 
 	/**
 	 * Creating a BetFairCore object for tests to use
@@ -39,7 +39,7 @@ public class BetFairCoreTest
 	@Before
 	public void makeObject()
 	{
-		betFair = new BetFairCore(debug);
+		betFair = new BetfairCore(debug);
 	}
 
 	/**

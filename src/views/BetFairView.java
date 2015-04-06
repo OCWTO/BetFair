@@ -16,7 +16,6 @@ import model.ProgramOptions;
  * @author Craig Thomson
  *
  */
-//TODO consider protected vs getters
 public abstract class BetFairView
 {
 	private JFrame guiFrame;
@@ -52,6 +51,10 @@ public abstract class BetFairView
 
 	abstract void setupPanels();
 	
+	/**
+	 * This method is used by controllers to access the selected options once the next button is pressed
+	 * @return The options selected by this view
+	 */
 	public ProgramOptions getOptions()
 	{
 		return viewOptions;

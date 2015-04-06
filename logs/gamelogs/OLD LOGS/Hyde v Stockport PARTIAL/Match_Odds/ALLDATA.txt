@@ -1,0 +1,58 @@
+Hyde v Stockport Match Odds OPEN DATE: 03:00:00
+
+ENTRY: 1
+
+	TIME: 05:08:47
+
+		RUNNER: Hyde
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:7.47)
+
+		RUNNER: Stockport
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:7.47)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:7.47)
+
+ENTRY: 2
+
+	TIME: 05:08:52
+
+		RUNNER: Hyde
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:7.47)
+
+		RUNNER: Stockport
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:7.47)
+
+		RUNNER: The Draw
+
+			BACK: (PRICE:1.03,SIZE:4.32)
+
+			BACK: (PRICE:1.02,SIZE:4.48)
+
+			BACK: (PRICE:1.01,SIZE:7.47)
+

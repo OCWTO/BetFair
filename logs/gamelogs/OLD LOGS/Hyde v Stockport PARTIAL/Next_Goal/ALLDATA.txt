@@ -1,0 +1,34 @@
+Hyde v Stockport Next Goal OPEN DATE: 03:00:00
+
+ENTRY: 1
+
+	TIME: 05:08:47
+
+		RUNNER: Hyde
+
+			LAY: (PRICE:900.0,SIZE:2.92)
+
+		RUNNER: Stockport
+
+			LAY: (PRICE:900.0,SIZE:2.92)
+
+		RUNNER: No Goal
+
+			LAY: (PRICE:900.0,SIZE:2.92)
+
+ENTRY: 2
+
+	TIME: 05:08:52
+
+		RUNNER: Hyde
+
+			LAY: (PRICE:900.0,SIZE:2.92)
+
+		RUNNER: Stockport
+
+			LAY: (PRICE:900.0,SIZE:2.92)
+
+		RUNNER: No Goal
+
+			LAY: (PRICE:900.0,SIZE:2.92)
+

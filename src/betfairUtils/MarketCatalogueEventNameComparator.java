@@ -2,7 +2,7 @@ package betfairUtils;
 
 import java.util.Comparator;
 
-import betFairGSONClasses.MarketCatalogue;
+import betfairGSONClasses.MarketCatalogue;
 
 /**
  * This class is used to sort MarketCatalogue objects by Event name

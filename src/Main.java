@@ -1,8 +1,10 @@
 
 import java.io.File;
 
+import views.LoginView;
 import views.TextFrontEnd;
 import model.DataAnalysis;
+import model.ProgramOptions;
 import model.TestFile;
 
 /**
@@ -12,31 +14,29 @@ import model.TestFile;
  */
 public class Main
 {
-
-	//TODO check that theres a v in the name, to filter out league wide markets I don't care about.
-	//print out names are in home vs away, not too relevant but maybe display it in gui
+	//Start method 1. This starts the GUI.
 	public static void main(String[] args)
 	{
-		//TextFrontEnd textUi = new TextFrontEnd(false);
-		//textUi.start();
-		
-		
-		TestFile x = new TestFile(new File("./logs/gamelogs/Netherlands v Spain/rawjson.txt"));
-		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Italy v England\\rawjson.txt"));
-		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Portugal v Serbia\\rawjson.txt"));
-		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\Kazakhstan v Iceland FULL\\rawjson.txt"));
-		//TestFile x = new TestFile(new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\logs\\gamelogs\\England v Lithuania\\rawjson.txt"));
-		DataAnalysis x1 = new DataAnalysis(x);
-		x1.start();
-		
-//		ISimpleBetFair x = new SimpleBetFair(true);
-//		
-//		x.login("0ocwto0", "2014Project", "project", new File("C:\\Users\\Craig\\Desktop\\Workspace\\BetFair\\certs\\client-2048.p12"));
-//		x.getSupportedSportList();
-//		x.getGameListForSport("1");
-//		x.getMarketsForGame("27408709");
-//		List<String> xxx = new ArrayList<String>();
-//		xxx.add("1.118007208");
-//		x.getMarketInformation(xxx);
+		LoginView gui = new LoginView(new ProgramOptions());
 	}
+	
+	//Start method 2. This bypasses the GUI and quickly runs the back end on the given test file.
+//	public static void main(String[] args)
+//	{
+//		TestFile x = new TestFile(new File("./logs/gamelogs/Netherlands v Spain/rawjson.txt")); //test file 1 PREDICTS CORRECTLY
+//		//TestFile x = new TestFile(new File("./logs/gamelogs/Italy v England/rawjson.txt")); //test file 2 PREDICTS ONE EXTRA GOAL
+//		//TestFile x = new TestFile(new File("./logs/gamelogs/Chelsea v Stoke/rawjson.txt")); //test file 3  PREDICTS CORRECTLY
+//		//TestFile x = new TestFile(new File("./logs/gamelogs/Netherlands v Turkey/rawjson.txt")); //test file 4 PREDICTS CORRECTLY
+//		//TestFile x = new TestFile(new File("./logs/gamelogs/Everton v Southampton/rawjson.txt")); //test file 5 PREDICTS CORRECTLY
+//		
+//		DataAnalysis x1 = new DataAnalysis(x);
+//		x1.start();
+//	}
+	
+	//Start method 3. This starts the textual back end that's been used for setting up games to record
+//	public static void main(String[] args)
+//	{
+//		TextFrontEnd textUi = new TextFrontEnd(false);
+//		textUi.start();
+//	}
 }

@@ -2,7 +2,7 @@ package betfairUtils;
 
 import java.util.Comparator;
 
-import betFairGSONClasses.EventTypeResult;
+import betfairGSONClasses.EventTypeResult;
 
 /**
  * This class is used for sorting EventTypeResult objects by EventType name.
