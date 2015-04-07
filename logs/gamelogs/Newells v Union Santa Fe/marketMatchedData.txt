@@ -1,0 +1,1221 @@
+TIMESTAMP: 2015-04-07T03:04:23.830
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4958.39, available: 21074.42, TOTAL 26032.809999999998}
+	{Over/Under 2.5 Goals,1.118016432, matched: 6725.1, available: 96560.26, TOTAL 103285.36}
+	{Half Time/Full Time,1.118016433, matched: 259.1, available: 2201.14, TOTAL 2460.24}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6444.29, available: 138694.04, TOTAL 145138.33000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:29.534
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4598.81, available: 21074.42, TOTAL 25673.23}
+	{Over/Under 2.5 Goals,1.118016432, matched: 6677.48, available: 96686.18, TOTAL 103363.65999999999}
+	{Half Time/Full Time,1.118016433, matched: 259.1, available: 2201.14, TOTAL 2460.24}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6430.82, available: 138694.04, TOTAL 145124.86000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:34.775
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4598.81, available: 21074.42, TOTAL 25673.23}
+	{Over/Under 2.5 Goals,1.118016432, matched: 6974.21, available: 96686.18, TOTAL 103660.39}
+	{Half Time/Full Time,1.118016433, matched: 259.1, available: 2201.14, TOTAL 2460.24}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6430.82, available: 138694.04, TOTAL 145124.86000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:37.523
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4561.99, available: 21074.42, TOTAL 25636.409999999996}
+	{Over/Under 2.5 Goals,1.118016432, matched: 7760.76, available: 96686.18, TOTAL 104446.93999999999}
+	{Half Time/Full Time,1.118016433, matched: 259.1, available: 2201.14, TOTAL 2460.24}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6430.82, available: 138694.04, TOTAL 145124.86000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:44.599
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4558.69, available: 21074.42, TOTAL 25633.109999999997}
+	{Over/Under 2.5 Goals,1.118016432, matched: 7027.5, available: 96811.73, TOTAL 103839.23}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6418.81, available: 138694.04, TOTAL 145112.85}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:49.460
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4568.12, available: 21074.42, TOTAL 25642.539999999997}
+	{Over/Under 2.5 Goals,1.118016432, matched: 7495.43, available: 96897.76, TOTAL 104393.19}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6418.81, available: 138694.04, TOTAL 145112.85}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:54.577
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 162.96, available: 2247.19, TOTAL 2410.15}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.01, available: 58827.31, TOTAL 61194.32}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4539.55, available: 21105.99, TOTAL 25645.54}
+	{Over/Under 2.5 Goals,1.118016432, matched: 7872.94, available: 96936.8, TOTAL 104809.74}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6418.81, available: 138694.04, TOTAL 145112.85}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:04:59.739
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1674.34, available: 323.3, TOTAL 1997.6399999999999}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.01, available: 58827.31, TOTAL 61194.32}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4550.31, available: 21105.99, TOTAL 25656.300000000003}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8365.27, available: 97167.15, TOTAL 105532.42}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6418.81, available: 138694.04, TOTAL 145112.85}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:04.873
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.01, available: 58827.31, TOTAL 61194.32}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4556.31, available: 21105.99, TOTAL 25662.300000000003}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8164.52, available: 97287.76, TOTAL 105452.28}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6418.81, available: 138694.04, TOTAL 145112.85}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:09.994
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2366.96, available: 58827.31, TOTAL 61194.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4901.53, available: 21105.99, TOTAL 26007.52}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8605.13, available: 97323.34, TOTAL 105928.47}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6405.33, available: 138694.04, TOTAL 145099.37}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:14.820
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2366.96, available: 58827.31, TOTAL 61194.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4921.74, available: 21105.99, TOTAL 26027.730000000003}
+	{Over/Under 2.5 Goals,1.118016432, matched: 9542.19, available: 97345.94, TOTAL 106888.13}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6405.33, available: 138694.04, TOTAL 145099.37}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:19.811
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2366.96, available: 58827.31, TOTAL 61194.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4911.74, available: 21105.99, TOTAL 26017.730000000003}
+	{Over/Under 2.5 Goals,1.118016432, matched: 9500.4, available: 97513.61, TOTAL 107014.01}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6405.33, available: 138694.04, TOTAL 145099.37}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:24.043
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2366.96, available: 58827.31, TOTAL 61194.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4835.34, available: 21105.99, TOTAL 25941.33}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8741.35, available: 97958.4, TOTAL 106699.75}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6405.33, available: 138694.04, TOTAL 145099.37}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:29.839
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2366.96, available: 58827.31, TOTAL 61194.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4898.56, available: 21105.99, TOTAL 26004.550000000003}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8968.09, available: 97958.4, TOTAL 106926.48999999999}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6391.84, available: 138694.04, TOTAL 145085.88}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:34.957
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 158.55, available: 2247.19, TOTAL 2405.7400000000002}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4934.68, available: 21105.99, TOTAL 26040.670000000002}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8943.43, available: 98015.33, TOTAL 106958.76000000001}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6391.84, available: 138694.04, TOTAL 145085.88}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:39.729
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 147.78, available: 2247.19, TOTAL 2394.9700000000003}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4981.9, available: 21105.99, TOTAL 26087.89}
+	{Over/Under 2.5 Goals,1.118016432, matched: 9650.52, available: 98015.33, TOTAL 107665.85}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6390.37, available: 138694.04, TOTAL 145084.41}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:45.001
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 151.27, available: 2247.19, TOTAL 2398.46}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4874.01, available: 21105.99, TOTAL 25980.0}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8371.9, available: 98500.08, TOTAL 106871.98}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6370.14, available: 138694.04, TOTAL 145064.18000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:49.055
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 151.27, available: 2247.19, TOTAL 2398.46}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4927.67, available: 21105.99, TOTAL 26033.660000000003}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8849.81, available: 98500.08, TOTAL 107349.89}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6370.14, available: 138694.04, TOTAL 145064.18000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:54.926
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 152.74, available: 2247.19, TOTAL 2399.9300000000003}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4946.45, available: 21105.99, TOTAL 26052.440000000002}
+	{Over/Under 2.5 Goals,1.118016432, matched: 8706.32, available: 98500.08, TOTAL 107206.4}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6370.14, available: 138694.04, TOTAL 145064.18000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:05:59.924
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 152.74, available: 2247.19, TOTAL 2399.9300000000003}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4946.45, available: 21105.99, TOTAL 26052.440000000002}
+	{Over/Under 2.5 Goals,1.118016432, matched: 9395.63, available: 98595.59, TOTAL 107991.22}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6370.14, available: 138694.04, TOTAL 145064.18000000002}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:04.817
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 1617.48, available: 3.99, TOTAL 1621.47}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 152.74, available: 2247.19, TOTAL 2399.9300000000003}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 4946.45, available: 21105.99, TOTAL 26052.440000000002}
+	{Over/Under 2.5 Goals,1.118016432, matched: 9572.03, available: 98598.53, TOTAL 108170.56}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6312.85, available: 138694.04, TOTAL 145006.89}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:09.282
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 1623.08, available: 425.83, TOTAL 2048.91}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 152.74, available: 2247.19, TOTAL 2399.9300000000003}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 2729.04, available: 21105.99, TOTAL 23835.030000000002}
+	{Over/Under 2.5 Goals,1.118016432, matched: 10526.9, available: 98617.2, TOTAL 109144.09999999999}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6312.85, available: 138694.04, TOTAL 145006.89}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:14.465
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 5.59, available: 425.83, TOTAL 431.41999999999996}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 152.74, available: 2247.19, TOTAL 2399.9300000000003}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 2729.04, available: 21105.99, TOTAL 23835.030000000002}
+	{Over/Under 2.5 Goals,1.118016432, matched: 10282.17, available: 98825.53, TOTAL 109107.7}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6285.5, available: 138694.04, TOTAL 144979.54}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:19.740
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 5.59, available: 425.83, TOTAL 431.41999999999996}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 151.27, available: 2247.19, TOTAL 2398.46}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 2273.09, available: 21105.99, TOTAL 23379.08}
+	{Over/Under 2.5 Goals,1.118016432, matched: 4399.04, available: 98906.5, TOTAL 103305.54}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6285.5, available: 138694.04, TOTAL 144979.54}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:24.744
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 5.59, available: 425.83, TOTAL 431.41999999999996}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 151.27, available: 2247.19, TOTAL 2398.46}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 3167.86, available: 21448.46, TOTAL 24616.32}
+	{Over/Under 2.5 Goals,1.118016432, matched: 4184.23, available: 100315.34, TOTAL 104499.56999999999}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6285.5, available: 138694.04, TOTAL 144979.54}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:29.745
+	{Over/Under 7.5 Goals,1.118016395, matched: 1621.49, available: 9.4, TOTAL 1630.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1528.64, available: 0.0, TOTAL 1528.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 3.24, available: 437.02, TOTAL 440.26}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 557.0, available: 202.88, TOTAL 759.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 151.27, available: 2247.19, TOTAL 2398.46}
+	{Over/Under 3.5 Goals,1.118016419, matched: 2367.96, available: 58827.31, TOTAL 61195.27}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1499.32, available: 16526.85, TOTAL 18026.17}
+	{Total Goals,1.118016421, matched: 374.0, available: 974.59, TOTAL 1348.5900000000001}
+	{Correct Score,1.118016431, matched: 2454.36, available: 21448.46, TOTAL 23902.82}
+	{Over/Under 2.5 Goals,1.118016432, matched: 6002.83, available: 100322.68, TOTAL 106325.51}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.41, TOTAL 340.41}
+	{Match Odds,1.118016435, matched: 6285.5, available: 138694.04, TOTAL 144979.54}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3113.5, available: 15299.04, TOTAL 18412.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2991.83, available: 7727.75, TOTAL 10719.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 752.0, available: 14757.17, TOTAL 15509.17}
+TIMESTAMP: 2015-04-07T03:06:34.755
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 151.27, available: 2247.19, TOTAL 2398.46}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1511.54, available: 59046.98, TOTAL 60558.520000000004}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1448.27, available: 16526.85, TOTAL 17975.12}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 3119.86, available: 21448.46, TOTAL 24568.32}
+	{Over/Under 2.5 Goals,1.118016432, matched: 6175.79, available: 100338.11, TOTAL 106513.9}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:06:40.009
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1511.54, available: 59046.98, TOTAL 60558.520000000004}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1448.27, available: 16526.85, TOTAL 17975.12}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:06:45.262
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1511.54, available: 59046.98, TOTAL 60558.520000000004}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1448.27, available: 16526.85, TOTAL 17975.12}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:06:49.258
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:06:54.846
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:06:59.864
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:05.055
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:09.649
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:14.800
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:20.062
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:24.923
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:29.782
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 2203.45, TOTAL 2203.45}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:34.931
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Union Santa Fe +1,1.118016399, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells +1,1.118016401, matched: 0.0, available: 202.88, TOTAL 202.88}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Both teams to Score?,1.118016415, matched: 2.0, available: 2219.38, TOTAL 2221.38}
+	{DRAW NO BET,1.118016416, matched: 0.0, available: 2413.33, TOTAL 2413.33}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Over/Under 4.5 Goals,1.118016420, matched: 1388.76, available: 16526.85, TOTAL 17915.609999999997}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 240.19, available: 2201.14, TOTAL 2441.33}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 3111.5, available: 15299.04, TOTAL 18410.54}
+	{Over/Under 6.5 Goals,1.118016443, matched: 2989.83, available: 7727.75, TOTAL 10717.58}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 14757.17, TOTAL 14757.17}
+TIMESTAMP: 2015-04-07T03:07:39.347
+	{Over/Under 7.5 Goals,1.118016395, matched: 1619.49, available: 9.4, TOTAL 1628.89}
+	{Over/Under 8.5 Goals,1.118016396, matched: 1526.64, available: 0.0, TOTAL 1526.64}
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 3.99, TOTAL 3.99}
+	{Correct Score 2 Home,1.118016398, matched: 0.0, available: 437.02, TOTAL 437.02}
+	{Double Chance,1.118016400, matched: 0.0, available: 706.48, TOTAL 706.48}
+	{Newells Win to Nil,1.118016403, matched: 0.0, available: 91.29, TOTAL 91.29}
+	{Newells Total Goals,1.118016404, matched: 0.0, available: 150.68, TOTAL 150.68}
+	{Newells Win Both Halves,1.118016412, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Next Goal,1.118016417, matched: 0.0, available: 2247.19, TOTAL 2247.19}
+	{Over/Under 3.5 Goals,1.118016419, matched: 1399.14, available: 59046.98, TOTAL 60446.12}
+	{Total Goals,1.118016421, matched: 0.0, available: 974.59, TOTAL 974.59}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{Half Time/Full Time,1.118016433, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Newells Clean Sheet?,1.118016438, matched: 175.08, available: 308.92, TOTAL 484.0}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Odd or Even,1.118016440, matched: 0.0, available: 410.27, TOTAL 410.27}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Over/Under 5.5 Goals,1.118016442, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Union Santa Fe Total Goals,1.118016444, matched: 0.0, available: 235.05, TOTAL 235.05}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-04-07T03:07:45.228
+	{Correct Score 2 Away,1.118016397, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Correct Score,1.118016431, matched: 1103.84, available: 21448.46, TOTAL 22552.3}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+	{Asian Handicap,1.118016453, matched: 0.0, available: 0.0, TOTAL 0.0}
+TIMESTAMP: 2015-04-07T03:07:49.109
+	{Correct Score,1.118016431, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Over/Under 2.5 Goals,1.118016432, matched: 1410.85, available: 100338.11, TOTAL 101748.96}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+TIMESTAMP: 2015-04-07T03:07:54.970
+	{Over/Under 2.5 Goals,1.118016432, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 138694.04, TOTAL 143214.45}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}
+TIMESTAMP: 2015-04-07T03:07:59.307
+	{First Goal Odds,1.118016434, matched: 10.0, available: 330.68, TOTAL 340.68}
+	{Match Odds,1.118016435, matched: 4520.41, available: 0.0, TOTAL 4520.41}
+	{Hat-trick Scored?,1.118016439, matched: 0.0, available: 0.0, TOTAL 0.0}
+	{Penalty Taken?,1.118016441, matched: 0.0, available: 53.84, TOTAL 53.84}

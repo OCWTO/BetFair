@@ -6,14 +6,14 @@ package enums;
  * @author Craig Thomson
  *
  */
-public enum BetFairMarketStatus
+public enum BetfairMarketStatus
 {
 	CLOSED_MARKET("CLOSED"), INACTIVE_MARKET("INACTIVE"), SUSPENDED_MARKET(
 			"SUSPENDED"), OPEN_MARKET("OPEN");
 
 	private String marketStatus;
 
-	private BetFairMarketStatus(String marketStatus)
+	private BetfairMarketStatus(String marketStatus)
 	{
 		this.marketStatus = marketStatus;
 	}

@@ -5,14 +5,14 @@ package enums;
  * @author Craig Thomson
  *
  */
-public enum BetFairEventTypes
+public enum BetfairEventTypes
 {
 	//Ideally if the program were to be extended then new ids would go here.
 	FOOTBALL_ID("1");
 
 	private String gameEvent;
 
-	private BetFairEventTypes(String gameEvent)
+	private BetfairEventTypes(String gameEvent)
 	{
 		this.gameEvent= gameEvent;
 	}

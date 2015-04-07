@@ -5,7 +5,7 @@ package enums;
  * @author Craig
  *
  */
-public enum BetFairLogin
+public enum BetfairLogin
 {
 	BADLOGINDETAILS("INVALID_USERNAME_OR_PASSWORD"),
 	PENDINGAUTH("PENDING_AUTH"),
@@ -16,7 +16,7 @@ public enum BetFairLogin
 	
 	private String loginReason;
 	
-	private BetFairLogin(String loginReason)
+	private BetfairLogin(String loginReason)
 	{
 		this.loginReason = loginReason;
 	}

@@ -51,8 +51,8 @@ import betfairUtils.JsonrpcRequest;
 import com.google.gson.Gson;
 
 import enums.ApingOperation;
-import enums.BetFairLogin;
-import enums.BetFairParams;
+import enums.BetfairLogin;
+import enums.BetfairParams;
 import enums.MarketProjection;
 import enums.MarketSort;
 import enums.OrderProjection;
@@ -189,7 +189,7 @@ public class BetfairCore implements IBetFairCore
 		} 
 		catch (Throwable e)
 		{
-			if (e.getMessage().equals(BetFairLogin.BADLOGINDETAILS.toString()))
+			if (e.getMessage().equals(BetfairLogin.BADLOGINDETAILS.toString()))
 			{
 				throw new BadLoginDetailsException(e.getMessage());
 			} 
@@ -282,9 +282,9 @@ public class BetfairCore implements IBetFairCore
 		Map<String, Object> parameters = new HashMap<String, Object>();
 		
 		//Populate parameters
-		parameters.put(BetFairParams.FILTER.toString(), filter);
-		parameters.put(BetFairParams.SORT.toString(), MarketSort.FIRST_TO_START);
-		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), null);
+		parameters.put(BetfairParams.FILTER.toString(), filter);
+		parameters.put(BetfairParams.SORT.toString(), MarketSort.FIRST_TO_START);
+		parameters.put(BetfairParams.MARKET_PROJECTION.toString(), null);
 
 		String jsonResultLine = null;
 
@@ -315,8 +315,8 @@ public class BetfairCore implements IBetFairCore
 		Map<String, Object> params = new HashMap<String, Object>();
 		
 		//Populate with the market ids requested and priceprojection for format of received data.
-		params.put(BetFairParams.MARKET_IDS.toString(), marketIds);
-		params.put(BetFairParams.PRICE_PROJECTION.toString(), priceProjection);
+		params.put(BetfairParams.MARKET_IDS.toString(), marketIds);
+		params.put(BetfairParams.PRICE_PROJECTION.toString(), priceProjection);
 		params.put("currencyCode", null);
 
 		String jsonResultLine = null;
@@ -351,10 +351,10 @@ public class BetfairCore implements IBetFairCore
 		Map<String, Object> parameters = new HashMap<String, Object>();
 		
 		//Populate...
-		parameters.put(BetFairParams.FILTER.toString(), filter);
-		parameters.put(BetFairParams.SORT.toString(), sort);
-		parameters.put(BetFairParams.MAX_RESULT.toString(), maxResults);
-		parameters.put(BetFairParams.MARKET_PROJECTION.toString(), marketProjection);
+		parameters.put(BetfairParams.FILTER.toString(), filter);
+		parameters.put(BetfairParams.SORT.toString(), sort);
+		parameters.put(BetfairParams.MAX_RESULT.toString(), maxResults);
+		parameters.put(BetfairParams.MARKET_PROJECTION.toString(), marketProjection);
 
 		String jsonResultLine = null;
 		try

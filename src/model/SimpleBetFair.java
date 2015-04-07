@@ -105,7 +105,6 @@ public class SimpleBetFair implements ISimpleBetFair
 	{
 		List<MarketCatalogue> marketList = betFair.getMarketCatalogue(gameId);
 
-		//TODO can timeout here so check erors in places
 		marketList.sort(new MarketCatalogueEventNameComparator());
 		List<BetfairMarketObject> formattedMarketList = new ArrayList<BetfairMarketObject>();
 		for(int i = 0; i < marketList.size(); i++)

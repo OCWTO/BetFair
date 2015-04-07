@@ -6,7 +6,7 @@ package enums;
  * @author Craig Thomson
  *
  */
-public enum BetFairParams
+public enum BetfairParams
 {
 	SORT("sort"), LOCALE("locale"), MAX_RESULT("maxResults"), MARKET_IDS(
 			"marketIds"), MARKET_PROJECTION("marketProjection"), PRICE_PROJECTION(
@@ -14,7 +14,7 @@ public enum BetFairParams
 
 	private String param;
 
-	private BetFairParams(String param)
+	private BetfairParams(String param)
 	{
 		this.param = param;
 	}

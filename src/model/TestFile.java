@@ -25,7 +25,7 @@ public class TestFile
 	private TypeToken<ProgramOptions> programOptionsType;
 	private TypeToken<List<BetfairMarketObject>> marketObjectType;
 	private TypeToken<List<BetfairMarketData>> marketDataType;
-	
+	private ProgramOptions opts;
 	/**
 	 * 
 	 * @param jsonHistoryFile The file that contains the test data
@@ -60,9 +60,15 @@ public class TestFile
 	 */
 	public ProgramOptions getOptions()
 	{
-		String json = nextLine();
-		ProgramOptions options = JsonConverter.convertFromJson(json, programOptionsType.getType());
-		return options;
+		if(opts == null)
+		{
+			String json = nextLine();
+			ProgramOptions options = JsonConverter.convertFromJson(json, programOptionsType.getType());
+			opts = options;
+			return opts;
+		}
+		else
+			return opts;
 	}
 	
 	/**

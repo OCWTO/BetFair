@@ -16,7 +16,7 @@ import betfairGSONClasses.PriceSize;
 import betfairGSONClasses.Runner;
 import betfairGSONClasses.RunnerCatalog;
 import betfairUtils.JsonConverter;
-import enums.BetFairMarketStatus;
+import enums.BetfairMarketStatus;
 
 /**
  * This class receives live Betfair data and it collects and formats it. Once markets close
@@ -172,7 +172,7 @@ public class DataIO
 					currentBook = trackedMarketData.get(i);
 					
 					//If this markets status is closed
-					if(currentBook.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
+					if(currentBook.getStatus().equals(BetfairMarketStatus.CLOSED_MARKET.toString()))
 					{
 						//Create the base directory if it doesn't exist and this isn't test mode
 						if(!testMode)
@@ -381,7 +381,7 @@ public class DataIO
 				if (bookItem.getMarketId().equals(marketIds.get(i)))
 				{
 					//If a closed market is found. This stops future requests for non 'tracked' (used for predictions) markets
-					if(bookItem.getStatus().equals(BetFairMarketStatus.CLOSED_MARKET.toString()))
+					if(bookItem.getStatus().equals(BetfairMarketStatus.CLOSED_MARKET.toString()))
 					{
 						//Stop tracking the market...
 						manager.stopTrackingMarketId(bookItem.getMarketId());

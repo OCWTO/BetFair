@@ -69,11 +69,6 @@ public class AnalysisView extends BetFairView implements Observer
 		analysis.start(5000);
 	}
 	
-	public static void main(String[] args)
-	{
-		AnalysisView view = new AnalysisView();
-	}
-	
 	public AnalysisView()
 	{
 		super(frameTitle, new ProgramOptions(), null);
@@ -112,7 +107,8 @@ public class AnalysisView extends BetFairView implements Observer
 
 	private void setGameTime(String timeInMins)
 	{
-		gameTimeLabel.setText(timeInMins + " mins");
+		if(timeInMins != null)
+			gameTimeLabel.setText(timeInMins + " mins");
 	}
 	
 	@Override
@@ -273,6 +269,7 @@ public class AnalysisView extends BetFairView implements Observer
 			{
 				setGameTime(update.getGameTime());
 				setLastUpdateTime(update.getLastUpdateTime());
+				System.out.println(update.getRunnerVals().size() + " WHY?");
 				addToGraph(update.getRunnerVals());
 				addPredictions(update.getPredictions());
 			}	
@@ -297,6 +294,24 @@ public class AnalysisView extends BetFairView implements Observer
 			//Time, Prediction,Team
 			predictionTokens = prediction.split(",");
 			model.addRow(predictionTokens);
+			
+			if(predictionTokens[1].equals("GOAL"))
+			{
+				System.out.println("UPDATING SCORE");
+				String teamName = predictionTokens[2];
+				if(homeTeamName.getText().contains(teamName))
+				{
+					int score = Integer.parseInt(homeTeamScore.getText());
+					score++;
+					homeTeamScore.setText(score + "");
+				}
+				else 
+				{
+					int score = Integer.parseInt(awayTeamScore.getText());
+					score++;
+					awayTeamScore.setText(score + "");
+				}
+			}
 		}
 	}
 
@@ -328,18 +343,20 @@ public class AnalysisView extends BetFairView implements Observer
 	private void addToGraph(List<String> graphValues)
 	{
 		List<Series> dataSet = probabilityDataset.getSeries();
-		
-		String[] runnerTokens;
-		for(int i = 0; i < dataSet.size() ; i++)
+		if(dataSet != null)
 		{
-			runnerTokens = graphValues.get(i).split(",");
-			//Timestamp, runner name and probability are passed
-			double probability = Double.valueOf(runnerTokens[2]);
-			
-			XYSeries runnerData = (XYSeries) dataSet.get(i);
-			runnerData.add(graphCounter, probability);
+			String[] runnerTokens;
+			for(int i = 0; i < dataSet.size() ; i++)
+			{
+				runnerTokens = graphValues.get(i).split(",");
+				//Timestamp, runner name and probability are passed
+				double probability = Double.valueOf(runnerTokens[2]);
+				
+				XYSeries runnerData = (XYSeries) dataSet.get(i);
+				runnerData.add(graphCounter, probability);
+			}
+			graphCounter++;
 		}
-		graphCounter++;
 	}
 
 	private void setFavouredTeamName(String favouredTeam)

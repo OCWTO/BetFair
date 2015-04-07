@@ -7,8 +7,7 @@ import java.util.List;
 import java.util.Timer;
 
 import enums.MarketNames;
-//TODO add code so that the all market checker doesnt remove market data for what we're querying for
-//ALSO but it needs to stop tracking markets it finds are closed
+
 /**
  * This class is an intermediary class for data analysis. It receives data from gameRecorder
  * using the Observer pattern and throws that data into PredictionModel objects. It then grabs
@@ -26,9 +25,11 @@ public class DataAnalysis implements Observer, Observable
 	private Timer recorderTimer = new Timer();
 	private int iterationCount = 1;
 	private List<PredictionModel> justClosed;
+	private String eventTypeId;
 	
 	public DataAnalysis(ProgramOptions options)
 	{
+		eventTypeId = options.getEventTypeId();
 		justClosed = new ArrayList<PredictionModel>();
 		started = false;
 		observers = new ArrayList<Observer>();
@@ -44,6 +45,7 @@ public class DataAnalysis implements Observer, Observable
 	 */
 	public DataAnalysis(TestFile testFile)
 	{
+		eventTypeId = testFile.getOptions().getEventTypeId();
 		started = false;
 		observers = new ArrayList<Observer>();
 		recorder = new GameRecorder(testFile);
@@ -70,17 +72,15 @@ public class DataAnalysis implements Observer, Observable
 	 * Initialise the list of prediction models, which exist for each tracked market.
 	 * @param marketProbabilities An initial list of market probabilities
 	 */
-	private void initPredictionModel(List<BetfairMarketItem> marketProbabilities)	//TODO works as intended
+	private void initPredictionModel(List<BetfairMarketItem> marketProbabilities)
 	{
 		//For each market we have
 		for(BetfairMarketItem marketProb : marketProbabilities)
 		{
 			//Create prediction model for the market
-			PredictionModel marketModel = new PredictionModel(marketProb.getMarketName(), gameStartTime);
-			//System.out.println("Making mode for " + marketProb.getMarketName());
+			PredictionModel marketModel = PredictionModelFactory.getModel(marketProb.getMarketName(), gameStartTime, eventTypeId);
 			//add data for the market to the model
-			marketModel.init(marketProb.getProbabilities());
-			//System.out.println("adding for " + marketProb.getMarketName());
+			marketModel.initialize(marketProb.getProbabilities());
 			//Store this predictionmodel
 			predictionModel.add(marketModel);
 		}
@@ -97,29 +97,14 @@ public class DataAnalysis implements Observer, Observable
 	{
 		//Cast the received object to an EventList
 		EventList events = (EventList) obj;
-		
 		//Grab the raw probability data from it
 		List<BetfairMarketItem> marketProbabilities = events.getProbabilites();
-		
-		
 		//get the match odds probability
-		BetfairMarketItem matchOddsProbs = getMarketProbabilities("Match Odds", marketProbabilities);
-		
-		//System.out.println("RECEIVED DATA FOR " + marketProbabilities.size() + " MARKETS");
-		//Store the game start time (used later to tell prediction models when the game starts.
-		
-		
-		//Values pushed are 
-		//Probabilities for the runners in terms of a data set
-		//Last timestamp, which should also go in data set	(accessed from predictor?) 
-//		
+		BetfairMarketItem matchOddsProbs = getMarketProbabilities(MarketNames.MATCH_ODDS.toString(), marketProbabilities);
 
-		
-//			//we push special init object
 		gameStartTime = events.getStartTime();
 
-	
-		
+
 		//Add data to the prediction models
 		addDataToPredictors(marketProbabilities);
 		informClosedPredictors(events.getClosedMarkets());
@@ -128,6 +113,7 @@ public class DataAnalysis implements Observer, Observable
 		
 		ViewUpdate gameUpdate = null;
 		
+		//if the 1st iteration
 		if(iterationCount == 1)
 		{
 			String homeTeam = matchOddsProbs.getProbabilities().get(0).getRunnerName();
@@ -136,82 +122,45 @@ public class DataAnalysis implements Observer, Observable
 			String favouredGoalScorer = "";
 			for(PredictionModel predictor : predictionModel)
 			{
-				if(predictor.getFavouredRunner("Match Odds") != null)
+				if(predictor.getMarketName().equals(MarketNames.MATCH_ODDS.toString()))
 				{
-					favouredTeam = predictor.getFavouredRunner("Match Odds");
+					favouredTeam = predictor.getFavouredRunner();
 				}
-				if(predictor.getFavouredRunner("First GoalScorer") != null)
+				if(predictor.getMarketName().equals(MarketNames.FIRST_GOALSCORER.toString()))
 				{
-					favouredGoalScorer = predictor.getFavouredRunner("First GoalScorer");
-					break;
+					favouredGoalScorer = predictor.getFavouredRunner();
 				}
 				
 			}
-			System.out.println("HOME IS " + homeTeam);
-			System.out.println("AWAY IS " + awayTeam);
-			System.out.println("FAVOURED IS " + favouredTeam);
-			System.out.println("FAVOURED GOAL SCORER IS " + favouredGoalScorer);
-			System.out.println("START TIME IS " + gameStartTime.toString());
-			List<String> recentVals = getModelForMarket("Match Odds").getRecentValues();
+			List<String> recentVals = getModelForMarket(MarketNames.MATCH_ODDS.toString()).getRecentValues();
 			String lastUpdate = getMostRecentTimeStamp();
-			System.out.println("LAST UPDATED " + lastUpdate);
 			if(lastUpdate == null)
 			{
 				lastUpdate = "Not started yet";
 			}
-			for(int i = 0; i < recentVals.size(); i++)
-			{
-				System.out.println(recentVals.get(i));
-			}
-			
+			predictedEvents.add(lastUpdate + "," + "GAME STARTED ," + "");
+			predictedEvents.add(lastUpdate + "," + "FAVOURED GOALSCORER IS ," + favouredGoalScorer);
+
 			gameUpdate = new ViewUpdate(homeTeam, awayTeam, favouredTeam, gameStartTime.toString(), lastUpdate, LocalTime.now().toString(), recentVals, predictedEvents);
-			//make new gameUpdate
-			//public ViewUpdate(String homeTeam, String awayTeam, String favouredTeam, String startTime, String currentGameTime, String lastUpdated, List<String> runnersAndValues)
-			
-				
 		}
 		else
 		{
-			String lastUpdate = getMostRecentTimeStamp();
-//			//String timestamp;
-//			for(int i = 0; i < events.getProbabilites().size(); i++)
-//			{
-//				if(events.getProbabilites().get(i).getMarketName().equals("Match Odds"))
-//				{
-//					BetFairMarketItem marketProbs = events.getProbabilites().get(i);
-//					timestamp = marketProbs.getProbabilities().get(marketProbs.getProbabilities().size()-1).getTimeStamp();
-//				}
-//			}
-			//List<String> predictedEvents = getPredictedEvents();
 			
-			gameUpdate = new ViewUpdate(lastUpdate, LocalTime.now().toString(), getModelForMarket("Match Odds").getRecentValues(), predictedEvents);
-			//	public ViewUpdate(String currentGameTime, String lastUpdated, List<String> runnersAndValues, List<String> predictedEvents)
-			//gameUpdate = new ViewUpdate()
-			//List<String> predictions = events.g
-			//Normally push up values, predictions, game time
+			String lastUpdate = getMostRecentTimeStamp();
+			
+			List<String> probValues = null;
+			
+			if(getModelForMarket(MarketNames.MATCH_ODDS.toString()) != null)
+			{
+				probValues = getModelForMarket(MarketNames.MATCH_ODDS.toString()).getRecentValues();
+			}
+			gameUpdate = new ViewUpdate(lastUpdate, LocalTime.now().toString(), probValues, predictedEvents);
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		//List<String> predictedEvents = getPredictedEvents();
-		//Feed into inference and get out actual
-		
-		
-		
-		
-		//Analyse the events (remove unnecessary ones)
-		
+		//TODO do a little inference
 		if(recorder.isRunning())
 		{
 			recorderTimer.cancel();
 		}
-
 		notifyObservers(gameUpdate);
 		iterationCount++;
 	}
@@ -241,6 +190,13 @@ public class DataAnalysis implements Observer, Observable
 				return predictor;
 			}
 		}
+		for(PredictionModel predictor : justClosed)
+		{
+			if(predictor.getMarketName().equals(name))
+			{
+				return predictor;
+			}
+		}
 		return null;
 	}
 	
@@ -257,43 +213,38 @@ public class DataAnalysis implements Observer, Observable
 		return null;
 	}
 
+	/**
+	 * Notify predictors which markets have closed. Which indicate events
+	 * @param closedMarkets The list of market names that have just closed
+	 */
 	private void informClosedPredictors(List<String> closedMarkets)
 	{
+		//Half Time,1428168018002 IN THE IND 0
 		justClosed = new ArrayList<PredictionModel>();
-		//For each prediction model
+		
+		//For each closed name
 		for(String closedMarket: closedMarkets)
 		{
 			for(int i = 0; i < predictionModel.size(); i++)
 			{
-				if(predictionModel.get(i).getMarketName().equals(closedMarket))
+				//if the prediction model represents the closed market
+				if(predictionModel.get(i).getMarketName().equals(closedMarket.split(",")[0]))
 				{
-					predictionModel.get(i).close();
-					justClosed.add(predictionModel.get(i));
-					predictionModel.remove(i);
+					predictionModel.get(i).closeMarket();
+					justClosed.add(predictionModel.remove(i));
 					i--;
 				}
 			}
 		}
-		
-		//System.out.println(closedMarkets == null);
+		//For each of the closed markets
 		for(String closedMarketId: closedMarkets)
 		{
 			String marketName = closedMarketId.split(",")[0];
 			long closedTime = Long.valueOf(closedMarketId.split(",")[1]);
-			//System.out.println("NAME IS " + marketName);
-			//System.out.println(marketName.e);
 			if(marketName.equals(MarketNames.HALF_TIME.toString()))
 			{
-				PredictionModel.setFirstHalfTimeEnd(closedTime);
+				FootballPredictionModel.setFirstHalfTimeEnd(closedTime);
 			}
-			System.out.println("CLOSED MARKET " + closedMarketId);
-//			for(PredictionModel model : predictionModel)
-//			{
-//				if(model.getMarketName().equals(closedMarketId))
-//				{
-//					model.addData(null);
-//				}
-//			}
 		}
 	}
 	
@@ -301,28 +252,20 @@ public class DataAnalysis implements Observer, Observable
 	{
 		List<String> predictedEvents = new ArrayList<String>();
 		
+		//For all recently closed events, get their predictions/notifications
 		for(PredictionModel justClosedPredictors : justClosed)
 		{
-			predictedEvents.addAll(justClosedPredictors.getPreds());
+			predictedEvents.addAll(justClosedPredictors.getPredictions());
 		}
 		
 		//Go through each markets model and poll for data
 		for(PredictionModel marketPredictionModel : predictionModel)
 		{
-			predictedEvents.addAll(marketPredictionModel.getPreds());
+			predictedEvents.addAll(marketPredictionModel.getPredictions());
 		}
-		if(predictedEvents.size() > 0)
-		{
-			for(String event : predictedEvents)
-			{
-				System.out.println("EVENT PREDICTED " + event);
-			}
-		}
-		justClosed.clear();
-		
-		
-		//HERE WE NEED TO FEED INTO ANOTHER METHOD TO CONVERT CLOSED MARKET EVENTS TO ACTUAL EVENTS
-		
+
+		//Clear list of closed prediction models, so they are no longer queried
+		//justClosed.clear();
 		return predictedEvents;
 	}
 	
@@ -344,23 +287,21 @@ public class DataAnalysis implements Observer, Observable
 		}
 	}
 
-	
+	/**
+	 * Add the given data to the existing prediction model for the market
+	 * @param marketProbabilities
+	 */
 	private void addToExistingPredictionModel(List<BetfairMarketItem> marketProbabilities)
 	{
-		//System.out.println("Its trying to add to the predictor model.");
-
 		//For each market we're tracking (this can include closed markets)
 		for(int i = 0; i < predictionModel.size(); i++)
 		{
-			//System.out.println("iter through market " + i);
 			//For each market we're getting data for (active)
 			for(int j = 0; j < marketProbabilities.size(); j++)
 			{
 				//If the market names match, give it the relevant data and break (the market is still live)
 				if(marketProbabilities.get(j).getMarketName().equals(predictionModel.get(i).getMarketName()))
 				{
-					//System.out.println("Adding data for " + marketProbabilities.get(j).getMarketName());
-					//System.out.println("Adding data for market " + marketProbabilities.get(j).getMarketName());
 					predictionModel.get(i).addData(marketProbabilities.get(j).getProbabilities());
 					break;
 				}
