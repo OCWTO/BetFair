@@ -71,7 +71,7 @@ public class MarketSelectController extends ViewController
 		else if(e.getActionCommand().equals("back"))
 		{
 			view.closeView();
-			options.setEventId("");
+			options.setEventId(null);
 			BetFairView analysisView = new GameSelectView(options);
 		}
 	}

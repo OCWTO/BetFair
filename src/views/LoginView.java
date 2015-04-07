@@ -13,7 +13,7 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
 import model.ProgramOptions;
-import model.SimpleBetFair;
+import model.SimpleBetfair;
 import controllers.LoginController;
 
 /**
@@ -143,7 +143,7 @@ public class LoginView extends BetFairView
 		ProgramOptions currentOptions = new ProgramOptions();
 		currentOptions.setDebugMode(debugCheckBox.isSelected());
 		currentOptions.setTestMode(testmodeCheckBox.isSelected());
-		currentOptions.addBetFair(new SimpleBetFair(currentOptions.getDebugMode()));
+		currentOptions.addBetFair(new SimpleBetfair(currentOptions.getDebugMode()));
 		currentOptions.setUserDetails(usernameEntry.getText(), new String(passwordEntry.getPassword()), new String(filePasswordEntry.getPassword()));
 		currentOptions.setCertificateFile(new File(fileLocation.getText()));
 		return currentOptions;

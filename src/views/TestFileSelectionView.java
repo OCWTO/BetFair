@@ -45,6 +45,9 @@ public class TestFileSelectionView extends BetFairView
 	
 		JButton nextButton = new JButton("next");
 		nextButton.addActionListener(viewListener);
+		JButton backButton = new JButton("back");
+		backButton.addActionListener(viewListener);
+		optionsPanel.add(backButton);
 		optionsPanel.add(nextButton);
 		
 		mainContainer.add(optionsPanel);

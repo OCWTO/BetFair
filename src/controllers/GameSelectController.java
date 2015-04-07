@@ -48,7 +48,7 @@ public class GameSelectController extends ViewController
 		else if(e.getActionCommand().equals("back"))
 		{
 			view.closeView();
-			options.setEventTypeId("");
+			options.setEventId(null);
 			BetFairView nextView = new SportSelectView(options);
 		}
 	}

@@ -13,7 +13,7 @@ import model.BetfairSportObject;
 import model.DataAnalysis;
 import model.ISimpleBetFair;
 import model.ProgramOptions;
-import model.SimpleBetFair;
+import model.SimpleBetfair;
 import exceptions.CryptoException;
 
 /**
@@ -35,7 +35,7 @@ public class TextFrontEnd
 	 */
 	public TextFrontEnd(boolean debug)
 	{
-		betFair = new SimpleBetFair(debug);
+		betFair = new SimpleBetfair(debug);
 		userInput = new Scanner(System.in);
 	}
 

@@ -21,7 +21,7 @@ import exceptions.CryptoException;
  * @author Craig Thomson
  *
  */
-public class SimpleBetFair implements ISimpleBetFair
+public class SimpleBetfair implements ISimpleBetFair
 {
 	private BetfairCore betFair;
 
@@ -30,7 +30,7 @@ public class SimpleBetFair implements ISimpleBetFair
 	 * @param debug If true is passed in then the requests from the BetFairCore API are output
 	 * in their raw JSON format.
 	 */
-	public SimpleBetFair(boolean debug)
+	public SimpleBetfair(boolean debug)
 	{
 		betFair = new BetfairCore(debug);
 	}

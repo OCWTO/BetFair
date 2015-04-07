@@ -10,7 +10,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 import model.ISimpleBetFair;
 import model.ProgramOptions;
-import model.SimpleBetFair;
+import model.SimpleBetfair;
 import views.BetFairView;
 import views.LoginView;
 import views.SportSelectView;
@@ -35,7 +35,7 @@ public class LoginController extends ViewController
 	public LoginController(BetFairView view)
 	{
 		super(null, view);
-		betFair = new SimpleBetFair(false);
+		betFair = new SimpleBetfair(false);
 	}
 
 	public void actionPerformed(ActionEvent e)
@@ -83,26 +83,33 @@ public class LoginController extends ViewController
 		}
 		else
 		{
-			try
+			if(options.getCertificateFile().exists())
 			{
-				betFair.setDebug(options.getDebugMode());
-				String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword(), options.getCertificateFile());
-	
-				//If successful log in
-				if(response.equalsIgnoreCase("success"))
-				{	
-					view.closeView();
-					BetFairView nextView = new SportSelectView(options);
+				try
+				{
+					betFair.setDebug(options.getDebugMode());
+					String response = betFair.login(options.getUsername(), options.getPassword(), options.getFilePassword(), options.getCertificateFile());
+		
+					//If successful log in
+					if(response.equalsIgnoreCase("success"))
+					{	
+						view.closeView();
+						BetFairView nextView = new SportSelectView(options);
+					}
+				} 
+				//Anything other than success should throw an run time exception which is caught below.
+				catch (CryptoException badCertPasswordException)
+				{
+					JOptionPane.showMessageDialog(view.getFrame(), badCertPasswordException.getMessage());
 				}
-			} 
-			//Anything other than success should throw an run time exception which is caught below.
-			catch (CryptoException badCertPasswordException)
-			{
-				JOptionPane.showMessageDialog(view.getFrame(), badCertPasswordException.getMessage());
+				catch(BadLoginDetailsException badDetailsException)
+				{
+					JOptionPane.showMessageDialog(view.getFrame(), badDetailsException.getMessage());
+				}
 			}
-			catch(BadLoginDetailsException badDetailsException)
+			else
 			{
-				JOptionPane.showMessageDialog(view.getFrame(), badDetailsException.getMessage());
+				JOptionPane.showMessageDialog(view.getFrame(), "Certificate file not found at location");
 			}
 		}
 	}
