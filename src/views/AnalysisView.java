@@ -269,7 +269,6 @@ public class AnalysisView extends BetFairView implements Observer
 			{
 				setGameTime(update.getGameTime());
 				setLastUpdateTime(update.getLastUpdateTime());
-				System.out.println(update.getRunnerVals().size() + " WHY?");
 				addToGraph(update.getRunnerVals());
 				addPredictions(update.getPredictions());
 			}	

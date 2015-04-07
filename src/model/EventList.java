@@ -13,7 +13,6 @@ public class EventList
 {
 	private List<BetfairMarketItem> probabilityData;
 	private List<String> closedMarkets;
-	private List<String> events;
 	private Date startTime;
 	
 	/**
@@ -26,7 +25,6 @@ public class EventList
 	{
 		probabilityData = data;
 		closedMarkets = closedMarketsList;
-		events = new ArrayList<String>();
 		startTime = new Date(marketStartDate);
 	}
 	
